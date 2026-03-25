@@ -13,7 +13,7 @@
 	const columns = [
 		{ key: 'name', label: 'Name' },
 		{ key: 'reraRegNo', label: 'Registration No.' },
-		{ key: 'firmType', label: 'Firm Type' },
+		{ key: 'firmType', label: 'Type' },
 		{ key: 'address', label: 'Address' },
 		{ key: 'validUpto', label: 'Validity' },
 		{
@@ -31,7 +31,7 @@
 		loading = true;
 		error = '';
 		try {
-			const response = await fetch('/api/get-agents');
+			const response = await fetch('/api/mp-rera-agents');
 			const result = await response.json();
 			if (result.success) {
 				agents = result.data;
@@ -50,7 +50,7 @@
 		error = '';
 		scrapeMessage = '';
 		try {
-			const response = await fetch('/api/get-agents?refresh=true');
+			const response = await fetch('/api/mp-rera-agents?refresh=true');
 			const result = await response.json();
 			if (result.success) {
 				agents = result.data;
@@ -91,7 +91,11 @@
 	onMount(fetchAgents);
 </script>
 
-<div class="container mx-auto p-6 space-y-8">
+<svelte:head>
+	<title>MP RERA Agents — RERA Toolkit</title>
+</svelte:head>
+
+<div class="container mx-auto p-6 space-y-6">
 	{#if error}
 		<div class="rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-800 shadow-sm">
 			<div class="flex items-center gap-3">
@@ -123,7 +127,12 @@
 	<div class="flex items-center justify-between">
 		<div>
 			<h1 class="text-2xl font-bold text-gray-900">MP RERA Agents</h1>
-			<p class="text-sm text-gray-500 mt-1">Search and view details of registered agents in Madhya Pradesh</p>
+			<p class="text-sm text-gray-500 mt-1">
+				Search and view details of registered agents in Madhya Pradesh
+				{#if agents.length > 0}
+					<span class="ml-1 font-semibold text-indigo-600">({agents.length} total)</span>
+				{/if}
+			</p>
 		</div>
 		<button
 			on:click={startScraping}
@@ -135,7 +144,7 @@
 					<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
 					<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
 				</svg>
-				Importing...
+				Scraping...
 			{:else}
 				<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
