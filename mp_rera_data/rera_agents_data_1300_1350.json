@@ -1,0 +1,670 @@
+[
+  {
+    "name": "AMIT KHANDELWAL",
+    "address": "F-129, LIG, Behind Christian Eminent School, Indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1902",
+    "validity": "20-08-2024 to 19-08-2029",
+    "details": {
+      "mobile": "9827029291",
+      "email": "amitk_apex@yahoo.co.in",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RAHUL RATHORE",
+    "address": "102, Mahak Palace, Sector -G bhaktawar ram nagar near Ajit Club Tilak Nagar indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1903",
+    "validity": "20-08-2024 to 19-08-2029",
+    "details": {
+      "mobile": "7699011408",
+      "email": "rathore.rahulkgp@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "BALRAM KUMAWAT",
+    "address": "Gram Ringnodiya, Post Solsinda Tehsil Sanwer, Ringnodiya, Dist Indore - 453551",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1904",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": "9826074507",
+      "email": "hariomautomobiles1818@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "LEELADHAR GADWAL",
+    "address": "74/4, Raja Bagh Colony, Indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1905",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": "9753445200",
+      "email": "lalitgadwal1284@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "SUBHEKSHA INFRABULLS PRIVATE LIMITED",
+    "address": "CM 2, 516, SUKHLIYA, INDORE G.P.O., INDORE, INDORE, MADHYA PRADESH, INDIA, 452001",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-24-1906",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "AKASH LASHKARI",
+          "email": "rahulshubhechha3@gmail.com",
+          "mobile": "8871812637",
+          "address": "5/8 KUSHALPURA, UJJAIN, MADHYA PRADESH - 456006",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/7efaad721212277426a5c30e.jpg"
+        },
+        {
+          "name": "JIYALAL RAJAK",
+          "email": "jiyarajak25@gmail.com",
+          "mobile": "8109988334",
+          "address": "77 PRIME CITY, MARUTI SQUARE, INDORE, MADHYA PRADESH - 452010",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/4a711c422217515222dabd8c.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "VANDNA CHOUHAN",
+    "address": "101 RADHIKA KUNJ, 289-A MAHALAXMI NAGAR, INDORE (M.P.) 452010",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1907",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": "9131507560",
+      "email": "c.vandana0206@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "SURENDRA SINGH CHOUHAN",
+    "address": "VILLAGE PANOD, POST PANOD, DISTRICT INDORE, MP-453771",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1908",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": "9993139658",
+      "email": "surendrasingh27154@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "ASM BUILDCON PRIVATE LIMITED",
+    "address": "205, SHAGUN ARCADE, PLOT, NO. 8, PU-4, VIJAY NAGAR, Vijay Nagar, Indore, Indore, Madhya Pradesh, India,\n452010",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-24-1909",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "Preeti",
+          "email": "asmbuildcon205@gmail.com",
+          "mobile": "8878800005",
+          "address": "Sihoniya Murena, Madhya Pradesh, 476554",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/b184e92323313711133954ba.jpg"
+        },
+        {
+          "name": "Suresh Kumar Mahor",
+          "email": "asmbuildcon205@gmail.com",
+          "mobile": "8878800005",
+          "address": "754 Sector A-1, Scheme No., 136, Indore, Madhya Pradesh 452010",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/8e7b25222377111117785826.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "RAHUL MAKWANA",
+    "address": "N 30 SHUBHANGAN  OMAXE CITY 1, INDORE, MADHYA PRADESH - 452001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1910",
+    "validity": "21-08-2024 to 20-08-2029",
+    "details": {
+      "mobile": "7879999486",
+      "email": "info.raahool@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "BHARAT SHARMA",
+    "address": "52,  TDS City, Betma, Sagore Kuti Road, Salampur, Betma, District Indore, M.P. 453001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1911",
+    "validity": "22-08-2024 to 21-08-2029",
+    "details": {
+      "mobile": "8871959877",
+      "email": "ashaindia286@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "ANKIT PANCHAL",
+    "address": "275 Bhatewara Bazar, Hatod, Indore (M.P)-453111",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1912",
+    "validity": "22-08-2024 to 21-12-2029",
+    "details": {
+      "mobile": "8319102949",
+      "email": "panchal21@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "MUKUT PATEL",
+    "address": "N-290 MALWA COUNTY BYPASS ROAD NEAR TOLL PLAZA INDORE M.P. 453771",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1913",
+    "validity": "22-08-2024 to 21-12-2029",
+    "details": {
+      "mobile": "9424643094",
+      "email": "mukutpatel2242@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "BHOMIK AGRAWAL",
+    "address": "Apparment No. 104, Meadows-1, Grande Exotica, Bicholi Mardana, Near Vaishno Mata Mandir, PO, Bicholi Mardana, DIST Indore, Madhya Pradesh 452016",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1914",
+    "validity": "22-08-2024 to 21-12-2029",
+    "details": {
+      "mobile": "8602790274",
+      "email": "bhomikagrawal02@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "CHETAN JAIN",
+    "address": "R-630, MAHALAXMII NAGAR, PIPLIYAKUMAR INDORE, DIST. INDORE",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1915",
+    "validity": "22-08-2024 to 21-08-2029",
+    "details": {
+      "mobile": "9713974044",
+      "email": "chetan.jn27@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "NARESH KUMAR VERMA",
+    "address": "618, OMAXE CITY-1, MAYAKHEDI , KANADIA, INDORE -452016",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1916",
+    "validity": "27-08-2024 to 26-08-2029",
+    "details": {
+      "mobile": "9971716060",
+      "email": "nareshsoni620@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "VIKAS SAHU",
+    "address": "PRAGYA PROPERTIES\n106 MARIMATA NEER MARIMATA SQUARE,BANGANGA MAIN ROAD,INDORE-PIN-452001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1917",
+    "validity": "28-08-2024 to 27-08-2029",
+    "details": {
+      "mobile": "7987107970",
+      "email": "snarenra@yahoo.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "SANTOSH AASEKAR",
+    "address": "D-26, SWASTIK VIHAR COLONY, RAU, INDORE, MP",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1918",
+    "validity": "28-08-2024 to 27-08-2029",
+    "details": {
+      "mobile": "9826021239",
+      "email": "santosh.asekar@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "IRFAN",
+    "address": "HOUSE NO. 3, RANGKARADIYA, RANGKARADIYA, INDORE, MADHYA PRADESH - 453551",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1919",
+    "validity": "28-08-2024 to 27-12-2029",
+    "details": {
+      "mobile": "9131969283",
+      "email": "sonupatel9828@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "AJAY CHAVDA",
+    "address": "400, highway home town, gram badodiya ema, solsinda, sanwer, indore 453551",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1920",
+    "validity": "28-08-2024 to 27-08-2029",
+    "details": {
+      "mobile": "9755120156",
+      "email": "ajaychawda.indore@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RAVIRAJ MAHESHWARI",
+    "address": "Flat no. 701, Orion Star Divya Vihar, Bhawrasia, Indore (M.P.) - 453111",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1921 (New Registration)",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "9981992201",
+      "email": "raviraj.maheshwari@yahoo.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "MOHIT GAUR",
+    "address": "629 shiv city silver nihalpur Mundi indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1922",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "8602114000",
+      "email": "mohitgaurandassociates@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "LUCKY PARIHAR",
+    "address": "269/6 Kila Road, Govind Colony, Indore, Madhya Pradesh",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1923",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "9893851654",
+      "email": "luckyparihar@ymail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "AMRISH MALVIYA",
+    "address": "C-12/B SHIV KRIPA COLONY NAVLAKHA INDORE",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1924",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "9826057026",
+      "email": "amrishmalviya@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "KAPIL KOTHARI",
+    "address": "27, Satguru Paradise, airport road, chota bangarda, Indore (M.P.) - 452005",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1925",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "8602609409",
+      "email": "kapilkothari01@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "AJAY MAROO",
+    "address": "601 SIMRAN PARK 5 PARK ROAD,, INDORE VALLABH NAGAR, MADHYA PRADESH 452003",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1926",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": "9827039533",
+      "email": "ajaymaroo@hotmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "ORO REAL ESTATE PVT.LTD.",
+    "address": "183-184, Shri Ram Building Sch. No. 54, P.U.4, Vijay Nagar, Indore",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-24-1927 (New Registration)",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "Muskan Bhartiya",
+          "email": "oro.indore@gmail.com",
+          "mobile": "7773800000",
+          "address": "2 Meri Gold Empire Metro, Near Shishukunj International School, Bypass, Jhalaria, Indore, Madhya Pradesh 452016",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/71cb12722778587527878baf.jpg"
+        },
+        {
+          "name": "Rakesh Yadav",
+          "email": "oro.indore@gmail.com",
+          "mobile": "9977014000",
+          "address": "1069 Khandwa Road Kanad, Kanad, Datoda, Mhow, Datoda, Indore, Madhya Pradesh 452020",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/76ad5972857177851564ce45.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "M P PROPERTIES",
+    "address": "Flat no. 205, Carnation Block, Royal Amar Greens, Niranjanpur, Indore",
+    "firmType": "Proprietorship Firm",
+    "registrationNumber": "A-IND-24-1928",
+    "validity": "29-08-2024 to 28-08-2029",
+    "details": {
+      "proprietorName": "Smt. Bhawana Gour Applicant Type : Proprietorship Firm Registration Number : A-IND-24-1928 Validity : 29-08-2024 To 28-08-2029 Mobile No. : 7770977999 Email : bhawanaindore@gmail.com Address : Flat no. 205, Carnation Block, Royal Amar Greens, Niranjanpur, Indore Application Status : Approved M P PROPERTIESSmt. Bhawana Gour Proprietorship Firm A-IND-24-1928 29-08-2024 To 28-08-2029 7770977999bhawanaindore@gmail.comFlat no. 205, Carnation Block, Royal Amar Greens, Niranjanpur, IndoreApproved",
+      "mobile": "7770977999",
+      "email": "bhawanaindore@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "MOHIT CHOUHAN",
+    "address": "500/15, MEGHDOOT NAGAR, BEHIND FORTUNE LANDMARK, NANDA NAGAR INDORE",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1929",
+    "validity": "30-08-2024 to 29-08-2029",
+    "details": {
+      "mobile": "8410646464",
+      "email": "koushalamindia@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "GOWAN REAL ESTATE",
+    "address": "MR-5 MAHESHA GARDEN KE SAMNE BADA BANGARDA INDORE MP 453112",
+    "firmType": "Proprietorship Firm",
+    "registrationNumber": "A-IND-24-1930",
+    "validity": "30-08-2024 to 29-08-2029",
+    "details": {
+      "proprietorName": "MUKESH GOWAN Applicant Type : Proprietorship Firm Registration Number : A-IND-24-1930 Validity : 30-08-2024 To 29-08-2029 Mobile No. : 7000252668 Email : gowanrealestate@gmail.com Address : MR-5 MAHESHA GARDEN KE SAMNE BADA BANGARDA INDORE MP 453112 Application Status : Approved GOWAN REAL ESTATEMUKESH GOWAN Proprietorship Firm A-IND-24-1930 30-08-2024 To 29-08-2029 7000252668gowanrealestate@gmail.comMR-5 MAHESHA GARDEN KE SAMNE BADA BANGARDA INDORE MP 453112Approved",
+      "mobile": "7000252668",
+      "email": "gowanrealestate@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "KARAN PATEL",
+    "address": "Flat No. 506 Shanti Kunj Appartment, behind Shivmoti gate, B.J Vihar, Indore(M.P)",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1931",
+    "validity": "30-08-2024 to 29-08-2029",
+    "details": {
+      "mobile": "9826056346",
+      "email": "hs15realty@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "AJAY KUMAR AGRAWAL",
+    "address": "390 , BAJRANG NAGAR , INDORE (M.P.) - 452001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1932",
+    "validity": "30-08-2024 to 29-08-2029",
+    "details": {
+      "mobile": "9993560681",
+      "email": "prateekjain142@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "KAPIL KHANDELWAL",
+    "address": "128,subhash nagar,pardeshipura,infront of nagar nigam zonal office, indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1933",
+    "validity": "04-09-2024 to 03-09-2029",
+    "details": {
+      "mobile": "9827269904",
+      "email": "kapil_khandelwal@yahoo.co.in",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "ROOPESH MAHESHWARI",
+    "address": "2345-E, Sudama Nagar, Near Ranjeet kitchen Restaurant \nIndore -9",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1934",
+    "validity": "04-09-2024 to 03-09-2029",
+    "details": {
+      "mobile": "9424366666",
+      "email": "roopesh99999@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "DURGESH MEWADA",
+    "address": "102-103, baheti heights, E. A. Scheme No. 94 Ring Road, Indore",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1935",
+    "validity": "04-09-2024 to 03-09-2029",
+    "details": {
+      "mobile": "6263908310",
+      "email": "dr9168963@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "GOVIND SINGH BHATI",
+    "address": "D13 VIRASHA HEIGHTS KOLAR ROAD BHOPAL",
+    "firmType": "Individual",
+    "registrationNumber": "A-BPL-24-1936",
+    "validity": "04-09-2024 to 03-09-2029",
+    "details": {
+      "mobile": "9111190001",
+      "email": "gsbhati1982@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "AMAN SINGH TOMAR",
+    "address": "Office no 101, Plot no 22, Scheme no 53, Ratnalok Colony, Near Vijay Nagar Square, Indore, Madhya Pradesh 452010",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1937",
+    "validity": "06-09-2024 to 05-09-2029",
+    "details": {
+      "mobile": "8962506586",
+      "email": "amansinghtomar3@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RAJAT LAHRI",
+    "address": "39 JAI AMBE NAGAR SUKHLIYA INDORE 452010",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1938",
+    "validity": "09-09-2024 to 08-09-2029",
+    "details": {
+      "mobile": "9893939104",
+      "email": "lahrirajat22@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "PKUSHWAHA BIGBUILDCON PRIVATE LIMITED",
+    "address": "305B ABHIMANYU APPARTMENT, SINGAPUR GREENVIEW COLONY, Manglia, Indore, Indore- 453771",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-24-1939",
+    "validity": "09-09-2024 to 08-09-2029",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "PANKAJ KUSHWAHA",
+          "email": "kushwahapankaj3@gmail.com",
+          "mobile": "9753670118",
+          "address": "305B ABHIMANYU APPARTMENT, SINGAPUR GREENVIEW COLONY, Manglia, Indore",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/6a9224214317634117a3d06c.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "LAXMAN KATARIA",
+    "address": "71 , AMITESH NAGAR , INDORE , 18-Madhya Pradesh , 91-India , 452001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1940",
+    "validity": "10-09-2024 to 09-09-2029",
+    "details": {
+      "mobile": "9826577889",
+      "email": "laxmankataria12@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "ANURAG KHURANA",
+    "address": "A-48, Suncity Vistara Township, AB Bye Pass Road, Eva World School, Talawali Chanda, Mangliya, PO. Mangliya, DIST Indore, Madhya Pradesh 453771",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1941",
+    "validity": "11-09-2024 to 10-09-2029",
+    "details": {
+      "mobile": "9425112721",
+      "email": "khurana.anurag@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "CHAWDA INFRATECH PRIVATE LIMITED",
+    "address": "159, GRAM PALAKHEDI, POST GANDHI NAGAR, TEHSIL MALHARGANJ, PALAKHEDI, DEPALPUR, INDORE, MADHYA PRADESH 453112",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-24-1942",
+    "validity": "11-09-2024 to 10-09-2029",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "NEPAL SINGH CHAWDA",
+          "email": "ns324291@gmail.com",
+          "mobile": "9770604890",
+          "address": "159, GRAM PALAKHEDI, POST GANDHI NAGAR, TEHSIL MALHARGANJ, INDORE (453112)",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/3aa6277297271793120bc4c0.jpeg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "NILAY PARASHAR",
+    "address": "152 Sky City, near symbiosis university, super corridor, Bada Bangarda square, Indore, Madhya Pradesh",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1943",
+    "validity": "11-09-2024 to 10-09-2029",
+    "details": {
+      "mobile": "9179797277",
+      "email": "nilay.parashar@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "DEVENDRA KUMAR BHARGAVA",
+    "address": "433,CLERCK COLONY -452003",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1944",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "9584121301",
+      "email": "devbhargav1982@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "VIKAS ARORA",
+    "address": "404 B- Block Shub Labh Residency near \nKhajrana square",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1945",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "8770963037",
+      "email": "vikasarora40@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "SHUBHAM LOKHANDE",
+    "address": "KOSMI BETUL",
+    "firmType": "Individual",
+    "registrationNumber": "A-BTL-24-1946",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "9009092626",
+      "email": "shubhamlokh@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RAGHUVEER UPADHYAY",
+    "address": "HN 529, FIRST FLOOR IBD RAISENA, RAISEN ROAD,PATEL NAGAR, BHOPAL(M.P.)",
+    "firmType": "Individual",
+    "registrationNumber": "A-BPL-24-1947",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "8966944579",
+      "email": "bharatassociate8@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "PIYUSH KUMAR JAIN",
+    "address": "Kesar Bagh Road, 6-B Nemi Nagar Jain Colony Ext., Indore-452009 (M.P.)",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1948",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "9479614498",
+      "email": "piyushmridula123@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RUPESH SULAKHIYA",
+    "address": "INAYATPURA, SALAMPUR, INDORE-MADHYA PRADESH-453001",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1949",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "9907736174",
+      "email": "rusu04101997@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "HAMZA PALWALA",
+    "address": "49 Kadar Colony, Khajrana, Indore (M.P)-452016",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1950",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "9977655655",
+      "email": "hamza.palwala97@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "MEHUL JAIN",
+    "address": "126 Mahavir Srajan Treasure Town Bijalpur Indore MP 452012",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-24-1951",
+    "validity": "12-09-2024 to 11-09-2029",
+    "details": {
+      "mobile": "8305857112",
+      "email": "jainmehul1973@gmail.com",
+      "status": "Approved"
+    }
+  }
+]

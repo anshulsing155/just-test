@@ -1,0 +1,52 @@
+{
+	"name": "just-test",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "npx prisma generate && vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"format": "prettier --write .",
+		"lint": "prettier --check .",
+		"db:generate": "npx prisma generate",
+		"db:push": "npx prisma db push",
+		"db:studio": "npx prisma studio"
+	},
+	"devDependencies": {
+		"@sanity/block-content-to-html": "^2.0.0",
+		"@sveltejs/adapter-auto": "^4.0.0",
+		"@sveltejs/kit": "^2.16.0",
+		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"@tailwindcss/vite": "^4.0.0",
+		"prettier": "^3.4.2",
+		"prettier-plugin-svelte": "^3.3.3",
+		"prettier-plugin-tailwindcss": "^0.6.11",
+		"svelte": "^5.0.0",
+		"svelte-check": "^4.0.0",
+		"tailwindcss": "^4.0.0",
+		"typescript": "^5.0.0",
+		"vite": "^6.0.0"
+	},
+	"dependencies": {
+		"@playwright/test": "^1.50.1",
+		"@prisma/client": "^6.19.2",
+		"axios": "^1.7.9",
+		"cheerio": "^1.0.0",
+		"cors": "^2.8.5",
+		"dotenv": "^17.3.1",
+		"edn-data": "^1.1.2",
+		"edn-js": "^0.0.4",
+		"express": "^4.21.2",
+		"natural": "^8.0.1",
+		"node-fetch": "^3.3.2",
+		"prisma": "^6.19.2",
+		"puppeteer": "^24.2.1",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2",
+		"stopword": "^3.1.4"
+	}
+}

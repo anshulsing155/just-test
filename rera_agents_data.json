@@ -1,0 +1,123 @@
+[
+  {
+    "name": "ANSHUL JAIN",
+    "address": "513, SITA SHREE RESIDENCY, AIRPORT ROAD, ABOVE  HDFC BANK, MOHTA BAGH, INDORE",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2105",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "9131492129",
+      "email": "anshuljain20142207@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "TEENA MALANI",
+    "address": "12, Gulab Park, Mahesh Nagar, Indore, Madhya pradesh 452002",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2106",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "9406629681",
+      "email": "vitthalesh12@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "SEEMA MALANI",
+    "address": "12, Gulab Park Colony, Mahesh Nagar, Indore, Indore, M.P. 452002",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2107",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "9993676673",
+      "email": "seemamalani1508@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "VISHNU",
+    "address": "JALOD KAU, JALOD KEU, INDORE, SEMLIA, CHAU, MADHYA PRADESH - 452016",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2108",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "8120642173",
+      "email": "vishnutanvar056@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "PROPERTYPISTOL REALTY PRIVATE LIMITED",
+    "address": "907, NMS Titanium, Sector 15, CBD Belapur, Navi Mumbai- 400614",
+    "firmType": "Company",
+    "registrationNumber": "A-OTH-25-2109",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "Ashish Narain Agarwal",
+          "email": "ashish.agarwal@propertypistol.com",
+          "mobile": "9930850333",
+          "address": "No. 502/52, Seawoods Estates, Sector- 54, Nerul (West), Navi Mumbai 400706",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/2a002f919581918722e9b242.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "name": "KANCHAN MALANI",
+    "address": "12, Gulab park, mahesh nagar, Indore, Madhya pradesh 452002",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2110",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "9907523521",
+      "email": "kanchanmalaniindore@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "GIRISH MANGWANI",
+    "address": "A-53,COUNTY WALK, GRAM JHALARIYA,INDORE, MADHYA PRADESH 452016",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2111",
+    "validity": "20-02-2025 to 19-02-2030",
+    "details": {
+      "mobile": "9893033309",
+      "email": "g_gcman@hotmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "GEMINI INFRASTRUCTURE PRIVATE LIMITED",
+    "address": "F. NO. 101, SHRI APARTMENT, E51, SAKET NAGAR INDORE Dist.-INDORE",
+    "firmType": "Company",
+    "registrationNumber": "A-IND-25-2112",
+    "validity": "25-02-2025 to 24-02-2030",
+    "details": {
+      "mobile": null,
+      "email": null,
+      "status": "Approved",
+      "partners": [
+        {
+          "name": "Kapil Jaiswal",
+          "email": "171chopda@gmail.com",
+          "mobile": "9111572898",
+          "address": "55, Shankar Baag Colony Indore - 452001",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/1467ca7662883771323c10d5.jpeg"
+        },
+        {
+          "name": "Krati Jain",
+          "email": "171chopda@gmail.com",
+          "mobile": "9111572898",
+          "address": "Flat No. 101, Shree Apartment E51, Saket Nagar Indore 452001",
+          "image": "https://www.rera.mp.gov.in/upload/agent_files/e87dc016367991392774f7ad.jpeg"
+        }
+      ]
+    }
+  }
+]

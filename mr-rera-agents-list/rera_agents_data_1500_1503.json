@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ASHAY GARG",
+    "address": "Marimata Crossing, 83-84, Shankar Baug Colony, Army Head Quarter, Indore, MP",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2102",
+    "validity": "19-02-2025 to 18-02-2030",
+    "details": {
+      "mobile": "7898705124",
+      "email": "ashaybgarg@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "NANDINI MALANI",
+    "address": "12, Gulab Park, Mahesh Nagar, Indore, Indore, M.P. 452002",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2103",
+    "validity": "19-02-2025 to 18-02-2030",
+    "details": {
+      "mobile": "9993312947",
+      "email": "malaninandini@gmail.com",
+      "status": "Approved"
+    }
+  },
+  {
+    "name": "RACHIT SAHU",
+    "address": "66 , MOON PALACE COLONY , BEHIND ANNAPURAN POLICE STATION , INDORE , Madhya Pradesh , 452009",
+    "firmType": "Individual",
+    "registrationNumber": "A-IND-25-2104",
+    "validity": "19-02-2025 to 18-02-2030",
+    "details": {
+      "mobile": "9644144513",
+      "email": "rachitsahu77@gmail.com",
+      "status": "Approved"
+    }
+  }
+]

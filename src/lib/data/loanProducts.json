@@ -1,0 +1,161 @@
+{
+	"products": [
+		{
+			"name": "Business Loan",
+			"shortDescription": "Flexible business loans to scale your enterprise with DigitalDSA",
+			"pageUrl": "https://www.digitaldsa.com/business-loan",
+			"linkTitle": "DigitalDSA Business Loan - Empower Your Growth",
+			"linkDescription": "Access tailored business loans through DigitalDSA to meet your expansion needs.",
+			"applicationUrl": "https://www.digitaldsa.com/business-loan/apply",
+			"options": [
+				{
+					"title": "Eligibility",
+					"description": "Business operational for 2+ years, turnover ₹10 lakhs+, CIBIL 650+.",
+					"keywords": ["eligible", "eligibility", "qualify", "requirements", "business", "turnover"]
+				},
+				{
+					"title": "Interest Rates",
+					"description": "11.5% to 25% p.a., based on CIBIL and financials (e.g., SBI: 11.5% for 800+, RBL: 25% for 650-699).",
+					"keywords": ["interest", "rate", "percentage", "apr", "cibil"]
+				},
+				{
+					"title": "Loan Amount",
+					"description": "₹5,00,000 to ₹50,00,000, based on business needs and repayment capacity.",
+					"keywords": ["amount", "how much", "maximum", "minimum", "limit"]
+				},
+				{
+					"title": "Tenure",
+					"description": "12 to 60 months, aligned with cash flow requirements.",
+					"keywords": ["tenure", "duration", "period", "time", "months"]
+				},
+				{
+					"title": "Documents Required",
+					"description": "Business registration, GST returns, ITR for 2 years, 6 months' bank statements, KYC of proprietors/directors.",
+					"keywords": ["documents", "paperwork", "kyc", "verification", "business"]
+				}
+			],
+			"faq": [
+				{
+					"question": "What's the processing fee for a DigitalDSA Business Loan?",
+					"answer": "1.5% to 4% of the loan amount + GST, depending on the lender (e.g., HDFC: up to 4%, SBI: up to 4%)."
+				},
+				{
+					"question": "Are collateral-free business loans available?",
+					"answer": "Yes, unsecured options through partners like HDFC and ICICI, with higher rates."
+				},
+				{
+					"question": "How long does approval take?",
+					"answer": "Approval within 48 hours with complete documentation."
+				}
+			]
+		},
+		{
+			"name": "Loan Against Property (LAP)",
+			"shortDescription": "Unlock property value with DigitalDSA's LAP offerings",
+			"pageUrl": "https://www.digitaldsa.com/loan-against-property",
+			"linkTitle": "DigitalDSA LAP - Leverage Your Property",
+			"linkDescription": "Get funds against your residential or commercial property with DigitalDSA's LAP solutions.",
+			"applicationUrl": "https://www.digitaldsa.com/loan-against-property/apply",
+			"options": [
+				{
+					"title": "Eligibility",
+					"description": "Ages 21-70, own a residential/commercial property, CIBIL 650+.",
+					"keywords": ["eligible", "eligibility", "qualify", "requirements", "property"]
+				},
+				{
+					"title": "Interest Rates",
+					"description": "9.75% to 17% p.a., based on CIBIL and property value (e.g., Standard Chartered: 9.75% for 800+, Bajaj: 17% for 650-699).",
+					"keywords": ["interest", "rate", "percentage", "apr", "cibil"]
+				},
+				{
+					"title": "Loan Amount",
+					"description": "Up to 60% of property value or ₹50 lakhs, depending on valuation.",
+					"keywords": ["amount", "how much", "maximum", "minimum", "property"]
+				},
+				{
+					"title": "Tenure",
+					"description": "5 to 15 years, based on partner bank policies.",
+					"keywords": ["tenure", "duration", "period", "time", "years"]
+				},
+				{
+					"title": "Documents Required",
+					"description": "ID proof, address proof, property title deeds, income proof, 6 months' bank statements.",
+					"keywords": ["documents", "paperwork", "kyc", "verification", "property"]
+				}
+			],
+			"faq": [
+				{
+					"question": "What properties can I use for a DigitalDSA LAP?",
+					"answer": "Residential and commercial properties accepted (e.g., HDFC, SBI support both; Bajaj only residential)."
+				},
+				{
+					"question": "What's the processing fee for LAP?",
+					"answer": "Up to 1% of the loan amount + GST (e.g., Axis: up to 1%, South Indian: up to 1%)."
+				}
+			]
+		},
+		{
+			"name": "Plot Loan",
+			"shortDescription": "Finance your land purchase with DigitalDSA's plot loans",
+			"pageUrl": "https://www.digitaldsa.com/plot-loan",
+			"linkTitle": "DigitalDSA Plot Loan - Secure Your Land",
+			"linkDescription": "Buy your dream plot with DigitalDSA's affordable financing options.",
+			"applicationUrl": "https://www.digitaldsa.com/plot-loan/apply",
+			"options": [
+				{
+					"title": "Eligibility",
+					"description": "Ages 21-70, minimum income ₹30,000/month, CIBIL 650+.",
+					"keywords": ["eligible", "eligibility", "qualify", "requirements", "income"]
+				},
+				{
+					"title": "Interest Rates",
+					"description": "8.25% to 15% p.a., based on CIBIL (e.g., Shinhan: 8.25% for 800+, Bajaj: 15% for 650-699).",
+					"keywords": ["interest", "rate", "percentage", "apr", "cibil"]
+				},
+				{
+					"title": "Loan Amount",
+					"description": "Up to 70% of plot value or ₹50 lakhs, based on eligibility.",
+					"keywords": ["amount", "how much", "maximum", "minimum", "plot"]
+				},
+				{
+					"title": "Tenure",
+					"description": "5 to 35 years, depending on partner bank (e.g., Bajaj: up to 35 years, HDFC: 15 years).",
+					"keywords": ["tenure", "duration", "period", "time", "years"]
+				},
+				{
+					"title": "Documents Required",
+					"description": "ID proof, address proof, income proof, plot documents, 6 months' bank statements.",
+					"keywords": ["documents", "paperwork", "kyc", "verification", "plot"]
+				}
+			],
+			"faq": [
+				{
+					"question": "Can I get a plot loan for agricultural land?",
+					"answer": "Select partners like SBI and South Indian Bank offer agricultural plot loans with specific conditions."
+				},
+				{
+					"question": "What's the processing fee for plot loans?",
+					"answer": "0.5% to 1% of the loan amount + GST, varying by partner bank."
+				}
+			]
+		}
+	],
+	"generalFaq": [
+		{
+			"question": "What banks does DigitalDSA partner with?",
+			"answer": "We partner with leading banks including HDFC, SBI, ICICI, Axis, Bajaj Finserv, and more for comprehensive loan solutions."
+		},
+		{
+			"question": "How does the application process work?",
+			"answer": "Submit your application online, upload required documents, and receive approval within 48 hours. Our team guides you throughout."
+		},
+		{
+			"question": "What credit score is needed?",
+			"answer": "Most loans require a minimum CIBIL score of 650+. Higher scores (700+) qualify for better interest rates."
+		},
+		{
+			"question": "How long does disbursement take?",
+			"answer": "Post-approval, disbursement typically happens within 24-72 hours, depending on the loan type and bank."
+		}
+	]
+}

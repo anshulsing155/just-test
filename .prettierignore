@@ -1,0 +1,15 @@
+# Package Managers
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build / dependencies
+.svelte-kit/
+node_modules/
+
+# Large scraped datasets / artifacts
+delhi_rera_agents_data*.json
+mp_rera_data/
+mr-rera-agents-list/
+rera_agents_data.json
+debug.png
