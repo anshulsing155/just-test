@@ -13,7 +13,8 @@
 		{ href: '/delhi-rera-promoters', label: 'Delhi Promoters' },
 		{ href: '/mp-rera-agent', label: 'MP Agents' },
 		{ href: '/mp-rera-promoters', label: 'MP Promoters' },
-		{ href: '/punjab-rera-agent', label: 'Punjab' },
+		{ href: '/punjab-rera-agent', label: 'Punjab Agents' },
+		{ href: '/punjab-rera-promoters', label: 'Punjab Promoters' },
 		{ href: '/rajasthan-rera-agent', label: 'Rajasthan' },
 		{ href: '/loans', label: 'Loans' },
 		{ href: '/browse', label: 'Browse' },
@@ -121,7 +122,8 @@
 						<li><a href="/delhi-rera-promoters" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">Delhi Promoters & Projects</a></li>
 						<li><a href="/mp-rera-agent" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">MP Agents</a></li>
 						<li><a href="/mp-rera-promoters" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">MP Promoters & Projects</a></li>
-						<li><a href="/punjab-rera-agent" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">Punjab</a></li>
+						<li><a href="/punjab-rera-agent" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">Punjab Agents</a></li>
+						<li><a href="/punjab-rera-promoters" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">Punjab Promoters & Projects</a></li>
 						<li><a href="/rajasthan-rera-agent" class="text-sm text-slate-600 hover:text-indigo-600 transition-colors">Rajasthan</a></li>
 					</ul>
 				</div>

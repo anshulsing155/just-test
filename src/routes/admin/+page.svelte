@@ -50,7 +50,9 @@
 		{ id: 'mp-agents', label: 'MP Agents', url: '/api/mp-rera-agents?refresh=true', state: 'MP' },
 		{ id: 'mp-promoters', label: 'MP Promoters', url: '/api/mp-rera-promoters?refresh=true', state: 'MP' },
 		{ id: 'mp-projects', label: 'MP Projects', url: '/api/mp-rera-projects?action=scrape-all&refresh=true', state: 'MP' },
-		{ id: 'punjab-agents', label: 'Punjab Agents', url: '/api/punjab-rera-agent?refresh=true', state: 'Punjab' },
+		{ id: 'punjab-agents', label: 'Punjab Agents', url: '/api/punjab-rera-agents?refresh=true', state: 'Punjab' },
+		{ id: 'punjab-promoters', label: 'Punjab Promoters', url: '/api/punjab-rera-promoters?refresh=true', state: 'Punjab' },
+		{ id: 'punjab-projects', label: 'Punjab Projects', url: '/api/punjab-rera-projects?action=scrape-all&refresh=true', state: 'Punjab' },
 		{ id: 'rajasthan-agents', label: 'Rajasthan Agents', url: '/api/rajasthan-rera-agents?refresh=true', state: 'Rajasthan' }
 	];
 
