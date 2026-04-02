@@ -16,6 +16,7 @@
 
 import puppeteer from 'puppeteer';
 import { json } from '@sveltejs/kit';
+import { createWorker } from 'tesseract.js';
 import { ProjectService, CompanyService, ScrapeLogService } from '$lib/server/services/index.js';
 
 const STATE = 'Punjab';
@@ -31,6 +32,34 @@ const PUNJAB_DISTRICTS = [
 	'Shahid Bhagat Singh Nagar', 'Tarn Taran'
 ];
 
+// Numeric option values from #Input_RegdProject_DistrictCode <select>
+const PUNJAB_DISTRICT_CODES = {
+	'Amritsar': '39',
+	'Barnala': '79',
+	'Bathinda': '84',
+	'Chandigarh': '128',
+	'Faridkot': '202',
+	'Fatehgarh Sahib': '204',
+	'Fazilka': '206',
+	'Firozpur': '207',
+	'Gurdaspur': '232',
+	'Hoshiarpur': '248',
+	'Jalandhar': '261',
+	'Kapurthala': '300',
+	'Ludhiana': '366',
+	'Malerkotla': '2024',
+	'Mansa': '386',
+	'Moga': '393',
+	'Muktsar': '399',
+	'Pathankot': '453',
+	'Patiala': '454',
+	'Rupnagar': '501',
+	'Sahibzada Ajit Singh Nagar': '507',
+	'Sangrur': '514',
+	'Shahid Bhagat Singh Nagar': '527',
+	'Tarn Taran': '574'
+};
+
 /**
  * Navigate to project search page, fill form, submit, and extract project rows.
  */
@@ -45,33 +74,65 @@ async function scrapeProjectsForDistrict(page, district = '') {
 
 		await page.waitForSelector('#ProjectPVform', { timeout: 15000 }).catch(() => {});
 
-		// Select district if provided
+		// Select district if provided — use numeric code, not the display name
 		if (district) {
-			try {
-				await page.select('#Input_RegdProject_DistrictCode', district);
-				await new Promise(r => setTimeout(r, 500));
-			} catch {}
+			const districtCode = PUNJAB_DISTRICT_CODES[district];
+			if (districtCode) {
+				try {
+					await page.select('#Input_RegdProject_DistrictCode', districtCode);
+					await new Promise(r => setTimeout(r, 500));
+				} catch {}
+			}
 		}
 
-		// Attempt CAPTCHA — try reading from hidden elements first
-		let captchaSolved = false;
+		// Solve CAPTCHA via canvas-preprocessed OCR
 		try {
-			const captchaText = await page.evaluate(() => {
-				const hidden = document.querySelector('[name*="captcha_value"], [id*="captcha_value"], [name*="CaptchaValue"]');
-				if (hidden) return hidden.value;
-				const img = document.querySelector('img[src*="Cpacha"]');
-				if (img && img.alt && img.alt.length >= 4) return img.alt;
-				return null;
+			await page.waitForFunction(
+				() => { const img = document.querySelector('img.capcha-badge'); return img && img.complete && img.naturalWidth > 0; },
+				{ timeout: 10000 }
+			).catch(() => {});
+
+			const captchaBase64 = await page.evaluate(() => {
+				const img = document.querySelector('img.capcha-badge');
+				if (!img || !img.complete || img.naturalWidth === 0) return null;
+				const SCALE = 4;
+				const src = document.createElement('canvas');
+				src.width = img.naturalWidth; src.height = img.naturalHeight;
+				src.getContext('2d').drawImage(img, 0, 0);
+				const ctx1 = src.getContext('2d');
+				const id = ctx1.getImageData(0, 0, src.width, src.height);
+				const d = id.data;
+				for (let i = 0; i < d.length; i += 4) {
+					const lum = d[i] * 0.299 + d[i + 1] * 0.587 + d[i + 2] * 0.114;
+					const v = lum < 140 ? 0 : 255;
+					d[i] = d[i + 1] = d[i + 2] = v; d[i + 3] = 255;
+				}
+				ctx1.putImageData(id, 0, 0);
+				const out = document.createElement('canvas');
+				out.width = src.width * SCALE; out.height = src.height * SCALE;
+				const ctx2 = out.getContext('2d');
+				ctx2.imageSmoothingEnabled = false;
+				ctx2.drawImage(src, 0, 0, out.width, out.height);
+				return out.toDataURL('image/png').split(',')[1];
 			});
 
-			if (captchaText && captchaText.length >= 6) {
-				await page.type('#Input_RegdProject_CaptchaText', captchaText);
-				captchaSolved = true;
+			if (captchaBase64) {
+				const imgBuffer = Buffer.from(captchaBase64, 'base64');
+				const worker = await createWorker('eng');
+				await worker.setParameters({
+					tessedit_char_whitelist: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz',
+					tessedit_pageseg_mode: '8'
+				});
+				const { data: { text } } = await worker.recognize(imgBuffer);
+				await worker.terminate();
+				const captchaText = text.trim().replace(/\s+/g, '').substring(0, 10);
+				if (captchaText.length >= 4) {
+					await page.type('#Input_RegdProject_CaptchaText', captchaText);
+					console.log(`[Punjab Projects] CAPTCHA OCR result: "${captchaText}"`);
+				}
 			}
-		} catch {}
-
-		if (!captchaSolved) {
-			await page.type('#Input_RegdProject_CaptchaText', '123456');
+		} catch (ocrErr) {
+			console.warn('[Punjab Projects] CAPTCHA OCR failed:', ocrErr.message);
 		}
 
 		// Submit via JavaScript (trigger the AJAX call directly)

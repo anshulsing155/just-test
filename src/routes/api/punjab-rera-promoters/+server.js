@@ -18,6 +18,7 @@
 
 import puppeteer from 'puppeteer';
 import { json } from '@sveltejs/kit';
+import { createWorker } from 'tesseract.js';
 import { CompanyService, ScrapeLogService } from '$lib/server/services/index.js';
 
 const STATE = 'Punjab';
@@ -33,32 +34,109 @@ const PUNJAB_DISTRICTS = [
 	'Shahid Bhagat Singh Nagar', 'Tarn Taran'
 ];
 
+// Numeric option values from #Input_RegdProject_DistrictCode <select>
+const PUNJAB_DISTRICT_CODES = {
+	'Amritsar': '39',
+	'Barnala': '79',
+	'Bathinda': '84',
+	'Chandigarh': '128',
+	'Faridkot': '202',
+	'Fatehgarh Sahib': '204',
+	'Fazilka': '206',
+	'Firozpur': '207',
+	'Gurdaspur': '232',
+	'Hoshiarpur': '248',
+	'Jalandhar': '261',
+	'Kapurthala': '300',
+	'Ludhiana': '366',
+	'Malerkotla': '2024',
+	'Mansa': '386',
+	'Moga': '393',
+	'Muktsar': '399',
+	'Pathankot': '453',
+	'Patiala': '454',
+	'Rupnagar': '501',
+	'Sahibzada Ajit Singh Nagar': '507',
+	'Sangrur': '514',
+	'Shahid Bhagat Singh Nagar': '527',
+	'Tarn Taran': '574'
+};
+
 /**
- * Attempt to read CAPTCHA text by evaluating image pixels or OCR heuristic.
- * Punjab RERA uses simple numeric/text CAPTCHAs.
- * Falls back to a brute-force attempt with common values.
+ * Preprocess the CAPTCHA image in-browser via Canvas (scale 4×, binarize),
+ * then OCR the result with Tesseract.
+ * Returns the recognized text, or null on failure.
+ */
+async function readCaptchaText(page) {
+	// Wait for the CAPTCHA image to fully load
+	await page.waitForFunction(
+		() => { const img = document.querySelector('img.capcha-badge'); return img && img.complete && img.naturalWidth > 0; },
+		{ timeout: 10000 }
+	).catch(() => {});
+
+	const captchaBase64 = await page.evaluate(() => {
+		const img = document.querySelector('img.capcha-badge');
+		if (!img || !img.complete || img.naturalWidth === 0) return null;
+
+		const SCALE = 4;
+		// Step 1: draw original at 1× to read pixels
+		const src = document.createElement('canvas');
+		src.width = img.naturalWidth;
+		src.height = img.naturalHeight;
+		src.getContext('2d').drawImage(img, 0, 0);
+
+		// Step 2: binarize
+		const ctx1 = src.getContext('2d');
+		const id = ctx1.getImageData(0, 0, src.width, src.height);
+		const d = id.data;
+		for (let i = 0; i < d.length; i += 4) {
+			const lum = d[i] * 0.299 + d[i + 1] * 0.587 + d[i + 2] * 0.114;
+			const v = lum < 140 ? 0 : 255;
+			d[i] = d[i + 1] = d[i + 2] = v;
+			d[i + 3] = 255;
+		}
+		ctx1.putImageData(id, 0, 0);
+
+		// Step 3: scale up 4× with no smoothing for crisp edges
+		const out = document.createElement('canvas');
+		out.width = src.width * SCALE;
+		out.height = src.height * SCALE;
+		const ctx2 = out.getContext('2d');
+		ctx2.imageSmoothingEnabled = false;
+		ctx2.drawImage(src, 0, 0, out.width, out.height);
+
+		return out.toDataURL('image/png').split(',')[1];
+	});
+
+	if (!captchaBase64) return null;
+
+	try {
+		const imgBuffer = Buffer.from(captchaBase64, 'base64');
+		const worker = await createWorker('eng');
+		await worker.setParameters({
+			tessedit_char_whitelist: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz',
+			tessedit_pageseg_mode: '8' // single word / short string
+		});
+		const { data: { text } } = await worker.recognize(imgBuffer);
+		await worker.terminate();
+		const cleaned = text.trim().replace(/\s+/g, '').substring(0, 10);
+		return cleaned.length >= 4 ? cleaned : null;
+	} catch (err) {
+		console.warn('[Punjab Promoters] Tesseract failed:', err.message);
+		return null;
+	}
+}
+
+/**
+ * Read CAPTCHA, type it into the input. Returns true if a value was entered.
  */
 async function attemptCaptchaSolve(page, captchaInputSelector) {
-	// Try to read CAPTCHA from canvas or accessible elements
-	try {
-		const captchaText = await page.evaluate(() => {
-			// Some implementations store captcha in accessible element
-			const hiddenCaptcha = document.querySelector('[name*="captcha_value"], [id*="captcha_value"], [name*="CaptchaValue"]');
-			if (hiddenCaptcha) return hiddenCaptcha.value;
-
-			// Try to find it in any data attribute
-			const img = document.querySelector('img[src*="Captcha"], img[src*="Cpacha"]');
-			if (img && img.alt && img.alt.length >= 4) return img.alt;
-
-			return null;
-		});
-
-		if (captchaText && captchaText.length >= 6) {
-			await page.type(captchaInputSelector, captchaText);
-			return true;
-		}
-	} catch {}
-
+	const text = await readCaptchaText(page);
+	if (text) {
+		await page.type(captchaInputSelector, text);
+		console.log(`[Punjab Promoters] CAPTCHA OCR result: "${text}"`);
+		return true;
+	}
 	return false;
 }
 
@@ -79,21 +157,19 @@ async function scrapeProjectsFromPage(page, district = '') {
 		// Wait for form to load
 		await page.waitForSelector('#ProjectPVform', { timeout: 15000 }).catch(() => {});
 
-		// Select district if specified
+		// Select district if specified — use numeric code, not the display name
 		if (district) {
-			try {
-				await page.select('#Input_RegdProject_DistrictCode', district);
-				await new Promise(r => setTimeout(r, 500));
-			} catch {}
+			const districtCode = PUNJAB_DISTRICT_CODES[district];
+			if (districtCode) {
+				try {
+					await page.select('#Input_RegdProject_DistrictCode', districtCode);
+					await new Promise(r => setTimeout(r, 500));
+				} catch {}
+			}
 		}
 
-		// Try to solve CAPTCHA
-		const captchaSolved = await attemptCaptchaSolve(page, '#Input_RegdProject_CaptchaText');
-
-		if (!captchaSolved) {
-			// Type a placeholder — the server may accept or reject
-			await page.type('#Input_RegdProject_CaptchaText', '123456');
-		}
+		// Solve CAPTCHA via OCR
+		await attemptCaptchaSolve(page, '#Input_RegdProject_CaptchaText');
 
 		// Submit the form via JavaScript (bypass client-side validation)
 		const responsePromise = page.waitForResponse(
