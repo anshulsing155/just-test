@@ -18,7 +18,8 @@
 		{ href: '/rajasthan-rera-agent', label: 'Rajasthan' },
 		{ href: '/loans', label: 'Loans' },
 		{ href: '/browse', label: 'Browse' },
-		{ href: '/admin', label: 'Admin' }
+		{ href: '/admin', label: 'Admin' },
+		{ href: '/dashboard', label: 'UP Dashboard' }
 	];
 </script>
 
