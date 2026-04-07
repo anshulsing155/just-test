@@ -1,5 +1,17 @@
 <script>
+	import pincodeData from '$lib/data/pincode_IN_all.json';
+	import companyData from "$lib/data/companies_with_projects_2026-04-06T06-27-43-033Z.json"
+		import projectsData from "$lib/data/projects_UP_only_2026-04-04T12-00-45-596Z.json"
+
+
+	const UP_DISTRICTS = Object.keys(pincodeData['Uttar Pradesh']).sort();
+
 	export let data;
+
+	let result = projectsData.length
+	
+
+	$:console.log(result,"result")
 
 	// ── state ──────────────────────────────────────────────────────────────────
 	let companies = data.companies.map((c) => ({ ...c }));
@@ -17,6 +29,58 @@
 	// save state
 	let saving = false;
 	let saveMsg = '';
+
+	// projects modal state
+	let projectsOpen = false;
+	let projectsTarget = null;
+	let addProjectOpen = false;
+	let newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+
+	// project inline-edit state
+	let editingProjectIdx = null;
+	let editingProject = {};
+	let removeConfirmIdx = null;
+
+	function openProjectEdit(idx, project) {
+		editingProjectIdx = idx;
+		editingProject = { ...project };
+		addProjectOpen = false;
+	}
+
+	function saveProjectEdit() {
+		companies = companies.map((c) =>
+			c._id === projectsTarget._id
+				? { ...c, projects: c.projects.map((p, i) => (i === editingProjectIdx ? { ...editingProject } : p)) }
+				: c
+		);
+		projectsTarget = companies.find((c) => c._id === projectsTarget._id);
+		editingProjectIdx = null;
+		editingProject = {};
+		saveMsg = 'Project updated locally. Click "Save to file" to persist.';
+	}
+
+	function openProjects(company) {
+		projectsTarget = company;
+		projectsOpen = true;
+		addProjectOpen = false;
+		editingProjectIdx = null;
+		editingProject = {};
+		removeConfirmIdx = null;
+		newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+	}
+
+	function addProject() {
+		if (!newProject.name.trim()) return;
+		companies = companies.map((c) =>
+			c._id === projectsTarget._id
+				? { ...c, projects: [...(c.projects ?? []), { ...newProject, _id: Date.now().toString() }] }
+				: c
+		);
+		projectsTarget = companies.find((c) => c._id === projectsTarget._id);
+		newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+		addProjectOpen = false;
+		saveMsg = 'Project added locally. Click "Save to file" to persist.';
+	}
 
 	// ── derived ────────────────────────────────────────────────────────────────
 	$: filtered = companies.filter((c) => {
@@ -104,7 +168,7 @@
 
 <!-- ── PAGE ──────────────────────────────────────────────────────────────────── -->
 <div class="min-h-screen bg-slate-50 py-8">
-	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+	<div class="mx-auto 	 px-4 sm:px-6 lg:px-8">
 
 		<!-- Header -->
 		<div class="mb-6 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
@@ -155,7 +219,7 @@
 		</div>
 
 		<!-- Table -->
-		<div class="overflow-x-auto rounded-2xl bg-white shadow-sm">
+		<div class="rounded-2xl bg-white shadow-sm">
 			{#if page.length === 0}
 				<div class="py-16 text-center text-slate-400">No builders match your search.</div>
 			{:else}
@@ -168,8 +232,7 @@
 							<th class="px-4 py-3 text-left">Type</th>
 							<th class="px-4 py-3 text-left">District</th>
 							<th class="px-4 py-3 text-left">Mobile</th>
-							<th class="px-4 py-3 text-left">Email</th>
-							<th class="px-4 py-3 text-left">Actions</th>
+							<th class="px-4 py-3 text-left">Email</th>						<th class="px-4 py-3 text-left">Projects</th>							<th class="px-4 py-3 text-left">Actions</th>
 						</tr>
 					</thead>
 					<tbody class="divide-y divide-slate-100">
@@ -193,8 +256,15 @@
 								<td class="px-4 py-3 text-slate-600">{company.district ?? '—'}</td>
 								<td class="px-4 py-3 text-slate-600">{company.contact?.mobile ?? '—'}</td>
 								<td class="px-4 py-3 text-slate-600 max-w-[180px] truncate">{company.contact?.email ?? '—'}</td>
-								<td class="px-4 py-3">
-									<div class="flex gap-2">
+								<td class="px-4 py-3">								{#if (company.projects ?? []).length > 0}
+									<span class="inline-flex items-center rounded-full bg-emerald-50 px-2.5 py-0.5 text-xs font-semibold text-emerald-700">
+										{company.projects.length}
+									</span>
+								{:else}
+									<span class="text-slate-300 text-xs">0</span>
+								{/if}
+							</td>
+							<td class="px-4 py-3">									<div class="flex gap-2">
 										<button
 											type="button"
 											on:click={() => openEdit(company)}
@@ -204,8 +274,11 @@
 											type="button"
 											on:click={() => openDelete(company)}
 											class="rounded-lg bg-red-50 px-3 py-1 text-xs font-semibold text-red-600 hover:bg-red-100"
-										>Delete</button>
-									</div>
+										>Delete</button>									<button
+										type="button"
+										on:click={() => openProjects(company)}
+										class="rounded-lg bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700 hover:bg-emerald-100"
+									>Projects</button>									</div>
 								</td>
 							</tr>
 						{/each}
@@ -340,6 +413,219 @@
 				<button type="button" on:click={saveEdit}
 					class="rounded-xl bg-indigo-600 px-5 py-2 text-sm font-semibold text-white hover:bg-indigo-700">
 					Save changes
+				</button>
+			</div>
+
+		</div>
+	</div>
+{/if}
+
+
+<!-- ── PROJECTS MODAL ───────────────────────────────────────────────────────────── -->
+{#if projectsOpen && projectsTarget}
+	<div class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4">
+		<div class="w-full max-w-2xl overflow-hidden rounded-3xl bg-white shadow-2xl">
+
+			<div class="flex items-center justify-between border-b border-slate-100 px-6 py-4">
+				<div>
+					<h2 class="text-lg font-bold text-slate-900">Projects</h2>
+					<p class="mt-0.5 text-xs text-slate-500">{projectsTarget.name}</p>
+				</div>
+				<div class="flex items-center gap-3">
+					<button
+						type="button"
+						on:click={() => (addProjectOpen = true)}
+						class="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700"
+					>+ Add Project</button>
+					<button type="button" on:click={() => { projectsOpen = false; addProjectOpen = false; }} class="text-slate-400 hover:text-slate-700 text-xl font-bold">✕</button>
+				</div>
+			</div>
+
+			<!-- Add Project Form -->
+			{#if addProjectOpen}
+				<div class="border-b border-slate-100 bg-emerald-50 px-6 py-5">
+					<h3 class="mb-3 text-sm font-bold text-slate-800">New Project</h3>
+					<div class="grid gap-3 sm:grid-cols-2">
+						<div>
+							<label class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
+							<input type="text" bind:value={newProject.name}
+								placeholder="e.g. Green Valley Heights"
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
+						</div>
+						<div>
+							<label class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
+							<input type="text" bind:value={newProject.reraRegNo}
+								placeholder="e.g. UPRERAPRJ12345"
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
+						</div>
+						<div>
+							<label class="block text-xs font-semibold text-slate-500 mb-1">District</label>
+							<select bind:value={newProject.district}
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
+								<option value="">Select district…</option>
+								{#each UP_DISTRICTS as district}
+									<option value={district}>{district}</option>
+								{/each}
+							</select>
+						</div>
+						<div>
+							<label class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
+							<select bind:value={newProject.projectType}
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
+								<option value="">Select type…</option>
+								<option value="Residential">Residential</option>
+								<option value="Commercial">Commercial</option>
+								<option value="Villa">Villa</option>
+								<option value="Plot">Plot</option>
+							</select>
+						</div>
+						<div class="sm:col-span-2">
+							<label class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
+							<select bind:value={newProject.constructionStatus}
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
+								<option value="">Select status…</option>
+								<option value="Ready to Move">Ready to Move</option>
+								<option value="Under Construction">Under Construction</option>
+								<option value="Resale">Resale</option>
+							</select>
+						</div>
+					</div>
+					<div class="mt-4 flex justify-end gap-3">
+						<button type="button" on:click={() => (addProjectOpen = false)}
+							class="rounded-xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100">
+							Cancel
+						</button>
+						<button type="button" on:click={addProject} disabled={!newProject.name.trim()}
+							class="rounded-xl bg-emerald-600 px-5 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:opacity-50">
+							Add Project
+						</button>
+					</div>
+				</div>
+			{/if}
+
+			<!-- Projects List -->
+			<div class="max-h-[50vh] overflow-y-auto p-6">
+				{#if (projectsTarget.projects ?? []).length === 0}
+					<div class="py-10 text-center text-slate-400 text-sm">No projects added yet. Click "+ Add Project" to get started.</div>
+				{:else}
+					<div class="divide-y divide-slate-100">
+						{#each projectsTarget.projects as project, idx}
+							<div class="py-3">
+								{#if editingProjectIdx === idx}
+									<!-- Inline edit form -->
+									<div class="rounded-2xl bg-indigo-50 p-4">
+										<div class="grid gap-3 sm:grid-cols-2">
+											<div>
+												<label class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
+												<input type="text" bind:value={editingProject.name}
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+											</div>
+											<div>
+												<label class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
+												<input type="text" bind:value={editingProject.reraRegNo}
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+											</div>
+											<div>
+												<label class="block text-xs font-semibold text-slate-500 mb-1">District</label>
+												<select bind:value={editingProject.district}
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
+													<option value="">Select district…</option>
+													{#each UP_DISTRICTS as d}
+														<option value={d}>{d}</option>
+													{/each}
+												</select>
+											</div>
+											<div>
+												<label class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
+												<select bind:value={editingProject.projectType}
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
+													<option value="">Select type…</option>
+													<option value="Residential">Residential</option>
+													<option value="Commercial">Commercial</option>
+													<option value="Villa">Villa</option>
+													<option value="Plot">Plot</option>
+												</select>
+											</div>
+											<div class="sm:col-span-2">
+												<label class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
+												<select bind:value={editingProject.constructionStatus}
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
+													<option value="">Select status…</option>
+													<option value="Ready to Move">Ready to Move</option>
+													<option value="Under Construction">Under Construction</option>
+													<option value="Resale">Resale</option>
+												</select>
+											</div>
+										</div>
+										<div class="mt-3 flex justify-end gap-2">
+											<button type="button" on:click={() => { editingProjectIdx = null; editingProject = {}; }}
+												class="rounded-xl border border-slate-200 px-3 py-1.5 text-xs font-semibold text-slate-700 hover:bg-slate-100">
+												Cancel
+											</button>
+											<button type="button" on:click={saveProjectEdit} disabled={!editingProject.name?.trim()}
+												class="rounded-xl bg-indigo-600 px-3 py-1.5 text-xs font-semibold text-white hover:bg-indigo-700 disabled:opacity-50">
+												Save
+											</button>
+										</div>
+									</div>
+								{:else}
+									<!-- View row -->
+									<div class="flex items-start justify-between">
+										<div>
+											<p class="text-sm font-semibold text-slate-900">{project.name}</p>
+											<div class="mt-1 flex flex-wrap gap-2 text-xs text-slate-500">
+												{#if project.reraRegNo}<span class="font-mono">{project.reraRegNo}</span>{/if}
+												{#if project.district}<span>· {project.district}</span>{/if}
+												{#if project.projectType}<span class="rounded-full bg-indigo-50 px-2 py-0.5 font-medium text-indigo-700">{project.projectType}</span>{/if}
+												{#if project.constructionStatus}<span class="rounded-full bg-amber-50 px-2 py-0.5 font-medium text-amber-700">{project.constructionStatus}</span>{/if}
+											</div>
+										</div>
+										<div class="ml-4 flex shrink-0 gap-2">
+											<button
+												type="button"
+												on:click={() => { openProjectEdit(idx, project); removeConfirmIdx = null; }}
+												class="rounded-lg bg-indigo-50 px-2 py-1 text-xs font-semibold text-indigo-700 hover:bg-indigo-100"
+											>Edit</button>
+											{#if removeConfirmIdx === idx}
+												<button
+													type="button"
+													on:click={() => {
+														companies = companies.map((c) =>
+															c._id === projectsTarget._id
+																? { ...c, projects: c.projects.filter((_, i) => i !== idx) }
+																: c
+														);
+														projectsTarget = companies.find((c) => c._id === projectsTarget._id);
+														removeConfirmIdx = null;
+														saveMsg = 'Project removed locally. Click "Save to file" to persist.';
+													}}
+													class="rounded-lg bg-red-600 px-2 py-1 text-xs font-semibold text-white hover:bg-red-700"
+												>Confirm?</button>
+												<button
+													type="button"
+													on:click={() => (removeConfirmIdx = null)}
+													class="rounded-lg bg-slate-100 px-2 py-1 text-xs font-semibold text-slate-600 hover:bg-slate-200"
+												>Cancel</button>
+											{:else}
+												<button
+													type="button"
+													on:click={() => { removeConfirmIdx = idx; editingProjectIdx = null; }}
+													class="rounded-lg bg-red-50 px-2 py-1 text-xs font-semibold text-red-600 hover:bg-red-100"
+												>Remove</button>
+											{/if}
+										</div>
+									</div>
+								{/if}
+							</div>
+						{/each}
+					</div>
+				{/if}
+			</div>
+
+			<div class="flex justify-end border-t border-slate-100 px-6 py-4">
+				<button type="button" on:click={() => { projectsOpen = false; addProjectOpen = false; }}
+					class="rounded-xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-50">
+					Close
 				</button>
 			</div>
 

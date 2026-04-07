@@ -4,7 +4,7 @@ import path from 'node:path';
 export function load() {
 	const filePath = path.join(
 		process.cwd(),
-		'companies_filtered_UP_final_2026-04-04T11-49-33-842Z.json'
+		'companies_with_projects_2026-04-06T06-27-43-033Z.json'
 	);
 	const companies = JSON.parse(readFileSync(filePath, 'utf8'));
 	return { companies };
