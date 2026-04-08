@@ -171,6 +171,8 @@ function mapDetailToSchema(detail: any): Record<string, any> {
 		fatherName:       find("Father's Name", 'Father Name', 'Husband Name'),
 		email:            find('E-Mail Address', 'Email Address', 'Email', 'E-Mail'),
 		mobile:           find('Mobile Number', 'Mobile', 'Phone', 'Contact'),
+		area:             find('Area', 'Locality', 'Sector', 'Ward', 'Village', 'Mohalla'),
+		pinCode:          find('Pin Code', 'Pincode', 'Pin No', 'Postal Code'),
 		address:          buildAddr('Permanent Address') || buildAddr('Address'),
 		businessAddress:  buildAddr('Place of Business') || buildAddr('Business Address'),
 		otherStateRegs:   detail.tables?.find((t: any) =>
@@ -351,6 +353,8 @@ export async function GET({ url }) {
 				registrationNo:   mapped.reraRegNo   || basic.registrationNumber,
 				name:             mapped.name         || basic.name,
 				district:         basic.district,
+				area:             mapped.area,
+				pinCode:          mapped.pinCode,
 				firmType:         mapped.firmType,
 				fatherName:       mapped.fatherName,
 				email:            mapped.email,

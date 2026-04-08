@@ -30,6 +30,8 @@ export async function upsertAgents(state, agents) {
 
 		const name = val(agent.name, agent.agentName, agent.promoterName) || '';
 		const district = valOrNull(agent.district);
+		const area = valOrNull(agent.area, agent.locality, agent.sector);
+		const pinCode = valOrNull(agent.pinCode, agent.pincode);
 		const address = valOrNull(agent.address);
 		const mobile = valOrNull(agent.mobile, agent.phone);
 		const email = valOrNull(agent.email);
@@ -48,6 +50,8 @@ export async function upsertAgents(state, agents) {
 			update: {
 				name: name || undefined,
 				district: district || undefined,
+				area: area || undefined,
+				pinCode: pinCode || undefined,
 				address: address || undefined,
 				mobile: mobile || undefined,
 				email: email || undefined,
@@ -66,6 +70,8 @@ export async function upsertAgents(state, agents) {
 				reraRegNo: regNo,
 				name,
 				district,
+				area,
+				pinCode,
 				address,
 				mobile,
 				email,
@@ -124,6 +130,8 @@ export async function getAgentsByState(state, { search = '', skip = 0, take = 10
 			{ name: { contains: search, mode: 'insensitive' } },
 			{ reraRegNo: { contains: search, mode: 'insensitive' } },
 			{ district: { contains: search, mode: 'insensitive' } },
+			{ area: { contains: search, mode: 'insensitive' } },
+			{ pinCode: { contains: search } },
 			{ mobile: { contains: search } },
 			{ address: { contains: search, mode: 'insensitive' } }
 		];

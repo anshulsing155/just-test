@@ -24,6 +24,8 @@ export async function upsertProjects(state, projects, opts = {}) {
 			update: {
 				name: p.projectName || p.name || undefined,
 				district: p.district || undefined,
+				area: p.area || p.locality || p.sector || undefined,
+				pinCode: p.pinCode || p.pincode || undefined,
 				projectType: p.projectType || undefined,
 				location: p.location || p.projectLocation || undefined,
 				constructionStatus: p.constructionStatus || undefined,
@@ -37,6 +39,8 @@ export async function upsertProjects(state, projects, opts = {}) {
 				reraRegNo: regNo,
 				name: p.projectName || p.name || '',
 				district: p.district || null,
+				area: p.area || p.locality || p.sector || null,
+				pinCode: p.pinCode || p.pincode || null,
 				projectType: p.projectType || null,
 				location: p.location || p.projectLocation || null,
 				constructionStatus: p.constructionStatus || null,
@@ -110,7 +114,9 @@ export async function getProjectsByState(state, { search = '', district = '', sk
 		where.OR = [
 			{ name: { contains: search, mode: 'insensitive' } },
 			{ reraRegNo: { contains: search, mode: 'insensitive' } },
-			{ location: { contains: search, mode: 'insensitive' } }
+			{ location: { contains: search, mode: 'insensitive' } },
+			{ area: { contains: search, mode: 'insensitive' } },
+			{ pinCode: { contains: search } }
 		];
 	}
 

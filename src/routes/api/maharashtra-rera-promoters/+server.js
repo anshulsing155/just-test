@@ -303,6 +303,8 @@ function mapDetailToPromoter(rawFields, basic) {
 		promoterName:  find('promoter name', 'name of promoter', 'applicant name', 'developer', 'builder') || basic.promoterName,
 		applicantType: find('type', 'applicant type', 'promoter type', 'category') || 'Promoter',
 		district:      find('district') || basic.district,
+		area:          find('area', 'locality', 'sector', 'ward', 'village') || basic.area,
+		pinCode:       find('pincode', 'pin code', 'postal code', 'pin no') || basic.pincode,
 		address:       find('address', 'permanent address', 'office address'),
 		mobile:        find('mobile', 'phone', 'contact no', 'cell'),
 		email:         find('email', 'e-mail', 'mail id'),
@@ -401,7 +403,8 @@ export async function GET({ url }) {
 					if (detailed.length > 0) {
 						const payload = detailed.map(p => ({
 							promoterName: p.promoterName, applicantType: p.applicantType,
-							district: p.district, address: p.address, mobile: p.mobile,
+							district: p.district, area: p.area, pinCode: p.pinCode,
+							address: p.address, mobile: p.mobile,
 							email: p.email, pan: p.pan, gstin: p.gstin,
 							projectName: p.projectName, projectRegNo: p.projectRegNo, projectDistrict: p.projectDistrict
 						}));

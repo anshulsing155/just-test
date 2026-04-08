@@ -53,7 +53,9 @@
 			(p.address && p.address.toLowerCase().includes(s)) ||
 			(p.legalType && p.legalType.toLowerCase().includes(s)) ||
 			(p.email && p.email.toLowerCase().includes(s)) ||
-			(p.district && p.district.toLowerCase().includes(s))
+			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.includes(s))
 		);
 	});
 
@@ -65,6 +67,8 @@
 			(p.projectName && p.projectName.toLowerCase().includes(s)) ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
 			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.includes(s)) ||
 			(p.name && p.name.toLowerCase().includes(s)) ||
 			(p.reraRegNo && p.reraRegNo.toLowerCase().includes(s)) ||
 			(p.registrationNo && p.registrationNo.toLowerCase().includes(s))
@@ -354,6 +358,8 @@
 			type: getPromoterType(promoter),
 			address: promoter.address || raw.address || '',
 			district: promoter.district || raw.district || '',
+			area: promoter.area || raw.area || '',
+			pinCode: promoter.pinCode || raw.pinCode || '',
 			email: promoter.email || raw.email || '',
 			mobile: promoter.mobile || raw.mobile || '',
 			reraRegNo: promoter.reraRegNo || '',
@@ -580,6 +586,8 @@
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Promoter / Builder Name</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Type</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">District</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Area</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Pin Code</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Contact Details</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Linked Projects</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Actions</th>
@@ -633,7 +641,9 @@
 											<span class="text-slate-400">N/A</span>
 										{/if}
 									</td>
-									<td class="px-4 py-3.5 text-slate-600">{promoter.district || 'N/A'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{promoter.district || '—'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{promoter.area || '—'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{promoter.pinCode || '—'}</td>
 									<td class="px-4 py-3.5">
 										<div class="flex flex-col gap-0.5 text-xs text-slate-600">
 											{#if promoter.mobile}
@@ -718,6 +728,8 @@
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Registration No.</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Promoter / Builder</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">District</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Area</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Pin Code</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Valid Upto</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Actions</th>
 						</tr>
@@ -726,21 +738,21 @@
 						{#if loadingProjects || scrapingAllProjects}
 							{#each Array(5) as _}
 								<tr class="animate-pulse">
-									{#each Array(7) as _}
+									{#each Array(9) as _}
 										<td class="px-4 py-3.5"><div class="h-4 w-3/4 rounded bg-slate-100"></div></td>
 									{/each}
 								</tr>
 							{/each}
 							{#if scrapingAllProjects}
 								<tr>
-									<td colspan="7" class="px-4 py-4 text-center">
+									<td colspan="9" class="px-4 py-4 text-center">
 										<p class="text-sm text-indigo-600 font-medium">Scraping projects across all Punjab districts... This may take several minutes due to CAPTCHA.</p>
 									</td>
 								</tr>
 							{/if}
 						{:else if paginatedData.length === 0}
 							<tr>
-								<td colspan="7" class="px-4 py-16 text-center">
+								<td colspan="9" class="px-4 py-16 text-center">
 									<div class="flex flex-col items-center gap-3">
 										<svg class="h-12 w-12 text-slate-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 											<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
@@ -769,6 +781,8 @@
 									</td>
 									<td class="px-4 py-3.5 text-slate-600">{project.promoterName || (project.companyLinks && project.companyLinks[0]?.company?.name) || 'N/A'}</td>
 									<td class="px-4 py-3.5 text-slate-600">{project.district || selectedDistrict}</td>
+									<td class="px-4 py-3.5 text-slate-600">{project.area || '—'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{project.pinCode || '—'}</td>
 									<td class="px-4 py-3.5 text-slate-600">{project.validUpto || project.validUntil || 'N/A'}</td>
 									<td class="px-4 py-3.5">
 										{#if project.projectID || project.rawData?.rawProjectID}
@@ -861,6 +875,18 @@
 							<div>
 								<p class="text-xs font-medium text-slate-400 uppercase">District</p>
 								<p class="mt-0.5 text-sm text-slate-700">{promoterDetails.district}</p>
+							</div>
+						{/if}
+						{#if promoterDetails.area}
+							<div>
+								<p class="text-xs font-medium text-slate-400 uppercase">Area</p>
+								<p class="mt-0.5 text-sm text-slate-700">{promoterDetails.area}</p>
+							</div>
+						{/if}
+						{#if promoterDetails.pinCode}
+							<div>
+								<p class="text-xs font-medium text-slate-400 uppercase">Pin Code</p>
+								<p class="mt-0.5 text-sm text-slate-700">{promoterDetails.pinCode}</p>
 							</div>
 						{/if}
 						{#if promoterDetails.reraRegNo}

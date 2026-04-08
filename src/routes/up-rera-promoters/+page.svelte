@@ -36,7 +36,9 @@
 			(p.address && p.address.toLowerCase().includes(s)) ||
 			(p.legalType && p.legalType.toLowerCase().includes(s)) ||
 			(p.email && p.email.toLowerCase().includes(s)) ||
-			(p.contactPerson && p.contactPerson.toLowerCase().includes(s))
+			(p.contactPerson && p.contactPerson.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.toLowerCase().includes(s))
 		);
 	});
 
@@ -46,7 +48,10 @@
 		return (
 			(p.projectName && p.projectName.toLowerCase().includes(s)) ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
-			(p.projectRegNo && p.projectRegNo.toLowerCase().includes(s))
+			(p.projectRegNo && p.projectRegNo.toLowerCase().includes(s)) ||
+			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.toLowerCase().includes(s))
 		);
 	});
 
@@ -512,6 +517,8 @@
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap"
 								>District</th
 							>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Area</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Pin Code</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap"
 								>Type</th
 							>
@@ -524,7 +531,7 @@
 						{#if loadingProjects}
 							{#each Array(5) as _}
 								<tr class="animate-pulse">
-									{#each Array(8) as _}
+									{#each Array(9) as _}
 										<td class="px-4 py-3.5"
 											><div class="h-4 w-3/4 rounded bg-slate-100"></div></td
 										>
@@ -533,7 +540,7 @@
 							{/each}
 						{:else if !selectedDistrict}
 							<tr>
-								<td colspan="7" class="px-4 py-16 text-center">
+								<td colspan="9" class="px-4 py-16 text-center">
 									<div class="flex flex-col items-center gap-3">
 										<svg
 											class="h-12 w-12 text-slate-300"
@@ -556,7 +563,7 @@
 							</tr>
 						{:else if paginatedData.length === 0}
 							<tr>
-								<td colspan="7" class="px-4 py-16 text-center">
+								<td colspan="9" class="px-4 py-16 text-center">
 									<p class="text-sm font-medium text-slate-500">
 										No projects found for {selectedDistrict}
 									</p>
@@ -585,6 +592,8 @@
 									<td class="px-4 py-3.5 text-slate-600"
 										>{project.district || selectedDistrict}</td
 									>
+									<td class="px-4 py-3.5 text-slate-600">{project.area || '—'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{project.pinCode || '—'}</td>
 									<td class="px-4 py-3.5">
 										{#if project.projectType}
 											<span class="inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium

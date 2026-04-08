@@ -25,10 +25,14 @@
         "name": "Raj Residency / Raksha Addela",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:58.719Z"
+        "scrapedAt": "2026-03-23T08:39:58.719Z",
+        "lenderName": [],
+        "area": "Sector 16C",
+        "pinCode": "201301",
+        "location": "Plot No 3i, Sector 16C, Gaur City-2, Noida Extension, Uttar Pradesh, 201301"
       }
     ]
   },
@@ -77,12 +81,15 @@
         "_id": "69c0faf509b2489bdd195e03",
         "reraRegNo": "UPRERAPRJ795983",
         "name": "MARINE PARK CITY",
-        "district": "Barabanki",
-        "projectType": "Residential",
-        "constructionStatus": null,
+        "district": "Lucknow",
+        "projectType": "Plot",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:33:57.326Z"
+        "scrapedAt": "2026-03-23T08:33:57.326Z",
+        "area": "Tindola",
+        "pinCode": "226029",
+        "location": "Deva Road, Kisan Path, Tindola, Lucknow"
       }
     ]
   },
@@ -111,11 +118,14 @@
         "reraRegNo": "UPRERAPRJ322053",
         "name": "PHOOL NARAYAN PARK",
         "district": "Bareilly",
-        "projectType": "Residential",
-        "constructionStatus": null,
+        "projectType": "Plot",
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:34:28.130Z"
+        "scrapedAt": "2026-03-23T08:34:28.130Z",
+        "area": "Harunagla",
+        "pinCode": "243006",
+        "location": "Behind Green Park, Harunagla, Bisalpur Road, Bareilly - 243006, Uttar Pradesh"
       }
     ]
   },
@@ -178,10 +188,13 @@
         "name": "Metro Suites Bellavie",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:30.259Z"
+        "scrapedAt": "2026-03-23T08:42:30.259Z",
+        "area": "Vasundhara",
+        "pinCode": "201010",
+        "location": "Plot No - 13/S-2, Sector-13, Vasundhara, Ghaziabad (U.P.)"
       },
       {
         "_id": "69c0fcf609b2489bdd196413",
@@ -189,10 +202,13 @@
         "name": "Metro Suites Glitz",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:30.722Z"
+        "scrapedAt": "2026-03-23T08:42:30.722Z",
+        "area": "Sector 2C",
+        "pinCode": "201012",
+        "location": "Plot No. 2, Sector 2C, Vasundhara, Ghaziabad, Uttar Pradesh - 201012"
       }
     ]
   },
@@ -222,10 +238,13 @@
         "name": "Halwasiya Shivlar Sambandh Phase-1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:09.074Z"
+        "scrapedAt": "2026-03-23T08:48:09.074Z",
+        "area": "Gosainganj",
+        "pinCode": "226501",
+        "location": "Khasra No. 73-74, Halwasiya Shivlar Sambandh, Shivlar, New Jail Road, Lucknow, Uttar Pradesh, 226501"
       },
       {
         "_id": "69c0fe4909b2489bdd196817",
@@ -233,10 +252,13 @@
         "name": "Halwasiya Shivlar Sambandh Phase-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:09.196Z"
+        "scrapedAt": "2026-03-23T08:48:09.196Z",
+        "area": "Gosainganj",
+        "pinCode": "226002",
+        "location": "Kh No 73-74, New Jail Road, Gosainganj, Lucknow"
       }
     ]
   },
@@ -287,10 +309,13 @@
         "name": "Pearl Court Tower A-H(1 to 8), Phase-1 Completed,P",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:43.666Z"
+        "scrapedAt": "2026-03-23T08:42:43.666Z",
+        "area": "Sector 7 Vaishali",
+        "pinCode": "201010",
+        "location": "Sector 7 Vaishali, Ghaziabad, Uttar Pradesh, 201010"
       }
     ]
   },
@@ -353,10 +378,13 @@
         "name": "72 SUGAM AWAS RASHMIKHAND",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:19.297Z"
+        "scrapedAt": "2026-03-23T08:47:19.297Z",
+        "area": "Rashmi Khand",
+        "pinCode": "226001",
+        "location": "Rashmi Khand, Lucknow, Uttar Pradesh, 226001"
       },
       {
         "_id": "69c0fe1709b2489bdd196681",
@@ -364,10 +392,14 @@
         "name": "AADRA APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:19.663Z"
+        "scrapedAt": "2026-03-23T08:47:19.663Z",
+        "area": "Vrindavan Colony",
+        "location": "Raebareli Road, Vrindavan Colony, Lucknow, Uttar Pradesh, 226025",
+        "lenderName": [],
+        "pinCode": "226025"
       },
       {
         "_id": "69c0fe1909b2489bdd19668e",
@@ -375,10 +407,14 @@
         "name": "Aishbagh Heights",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:21.179Z"
+        "scrapedAt": "2026-03-23T08:47:21.179Z",
+        "area": "Aishbagh",
+        "pinCode": "226004",
+        "location": "Aishbagh, Lucknow, Uttar Pradesh, 226004",
+        "lenderName": []
       },
       {
         "_id": "69c0fe1b09b2489bdd1966a5",
@@ -386,10 +422,13 @@
         "name": "ANANT NAGAR YOJNA AKASH KHAND",
         "district": "Lucknow",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:23.963Z"
+        "scrapedAt": "2026-03-23T08:47:23.963Z",
+        "area": "Pyarepur",
+        "location": "Kaliya Kheda Pyarepur, Lucknow, Uttar Pradesh",
+        "lenderName": []
       },
       {
         "_id": "69c0fe1c09b2489bdd1966a6",
@@ -397,21 +436,26 @@
         "name": "ANANT NAGAR YOJANA ALOK KHAND",
         "district": "Lucknow",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.081Z"
+        "scrapedAt": "2026-03-23T08:47:24.081Z",
+        "area": "Kaliya Khera and Pyarepur",
+        "location": "Village Kaliya Khera and Pyarepur, Tehsil Sarojini Nagar, Lucknow, Uttar Pradesh",
+        "lenderName": []
       },
       {
         "_id": "69c0fe1c09b2489bdd1966a7",
         "reraRegNo": "UPRERAPRJ803370/12/2025",
         "name": "ANANT NAGAR YOJNA ABHASH KHAND",
         "district": "Lucknow",
-        "projectType": "Mixed",
+        "projectType": "Residential",
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.198Z"
+        "scrapedAt": "2026-03-23T08:47:24.198Z",
+        "area": "Abhash Khand",
+        "location": "Abhash Khand, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe1c09b2489bdd1966a8",
@@ -422,7 +466,8 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.318Z"
+        "scrapedAt": "2026-03-23T08:47:24.318Z",
+        "area": "Adarsh Khand"
       },
       {
         "_id": "69c0fe1c09b2489bdd1966a9",
@@ -430,43 +475,52 @@
         "name": "ANANT NAGAR YOJNA ADITYA KHAND",
         "district": "Lucknow",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.435Z"
+        "scrapedAt": "2026-03-23T08:47:24.435Z",
+        "area": "Kaliya Khera Pyarepur, Sarojini Nagar",
+        "location": "Kaliya Khera Pyarepur, Sarojini Nagar, Mohan Road, Lucknow, Uttar Pradesh",
+        "lenderName": []
       },
       {
         "_id": "69c0fe1c09b2489bdd1966aa",
         "reraRegNo": "UPRERAPRJ307017/04/2025",
         "name": "ANANT NAGAR YOJNA AMOD KHAND",
         "district": "Lucknow",
-        "projectType": "Mixed",
-        "constructionStatus": null,
+        "projectType": "Residential",
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.554Z"
+        "scrapedAt": "2026-03-23T08:47:24.554Z",
+        "area": "Kaliya Khera Pyarepur",
+        "location": "Kaliya Khera Pyarepur, Sarojini Nagar, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe1c09b2489bdd1966ab",
         "reraRegNo": "UPRERAPRJ828042/12/2025",
         "name": "ANANT NAGAR YOJNA ANOOP KHAND",
         "district": "Lucknow",
-        "projectType": "Commercial",
-        "constructionStatus": null,
+        "projectType": "Residential",
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.670Z"
+        "scrapedAt": "2026-03-23T08:47:24.670Z",
+        "area": "Pyarepur",
+        "location": "Kaliyakheda Pyarepur, Sarojini Nagar, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe1c09b2489bdd1966ac",
         "reraRegNo": "UPRERAPRJ317642/12/2025",
         "name": "ANANT NAGAR YOJNA ASHISH KHAND",
         "district": "Lucknow",
-        "projectType": "Mixed",
-        "constructionStatus": null,
+        "projectType": "Residential",
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:24.787Z"
+        "scrapedAt": "2026-03-23T08:47:24.787Z",
+        "area": "Kaliya Kheda Pyarepur",
+        "location": "Kaliya Kheda Pyarepur, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe2809b2489bdd19670f",
@@ -474,10 +528,12 @@
         "name": "ANUBHUTI APARTMENT- SECTOR C/S ALIGANJ",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:36.547Z"
+        "scrapedAt": "2026-03-23T08:47:36.547Z",
+        "area": "Sector C/S Aliganj",
+        "location": "Sector C/S Aliganj, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe2a09b2489bdd19671f",
@@ -485,10 +541,12 @@
         "name": "ASLESA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:38.469Z"
+        "scrapedAt": "2026-03-23T08:47:38.469Z",
+        "area": "Kanpur Road",
+        "location": "Sector-O, Mansarovar Scheme, Kanpur Road Yojna, Kanpur Road, Lucknow"
       },
       {
         "_id": "69c0fe2a09b2489bdd196722",
@@ -496,10 +554,12 @@
         "name": "Atal Nagar Awasiya Yojna",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:38.832Z"
+        "scrapedAt": "2026-03-23T08:47:38.832Z",
+        "area": "Para",
+        "location": "Khasra No. 2746, Para, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe2c09b2489bdd19672f",
@@ -507,10 +567,13 @@
         "name": "Basantkunj Yojna Sector- H",
         "district": "Lucknow",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:40.369Z"
+        "scrapedAt": "2026-03-23T08:47:40.369Z",
+        "area": "Sector H",
+        "location": "Hardoi Road Basantkunj Lucknow pin226003",
+        "pinCode": "226003"
       },
       {
         "_id": "69c0fe2c09b2489bdd196730",
@@ -518,10 +581,12 @@
         "name": "Basantkunj yojna Sector G",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:40.502Z"
+        "scrapedAt": "2026-03-23T08:47:40.502Z",
+        "area": "Sector G",
+        "location": "Basantkunj Yojna, Sector G, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe2c09b2489bdd196731",
@@ -529,10 +594,12 @@
         "name": "Basantkunj Youjna Sector -A (Part-3)",
         "district": "Lucknow",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:40.616Z"
+        "scrapedAt": "2026-03-23T08:47:40.616Z",
+        "area": "Sector A",
+        "location": "Hardoi Road, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe2e09b2489bdd196741",
@@ -540,10 +607,12 @@
         "name": "BHARNEE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:42.499Z"
+        "scrapedAt": "2026-03-23T08:47:42.499Z",
+        "area": "Village/Locality/Sector etc.",
+        "location": "Village/Locality/Sector etc., Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe3909b2489bdd196792",
@@ -551,10 +620,12 @@
         "name": "DEEPSHIKHA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:47:53.295Z"
+        "scrapedAt": "2026-03-23T08:47:53.295Z",
+        "area": "Sarojini Nagar",
+        "location": "Sarojini Nagar, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe4109b2489bdd1967d7",
@@ -562,10 +633,13 @@
         "name": "Fine Dining Street at CBD",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "New Launch",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:01.476Z"
+        "scrapedAt": "2026-03-23T08:48:01.476Z",
+        "area": "null",
+        "pinCode": "null",
+        "location": "null"
       },
       {
         "_id": "69c0fe4c09b2489bdd196836",
@@ -573,10 +647,14 @@
         "name": "Janeshwar Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:12.901Z"
+        "scrapedAt": "2026-03-23T08:48:12.901Z",
+        "area": "Jankipuram",
+        "pinCode": "226021",
+        "location": "Jankipuram, Lucknow, Uttar Pradesh, 226021",
+        "lenderName": []
       },
       {
         "_id": "69c0fe4e09b2489bdd196842",
@@ -584,10 +662,12 @@
         "name": "KABIR NAGAR DEVPUR PARA MULTISTORIED",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:14.336Z"
+        "scrapedAt": "2026-03-23T08:48:14.336Z",
+        "area": "Devpur Para",
+        "location": "Devpur Para, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe5009b2489bdd196852",
@@ -595,10 +675,13 @@
         "name": "KRIRIKA AND SWATI APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:16.323Z"
+        "scrapedAt": "2026-03-23T08:48:16.323Z",
+        "area": "Mohanlalganj",
+        "pinCode": "226301",
+        "location": "Mohanlalganj, Lucknow, Raebareli Road, Lucknow"
       },
       {
         "_id": "69c0fe5309b2489bdd19686a",
@@ -606,10 +689,13 @@
         "name": "MAGHA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:19.333Z"
+        "scrapedAt": "2026-03-23T08:48:19.333Z",
+        "area": "Kanpur Road Yojna (Mansarovar Sector-O)",
+        "pinCode": "226008",
+        "location": "Kanpur Road Yojna (Mansarovar Sector-O), Lucknow, Uttar Pradesh, 226008"
       },
       {
         "_id": "69c0fe5709b2489bdd196888",
@@ -617,10 +703,13 @@
         "name": "MRIGSHIRA APARTMENT, SECTOR-P, KANPUR ROAD, LUCKN",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:23.182Z"
+        "scrapedAt": "2026-03-23T08:48:23.182Z",
+        "area": "Sector-P, Mansarovar Scheme, Kanpur Road Yojna, Amar Shaheed Path",
+        "location": "Sector-P, Mansarovar Scheme, Kanpur Road Yojna, Amar Shaheed Path, Lucknow",
+        "pinCode": "226001"
       },
       {
         "_id": "69c0fe5709b2489bdd19688c",
@@ -628,10 +717,12 @@
         "name": "Narmada Apartment",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:23.657Z"
+        "scrapedAt": "2026-03-23T08:48:23.657Z",
+        "area": "Sector 4 Gomti Nagar Extension",
+        "location": "Khasra No. 77,85,86, 87, 89 in Sector 4 Gomti Nagar Extension, Lucknow"
       },
       {
         "_id": "69c0fe6009b2489bdd1968d1",
@@ -639,10 +730,12 @@
         "name": "PANCHSHEEL AFFORDABLE (G+3) & PANCHSHEEL MULTISTOR",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:32.000Z"
+        "scrapedAt": "2026-03-23T08:48:32.000Z",
+        "area": "null",
+        "location": "null"
       },
       {
         "_id": "69c0fe6009b2489bdd1968d2",
@@ -650,10 +743,13 @@
         "name": "Panchsheel Affordable Houses",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:32.118Z"
+        "scrapedAt": "2026-03-23T08:48:32.118Z",
+        "area": "Bakshi Ka Talab",
+        "pinCode": "226201",
+        "location": "Bakshi Ka Talab, Bargadi Magath, Sitapur Road, Lucknow, Uttar Pradesh, 226201"
       },
       {
         "_id": "69c0fe6009b2489bdd1968d9",
@@ -661,7 +757,7 @@
         "name": "PARIJAT HOUSING",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:32.951Z"
@@ -683,10 +779,13 @@
         "name": "PHALGUNI APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:33.901Z"
+        "scrapedAt": "2026-03-23T08:48:33.901Z",
+        "area": "Mansarovar",
+        "pinCode": "226012",
+        "location": "Mansarovar, Lucknow"
       },
       {
         "_id": "69c0fe6209b2489bdd1968e9",
@@ -694,7 +793,7 @@
         "name": "PMAY Sector I Basantkunj, Part D",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:34.829Z"
@@ -705,10 +804,12 @@
         "name": "PMAY Basantkunj Yojna, Sector N ( Pocket-A)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:34.941Z"
+        "scrapedAt": "2026-03-23T08:48:34.941Z",
+        "area": "Sector N (Pocket-A)",
+        "location": "Sector N (Pocket-A), Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6309b2489bdd1968eb",
@@ -719,7 +820,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.056Z"
+        "scrapedAt": "2026-03-23T08:48:35.056Z",
+        "area": "Sector N (Pocket-B)",
+        "location": "Sector N (Pocket-B), Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6309b2489bdd1968ec",
@@ -727,10 +830,12 @@
         "name": "PMAY Basantkunj Yojna, Sector N ( Pocket-C)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.172Z"
+        "scrapedAt": "2026-03-23T08:48:35.172Z",
+        "area": "Sector N (Pocket-C)",
+        "location": "Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6309b2489bdd1968ed",
@@ -741,7 +846,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.286Z"
+        "scrapedAt": "2026-03-23T08:48:35.286Z",
+        "area": "Sector N",
+        "location": "PMAY Basantkunj Yojna, Sector N (Pocket-D), Lucknow"
       },
       {
         "_id": "69c0fe6309b2489bdd1968f0",
@@ -749,10 +856,11 @@
         "name": "PMAY Sector I Basantkunj Part F",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.633Z"
+        "scrapedAt": "2026-03-23T08:48:35.633Z",
+        "area": "Basant Kunj Part F"
       },
       {
         "_id": "69c0fe6309b2489bdd1968f1",
@@ -760,10 +868,12 @@
         "name": "PMAY Sector I Basantkunj, Part-E",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.747Z"
+        "scrapedAt": "2026-03-23T08:48:35.747Z",
+        "area": "Basant Kunj, Part-E",
+        "location": "PMAY Sector I Basantkunj, Part-E, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6309b2489bdd1968f2",
@@ -771,10 +881,12 @@
         "name": "PMAY Sector I, Basantkunj Part-B",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.863Z"
+        "scrapedAt": "2026-03-23T08:48:35.863Z",
+        "location": "PMAY Sector I, Basantkunj Part-B, Lucknow, Uttar Pradesh",
+        "area": "Basantkunj Part-B"
       },
       {
         "_id": "69c0fe6409b2489bdd1968f3",
@@ -785,7 +897,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:35.980Z"
+        "scrapedAt": "2026-03-23T08:48:35.980Z",
+        "area": "Basantkunj Part-C",
+        "location": "PMAY Sector I, Basantkunj Part-C, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6409b2489bdd1968f4",
@@ -796,7 +910,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:36.097Z"
+        "scrapedAt": "2026-03-23T08:48:36.097Z",
+        "area": "Basantkunj, Part -A",
+        "location": "Basant Kunj, Part -A, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6409b2489bdd1968f5",
@@ -807,7 +923,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:36.263Z"
+        "scrapedAt": "2026-03-23T08:48:36.263Z",
+        "area": "Basant Kunj, Part-G",
+        "location": "PMAY Sector I Basant Kunj, Part-G, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6409b2489bdd1968f7",
@@ -815,10 +933,13 @@
         "name": "POORVA APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:36.514Z"
+        "scrapedAt": "2026-03-23T08:48:36.514Z",
+        "area": "Sector H, LDA Colony",
+        "location": "Sector H, LDA Colony, Kanpur Road Yojna, Bijnor Road, Lucknow",
+        "pinCode": "226012"
       },
       {
         "_id": "69c0fe6609b2489bdd196909",
@@ -826,10 +947,12 @@
         "name": "Rashmilok Apartment",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:38.760Z"
+        "scrapedAt": "2026-03-23T08:48:38.760Z",
+        "area": "Rashmi Khand, Bhadruk, Sharda Nagar",
+        "location": "Rashmi Khand Rd, Rashmi Khand, Bhadruk, Sharda Nagar, Lucknow"
       },
       {
         "_id": "69c0fe6709b2489bdd19690d",
@@ -837,10 +960,13 @@
         "name": "RATANLOK APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:39.243Z"
+        "scrapedAt": "2026-03-23T08:48:39.243Z",
+        "area": "Ruchi Khand 1",
+        "pinCode": "226002",
+        "location": "Ruchi Khand 1, Lucknow, Uttar Pradesh, 226002"
       },
       {
         "_id": "69c0fe6f09b2489bdd196951",
@@ -848,10 +974,12 @@
         "name": "Sardar Vallabh Bhai Patel Awasiya Yojana",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:47.327Z"
+        "scrapedAt": "2026-03-23T08:48:47.327Z",
+        "area": "Jiyamau",
+        "location": "Khasra No.93, Jiyamau, Lucknow, Uttar Pradesh"
       },
       {
         "_id": "69c0fe6f09b2489bdd196952",
@@ -859,10 +987,13 @@
         "name": "SARGAM APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:47.444Z"
+        "scrapedAt": "2026-03-23T08:48:47.444Z",
+        "area": "Jankipuram, Sector-J (Extension)",
+        "pinCode": "226021",
+        "location": "GH-02, Jankipuram, Sector-J (Extension), Lucknow"
       },
       {
         "_id": "69c0fe7209b2489bdd19696d",
@@ -870,10 +1001,13 @@
         "name": "SHRAVAN APARTMENT, SECTOR- E KANPUR ROAD YOJNA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:50.711Z"
+        "scrapedAt": "2026-03-23T08:48:50.711Z",
+        "area": "Sector C1, LDA Colony",
+        "location": "Hind Nagar, Sector C1, LDA Colony, Bijnor Road, Lucknow",
+        "pinCode": "226012"
       },
       {
         "_id": "69c0fe7409b2489bdd19697c",
@@ -881,10 +1015,13 @@
         "name": "SMRITI APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:52.503Z"
+        "scrapedAt": "2026-03-23T08:48:52.503Z",
+        "area": "Gaurabagh",
+        "pinCode": "226021",
+        "location": "Sitapur Road, Jankipuram, Kursi Road, Lucknow"
       },
       {
         "_id": "69c0fe7409b2489bdd19697d",
@@ -892,10 +1029,13 @@
         "name": "SOPAN ENCLAVE PHASE-1ST PRIYADARSHINI YOJNA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:52.618Z"
+        "scrapedAt": "2026-03-23T08:48:52.618Z",
+        "area": "null",
+        "pinCode": "226010",
+        "location": "Lucknow Development Authority, Vipin Khand, Gomti Nagar, Lucknow, Uttar Pradesh, 226010"
       },
       {
         "_id": "69c0fe7409b2489bdd19697e",
@@ -903,10 +1043,13 @@
         "name": "SOPAN ENCLAVE PHASE-IInd AT PRIYDARSHINI YOJNA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:52.737Z"
+        "scrapedAt": "2026-03-23T08:48:52.737Z",
+        "area": "Keshav Nagar, Fazullaganj",
+        "location": "Keshav Nagar, Fazullaganj, Lucknow, Uttar Pradesh, 226024",
+        "pinCode": "226024"
       },
       {
         "_id": "69c0fe7509b2489bdd196985",
@@ -914,10 +1057,12 @@
         "name": "SRIJAN APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:53.572Z"
+        "scrapedAt": "2026-03-23T08:48:53.572Z",
+        "area": "Aliganj",
+        "location": "Aliganj, Lucknow"
       },
       {
         "_id": "69c0fe7509b2489bdd196988",
@@ -925,10 +1070,13 @@
         "name": "SRISHTI APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:48:53.922Z"
+        "scrapedAt": "2026-03-23T08:48:53.922Z",
+        "location": "Jankipuram, Lucknow, Uttar Pradesh, 226201",
+        "area": "Jankipuram",
+        "pinCode": "226201"
       },
       {
         "_id": "69c0fe7809b2489bdd19699c",
@@ -6360,10 +6508,13 @@
         "name": "266 Multistorey Flats at GH10 in Koyal Enclave",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:34.919Z"
+        "scrapedAt": "2026-03-23T08:41:34.919Z",
+        "area": "Koyal Enclave",
+        "pinCode": "201001",
+        "location": "GH10, Koyal Enclave, Gagan Vihar, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcbf09b2489bdd19632a",
@@ -6371,10 +6522,13 @@
         "name": "504 Multistorey Flats at GH-11,12 in Koyal Enclave",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:35.921Z"
+        "scrapedAt": "2026-03-23T08:41:35.921Z",
+        "area": "Koyal Enclave",
+        "pinCode": "201001",
+        "location": "Koyal Enclave, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcc009b2489bdd19632c",
@@ -6382,10 +6536,13 @@
         "name": "896 EWS houses (Four Storied) Indraprastha Awasyia",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:36.445Z"
+        "scrapedAt": "2026-03-23T08:41:36.445Z",
+        "area": "Vikas Path, Near Purana Bus Adda, Hapur Road",
+        "pinCode": "201001",
+        "location": "Vikas Path, Near Purana Bus Adda, Hapur Road, Ghaziabad 201001"
       },
       {
         "_id": "69c0fccd09b2489bdd196367",
@@ -6393,10 +6550,13 @@
         "name": "C/o of 480 EWS (G+3) houses and development of 1200 buildings under PMAY scheme at Pratap vihar, Ghaziabad",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:49.903Z"
+        "scrapedAt": "2026-03-23T08:41:49.903Z",
+        "area": "Pratap Vihar",
+        "pinCode": "201009",
+        "location": "Pratap Vihar, Ghaziabad, Uttar Pradesh 201009"
       },
       {
         "_id": "69c0fcd109b2489bdd196374",
@@ -6407,7 +6567,9 @@
         "constructionStatus": null,
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:53.658Z"
+        "scrapedAt": "2026-03-23T08:41:53.658Z",
+        "area": "Noornagar",
+        "location": "Noornagar, Khasra no. 315, 343, 351, 352 in Raj Nagar Extension, Ghaziabad"
       },
       {
         "_id": "69c0fcd109b2489bdd196375",
@@ -6415,10 +6577,13 @@
         "name": "Construction 720 EWS (G+3) Houses under PMAY Scheme at Pratap Vihar Scheme, Sec-11 Ghaziabad",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:53.885Z"
+        "scrapedAt": "2026-03-23T08:41:53.885Z",
+        "area": "Sector 11",
+        "pinCode": "201009",
+        "location": "Pratap Vihar Scheme, Sector 11, Ghaziabad, Uttar Pradesh, 201009"
       },
       {
         "_id": "69c0fcd209b2489bdd196376",
@@ -6426,10 +6591,13 @@
         "name": "Construction of 1152 EWS Houses (PART-B) Under PMAY Scheme in Masoori GZB.",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:54.090Z"
+        "scrapedAt": "2026-03-23T08:41:54.090Z",
+        "area": "Masoori",
+        "pinCode": "201001",
+        "location": "Masoori, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd209b2489bdd196377",
@@ -6437,10 +6605,12 @@
         "name": "Construction of 120 multi storey houses Chandrashi",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:54.301Z"
+        "scrapedAt": "2026-03-23T08:41:54.301Z",
+        "pinCode": "201001",
+        "location": "Vikas Path, Near Purana Bus Adda, Hapur Road, Ghaziabad 201001"
       },
       {
         "_id": "69c0fcd209b2489bdd196378",
@@ -6459,10 +6629,13 @@
         "name": "CONSTRUCTION OF 192 HOUSES AT POCKET-D INDRAPRASTH YOJANA LONI GHAZIABAD",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:54.956Z"
+        "scrapedAt": "2026-03-23T08:41:54.956Z",
+        "area": "Pocket-D Indraprasth Yojana, Loni",
+        "pinCode": "201102",
+        "location": "Pocket-D Indraprasth Yojana, Loni, Ghaziabad, Uttar Pradesh, 201102"
       },
       {
         "_id": "69c0fcd309b2489bdd19637d",
@@ -6470,10 +6643,13 @@
         "name": "construction of 259 multi storied flat at GH-9",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:55.610Z"
+        "scrapedAt": "2026-03-23T08:41:55.610Z",
+        "area": "GH-9",
+        "pinCode": "201001",
+        "location": "GH-9, Ghaziabad, Uttar Pradesh, 201001"
       },
       {
         "_id": "69c0fcd409b2489bdd19637f",
@@ -6481,10 +6657,13 @@
         "name": "Construction of 288 EWS Houses Under PMAY at Masuri, Ghaziabad (Part-A)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:56.021Z"
+        "scrapedAt": "2026-03-23T08:41:56.021Z",
+        "area": "Masuri",
+        "pinCode": "201001",
+        "location": "Masuri, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd409b2489bdd196380",
@@ -6492,10 +6671,13 @@
         "name": "CONSTRUCTION OF 348 MULTI STOREY E.W.S FLATS IN BL",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:56.233Z"
+        "scrapedAt": "2026-03-23T08:41:56.233Z",
+        "area": "Village Pasonda",
+        "pinCode": "201001",
+        "location": "Village Pasonda, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd409b2489bdd196381",
@@ -6503,7 +6685,7 @@
         "name": "Construction of 432 EWS units under PMAY Scheme at Dasna Ghaziabad",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:56.510Z"
@@ -6514,10 +6696,13 @@
         "name": "Construction of 463 Multistoried Apartments on GH-",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:56.715Z"
+        "scrapedAt": "2026-03-23T08:41:56.715Z",
+        "area": "Near Purana Bus Adda",
+        "pinCode": "201001",
+        "location": "Vikas Path, Near Purana Bus Adda, Hapur Road, Ghaziabad 201001"
       },
       {
         "_id": "69c0fcd409b2489bdd196383",
@@ -6525,10 +6710,13 @@
         "name": "Construction of 528 EWS(G+3) at Rajaswa gram niwari, modinagar under PMAY scheme.",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:56.915Z"
+        "scrapedAt": "2026-03-23T08:41:56.915Z",
+        "area": "Rajaswa gram niwari, modinagar",
+        "pinCode": "201204",
+        "location": "Rajaswa gram niwari, modinagar, Ghaziabad, Uttar Pradesh, 201204"
       },
       {
         "_id": "69c0fcd509b2489bdd196384",
@@ -6536,7 +6724,7 @@
         "name": "Construction of 560 EWS multistoried houses at Raj",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:57.127Z"
@@ -6547,10 +6735,13 @@
         "name": "Construction of 660 Multistoried Apartments on GH-",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:57.580Z"
+        "scrapedAt": "2026-03-23T08:41:57.580Z",
+        "area": "Hapur Road",
+        "pinCode": "201001",
+        "location": "Vikas Path, Near Purana Bus Adda, Hapur Road, Ghaziabad 201001"
       },
       {
         "_id": "69c0fcd509b2489bdd196387",
@@ -6558,10 +6749,13 @@
         "name": "Construction of 80 MMIGflats in Nyaya Khand-3, Ind",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:57.776Z"
+        "scrapedAt": "2026-03-23T08:41:57.776Z",
+        "area": "Nyaya Khand-3, Indirapuram",
+        "pinCode": "201014",
+        "location": "Nyaya Khand-3, Indirapuram, Ghaziabad, Uttar Pradesh 201014"
       },
       {
         "_id": "69c0fcd609b2489bdd196388",
@@ -6569,10 +6763,13 @@
         "name": "Construction of 856 Multistorey Apartments (Samajw",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:57.986Z"
+        "scrapedAt": "2026-03-23T08:41:57.986Z",
+        "area": "Samajwadi Nagar",
+        "pinCode": "201001",
+        "location": "Samajwadi Nagar, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd609b2489bdd196389",
@@ -6580,10 +6777,13 @@
         "name": "Construction of EWS Houses under Pradhan Mantri awas Yojana at Madhuban Bapudham Scheme Pocket B.",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:58.191Z"
+        "scrapedAt": "2026-03-23T08:41:58.191Z",
+        "area": "Madhuban Bapudham Scheme Pocket B",
+        "pinCode": "201001",
+        "location": "Madhuban Bapudham Scheme Pocket B, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd609b2489bdd19638b",
@@ -6591,10 +6791,13 @@
         "name": "COnstruction of Four Storied 320 EWS houses at Beg",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:58.646Z"
+        "scrapedAt": "2026-03-23T08:41:58.646Z",
+        "area": "Beg",
+        "pinCode": "201001",
+        "location": "Beg, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcd609b2489bdd19638c",
@@ -6602,10 +6805,13 @@
         "name": "Construction of two hundred fifty six flats at Madhuban Bapudham Scheme",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Completed",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:58.860Z"
+        "scrapedAt": "2026-03-23T08:41:58.860Z",
+        "area": "Madhuban Bapudham Scheme",
+        "pinCode": "201001",
+        "location": "Madhuban Bapudham Scheme, Ghaziabad, Uttar Pradesh 201001"
       },
       {
         "_id": "69c0fcf009b2489bdd1963ff",
@@ -6623,11 +6829,14 @@
         "reraRegNo": "UPRERAPRJ932839/02/2026",
         "name": "RESIDENTIAL SCHEME (kH.NO-96,97) FOR NANDGRAM VILLAGE NOOR NAGAR GHAZIABAD",
         "district": "Ghaziabad",
-        "projectType": "Residential",
-        "constructionStatus": null,
+        "projectType": "Plot",
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:50.932Z"
+        "scrapedAt": "2026-03-23T08:42:50.932Z",
+        "area": "Noor Nagar",
+        "pinCode": "201003",
+        "location": "Residential Scheme Noor Nagar Ghaziabad, KH NO-96,97 NANDGRAM, NOOR NAGAR, Ghaziabad, Uttar Pradesh, 201003"
       }
     ]
   },

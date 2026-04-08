@@ -44,7 +44,9 @@
 			(p.email && p.email.toLowerCase().includes(s)) ||
 			(p.contactPerson && p.contactPerson.toLowerCase().includes(s)) ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
-			(p.applicantType && p.applicantType.toLowerCase().includes(s))
+			(p.applicantType && p.applicantType.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.toLowerCase().includes(s))
 		);
 	});
 
@@ -56,6 +58,8 @@
 			(p.projectName && p.projectName.toLowerCase().includes(s)) ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
 			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.toLowerCase().includes(s)) ||
 			(p.constructionStatus && p.constructionStatus.toLowerCase().includes(s)) ||
 			(p.name && p.name.toLowerCase().includes(s)) ||
 			(p.reraRegNo && p.reraRegNo.toLowerCase().includes(s))
@@ -253,6 +257,8 @@
 				type: getPromoterType(promoter),
 				address: promoter.address || raw.address || '',
 				district: promoter.district || raw.district || '',
+				area: promoter.area || raw.area || '',
+				pinCode: promoter.pinCode || raw.pinCode || '',
 				email: promoter.email || raw.email || '',
 				mobile: promoter.mobile || raw.mobile || '',
 				partnershipType: raw.partnershipType || '',
@@ -281,6 +287,8 @@
 						type: getPromoterType(promoter),
 						address: promoter.address || raw.address || '',
 						district: promoter.district || raw.district || '',
+						area: promoter.area || raw.area || '',
+						pinCode: promoter.pinCode || raw.pinCode || '',
 						email: d.email || promoter.email || '',
 						mobile: d.mobile || promoter.mobile || '',
 						partnershipType: d.partnershipType || '',
@@ -299,6 +307,8 @@
 						type: getPromoterType(promoter),
 						address: promoter.address || '',
 						district: promoter.district || '',
+						area: promoter.area || '',
+						pinCode: promoter.pinCode || '',
 						email: promoter.email || '',
 						mobile: promoter.mobile || '',
 						partners: [],
@@ -310,6 +320,8 @@
 					name: getPromoterName(promoter),
 					type: getPromoterType(promoter),
 					address: promoter.address || '',
+					area: promoter.area || '',
+					pinCode: promoter.pinCode || '',
 					email: promoter.email || '',
 					mobile: promoter.mobile || '',
 					partners: [],
@@ -321,6 +333,8 @@
 				name: getPromoterName(promoter),
 				type: getPromoterType(promoter),
 				address: promoter.address || '',
+				area: promoter.area || '',
+				pinCode: promoter.pinCode || '',
 				email: promoter.email || '',
 				mobile: promoter.mobile || '',
 				partners: [],
@@ -566,7 +580,7 @@
 							{/each}
 						{:else if paginatedData.length === 0}
 							<tr>
-								<td colspan="6" class="px-4 py-16 text-center">
+								<td colspan="8" class="px-4 py-16 text-center">
 									<div class="flex flex-col items-center gap-3">
 										<svg
 											class="h-12 w-12 text-slate-300"
@@ -719,6 +733,8 @@
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Project Name</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Promoter / Builder</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">District</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Area</th>
+							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Pin Code</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Status</th>
 							<th class="px-4 py-3.5 font-semibold text-slate-900 whitespace-nowrap">Actions</th>
 						</tr>
@@ -727,21 +743,21 @@
 						{#if loadingProjects || scrapingAllProjects}
 							{#each Array(5) as _}
 								<tr class="animate-pulse">
-									{#each Array(6) as _}
+									{#each Array(8) as _}
 										<td class="px-4 py-3.5"><div class="h-4 w-3/4 rounded bg-slate-100"></div></td>
 									{/each}
 								</tr>
 							{/each}
 							{#if scrapingAllProjects}
 								<tr>
-									<td colspan="6" class="px-4 py-4 text-center">
+									<td colspan="8" class="px-4 py-4 text-center">
 										<p class="text-sm text-indigo-600 font-medium">Scraping all ~8,000+ projects from MP RERA... This may take a few minutes.</p>
 									</td>
 								</tr>
 							{/if}
 						{:else if paginatedData.length === 0}
 							<tr>
-								<td colspan="6" class="px-4 py-16 text-center">
+								<td colspan="8" class="px-4 py-16 text-center">
 									<div class="flex flex-col items-center gap-3">
 										<svg class="h-12 w-12 text-slate-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 											<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
@@ -763,6 +779,8 @@
 									<td class="px-4 py-3.5 font-medium text-slate-900">{project.projectName || project.name || 'N/A'}</td>
 									<td class="px-4 py-3.5 text-slate-600">{project.promoterName || 'N/A'}</td>
 									<td class="px-4 py-3.5 text-slate-600">{project.district || selectedDistrict}</td>
+									<td class="px-4 py-3.5 text-slate-600">{project.area || '—'}</td>
+									<td class="px-4 py-3.5 text-slate-600">{project.pinCode || '—'}</td>
 									<td class="px-4 py-3.5">
 										{#if project.constructionStatus}
 											<span class="inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium
@@ -898,6 +916,18 @@
 								<div class="rounded-lg bg-slate-50 p-3">
 									<dt class="text-xs font-medium text-slate-500">District</dt>
 									<dd class="mt-0.5 text-sm font-medium text-slate-900">{promoterDetails.district}</dd>
+								</div>
+							{/if}
+							{#if promoterDetails.area}
+								<div class="rounded-lg bg-slate-50 p-3">
+									<dt class="text-xs font-medium text-slate-500">Area</dt>
+									<dd class="mt-0.5 text-sm font-medium text-slate-900">{promoterDetails.area}</dd>
+								</div>
+							{/if}
+							{#if promoterDetails.pinCode}
+								<div class="rounded-lg bg-slate-50 p-3">
+									<dt class="text-xs font-medium text-slate-500">Pin Code</dt>
+									<dd class="mt-0.5 text-sm font-medium text-slate-900">{promoterDetails.pinCode}</dd>
 								</div>
 							{/if}
 							{#if promoterDetails.email}

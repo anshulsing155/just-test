@@ -11,6 +11,9 @@
 	const columns = [
 		{ key: 'name', label: 'Name' },
 		{ key: 'reraRegNo', label: 'Registration No.' },
+		{ key: 'district', label: 'District' },
+		{ key: 'area', label: 'Area' },
+		{ key: 'pinCode', label: 'Pin Code' },
 		{ key: 'address', label: 'Address' },
 		{ key: 'firmType', label: 'Firm Type' },
 		{ key: 'validUpto', label: 'Validity' },

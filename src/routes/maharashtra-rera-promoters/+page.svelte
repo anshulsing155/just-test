@@ -39,7 +39,9 @@
 			(p.address && p.address.toLowerCase().includes(s)) ||
 			(p.legalType && p.legalType.toLowerCase().includes(s)) ||
 			(p.email && p.email.toLowerCase().includes(s)) ||
-			(p.district && p.district.toLowerCase().includes(s))
+			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.includes(s))
 		);
 	});
 
@@ -50,6 +52,8 @@
 			(p.projectName && p.projectName.toLowerCase().includes(s)) ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
 			(p.district && p.district.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.includes(s)) ||
 			(p.name && p.name.toLowerCase().includes(s)) ||
 			(p.reraRegNo && p.reraRegNo.toLowerCase().includes(s)) ||
 			(p.registrationNo && p.registrationNo.toLowerCase().includes(s))
@@ -233,6 +237,8 @@
 			type:          getPromoterType(promoter),
 			address:       promoter.address || raw.address || '',
 			district:      promoter.district || raw.district || '',
+			area:          promoter.area || raw.area || '',
+			pinCode:       promoter.pinCode || raw.pinCode || '',
 			email:         promoter.email || raw.email || '',
 			mobile:        promoter.mobile || raw.mobile || '',
 			reraRegNo:     promoter.reraRegNo || '',
@@ -473,6 +479,8 @@
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Promoter Name</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Type</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">District</th>
+							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Area</th>
+							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Pin Code</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Mobile</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">RERA Reg. No.</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Actions</th>
@@ -485,6 +493,8 @@
 								<td class="px-6 py-4 font-medium text-slate-900">{getPromoterName(p)}</td>
 								<td class="px-6 py-4 text-slate-600">{getPromoterType(p) || '—'}</td>
 								<td class="px-6 py-4 text-slate-600">{p.district || '—'}</td>
+								<td class="px-6 py-4 text-slate-600">{p.area || '—'}</td>
+								<td class="px-6 py-4 text-slate-600">{p.pinCode || '—'}</td>
 								<td class="px-6 py-4 text-slate-600">{p.mobile || '—'}</td>
 								<td class="px-6 py-4 font-mono text-xs text-slate-600">{p.reraRegNo || '—'}</td>
 								<td class="px-6 py-4">
@@ -511,6 +521,8 @@
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Project Name</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Promoter</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">District</th>
+							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Area</th>
+							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Pin Code</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Reg. No.</th>
 							<th class="px-6 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Valid Upto</th>
 						</tr>
@@ -522,6 +534,8 @@
 								<td class="px-6 py-4 font-medium text-slate-900">{p.projectName || p.name || '—'}</td>
 								<td class="px-6 py-4 text-slate-600">{p.promoterName || '—'}</td>
 								<td class="px-6 py-4 text-slate-600">{p.district || '—'}</td>
+								<td class="px-6 py-4 text-slate-600">{p.area || '—'}</td>
+								<td class="px-6 py-4 text-slate-600">{p.pinCode || '—'}</td>
 								<td class="px-6 py-4 font-mono text-xs text-slate-600">{p.reraRegNo || p.registrationNo || '—'}</td>
 								<td class="px-6 py-4 text-slate-600">{p.validUntil || p.validUpto || '—'}</td>
 							</tr>
@@ -605,6 +619,8 @@
 					{#each [
 						['RERA Reg. No.', promoterDetails.reraRegNo],
 						['District', promoterDetails.district],
+						['Area', promoterDetails.area],
+						['Pin Code', promoterDetails.pinCode],
 						['Mobile', promoterDetails.mobile],
 						['Email', promoterDetails.email],
 						['Address', promoterDetails.address],

@@ -380,6 +380,8 @@ function mapDetailToPromoter(detail, basic) {
 		promoterName:  find('promoter name', 'builder name', 'applicant name', 'name') || basic.promoterName,
 		applicantType: find('applicant type', 'type', 'promoter type')                  || basic.promoterType || 'Promoter',
 		district:      find('district')                                                 || basic.district,
+		area:          find('area', 'locality', 'sector', 'ward', 'village', 'mohalla'),
+		pinCode:       find('pincode', 'pin code', 'postal code', 'pin no'),
 		email:         find('email', 'e-mail'),
 		mobile:        find('mobile', 'phone', 'contact'),
 		address:       find('address', 'permanent address', 'registered address'),

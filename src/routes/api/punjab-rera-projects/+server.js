@@ -403,6 +403,8 @@ function mapDetailToProject(detail, basic) {
 		projectName:        find('project name', 'name of project')                       || basic.projectName,
 		promoterName:       find('promoter name', 'builder name', 'applicant name')       || basic.promoterName,
 		district:           find('district')                                               || basic.district,
+		area:               find('area', 'locality', 'sector', 'ward', 'village', 'mohalla'),
+		pinCode:            find('pincode', 'pin code', 'postal code', 'pin no'),
 		location:           find('area', 'location', 'tehsil', 'village'),
 		projectType:        find('project type', 'type of project'),
 		constructionStatus: find('status', 'construction status'),

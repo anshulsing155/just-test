@@ -13,6 +13,8 @@
 		{ key: 'reraRegNo', label: 'Registration No.' },
 		{ key: 'firmType', label: 'Type' },
 		{ key: 'district', label: 'District' },
+		{ key: 'area', label: 'Area' },
+		{ key: 'pinCode', label: 'Pin Code' },
 		{ key: 'registrationDate', label: 'Reg. Date' },
 		{ key: 'validUpto', label: 'Valid Upto' }
 	];

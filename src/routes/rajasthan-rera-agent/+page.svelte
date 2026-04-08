@@ -12,6 +12,8 @@
 		{ key: 'name', label: 'Name' },
 		{ key: 'reraRegNo', label: 'Registration No.' },
 		{ key: 'district', label: 'District' },
+		{ key: 'area', label: 'Area' },
+		{ key: 'pinCode', label: 'Pin Code' },
 		{ key: 'address', label: 'Address' },
 		{ key: 'mobile', label: 'Mobile' },
 		{ key: 'registrationDate', label: 'Reg. Date' }

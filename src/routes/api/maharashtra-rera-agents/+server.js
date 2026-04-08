@@ -337,6 +337,8 @@ function mapDetailToAgent(rawFields, basicInfo) {
 		registrationDate: find('registration date', 'issue date', 'reg date'),
 		validUpto:        find('valid', 'expiry', 'validity'),
 		district:         find('district'),
+		area:             find('area', 'locality', 'sector', 'ward', 'village'),
+		pinCode:          find('pincode', 'pin code', 'postal code', 'pin no'),
 		status:           find('status') || 'Approved',
 		rawData:          { agentId: basicInfo.agentId, detailUrl: `${DETAIL_BASE}/agent/view/${basicInfo.agentId}`, ...rawFields }
 	};

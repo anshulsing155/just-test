@@ -485,6 +485,8 @@ function mapToProject(detail, basicRow) {
 	const reraRegNo    = find('application no','registration no','rera no','reg no','certificate no')
 	                  || rowGet('Registration No','Reg No','Application No');
 	const district     = find('district') || '';
+	const area         = find('locality','area','sector','ward','village','mandal') || '';
+	const pinCode      = find('pincode','pin code','postal code','pin no') || '';
 	const projectType  = find('project type','type of project','type') || '';
 	const status       = find('project status','status','construction status') || '';
 	const completion   = find('proposed date of completion','completion date','valid upto','date of completion') || '';
@@ -496,6 +498,8 @@ function mapToProject(detail, basicRow) {
 		name:               projectName  || '(Unknown)',
 		promoterName:       promoterName || '',
 		district,
+		area,
+		pinCode,
 		location,
 		projectType,
 		constructionStatus: status,

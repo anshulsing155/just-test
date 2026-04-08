@@ -326,6 +326,8 @@ function mapDetailToProject(detail, basic) {
 		projectName:        find('project name', 'name of project') || basic.projectName,
 		promoterName:       find('promoter name', 'name of promoter', 'builder', 'developer') || basic.promoterName,
 		district:           find('district') || basic.district,
+		area:               find('area', 'locality', 'sector', 'ward', 'village', 'taluka') || basic.area,
+		pinCode:            find('pincode', 'pin code', 'postal code', 'pin no') || basic.pincode,
 		location:           find('location', 'address', 'area', 'village', 'taluka') || basic.location,
 		projectType:        find('project type', 'type of project'),
 		constructionStatus: find('status', 'construction status', 'completion'),
@@ -416,6 +418,7 @@ export async function GET({ url }) {
 					projectName:  p.projectName,
 					name:         p.projectName,
 					district:     p.district,
+					pinCode:      p.pincode || null,
 					location:     p.location || p.district,
 					promoterName: p.promoterName,
 					rawProjectID: p.projectId

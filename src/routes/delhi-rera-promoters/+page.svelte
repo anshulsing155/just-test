@@ -25,7 +25,9 @@
 			(p.projectName && p.projectName.toLowerCase().includes(s)) ||
 			(p.promoterAddress && p.promoterAddress.toLowerCase().includes(s)) ||
 			(p.promoterPhone && p.promoterPhone.includes(s)) ||
-			(p.promoterEmail && p.promoterEmail.toLowerCase().includes(s))
+			(p.promoterEmail && p.promoterEmail.toLowerCase().includes(s)) ||
+			(p.area && p.area.toLowerCase().includes(s)) ||
+			(p.pinCode && p.pinCode.toLowerCase().includes(s))
 		);
 	});
 
@@ -386,6 +388,18 @@
 																<dd class="text-sm text-indigo-900">
 																	{promoter.promoterAddress}
 																</dd>
+															</div>
+														{/if}
+														{#if promoter.area}
+															<div>
+																<dt class="text-xs text-indigo-500">Area</dt>
+																<dd class="text-sm text-indigo-900">{promoter.area}</dd>
+															</div>
+														{/if}
+														{#if promoter.pinCode}
+															<div>
+																<dt class="text-xs text-indigo-500">Pin Code</dt>
+																<dd class="text-sm text-indigo-900">{promoter.pinCode}</dd>
 															</div>
 														{/if}
 														{#if promoter.promoterEmail}

@@ -54,6 +54,8 @@ model Project {
   reraRegNo            String   // RERA registration number (e.g. UPRERAPRJ17620)
   name                 String
   district             String?
+  area                 String?  // locality / sector / ward / village
+  pinCode              String?
   projectType          String?  // Residential, Commercial, Mixed, Plotted
   location             String?
   constructionStatus   String?  // Ongoing, Completed, Not Started
@@ -104,6 +106,8 @@ model Company {
   mobile          String?
   email           String?
   district        String?
+  area            String?  // locality / sector / ward
+  pinCode         String?
   pan             String?
   gstin           String?
   website         String?
@@ -135,6 +139,8 @@ model Agent {
   reraRegNo        String   // RERA agent reg no (e.g. DLRERA2025A0022)
   name             String
   district         String?
+  area             String?  // locality / sector / ward
+  pinCode          String?
   address          String?
   mobile           String?
   email            String?

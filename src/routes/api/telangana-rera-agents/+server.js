@@ -482,6 +482,8 @@ function mapToAgent(detail, basicRow) {
 	const certNo      = find('certificate no','registration no','cert no','rera no','reg no','application no')
 	                 || rowGet('Cert No','Certificate No','Registration No');
 	const district    = find('district') || '';
+	const area        = find('area','locality','sector','ward','village','mandal') || '';
+	const pinCode     = find('pincode','pin code','postal code','pin no') || '';
 	const validUpto   = find('valid upto','validity','valid till','certificate validity','registration validity')
 	                 || rowGet('Valid Upto','Valid Till');
 	const regDate     = find('registration date','reg date','certificate date','issue date') || '';
@@ -495,6 +497,8 @@ function mapToAgent(detail, basicRow) {
 		name:        agentName || '(Unknown)',
 		agentName:   agentName || '(Unknown)',
 		district,
+		area,
+		pinCode,
 		validUntil:  validUpto  || '',
 		regDate,
 		agentType,

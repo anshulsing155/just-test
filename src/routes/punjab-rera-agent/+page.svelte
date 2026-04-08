@@ -18,6 +18,8 @@
 		{ key: 'name', label: 'Agent Name' },
 		{ key: 'firmType', label: 'Type' },
 		{ key: 'district', label: 'District' },
+		{ key: 'area', label: 'Area' },
+		{ key: 'pinCode', label: 'Pin Code' },
 		{ key: 'validUpto', label: 'Validity' },
 		{
 			key: 'status',

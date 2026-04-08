@@ -16,9 +16,69 @@
 
 	// ── state ──────────────────────────────────────────────────────────────────
 	let companies = data.companies.map((c) => ({ ...c }));
+	let zonesLibrary = data.zonesLibrary ?? {}; // { stateName → { districtName → { zones[] } } }
 	let searchTerm = '';
 	let currentPage = 1;
 	const PER_PAGE = 25;
+
+	// ── Zone filter state ──────────────────────────────────────────────────────
+	// Cascade: state → district → zone → projects
+	// Maps short state codes from company data ('UP') to full names used by zones library
+	const STATE_CODE_TO_NAME = {
+		UP: 'Uttar Pradesh', DL: 'Delhi', MH: 'Maharashtra', PB: 'Punjab',
+		TS: 'Telangana', MP: 'Madhya Pradesh', RJ: 'Rajasthan', HR: 'Haryana',
+		GJ: 'Gujarat', KA: 'Karnataka', TN: 'Tamil Nadu', WB: 'West Bengal'
+	};
+	const stateCodeToName = (code) => STATE_CODE_TO_NAME[code] ?? code;
+
+	let filterState = '';     // full state name, e.g. 'Uttar Pradesh'
+	let filterDistrict = '';
+	let filterZone = '';      // zone.name
+
+	// All distinct states present in the company data, as full names
+	$: filterStateOptions = [...new Set(companies.map((c) => stateCodeToName(c.state)).filter(Boolean))].sort();
+
+	// Districts available for the chosen state — union of (a) districts found in
+	// company project data and (b) districts in the zones library — so the user
+	// can pick any district that has either projects or zones (or both).
+	$: filterDistrictOptions = (() => {
+		if (!filterState) return [];
+		const fromData = new Set();
+		for (const c of companies) {
+			if (stateCodeToName(c.state) !== filterState) continue;
+			for (const p of c.projects ?? []) {
+				if (p.district) fromData.add(p.district);
+			}
+		}
+		const fromZones = new Set(Object.keys(zonesLibrary[filterState] ?? {}));
+		return [...new Set([...fromData, ...fromZones])].sort();
+	})();
+
+	// Zones available for the chosen state + district
+	$: filterZoneOptions = (() => {
+		if (!filterState || !filterDistrict) return [];
+		return zonesLibrary[filterState]?.[filterDistrict]?.zones ?? [];
+	})();
+
+	// The selected zone object (or null)
+	$: selectedZone = filterZoneOptions.find((z) => z.name === filterZone) ?? null;
+
+	// Reset cascading dropdowns when parent changes
+	$: if (filterState !== undefined) { /* placeholder for reactivity */ }
+	function onStateChange() { filterDistrict = ''; filterZone = ''; currentPage = 1; }
+	function onDistrictChange() { filterZone = ''; currentPage = 1; }
+	function onZoneChange() { currentPage = 1; }
+	function clearZoneFilters() { filterState = ''; filterDistrict = ''; filterZone = ''; currentPage = 1; }
+
+	/** Does this project belong to the selected zone? */
+	function projectMatchesZone(project, zone) {
+		if (!zone) return true;
+		const areaSet = new Set((zone.areas ?? []).map((a) => a.toLowerCase().trim()));
+		const pinSet = new Set((zone.pincodes ?? []).map((p) => String(p).trim()));
+		const a = (project.area ?? '').toLowerCase().trim();
+		const p = String(project.pinCode ?? '').trim();
+		return (a && areaSet.has(a)) || (p && pinSet.has(p));
+	}
 
 	// modal state
 	let editOpen = false;
@@ -35,13 +95,168 @@
 	let projectsOpen = false;
 	let projectsTarget = null;
 	let addProjectOpen = false;
-	let newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+	let newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
 
 	// project inline-edit state
 	let editingProjectIdx = null;
 	let editingProject = {};
 	let removeConfirmIdx = null;
 	let lenderBankSelection = '';
+
+	// AI enrichment state
+	let enrichingIdx = null;      // index of the project currently being enriched
+	let enrichingAll = false;     // bulk enrichment in progress
+	let enrichProgress = { done: 0, total: 0 };
+	let enrichMsg = '';
+	let unsavedEnrichCount = 0;   // how many projects enriched but not yet saved to file
+
+	/** CSS class for AI confidence badge */
+	function confidenceClass(level) {
+		if (level === 'high')   return 'bg-green-50 text-green-700';
+		if (level === 'medium') return 'bg-yellow-50 text-yellow-700';
+		return 'bg-slate-100 text-slate-500';
+	}
+
+	/** Safely get hostname from a URL string */
+	function hostname(url) {
+		try { return new URL(url).hostname; } catch { return url; }
+	}
+
+	/** Enrich a single project with GPT (+ web search) and merge results */
+	async function enrichProject(companyId, projectIdx) {
+		const company = companies.find((c) => c._id === companyId);
+		if (!company) return;
+		const project = company.projects?.[projectIdx];
+		if (!project) return;
+
+		enrichingIdx = projectIdx;
+		enrichMsg = '';
+		console.log('[enrich] Starting enrichment for project:', project.name, '| RERA:', project.reraRegNo, '| company:', company.name);
+		try {
+			const res = await fetch('/api/enrich-project', {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				body: JSON.stringify({
+					// Core identifiers — used for search and DB lookup
+					projectName:     project.name,
+					companyName:     company.name,
+					reraRegNo:       project.reraRegNo  || '',
+					state:           company.state      || project.state || 'UP',
+					// Extra context — prevents confusing same-name projects in different locations
+					district:        project.district   || company.district || '',
+					address:         company.address    || '',
+					existingArea:    project.area       || '',
+					existingPinCode: project.pinCode    || '',
+					saveToDb:        true
+				})
+			});
+			console.log('[enrich] HTTP status:', res.status, res.ok);
+			const rawText = await res.text();
+			console.log('[enrich] Raw response text:', rawText);
+			let result;
+			try {
+				result = JSON.parse(rawText);
+			} catch (parseErr) {
+				console.error('[enrich] Failed to parse JSON:', parseErr.message);
+				enrichMsg = `✗ Server returned non-JSON (status ${res.status}): ${rawText.slice(0, 100)}`;
+				return;
+			}
+			console.log('[enrich] Parsed result:', result);
+			if (result.success) {
+				const enriched = result.data;
+				const confidence = enriched.confidence ?? 'low';
+				const fieldsFound = result.fieldsFound ?? 0;
+
+				/**
+				 * Confidence-gated merge — prevents hallucinations from corrupting data:
+				 *  high   → apply all non-null enriched fields (RERA portal is authoritative)
+				 *  medium → apply only if the existing project field is empty / null
+				 *  low    → apply nothing (server already nullified speculative fields,
+				 *            but we also skip on the client as an extra safety layer)
+				 */
+				function mergeField(enrichedVal, existingVal) {
+					if (!enrichedVal) return existingVal;            // AI returned null → keep existing
+					if (confidence === 'low') return existingVal;   // low confidence → never overwrite
+					if (confidence === 'medium') return existingVal || enrichedVal; // only fill blanks
+					return enrichedVal;                              // high → authoritative
+				}
+
+				companies = companies.map((c) =>
+					c._id !== companyId ? c : {
+						...c,
+						projects: c.projects.map((p, i) =>
+							i !== projectIdx ? p : {
+								...p,
+								area:               mergeField(enriched.area,               p.area),
+								pinCode:            mergeField(enriched.pinCode,            p.pinCode),
+								district:           mergeField(enriched.district,           p.district),
+								projectType:        mergeField(enriched.projectType,        p.projectType),
+								constructionStatus: mergeField(enriched.constructionStatus, p.constructionStatus),
+								location:           mergeField(enriched.location,           p.location),
+								_aiMeta: {
+									confidence,
+									sources:    enriched.sources ?? [],
+									usedSearch: result.usedSearch,
+									fieldsFound,
+									enrichedAt: new Date().toISOString()
+								}
+							}
+						)
+					}
+				);
+				if (projectsTarget?._id === companyId) {
+					projectsTarget = companies.find((c) => c._id === companyId);
+				}
+
+				if (fieldsFound > 0 && confidence !== 'low') {
+					unsavedEnrichCount++;
+				}
+
+				const sourceCount = enriched.sources?.length ?? 0;
+				const searchNote = result.usedSearch ? ` · ${sourceCount} source${sourceCount !== 1 ? 's' : ''}` : ' · no web search';
+				const fieldsNote = fieldsFound > 0 ? ` · ${fieldsFound} field${fieldsFound !== 1 ? 's' : ''} filled` : ' · no new data';
+				enrichMsg = `✓ "${project.name}" · confidence: ${confidence}${searchNote}${fieldsNote}`;
+				if (fieldsFound > 0 && confidence !== 'low') {
+					saveMsg = `${unsavedEnrichCount} enrichment${unsavedEnrichCount !== 1 ? 's' : ''} pending save — click "Save to file".`;
+				}
+			} else {
+				enrichMsg = `✗ Failed: ${result.error}`;
+			}
+		} catch (err) {
+			console.error('[enrich] Fetch error:', err);
+			enrichMsg = `✗ Error: ${err.message}`;
+		} finally {
+			enrichingIdx = null;
+		}
+	}
+
+	/** Enrich all projects for the current modal company */
+	async function enrichAllProjects() {
+		if (!projectsTarget) return;
+		const projects = projectsTarget.projects ?? [];
+		if (!projects.length) return;
+		enrichingAll = true;
+		enrichMsg = '';
+		enrichProgress = { done: 0, total: projects.length };
+
+		for (let i = 0; i < projects.length; i++) {
+			await enrichProject(projectsTarget._id, i);
+			enrichProgress = { done: i + 1, total: projects.length };
+			// small delay to avoid rate-limiting
+			if (i < projects.length - 1) await new Promise(r => setTimeout(r, 800));
+		}
+
+		enrichingAll = false;
+		enrichMsg = `✓ All ${projects.length} project(s) processed. Auto-saving…`;
+
+		// Auto-save after bulk enrichment so no data is lost on page refresh
+		if (unsavedEnrichCount > 0) {
+			await saveToFile();
+			enrichMsg = `✓ All ${projects.length} project(s) enriched and saved to file.`;
+		} else {
+			enrichMsg = `✓ All ${projects.length} project(s) processed — no new data found.`;
+		}
+	}
 
 	function normalizeLenderNames(value) {
 		if (Array.isArray(value)) return value;
@@ -100,7 +315,7 @@
 		editingProjectIdx = null;
 		editingProject = {};
 		removeConfirmIdx = null;
-		newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+		newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
 	}
 
 	function addProject() {
@@ -111,23 +326,55 @@
 				: c
 		);
 		projectsTarget = companies.find((c) => c._id === projectsTarget._id);
-		newProject = { reraRegNo: '', name: '', district: '', projectType: '', constructionStatus: '' };
+		newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
 		addProjectOpen = false;
 		saveMsg = 'Project added locally. Click "Save to file" to persist.';
 	}
 
 	// ── derived ────────────────────────────────────────────────────────────────
 	$: filtered = companies.filter((c) => {
+		// 1. State filter
+		if (filterState && stateCodeToName(c.state) !== filterState) return false;
+
+		// 2. District filter — company must have AT LEAST ONE project in that district
+		if (filterDistrict) {
+			const hasDistrict = (c.projects ?? []).some((p) => p.district === filterDistrict);
+			if (!hasDistrict) return false;
+		}
+
+		// 3. Zone filter — company must have AT LEAST ONE project matching the zone
+		if (selectedZone) {
+			const hasZoneMatch = (c.projects ?? []).some((p) =>
+				p.district === filterDistrict && projectMatchesZone(p, selectedZone)
+			);
+			if (!hasZoneMatch) return false;
+		}
+
+		// 4. Free-text search
 		const q = searchTerm.toLowerCase().trim();
 		if (!q) return true;
 		return (
 			(c.name ?? '').toLowerCase().includes(q) ||
 			(c.reraRegNo ?? '').toLowerCase().includes(q) ||
 			(c.district ?? '').toLowerCase().includes(q) ||
+			(c.area ?? '').toLowerCase().includes(q) ||
+			(c.pinCode ?? '').toLowerCase().includes(q) ||
 			(c.address ?? '').toLowerCase().includes(q) ||
 			(c.legalType ?? '').toLowerCase().includes(q)
 		);
 	});
+
+	// How many projects within filtered companies actually match the zone (for stat display)
+	$: matchedProjectCount = (() => {
+		if (!selectedZone) return 0;
+		let n = 0;
+		for (const c of filtered) {
+			for (const p of c.projects ?? []) {
+				if (p.district === filterDistrict && projectMatchesZone(p, selectedZone)) n++;
+			}
+		}
+		return n;
+	})();
 
 	$: totalPages = Math.max(1, Math.ceil(filtered.length / PER_PAGE));
 	$: if (currentPage > totalPages) currentPage = totalPages;
@@ -179,6 +426,12 @@
 		deleteTarget = null;
 	}
 
+	function deleteStepClass(step) {
+		return step === 1
+			? 'bg-orange-500 hover:bg-orange-600'
+			: 'bg-red-600 hover:bg-red-700';
+	}
+
 	async function saveToFile() {
 		saving = true;
 		saveMsg = '';
@@ -225,6 +478,91 @@
 			</div>
 		</div>
 
+		<!-- Cascading Zone Filter: State → District → Zone -->
+		<div class="mb-4 rounded-2xl bg-white p-4 shadow-sm">
+			<div class="mb-2 flex items-center justify-between">
+				<h3 class="text-xs font-semibold uppercase tracking-wider text-slate-500">Filter by Zone</h3>
+				{#if filterState || filterDistrict || filterZone}
+					<button type="button" on:click={clearZoneFilters}
+						class="text-xs font-semibold text-indigo-600 hover:text-indigo-800">
+						Clear filters
+					</button>
+				{/if}
+			</div>
+
+			<div class="grid grid-cols-1 gap-3 md:grid-cols-3">
+				<!-- State -->
+				<div>
+					<label for="filter-state" class="mb-1 block text-[11px] font-medium text-slate-500">State</label>
+					<select id="filter-state" bind:value={filterState} on:change={onStateChange}
+						class="w-full rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100">
+						<option value="">All states</option>
+						{#each filterStateOptions as s}
+							<option value={s}>{s}</option>
+						{/each}
+					</select>
+				</div>
+
+				<!-- District -->
+				<div>
+					<label for="filter-district" class="mb-1 block text-[11px] font-medium text-slate-500">District</label>
+					<select id="filter-district" bind:value={filterDistrict} on:change={onDistrictChange}
+						disabled={!filterState}
+						class="w-full rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 disabled:bg-slate-50 disabled:text-slate-400">
+						<option value="">All districts</option>
+						{#each filterDistrictOptions as d}
+							<option value={d}>{d}</option>
+						{/each}
+					</select>
+				</div>
+
+				<!-- Zone -->
+				<div>
+					<label for="filter-zone" class="mb-1 block text-[11px] font-medium text-slate-500">
+						Zone
+						{#if filterDistrict && filterZoneOptions.length === 0}
+							<span class="ml-1 text-amber-600">(none yet — generate via Zone Generator)</span>
+						{:else if filterZoneOptions.length}
+							<span class="ml-1 text-slate-400">({filterZoneOptions.length} available)</span>
+						{/if}
+					</label>
+					<select id="filter-zone" bind:value={filterZone} on:change={onZoneChange}
+						disabled={!filterDistrict || !filterZoneOptions.length}
+						class="w-full rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 disabled:bg-slate-50 disabled:text-slate-400">
+						<option value="">All zones</option>
+						{#each filterZoneOptions as z}
+							<option value={z.name}>{z.name} ({(z.areas ?? []).length} areas)</option>
+						{/each}
+					</select>
+				</div>
+			</div>
+
+			{#if selectedZone}
+				<div class="mt-3 rounded-xl bg-indigo-50 p-3 text-xs">
+					<div class="flex items-start justify-between gap-3">
+						<div class="min-w-0">
+							<p class="font-semibold text-indigo-900">{selectedZone.name}</p>
+							{#if selectedZone.description}
+								<p class="mt-0.5 text-indigo-700">{selectedZone.description}</p>
+							{/if}
+							<p class="mt-1 text-indigo-600">
+								<b>{(selectedZone.areas ?? []).length}</b> areas ·
+								<b>{(selectedZone.pincodes ?? []).length}</b> pincodes ·
+								<b>{matchedProjectCount}</b> matching project{matchedProjectCount !== 1 ? 's' : ''}
+							</p>
+						</div>
+					</div>
+					{#if selectedZone.pincodes?.length}
+						<div class="mt-2 flex flex-wrap gap-1">
+							{#each selectedZone.pincodes as pin}
+								<span class="rounded bg-white px-1.5 py-0.5 font-mono text-[10px] text-indigo-700">{pin}</span>
+							{/each}
+						</div>
+					{/if}
+				</div>
+			{/if}
+		</div>
+
 		<!-- Search -->
 		<div class="mb-6">
 			<input
@@ -265,6 +603,8 @@
 							<th class="px-4 py-3 text-left">RERA No.</th>
 							<th class="px-4 py-3 text-left">Type</th>
 							<th class="px-4 py-3 text-left">District</th>
+							<th class="px-4 py-3 text-left">Area</th>
+							<th class="px-4 py-3 text-left">Pin Code</th>
 							<th class="px-4 py-3 text-left">Mobile</th>
 							<th class="px-4 py-3 text-left">Email</th>						<th class="px-4 py-3 text-left">Projects</th>							<th class="px-4 py-3 text-left">Actions</th>
 						</tr>
@@ -288,6 +628,8 @@
 									{/if}
 								</td>
 								<td class="px-4 py-3 text-slate-600">{company.district ?? '—'}</td>
+								<td class="px-4 py-3 text-slate-600">{company.area ?? '—'}</td>
+								<td class="px-4 py-3 text-slate-600">{company.pinCode ?? '—'}</td>
 								<td class="px-4 py-3 text-slate-600">{company.contact?.mobile ?? '—'}</td>
 								<td class="px-4 py-3 text-slate-600 max-w-[180px] truncate">{company.contact?.email ?? '—'}</td>
 								<td class="px-4 py-3">								{#if (company.projects ?? []).length > 0}
@@ -396,6 +738,18 @@
 							class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
 					</div>
 
+					<div>
+						<label for="edit-area" class="block text-xs font-semibold text-slate-500 mb-1">Area</label>
+						<input id="edit-area" type="text" bind:value={editor.area}
+							class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+					</div>
+
+					<div>
+						<label for="edit-pincode" class="block text-xs font-semibold text-slate-500 mb-1">Pin Code</label>
+						<input id="edit-pincode" type="text" bind:value={editor.pinCode}
+							class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+					</div>
+
 					<div class="sm:col-span-2">
 						<label for="edit-address" class="block text-xs font-semibold text-slate-500 mb-1">Address</label>
 						<textarea id="edit-address" rows="2" bind:value={editor.address}
@@ -468,10 +822,29 @@
 				<div class="flex items-center gap-3">
 					<button
 						type="button"
+						on:click={enrichAllProjects}
+						disabled={enrichingAll || enrichingIdx !== null || !(projectsTarget?.projects?.length)}
+						class="rounded-xl bg-violet-600 px-4 py-2 text-sm font-semibold text-white hover:bg-violet-700 disabled:opacity-50 disabled:cursor-not-allowed"
+						title="Send all project names to GPT and auto-fill area, pin code, district etc."
+					>
+						{#if enrichingAll}
+							<span class="inline-flex items-center gap-1.5">
+								<svg class="h-3.5 w-3.5 animate-spin" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+									<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
+									<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/>
+								</svg>
+								{enrichProgress.done}/{enrichProgress.total}
+							</span>
+						{:else}
+							✦ AI Enrich All
+						{/if}
+					</button>
+					<button
+						type="button"
 						on:click={() => (addProjectOpen = true)}
 						class="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700"
 					>+ Add Project</button>
-					<button type="button" on:click={() => { projectsOpen = false; addProjectOpen = false; }} class="text-slate-400 hover:text-slate-700 text-xl font-bold">✕</button>
+					<button type="button" on:click={() => { projectsOpen = false; addProjectOpen = false; enrichMsg = ''; }} class="text-slate-400 hover:text-slate-700 text-xl font-bold">✕</button>
 				</div>
 			</div>
 
@@ -481,20 +854,20 @@
 					<h3 class="mb-3 text-sm font-bold text-slate-800">New Project</h3>
 					<div class="grid gap-3 sm:grid-cols-2">
 						<div>
-							<label class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
-							<input type="text" bind:value={newProject.name}
+							<label for="new-name" class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
+							<input id="new-name" type="text" bind:value={newProject.name}
 								placeholder="e.g. Green Valley Heights"
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
 						</div>
 						<div>
-							<label class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
-							<input type="text" bind:value={newProject.reraRegNo}
+							<label for="new-rera" class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
+							<input id="new-rera" type="text" bind:value={newProject.reraRegNo}
 								placeholder="e.g. UPRERAPRJ12345"
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
 						</div>
 						<div>
-							<label class="block text-xs font-semibold text-slate-500 mb-1">District</label>
-							<select bind:value={newProject.district}
+							<label for="new-district" class="block text-xs font-semibold text-slate-500 mb-1">District</label>
+							<select id="new-district" bind:value={newProject.district}
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
 								<option value="">Select district…</option>
 								{#each UP_DISTRICTS as district}
@@ -503,8 +876,20 @@
 							</select>
 						</div>
 						<div>
-							<label class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
-							<select bind:value={newProject.projectType}
+							<label for="new-area" class="block text-xs font-semibold text-slate-500 mb-1">Area</label>
+							<input id="new-area" type="text" bind:value={newProject.area}
+								placeholder="e.g. Sector 62, Noida"
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
+						</div>
+						<div>
+							<label for="new-pincode" class="block text-xs font-semibold text-slate-500 mb-1">Pin Code</label>
+							<input id="new-pincode" type="text" bind:value={newProject.pinCode}
+								placeholder="e.g. 201301"
+								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
+						</div>
+						<div>
+							<label for="new-type" class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
+							<select id="new-type" bind:value={newProject.projectType}
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
 								<option value="">Select type…</option>
 								<option value="Residential">Residential</option>
@@ -514,8 +899,8 @@
 							</select>
 						</div>
 						<div class="sm:col-span-2">
-							<label class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
-							<select bind:value={newProject.constructionStatus}
+							<label for="new-status" class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
+							<select id="new-status" bind:value={newProject.constructionStatus}
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none bg-white">
 								<option value="">Select status…</option>
 								<option value="Ready to Move">Ready to Move</option>
@@ -537,6 +922,13 @@
 				</div>
 			{/if}
 
+			<!-- AI enrichment status bar -->
+			{#if enrichMsg}
+				<div class="border-b border-slate-100 px-6 py-2.5 text-xs font-medium {enrichMsg.startsWith('✓') ? 'bg-violet-50 text-violet-700' : 'bg-red-50 text-red-700'}">
+					{enrichMsg}
+				</div>
+			{/if}
+
 			<!-- Projects List -->
 			<div class="max-h-[50vh] overflow-y-auto p-6">
 				{#if (projectsTarget.projects ?? []).length === 0}
@@ -550,18 +942,18 @@
 									<div class="rounded-2xl bg-indigo-50 p-4">
 										<div class="grid gap-3 sm:grid-cols-2">
 											<div>
-												<label class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
-												<input type="text" bind:value={editingProject.name}
+												<label for="edit-proj-name" class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
+												<input id="edit-proj-name" type="text" bind:value={editingProject.name}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
 											</div>
 											<div>
-												<label class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
-												<input type="text" bind:value={editingProject.reraRegNo}
+												<label for="edit-proj-rera" class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
+												<input id="edit-proj-rera" type="text" bind:value={editingProject.reraRegNo}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
 											</div>
 											<div>
-												<label class="block text-xs font-semibold text-slate-500 mb-1">District</label>
-												<select bind:value={editingProject.district}
+												<label for="edit-proj-district" class="block text-xs font-semibold text-slate-500 mb-1">District</label>
+												<select id="edit-proj-district" bind:value={editingProject.district}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
 													<option value="">Select district…</option>
 													{#each UP_DISTRICTS as d}
@@ -570,8 +962,20 @@
 												</select>
 											</div>
 											<div>
-												<label class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
-												<select bind:value={editingProject.projectType}
+												<label for="edit-proj-area" class="block text-xs font-semibold text-slate-500 mb-1">Area</label>
+												<input id="edit-proj-area" type="text" bind:value={editingProject.area}
+													placeholder="e.g. Sector 62, Noida"
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+											</div>
+											<div>
+												<label for="edit-proj-pincode" class="block text-xs font-semibold text-slate-500 mb-1">Pin Code</label>
+												<input id="edit-proj-pincode" type="text" bind:value={editingProject.pinCode}
+													placeholder="e.g. 201301"
+													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+											</div>
+											<div>
+												<label for="edit-proj-type" class="block text-xs font-semibold text-slate-500 mb-1">Project Type</label>
+												<select id="edit-proj-type" bind:value={editingProject.projectType}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
 													<option value="">Select type…</option>
 													<option value="Residential">Residential</option>
@@ -581,8 +985,8 @@
 												</select>
 											</div>
 											<div class="sm:col-span-2">
-												<label class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
-												<select bind:value={editingProject.constructionStatus}
+												<label for="edit-proj-status" class="block text-xs font-semibold text-slate-500 mb-1">Construction Status</label>
+												<select id="edit-proj-status" bind:value={editingProject.constructionStatus}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white">
 													<option value="">Select status…</option>
 													<option value="Ready to Move">Ready to Move</option>
@@ -590,7 +994,6 @@
 													<option value="Resale">Resale</option>
 												</select>
 											</div>
-									
 										</div>
 										<div class="mt-3 flex justify-end gap-2">
 											<button type="button" on:click={() => { editingProjectIdx = null; editingProject = {}; lenderBankSelection = ''; }}
@@ -611,6 +1014,8 @@
 											<div class="mt-1 flex flex-wrap gap-2 text-xs text-slate-500">
 												{#if project.reraRegNo}<span class="font-mono">{project.reraRegNo}</span>{/if}
 												{#if project.district}<span>· {project.district}</span>{/if}
+												{#if project.area}<span>· {project.area}</span>{/if}
+												{#if project.pinCode}<span>· {project.pinCode}</span>{/if}
 												{#if project.projectType}<span class="rounded-full bg-indigo-50 px-2 py-0.5 font-medium text-indigo-700">{project.projectType}</span>{/if}
 												{#if project.constructionStatus}<span class="rounded-full bg-amber-50 px-2 py-0.5 font-medium text-amber-700">{project.constructionStatus}</span>{/if}
 												{#if normalizeLenderNames(project.lenderName).length}
@@ -618,9 +1023,39 @@
 														{normalizeLenderNames(project.lenderName).join(', ')}
 													</span>
 												{/if}
+												{#if project._aiMeta}
+													<span class="rounded-full px-2 py-0.5 font-semibold {confidenceClass(project._aiMeta.confidence)}">
+														✦ AI · {project._aiMeta.confidence}{project._aiMeta.usedSearch ? ' 🔍' : ''}
+													</span>
+												{/if}
 											</div>
+											{#if project._aiMeta?.sources?.length}
+												<div class="mt-1.5 flex flex-wrap gap-x-3 gap-y-1">
+													{#each project._aiMeta.sources.slice(0, 3) as src}
+														<a href={src} target="_blank" rel="noopener noreferrer"
+															class="truncate max-w-[200px] text-[10px] text-indigo-400 hover:text-indigo-600 hover:underline"
+															title={src}>
+															🔗 {hostname(src)}
+														</a>
+													{/each}
+												</div>
+											{/if}
 										</div>
 										<div class="ml-4 flex shrink-0 gap-2">
+											<button
+												type="button"
+												on:click={() => enrichProject(projectsTarget._id, idx)}
+												disabled={enrichingIdx === idx || enrichingAll}
+												class="rounded-lg bg-violet-50 px-2 py-1 text-xs font-semibold text-violet-700 hover:bg-violet-100 disabled:opacity-50 disabled:cursor-not-allowed"
+												title="Ask GPT to fill area, pin code, district, type etc."
+											>
+												{#if enrichingIdx === idx}
+													<svg class="inline h-3 w-3 animate-spin" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+														<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
+														<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/>
+													</svg>
+												{:else}✦ AI{/if}
+											</button>
 											<button
 												type="button"
 												on:click={() => { openProjectEdit(idx, project); removeConfirmIdx = null; }}
@@ -702,9 +1137,7 @@
 					Cancel
 				</button>
 				<button type="button" on:click={confirmDelete}
-					class={deleteStep === 1
-						? 'rounded-xl bg-orange-500 px-5 py-2 text-sm font-semibold text-white hover:bg-orange-600'
-						: 'rounded-xl bg-red-600 px-5 py-2 text-sm font-semibold text-white hover:bg-red-700'}>
+					class="rounded-xl px-5 py-2 text-sm font-semibold text-white {deleteStepClass(deleteStep)}">
 					{deleteStep === 1 ? 'Continue' : 'Delete permanently'}
 				</button>
 			</div>

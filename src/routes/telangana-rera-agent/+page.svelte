@@ -31,6 +31,8 @@
 			(a.agentName  && a.agentName.toLowerCase().includes(s))  ||
 			(a.name       && a.name.toLowerCase().includes(s))       ||
 			(a.district   && a.district.toLowerCase().includes(s))   ||
+			(a.area       && a.area.toLowerCase().includes(s))       ||
+			(a.pinCode    && a.pinCode.includes(s))                  ||
 			(a.reraRegNo  && a.reraRegNo.toLowerCase().includes(s))  ||
 			(a.agentType  && a.agentType.toLowerCase().includes(s))
 		);
@@ -376,6 +378,8 @@
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Agent Name</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Certificate No</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">District</th>
+							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Area</th>
+							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Pin Code</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Type</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Valid Until</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Actions</th>
@@ -388,6 +392,8 @@
 								<td class="px-5 py-4 font-medium text-slate-900">{getName(a)}</td>
 								<td class="px-5 py-4 font-mono text-xs text-slate-600">{a.reraRegNo || '—'}</td>
 								<td class="px-5 py-4 text-slate-600">{a.district || '—'}</td>
+								<td class="px-5 py-4 text-slate-600">{a.area || '—'}</td>
+								<td class="px-5 py-4 text-slate-600">{a.pinCode || '—'}</td>
 								<td class="px-5 py-4 text-slate-600">{a.agentType || '—'}</td>
 								<td class="px-5 py-4 text-slate-600">{a.validUntil || '—'}</td>
 								<td class="px-5 py-4">
@@ -475,6 +481,8 @@
 						['Agent Name',    getName(modalAgent)],
 						['Certificate No', modalAgent.reraRegNo],
 						['District',       modalAgent.district],
+						['Area',           modalAgent.area],
+						['Pin Code',       modalAgent.pinCode],
 						['Type',           modalAgent.agentType],
 						['Valid Until',    modalAgent.validUntil],
 						['Reg Date',       modalAgent.regDate],

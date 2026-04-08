@@ -16,6 +16,8 @@
 		{ key: 'name', label: 'Agent Name' },
 		{ key: 'firmType', label: 'Type' },
 		{ key: 'district', label: 'District' },
+		{ key: 'area', label: 'Area' },
+		{ key: 'pinCode', label: 'Pin Code' },
 		{ key: 'mobile', label: 'Mobile' },
 		{ key: 'validUpto', label: 'Validity' },
 		{
@@ -91,6 +93,8 @@
 			'Type':             agent.firmType,
 			'Father / Husband': agent.fatherName,
 			'District':         agent.district,
+			'Area':             agent.area,
+			'Pin Code':         agent.pinCode,
 			'Mobile':           agent.mobile,
 			'Email':            agent.email,
 			'Address':          agent.address,

@@ -32,6 +32,8 @@
 			(p.name         && p.name.toLowerCase().includes(s))         ||
 			(p.promoterName && p.promoterName.toLowerCase().includes(s)) ||
 			(p.district     && p.district.toLowerCase().includes(s))     ||
+			(p.area         && p.area.toLowerCase().includes(s))         ||
+			(p.pinCode      && p.pinCode.toLowerCase().includes(s))      ||
 			(p.reraRegNo    && p.reraRegNo.toLowerCase().includes(s))    ||
 			(p.projectType  && p.projectType.toLowerCase().includes(s))
 		);
@@ -381,6 +383,8 @@
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Project Name</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Promoter</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">District</th>
+							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Area</th>
+							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Pin Code</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Type</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Status</th>
 							<th class="px-5 py-4 text-left text-xs font-semibold uppercase tracking-wider text-slate-500">Completion</th>
@@ -394,6 +398,8 @@
 								<td class="px-5 py-4 font-medium text-slate-900">{getName(p)}</td>
 								<td class="px-5 py-4 text-slate-600">{getPromo(p)}</td>
 								<td class="px-5 py-4 text-slate-600">{p.district || '—'}</td>
+								<td class="px-5 py-4 text-slate-600">{p.area || '—'}</td>
+								<td class="px-5 py-4 text-slate-600">{p.pinCode || '—'}</td>
 								<td class="px-5 py-4 text-slate-600">{p.projectType || '—'}</td>
 								<td class="px-5 py-4">
 									{#if p.constructionStatus}
@@ -493,6 +499,8 @@
 						['Project Name',  getName(modalProject)],
 						['Promoter',      getPromo(modalProject)],
 						['District',      modalProject.district],
+						['Area',          modalProject.area],
+						['Pin Code',      modalProject.pinCode],
 						['Project Type',  modalProject.projectType],
 						['Status',        modalProject.constructionStatus],
 						['Completion',    modalProject.validUntil],

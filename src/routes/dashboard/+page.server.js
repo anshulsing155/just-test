@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
 export function load() {
@@ -7,5 +7,12 @@ export function load() {
 		'companies_with_projects_2026-04-06T06-27-43-033Z.json'
 	);
 	const companies = JSON.parse(readFileSync(filePath, 'utf8'));
-	return { companies };
+
+	// Load saved zones library (state → district → { zones, ... })
+	const zonesPath = path.join(process.cwd(), 'zones_generated.json');
+	const zonesLibrary = existsSync(zonesPath)
+		? JSON.parse(readFileSync(zonesPath, 'utf8'))
+		: {};
+
+	return { companies, zonesLibrary };
 }

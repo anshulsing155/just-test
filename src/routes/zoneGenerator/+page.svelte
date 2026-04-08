@@ -11,6 +11,8 @@
   let loading = false;
   let error = null;
   let copied = false;
+  let savingToLib = false;
+  let savedToLibMsg = "";
 
   // Dropdown search
   let mainSearch = "";
@@ -152,6 +154,40 @@
     setTimeout(() => (copied = false), 2000);
   }
 
+  /** Save the current generated zones to the shared zone library so the
+   *  dashboard (and other consumers) can filter projects by zone. */
+  async function saveToLibrary() {
+    if (!aiResponse || !zones.length) return;
+    savingToLib = true;
+    savedToLibMsg = "";
+    try {
+      const payload = {
+        city: aiResponse.city,
+        summary: aiResponse.summary,
+        total_areas: previewAreaCount,
+        total_pincodes: previewPincodeCount,
+        zones, // working copy with manual fixes applied
+      };
+      const res = await fetch("/api/zones", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          state: aiResponse.state || selectedMain,
+          district: aiResponse.district || selectedNested,
+          payload,
+        }),
+      });
+      const result = await res.json();
+      if (!result.success) throw new Error(result.error || "Save failed");
+      savedToLibMsg = `✓ Saved ${result.zoneCount} zones to library`;
+      setTimeout(() => (savedToLibMsg = ""), 4000);
+    } catch (err) {
+      savedToLibMsg = `✗ ${err.message}`;
+    } finally {
+      savingToLib = false;
+    }
+  }
+
   function localityColor(type) {
     const map = {
       urban: "bg-blue-100 text-blue-800",
@@ -162,6 +198,10 @@
       mixed: "bg-gray-100 text-gray-800",
     };
     return map[type?.toLowerCase()] ?? "bg-gray-100 text-gray-700";
+  }
+
+  function libMsgClass(msg) {
+    return msg.startsWith("✓") ? "text-emerald-600" : "text-red-600";
   }
 
   function priorityColor(p) {
@@ -245,7 +285,16 @@
               <h2 class="text-xl font-bold text-gray-900">{aiResponse.city || aiResponse.district}</h2>
               <p class="text-sm text-gray-500">{aiResponse.state} › {aiResponse.district}</p>
             </div>
-            <div class="flex gap-2">
+            <div class="flex flex-wrap items-center gap-2">
+              {#if savedToLibMsg}
+                <span class="text-xs font-medium {libMsgClass(savedToLibMsg)}">
+                  {savedToLibMsg}
+                </span>
+              {/if}
+              <button on:click={saveToLibrary} disabled={savingToLib || !zones.length}
+                class="rounded-lg bg-emerald-600 px-3 py-1.5 text-xs font-semibold text-white hover:bg-emerald-700 disabled:opacity-50 transition">
+                {savingToLib ? "Saving…" : "💾 Save to Library"}
+              </button>
               <button on:click={copyJSON}
                 class="rounded-lg border border-gray-200 px-3 py-1.5 text-xs font-medium text-gray-600 hover:bg-gray-50 transition">
                 {copied ? "✓ Copied" : "Copy JSON"}
