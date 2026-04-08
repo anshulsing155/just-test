@@ -2,7 +2,7 @@
 	import pincodeData from '$lib/data/pincode_IN_all.json';
 	import companyData from "$lib/data/companies_with_projects_2026-04-06T06-27-43-033Z.json"
 		import projectsData from "$lib/data/projects_UP_only_2026-04-04T12-00-45-596Z.json"
-	import bankNames from '$lib/data/tempBankNames.json';
+	// import bankNames from '$lib/data/tempBankNames.json';
 
 
 	const UP_DISTRICTS = Object.keys(pincodeData['Uttar Pradesh']).sort();
@@ -49,10 +49,10 @@
 		return [];
 	}
 
-	function getAvailableBanks(selectedBanks = []) {
-		const selected = new Set(normalizeLenderNames(selectedBanks));
-		return bankNames.filter((bank) => !selected.has(bank));
-	}
+	// function getAvailableBanks(selectedBanks = []) {
+	// 	const selected = new Set(normalizeLenderNames(selectedBanks));
+	// 	return bankNames.filter((bank) => !selected.has(bank));
+	// }
 
 	function openProjectEdit(idx, project) {
 		editingProjectIdx = idx;
@@ -590,49 +590,7 @@
 													<option value="Resale">Resale</option>
 												</select>
 											</div>
-											<div class="sm:col-span-2">
-												<label class="block text-xs font-semibold text-slate-500 mb-1">Lender Name</label>
-												<div class="rounded-2xl border border-slate-200 bg-white p-3">
-													<div class="mb-3 flex min-h-[44px] flex-wrap gap-2">
-														{#each normalizeLenderNames(editingProject.lenderName) as bank}
-															<span class="inline-flex items-center gap-2 rounded-full bg-indigo-100 px-3 py-1 text-xs font-semibold text-indigo-700">
-																{bank}
-																<button
-																	type="button"
-																	on:click={() => removeLenderBank(bank)}
-																	class="inline-flex h-5 w-5 items-center justify-center rounded-full bg-white text-indigo-700 hover:bg-indigo-50"
-																	aria-label={`Remove ${bank}`}
-																>
-																	×
-																</button>
-															</span>
-														{/each}
-														{#if !normalizeLenderNames(editingProject.lenderName).length}
-															<p class="text-xs text-slate-400">No bank selected yet.</p>
-														{/if}
-													</div>
-													<div class="flex gap-2">
-														<select
-															bind:value={lenderBankSelection}
-															class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none bg-white"
-														>
-															<option value="">Select bank...</option>
-															{#each getAvailableBanks(editingProject.lenderName) as bank}
-																<option value={bank}>{bank}</option>
-															{/each}
-														</select>
-														<button
-															type="button"
-															on:click={() => addLenderBank(lenderBankSelection)}
-															disabled={!lenderBankSelection}
-															class="rounded-xl bg-indigo-600 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-700 disabled:opacity-50"
-														>
-															Add
-														</button>
-													</div>
-													<p class="mt-2 text-xs text-slate-400">Selected banks move into chips above. Remove a chip to add that bank back to the list.</p>
-												</div>
-											</div>
+									
 										</div>
 										<div class="mt-3 flex justify-end gap-2">
 											<button type="button" on:click={() => { editingProjectIdx = null; editingProject = {}; lenderBankSelection = ''; }}
