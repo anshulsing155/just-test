@@ -35,6 +35,9 @@ importers:
       express:
         specifier: ^4.21.2
         version: 4.22.1
+      mongodb:
+        specifier: ^7.1.1
+        version: 7.1.1(socks@2.8.7)
       natural:
         specifier: ^8.0.1
         version: 8.1.1(socks@2.8.7)

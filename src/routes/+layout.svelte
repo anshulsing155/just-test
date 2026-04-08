@@ -30,7 +30,8 @@
 		{ href: '/loans', label: 'Loans', description: 'Financing options' },
 		{ href: '/zoneGenerator', label: 'Zone Generator', description: 'Area planning tool' },
 		{ href: '/demo', label: 'Demo', description: 'Assistant showcase' },
-		{ href: '/admin', label: 'Admin', description: 'Manage data' }
+		{ href: '/admin', label: 'Admin', description: 'Manage data' },
+		{ href: '/dashboard', label: 'UP Dashboard' }
 	];
 
 	function isActive(href) {
@@ -344,7 +345,7 @@
 		{/if}
 	</header>
 
-	<main class="mx-auto w-full max-w-6xl flex-1 px-4 py-8">
+	<main class="mx-auto w-full max-w-7xl flex-1 px-4 py-8">
 		<slot />
 	</main>
 
