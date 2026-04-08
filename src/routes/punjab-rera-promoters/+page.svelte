@@ -1,5 +1,5 @@
 <script>
-	import { onMount } from 'svelte';
+	import { onMount, onDestroy } from 'svelte';
 	import { fade, slide } from 'svelte/transition';
 
 	let promoters = [];
@@ -22,10 +22,21 @@
 	let promoterDetails = null;
 	let showPromoterModal = false;
 	let loadingPromoterDetail = false;
-	let scrapingAllProjects = false;
+	// Scrape messages
 	let scrapeProjectMsg = '';
-	let scrapingPromoters = false;
 	let scrapePromoterMsg = '';
+
+	// Browser-session state — promoters
+	let browserOpenPromoters = false;
+	let tableReadyPromoters  = false;
+	let scrapingPromoters    = false;
+	let pollPromoters        = null;
+
+	// Browser-session state — projects
+	let browserOpenProjects = false;
+	let tableReadyProjects  = false;
+	let scrapingAllProjects = false;
+	let pollProjects        = null;
 
 	// Pagination
 	let currentPage = 1;
@@ -142,46 +153,131 @@
 		}
 	}
 
-	async function scrapeAllProjects() {
-		scrapingAllProjects = true;
-		scrapeProjectMsg = '';
-		errorProjects = '';
-		projects = [];
-		selectedDistrict = '';
+	// ── Promoters: open-browser → poll → scrape ──────────────────────────────
+
+	function stopPollPromoters() {
+		if (pollPromoters) { clearInterval(pollPromoters); pollPromoters = null; }
+	}
+
+	async function openBrowserPromoters() {
+		errorPromoters = '';
+		scrapePromoterMsg = '';
+		tableReadyPromoters = false;
 		try {
-			const res = await fetch('/api/punjab-rera-projects?action=scrape-all&refresh=true');
-			const result = await res.json();
-			if (result.success) {
-				projects = result.data;
-				scrapeProjectMsg = `Scrape complete! ${result.scraped || result.total || projects.length} projects loaded.`;
-			} else {
-				throw new Error(result.error);
-			}
+			const res = await fetch('/api/punjab-rera-promoters?action=open-browser');
+			const data = await res.json();
+			if (!data.success) throw new Error(data.error);
+			browserOpenPromoters = true;
+			stopPollPromoters();
+			// Just check session is still alive — user clicks Scrape Now manually
+			pollPromoters = setInterval(async () => {
+				try {
+					const r = await fetch('/api/punjab-rera-promoters?action=check-ready');
+					const d = await r.json();
+					if (d.sessionExpired) {
+						stopPollPromoters();
+						browserOpenPromoters = false;
+						tableReadyPromoters  = false;
+						errorPromoters = 'Session expired — open the browser again.';
+					}
+				} catch {}
+			}, 5000);
 		} catch (e) {
-			errorProjects = 'Scrape failed: ' + (e.message || 'Unknown error');
-		} finally {
-			scrapingAllProjects = false;
+			errorPromoters = 'Failed to open browser: ' + e.message;
 		}
 	}
 
-	async function scrapeAllPromoters() {
+	async function scrapePromoters() {
 		scrapingPromoters = true;
-		scrapePromoterMsg = '';
 		errorPromoters = '';
+		scrapePromoterMsg = '';
 		try {
 			const res = await fetch('/api/punjab-rera-promoters?refresh=true');
 			const result = await res.json();
 			if (result.success) {
 				promoters = result.data;
-				scrapePromoterMsg = `Scrape complete! ${result.uniquePromoters || result.total || promoters.length} promoters loaded.`;
+				scrapePromoterMsg = `Done! ${result.scraped ?? 0} rows scraped, ${result.total ?? promoters.length} in database.`;
+				browserOpenPromoters = false;
+				tableReadyPromoters  = false;
 			} else {
 				throw new Error(result.error);
 			}
 		} catch (e) {
-			errorPromoters = 'Scrape failed: ' + (e.message || 'Unknown error');
+			errorPromoters = 'Scrape failed: ' + e.message;
 		} finally {
 			scrapingPromoters = false;
 		}
+	}
+
+	async function closeBrowserPromoters() {
+		stopPollPromoters();
+		await fetch('/api/punjab-rera-promoters?action=close-browser').catch(() => {});
+		browserOpenPromoters = false;
+		tableReadyPromoters  = false;
+	}
+
+	// ── Projects: open-browser → poll → scrape ───────────────────────────────
+
+	function stopPollProjects() {
+		if (pollProjects) { clearInterval(pollProjects); pollProjects = null; }
+	}
+
+	async function openBrowserProjects() {
+		errorProjects = '';
+		scrapeProjectMsg = '';
+		tableReadyProjects = false;
+		const districtParam = selectedDistrict ? `&district=${encodeURIComponent(selectedDistrict)}` : '';
+		try {
+			const res = await fetch(`/api/punjab-rera-projects?action=open-browser${districtParam}`);
+			const data = await res.json();
+			if (!data.success) throw new Error(data.error);
+			browserOpenProjects = true;
+			stopPollProjects();
+			// Just check session is still alive — user clicks Scrape Now manually
+			pollProjects = setInterval(async () => {
+				try {
+					const r = await fetch('/api/punjab-rera-projects?action=check-ready');
+					const d = await r.json();
+					if (d.sessionExpired) {
+						stopPollProjects();
+						browserOpenProjects = false;
+						tableReadyProjects  = false;
+						errorProjects = 'Session expired — open the browser again.';
+					}
+				} catch {}
+			}, 5000);
+		} catch (e) {
+			errorProjects = 'Failed to open browser: ' + e.message;
+		}
+	}
+
+	async function scrapeProjects() {
+		scrapingAllProjects = true;
+		errorProjects = '';
+		scrapeProjectMsg = '';
+		try {
+			const res = await fetch('/api/punjab-rera-projects?refresh=true');
+			const result = await res.json();
+			if (result.success) {
+				projects = result.data;
+				scrapeProjectMsg = `Done! ${result.scraped ?? 0} rows scraped, ${result.total ?? projects.length} in database.`;
+				browserOpenProjects = false;
+				tableReadyProjects  = false;
+			} else {
+				throw new Error(result.error);
+			}
+		} catch (e) {
+			errorProjects = 'Scrape failed: ' + e.message;
+		} finally {
+			scrapingAllProjects = false;
+		}
+	}
+
+	async function closeBrowserProjects() {
+		stopPollProjects();
+		await fetch('/api/punjab-rera-projects?action=close-browser').catch(() => {});
+		browserOpenProjects = false;
+		tableReadyProjects  = false;
 	}
 
 	async function loadAllProjects() {
@@ -290,6 +386,11 @@
 		fetchDistricts();
 		loadAllProjects();
 	});
+
+	onDestroy(() => {
+		stopPollPromoters();
+		stopPollProjects();
+	});
 </script>
 
 <svelte:head>
@@ -307,41 +408,52 @@
 		</div>
 		<div class="flex gap-2 flex-shrink-0">
 			{#if activeTab === 'promoters'}
+				{#if browserOpenPromoters}
+					<button
+						on:click={closeBrowserPromoters}
+						class="inline-flex items-center gap-2 rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 shadow-sm hover:bg-slate-50 transition-colors"
+					>Cancel</button>
+				{/if}
 				<button
-					on:click={scrapeAllPromoters}
+					on:click={browserOpenPromoters ? scrapePromoters : openBrowserPromoters}
 					disabled={scrapingPromoters}
 					class="inline-flex items-center gap-2 rounded-lg bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
 				>
 					{#if scrapingPromoters}
-						<svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-							<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-							<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
-						</svg>
-						Scraping Promoters...
+						<svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>
+						Scraping…
+					{:else if browserOpenPromoters}
+						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+						Scrape Now
 					{:else}
-						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-						</svg>
-						Scrape All Promoters
+						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" /></svg>
+						Open Browser
 					{/if}
 				</button>
 			{:else}
+				{#if browserOpenProjects}
+					<button
+						on:click={closeBrowserProjects}
+						class="inline-flex items-center gap-2 rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 shadow-sm hover:bg-slate-50 transition-colors"
+					>Cancel</button>
+				{/if}
 				<button
-					on:click={scrapeAllProjects}
-					disabled={scrapingAllProjects}
+					on:click={browserOpenProjects ? scrapeProjects : openBrowserProjects}
+					disabled={scrapingAllProjects || (browserOpenProjects && !tableReadyProjects)}
 					class="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-emerald-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
 				>
 					{#if scrapingAllProjects}
-						<svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-							<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-							<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
-						</svg>
-						Scraping All Projects...
+						<svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>
+						Scraping…
+					{:else if browserOpenProjects && tableReadyProjects}
+						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+						Scrape Now
+					{:else if browserOpenProjects}
+						<svg class="animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path></svg>
+						Waiting for CAPTCHA…
 					{:else}
-						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-						</svg>
-						Scrape All Projects
+						<svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" /></svg>
+						Open Browser
 					{/if}
 				</button>
 			{/if}
@@ -849,10 +961,10 @@
 						<div>
 							<h3 class="text-sm font-bold text-slate-900 mb-3">Project Information</h3>
 							<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
-								{#each Object.entries(projectDetails.projectInfo) as [label, value]}
+								{#each Object.entries(projectDetails.projectInfo) as e}
 									<div class="rounded-lg bg-slate-50 px-3 py-2">
-										<p class="text-xs font-medium text-slate-400">{label}</p>
-										<p class="text-sm text-slate-700 mt-0.5">{value}</p>
+										<p class="text-xs font-medium text-slate-400">{e[0]}</p>
+										<p class="text-sm text-slate-700 mt-0.5">{e[1]}</p>
 									</div>
 								{/each}
 							</div>
@@ -864,10 +976,10 @@
 						<div class="border-t border-slate-100 pt-4">
 							<h3 class="text-sm font-bold text-slate-900 mb-3">Promoter Information</h3>
 							<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
-								{#each Object.entries(projectDetails.promoterInfo) as [label, value]}
+								{#each Object.entries(projectDetails.promoterInfo) as e}
 									<div class="rounded-lg bg-slate-50 px-3 py-2">
-										<p class="text-xs font-medium text-slate-400">{label}</p>
-										<p class="text-sm text-slate-700 mt-0.5">{value}</p>
+										<p class="text-xs font-medium text-slate-400">{e[0]}</p>
+										<p class="text-sm text-slate-700 mt-0.5">{e[1]}</p>
 									</div>
 								{/each}
 							</div>
@@ -879,10 +991,10 @@
 						<div class="border-t border-slate-100 pt-4">
 							<h3 class="text-sm font-bold text-slate-900 mb-3">Location Details</h3>
 							<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
-								{#each Object.entries(projectDetails.locationInfo) as [label, value]}
+								{#each Object.entries(projectDetails.locationInfo) as e}
 									<div class="rounded-lg bg-slate-50 px-3 py-2">
-										<p class="text-xs font-medium text-slate-400">{label}</p>
-										<p class="text-sm text-slate-700 mt-0.5">{value}</p>
+										<p class="text-xs font-medium text-slate-400">{e[0]}</p>
+										<p class="text-sm text-slate-700 mt-0.5">{e[1]}</p>
 									</div>
 								{/each}
 							</div>
@@ -894,10 +1006,10 @@
 						<div class="border-t border-slate-100 pt-4">
 							<h3 class="text-sm font-bold text-slate-900 mb-3">Financial Details</h3>
 							<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
-								{#each Object.entries(projectDetails.financialInfo) as [label, value]}
+								{#each Object.entries(projectDetails.financialInfo) as e}
 									<div class="rounded-lg bg-slate-50 px-3 py-2">
-										<p class="text-xs font-medium text-slate-400">{label}</p>
-										<p class="text-sm text-slate-700 mt-0.5">{value}</p>
+										<p class="text-xs font-medium text-slate-400">{e[0]}</p>
+										<p class="text-sm text-slate-700 mt-0.5">{e[1]}</p>
 									</div>
 								{/each}
 							</div>
@@ -908,19 +1020,19 @@
 					{#if projectDetails.propertyDetails && Object.keys(projectDetails.propertyDetails).length > 0}
 						<div class="border-t border-slate-100 pt-4">
 							<h3 class="text-sm font-bold text-slate-900 mb-3">Property Details</h3>
-							{#each Object.entries(projectDetails.propertyDetails) as [caption, rows]}
-								<p class="text-xs font-semibold text-slate-600 mb-2 mt-3">{caption}</p>
+							{#each Object.entries(projectDetails.propertyDetails) as propEntry}
+								<p class="text-xs font-semibold text-slate-600 mb-2 mt-3">{propEntry[0]}</p>
 								<div class="overflow-x-auto rounded-lg border border-slate-200">
 									<table class="w-full text-xs">
 										<thead class="bg-slate-50">
 											<tr>
-												{#each Object.keys(rows[0] || {}) as header}
+												{#each Object.keys(propEntry[1][0] || {}) as header}
 													<th class="px-3 py-2 text-left font-medium text-slate-600">{header}</th>
 												{/each}
 											</tr>
 										</thead>
 										<tbody class="divide-y divide-slate-100">
-											{#each rows as row}
+											{#each propEntry[1] as row}
 												<tr>
 													{#each Object.values(row) as val}
 														<td class="px-3 py-2 text-slate-700">{val}</td>
@@ -939,10 +1051,10 @@
 						<div>
 							<h3 class="text-sm font-bold text-slate-900 mb-3">All Details</h3>
 							<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
-								{#each Object.entries(projectDetails.allFields) as [label, value]}
+								{#each Object.entries(projectDetails.allFields) as e}
 									<div class="rounded-lg bg-slate-50 px-3 py-2">
-										<p class="text-xs font-medium text-slate-400">{label}</p>
-										<p class="text-sm text-slate-700 mt-0.5">{value}</p>
+										<p class="text-xs font-medium text-slate-400">{e[0]}</p>
+										<p class="text-sm text-slate-700 mt-0.5">{e[1]}</p>
 									</div>
 								{/each}
 							</div>

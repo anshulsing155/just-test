@@ -1,27 +1,33 @@
 // src/routes/api/punjab-rera-projects/+server.js
 //
-// Punjab RERA project data scraped from:
-//   https://rera.punjab.gov.in/reraindex/publicview/projectinfo
+// Punjab RERA projects — mirrors the agents scraper pattern exactly.
 //
-// The site uses ASP.NET MVC with CAPTCHA protection.
-// Uses Puppeteer to navigate, solve/submit CAPTCHA, and scrape project data.
-//
-// AJAX endpoints used:
-//   POST PublicView/ProjectPVregdprojectInfo — search projects (returns HTML table)
-//   GET  PublicView/ProjectViewDetails?inProject_ID=&inPromoter_ID=&inPromoterType= — project detail modal
-//
-// Persists via ProjectService.upsertProjects() which:
-//   - Creates/updates Project records
-//   - Links to Company (promoter) via ProjectCompany junction table by matching promoterName
+// Flow:
+//   1. GET ?action=open-browser[&district=X]
+//        Opens a visible Chrome window, navigates to the search page,
+//        auto-selects district (if given). User fills CAPTCHA & submits.
+//   2. GET ?action=check-ready
+//        Returns { ready: true } when the results table has real data rows.
+//        Poll this from the UI until ready.
+//   3. GET ?refresh=true
+//        Requires an active session. Reads all rows from the DataTable,
+//        then clicks "View" for each row, navigates ALL modal tabs,
+//        extracts full detail data, and persists to DB.
+//   4. GET ?action=close-browser
+//        Closes the browser and clears the session.
+//   5. GET ?action=districts
+//        Returns list of Punjab districts.
+//   6. GET ?action=list[&search=X]
+//        Returns cached DB data.
 
 import puppeteer from 'puppeteer';
 import { json } from '@sveltejs/kit';
-import { createWorker } from 'tesseract.js';
-import { ProjectService, CompanyService, ScrapeLogService } from '$lib/server/services/index.js';
+import { ProjectService, ScrapeLogService } from '$lib/server/services/index.js';
 
-const STATE = 'Punjab';
-const SOURCE = 'punjab-rera-projects';
+const STATE    = 'Punjab';
+const SOURCE   = 'punjab-rera-projects';
 const BASE_URL = 'https://rera.punjab.gov.in/reraindex';
+const SESSION_TTL_MS = 15 * 60 * 1000; // 15 minutes
 
 const PUNJAB_DISTRICTS = [
 	'Amritsar', 'Barnala', 'Bathinda', 'Chandigarh', 'Faridkot',
@@ -32,296 +38,391 @@ const PUNJAB_DISTRICTS = [
 	'Shahid Bhagat Singh Nagar', 'Tarn Taran'
 ];
 
-// Numeric option values from #Input_RegdProject_DistrictCode <select>
 const PUNJAB_DISTRICT_CODES = {
-	'Amritsar': '39',
-	'Barnala': '79',
-	'Bathinda': '84',
-	'Chandigarh': '128',
-	'Faridkot': '202',
-	'Fatehgarh Sahib': '204',
-	'Fazilka': '206',
-	'Firozpur': '207',
-	'Gurdaspur': '232',
-	'Hoshiarpur': '248',
-	'Jalandhar': '261',
-	'Kapurthala': '300',
-	'Ludhiana': '366',
-	'Malerkotla': '2024',
-	'Mansa': '386',
-	'Moga': '393',
-	'Muktsar': '399',
-	'Pathankot': '453',
-	'Patiala': '454',
-	'Rupnagar': '501',
-	'Sahibzada Ajit Singh Nagar': '507',
-	'Sangrur': '514',
-	'Shahid Bhagat Singh Nagar': '527',
-	'Tarn Taran': '574'
+	'Amritsar': '39',       'Barnala': '79',          'Bathinda': '84',
+	'Chandigarh': '128',    'Faridkot': '202',         'Fatehgarh Sahib': '204',
+	'Fazilka': '206',       'Firozpur': '207',          'Gurdaspur': '232',
+	'Hoshiarpur': '248',    'Jalandhar': '261',         'Kapurthala': '300',
+	'Ludhiana': '366',      'Malerkotla': '2024',       'Mansa': '386',
+	'Moga': '393',          'Muktsar': '399',           'Pathankot': '453',
+	'Patiala': '454',       'Rupnagar': '501',          'Sahibzada Ajit Singh Nagar': '507',
+	'Sangrur': '514',       'Shahid Bhagat Singh Nagar': '527', 'Tarn Taran': '574'
 };
 
-/**
- * Navigate to project search page, fill form, submit, and extract project rows.
- */
-async function scrapeProjectsForDistrict(page, district = '') {
-	const results = [];
+// ─────────────────────────────────────────────────────────────────────────────
+// Module-level browser session (persists between requests)
+// ─────────────────────────────────────────────────────────────────────────────
 
-	try {
-		await page.goto(`${BASE_URL}/publicview/projectinfo`, {
-			waitUntil: 'networkidle2',
-			timeout: 30000
-		});
+// Use process (true Node.js global, survives Vite HMR/SSR module isolation)
+const _store = process;
 
-		await page.waitForSelector('#ProjectPVform', { timeout: 15000 }).catch(() => {});
+function getWsEndpoint()   { return _store.__pbProjectsWs || null; }
+function setWsEndpoint(ws) { _store.__pbProjectsWs = ws; }
+function getCreatedAt()    { return _store.__pbProjectsTs || 0; }
+function setCreatedAt(ts)  { _store.__pbProjectsTs = ts; }
 
-		// Select district if provided — use numeric code, not the display name
-		if (district) {
-			const districtCode = PUNJAB_DISTRICT_CODES[district];
-			if (districtCode) {
-				try {
-					await page.select('#Input_RegdProject_DistrictCode', districtCode);
-					await new Promise(r => setTimeout(r, 500));
-				} catch {}
-			}
-		}
-
-		// Solve CAPTCHA via canvas-preprocessed OCR
+async function closeSession() {
+	const ws = getWsEndpoint();
+	if (ws) {
 		try {
-			await page.waitForFunction(
-				() => { const img = document.querySelector('img.capcha-badge'); return img && img.complete && img.naturalWidth > 0; },
-				{ timeout: 10000 }
-			).catch(() => {});
-
-			const captchaBase64 = await page.evaluate(() => {
-				const img = document.querySelector('img.capcha-badge');
-				if (!img || !img.complete || img.naturalWidth === 0) return null;
-				const SCALE = 4;
-				const src = document.createElement('canvas');
-				src.width = img.naturalWidth; src.height = img.naturalHeight;
-				src.getContext('2d').drawImage(img, 0, 0);
-				const ctx1 = src.getContext('2d');
-				const id = ctx1.getImageData(0, 0, src.width, src.height);
-				const d = id.data;
-				for (let i = 0; i < d.length; i += 4) {
-					const lum = d[i] * 0.299 + d[i + 1] * 0.587 + d[i + 2] * 0.114;
-					const v = lum < 140 ? 0 : 255;
-					d[i] = d[i + 1] = d[i + 2] = v; d[i + 3] = 255;
-				}
-				ctx1.putImageData(id, 0, 0);
-				const out = document.createElement('canvas');
-				out.width = src.width * SCALE; out.height = src.height * SCALE;
-				const ctx2 = out.getContext('2d');
-				ctx2.imageSmoothingEnabled = false;
-				ctx2.drawImage(src, 0, 0, out.width, out.height);
-				return out.toDataURL('image/png').split(',')[1];
-			});
-
-			if (captchaBase64) {
-				const imgBuffer = Buffer.from(captchaBase64, 'base64');
-				const worker = await createWorker('eng');
-				await worker.setParameters({
-					tessedit_char_whitelist: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz',
-					tessedit_pageseg_mode: '8'
-				});
-				const { data: { text } } = await worker.recognize(imgBuffer);
-				await worker.terminate();
-				const captchaText = text.trim().replace(/\s+/g, '').substring(0, 10);
-				if (captchaText.length >= 4) {
-					await page.type('#Input_RegdProject_CaptchaText', captchaText);
-					console.log(`[Punjab Projects] CAPTCHA OCR result: "${captchaText}"`);
-				}
-			}
-		} catch (ocrErr) {
-			console.warn('[Punjab Projects] CAPTCHA OCR failed:', ocrErr.message);
-		}
-
-		// Submit via JavaScript (trigger the AJAX call directly)
-		const responsePromise = page.waitForResponse(
-			res => res.url().includes('ProjectPVregdprojectInfo'),
-			{ timeout: 20000 }
-		).catch(() => null);
-
-		await page.evaluate(() => {
-			const form = document.querySelector('#ProjectPVform');
-			if (!form) return;
-
-			const flag = form.querySelector('[name="Input_SearchOptionTabFlag"]');
-			if (flag) flag.value = '1';
-
-			const $ = window.jQuery || window.$;
-			if ($) {
-				$.ajax({
-					type: 'POST',
-					cache: false,
-					url: $('body').attr('data-base-url') + 'PublicView/ProjectPVregdprojectInfo',
-					data: $(form).serialize(),
-					success: function(data) {
-						$('#contentRegdProjectShowGrid').attr('style', 'display:none');
-						$('#contentRegdProjectList').attr('style', 'display:block');
-						$('#viewProjectPVList').html(data);
-					}
-				});
-			}
-		});
-
-		await responsePromise;
-		await new Promise(r => setTimeout(r, 2000));
-
-		// Check if results appeared
-		const hasResults = await page.evaluate(() => {
-			const table = document.querySelector('#dataTableSearchProject');
-			if (!table) return false;
-			return table.querySelectorAll('tbody tr').length > 0;
-		});
-
-		if (!hasResults) {
-			console.log(`[Punjab Projects] No results for district: ${district || 'All'} (CAPTCHA may have failed)`);
-			return results;
-		}
-
-		// Extract all rows from DataTable
-		const rows = await page.evaluate(() => {
-			const data = [];
-			const table = document.querySelector('#dataTableSearchProject');
-			if (!table) return data;
-
-			table.querySelectorAll('tbody tr').forEach(tr => {
-				const tds = tr.querySelectorAll('td');
-				if (tds.length < 5) return;
-
-				const projectID = tr.querySelector('.hdnProjectID')?.value || '';
-				const promoterID = tr.querySelector('.hdnPromoterID')?.value || '';
-				const promoterType = tr.querySelector('.hdnPromoterType')?.value || '';
-
-				data.push({
-					district: tds[0]?.innerText?.trim() || '',
-					projectName: tds[1]?.innerText?.trim() || '',
-					promoterName: tds[2]?.innerText?.trim() || '',
-					registrationNo: tds[3]?.innerText?.trim() || '',
-					validUpto: tds[4]?.innerText?.trim() || '',
-					projectID,
-					promoterID,
-					promoterType
-				});
-			});
-
-			return data;
-		});
-
-		results.push(...rows);
-		console.log(`[Punjab Projects] Scraped ${rows.length} projects for district: ${district || 'All'}`);
-
-	} catch (err) {
-		console.error(`[Punjab Projects] Error for district ${district}:`, err.message);
+			const b = await puppeteer.connect({ browserWSEndpoint: ws });
+			await b.close();
+		} catch {}
 	}
-
-	return results;
+	setWsEndpoint(null);
+	setCreatedAt(0);
 }
 
-/**
- * Scrape a project detail modal via the AJAX endpoint.
- */
-async function scrapeProjectDetail(page, projectID, promoterID, promoterType) {
+async function openSession(district = '') {
+	await closeSession();
+
+	const browser = await puppeteer.launch({
+		headless: false,
+		defaultViewport: null,
+		args: ['--no-sandbox', '--disable-setuid-sandbox', '--start-maximized']
+	});
+
+	setWsEndpoint(browser.wsEndpoint());
+	setCreatedAt(Date.now());
+
+	const page = await browser.newPage();
+	await page.goto(`${BASE_URL}/publicview/projectinfo`, {
+		waitUntil: 'networkidle2',
+		timeout:   30000
+	});
+	await page.waitForSelector('#ProjectPVform', { timeout: 15000 }).catch(() => {});
+
+	if (district && PUNJAB_DISTRICT_CODES[district]) {
+		await page.select('#Input_RegdProject_DistrictCode', PUNJAB_DISTRICT_CODES[district]).catch(() => {});
+		await new Promise(r => setTimeout(r, 400));
+		console.log(`[Punjab Projects] Browser opened — district "${district}" selected. Fill CAPTCHA and submit.`);
+	} else {
+		console.log(`[Punjab Projects] Browser opened. Select district, fill CAPTCHA, and submit.`);
+	}
+
+	await page.bringToFront();
+}
+
+async function reconnect() {
+	const ws = getWsEndpoint();
+	if (!ws) return null;
 	try {
-		const detail = await page.evaluate(async (pID, prID, prType) => {
-			const $ = window.jQuery || window.$;
-			if (!$) return null;
-
-			const baseUrl = $('body').attr('data-base-url');
-			return new Promise((resolve) => {
-				$.ajax({
-					url: baseUrl + 'PublicView/ProjectViewDetails',
-					dataType: 'HTML',
-					type: 'GET',
-					data: {
-						inProject_ID: pID,
-						inPromoter_ID: prID,
-						inPromoterType: prType
-					},
-					success: function(response) {
-						const parser = new DOMParser();
-						const doc = parser.parseFromString(response, 'text/html');
-
-						const result = {
-							projectInfo: {},
-							promoterInfo: {},
-							locationInfo: {},
-							financialInfo: {},
-							propertyDetails: {},
-							allFields: {},
-							sourceUrl: `ProjectViewDetails?inProject_ID=${pID}`
-						};
-
-						// Extract key-value pairs
-						doc.querySelectorAll('table tr').forEach(tr => {
-							const cells = tr.querySelectorAll('td');
-							if (cells.length >= 2) {
-								const label = (cells[0]?.innerText?.trim() || '').replace(/:$/, '');
-								const value = cells[1]?.innerText?.trim() || '';
-								if (label && value && label !== value) {
-									result.allFields[label] = value;
-
-									const lk = label.toLowerCase();
-									if (lk.includes('promoter') || lk.includes('builder') || lk.includes('applicant') || lk.includes('chairman') || lk.includes('director')) {
-										result.promoterInfo[label] = value;
-									} else if (lk.includes('district') || lk.includes('tehsil') || lk.includes('address') || lk.includes('location') || lk.includes('village') || lk.includes('pin') || lk.includes('area')) {
-										result.locationInfo[label] = value;
-									} else if (lk.includes('cost') || lk.includes('fee') || lk.includes('bank') || lk.includes('account') || lk.includes('amount') || lk.includes('ifsc')) {
-										result.financialInfo[label] = value;
-									} else {
-										result.projectInfo[label] = value;
-									}
-								}
-							}
-						});
-
-						// Extract data tables (property details, unit info, etc.)
-						doc.querySelectorAll('table').forEach((table, idx) => {
-							const headers = [];
-							table.querySelectorAll('thead th, tr:first-child th').forEach(th => {
-								headers.push(th.innerText?.trim() || '');
-							});
-							if (headers.length < 3) return;
-
-							const caption = table.previousElementSibling?.innerText?.trim() || `Details ${idx + 1}`;
-							const tableData = [];
-							table.querySelectorAll('tbody tr').forEach(tr => {
-								const row = {};
-								tr.querySelectorAll('td').forEach((td, ci) => {
-									row[headers[ci] || `col${ci}`] = td.innerText?.trim() || '';
-								});
-								if (Object.values(row).some(v => v)) tableData.push(row);
-							});
-
-							if (tableData.length > 0) {
-								result.propertyDetails[caption] = tableData;
-							}
-						});
-
-						resolve(result);
-					},
-					error: function() { resolve(null); }
-				});
-			});
-		}, projectID, promoterID, promoterType);
-
-		return detail;
-	} catch (err) {
-		console.log(`[Punjab Project Detail] Failed for ${projectID}:`, err.message);
+		const browser = await puppeteer.connect({ browserWSEndpoint: ws });
+		const pages = await browser.pages();
+		const page = pages.find(p => p.url().includes('rera.punjab.gov.in')) || pages[pages.length - 1];
+		return { browser, page };
+	} catch (e) {
+		console.warn('[Punjab Projects] Reconnect failed:', e.message);
+		setWsEndpoint(null);
 		return null;
 	}
 }
 
-export async function GET({ url }) {
-	const action = url.searchParams.get('action') || 'list';
-	const district = url.searchParams.get('district') || '';
-	const refresh = url.searchParams.get('refresh') === 'true';
-	const search = url.searchParams.get('search') || '';
-	const detailProjectId = url.searchParams.get('projectId') || '';
-	const detailPromoterId = url.searchParams.get('promoterId') || '';
-	const detailPromoterType = url.searchParams.get('promoterType') || '';
+function isSessionValid() {
+	const ws = getWsEndpoint();
+	const ts = getCreatedAt();
+	return !!ws && ts > 0 && Date.now() - ts < SESSION_TTL_MS;
+}
 
-	// Action: list districts
+// Returns true when the results table has at least one real data row.
+// Tries multiple selectors because the table is injected via AJAX into #viewProjectPVList.
+async function isTableReady(page) {
+	return page.evaluate(() => {
+		// The AJAX puts results inside #viewProjectPVList; DataTables wraps it as #dataTableSearchProject
+		const tables = [
+			document.querySelector('#dataTableSearchProject'),
+			document.querySelector('#viewProjectPVList table'),
+			document.querySelector('#contentRegdProjectList table')
+		];
+		for (const table of tables) {
+			if (!table) continue;
+			const hasRealRow = [...table.querySelectorAll('tbody tr')]
+				.some(tr => tr.querySelectorAll('td').length >= 4);
+			if (hasRealRow) return true;
+		}
+		return false;
+	}).catch(() => false);
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Modal extractor — handles tabs + key-value tables + data tables
+// All tab panes are read (clicking each tab first to trigger lazy-load).
+// ─────────────────────────────────────────────────────────────────────────────
+
+const MODAL_EXTRACTOR = `
+(function extractModal() {
+	// Target #myModal specifically (from page source)
+	const modal = document.querySelector('#myModal .modal-content') ||
+	              document.querySelector('#myModal') ||
+	              document.querySelector('.modal.in .modal-content') ||
+	              document.querySelector('.modal-content');
+	if (!modal) return null;
+
+	const clean    = s => (s || '').replace(/[:\\*]/g, '').trim();
+	const cleanVal = s => (s || '').replace(/\\s+/g, ' ').trim();
+
+	const result = { flat: {}, sections: {}, tables: [] };
+
+	function extractFromContainer(container, sectionLabel) {
+		const sec = sectionLabel || 'General';
+		if (!result.sections[sec]) result.sections[sec] = {};
+
+		// Walk tables in document order; skip nested tables
+		const seen = new WeakSet();
+		container.querySelectorAll('table').forEach(table => {
+			if (seen.has(table)) return;
+			seen.add(table);
+			if (table.closest('table')) return; // skip nested
+
+			const thead   = table.querySelector('thead');
+			const headers = thead
+				? [...thead.querySelectorAll('th')].map(th => cleanVal(th.textContent)).filter(Boolean)
+				: [];
+
+			if (headers.length >= 2) {
+				// Multi-row data table
+				const rows = [];
+				table.querySelectorAll('tbody tr').forEach(tr => {
+					const cells = [...tr.querySelectorAll('td')];
+					if (cells.every(c => !cleanVal(c.textContent) || cleanVal(c.textContent) === '--')) return;
+					const row = {};
+					headers.forEach((h, i) => { row[h] = cleanVal(cells[i]?.textContent || ''); });
+					rows.push(row);
+				});
+				if (rows.length > 0) result.tables.push({ section: sec, headers, rows });
+			} else {
+				// Key-value table
+				table.querySelectorAll('tr').forEach(tr => {
+					const cells = [...tr.querySelectorAll('td, th')];
+					if (cells.length === 2) {
+						const k = clean(cells[0].textContent);
+						const v = cleanVal(cells[1].textContent);
+						if (k) { result.sections[sec][k] = v; result.flat[k] = v; }
+					} else if (cells.length === 4) {
+						[[0,1],[2,3]].forEach(([ki, vi]) => {
+							const k = clean(cells[ki].textContent);
+							const v = cleanVal(cells[vi].textContent);
+							if (k) { result.sections[sec][k] = v; result.flat[k] = v; }
+						});
+					}
+				});
+			}
+		});
+	}
+
+	// Check for tab panes
+	const panes = [...modal.querySelectorAll('.tab-content .tab-pane')];
+	if (panes.length > 0) {
+		panes.forEach(pane => {
+			const paneId  = pane.id;
+			const tabLink = paneId
+				? modal.querySelector('a[href="#' + paneId + '"], a[data-target="#' + paneId + '"], a[data-bs-target="#' + paneId + '"]')
+				: null;
+			const tabName = cleanVal(tabLink?.textContent || paneId || 'Tab');
+			extractFromContainer(pane, tabName);
+		});
+	} else {
+		const body = modal.querySelector('.modal-body') || modal;
+		extractFromContainer(body, 'General');
+	}
+
+	return result;
+})()
+`;
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Row scraping helpers
+// ─────────────────────────────────────────────────────────────────────────────
+
+async function scrapeBasicRows(page) {
+	// Expand DataTable — try DataTable API first, then fall back to changing the
+	// length <select> (the "Show 15 records" dropdown) and triggering change.
+	await page.evaluate(() => {
+		const $ = window.jQuery || window.$;
+		if (!$) return;
+		try {
+			const dt = $('#dataTableSearchProject').DataTable();
+			dt.page.len(-1).draw();
+		} catch {
+			// Fallback: set the select to show all (-1) and fire change
+			try {
+				const sel = document.querySelector('#dataTableSearchProject_length select');
+				if (sel) {
+					// Add -1 option if not present
+					if (![...sel.options].some(o => o.value === '-1')) {
+						const opt = document.createElement('option');
+						opt.value = '-1'; opt.text = 'All';
+						sel.appendChild(opt);
+					}
+					sel.value = '-1';
+					sel.dispatchEvent(new Event('change', { bubbles: true }));
+				}
+			} catch {}
+		}
+	});
+	// Wait for the full table to re-render (can be slow for ~1900 rows)
+	await new Promise(r => setTimeout(r, 3000));
+
+	return page.evaluate(() => {
+		// Find the results table — try multiple selectors
+		let tbody = null;
+		for (const sel of [
+			'#dataTableSearchProject tbody',
+			'#viewProjectPVList table tbody',
+			'#contentRegdProjectList table tbody'
+		]) {
+			const el = document.querySelector(sel);
+			if (el && el.querySelectorAll('tr').length > 0) { tbody = el; break; }
+		}
+		if (!tbody) return [];
+
+		// Detect column layout by checking first real row
+		// Possible layouts:
+		//   With SNo:    0=SNo  1=District  2=Project  3=Promoter  4=RegNo  5=ValidUpto  6=View  (7 cols)
+		//   Without SNo: 0=District 1=Project  2=Promoter  3=RegNo  4=ValidUpto  5=View   (6 cols)
+		let hasSno = false;
+		const firstReal = [...tbody.querySelectorAll('tr')].find(tr => tr.querySelectorAll('td').length >= 5);
+		if (firstReal) {
+			const firstText = firstReal.querySelectorAll('td')[0]?.innerText?.trim();
+			hasSno = /^\d+$/.test(firstText); // SNo is a number
+		}
+
+		const rows = [];
+		tbody.querySelectorAll('tr').forEach((tr, idx) => {
+			const tds = tr.querySelectorAll('td');
+			const minCols = hasSno ? 6 : 5;
+			if (tds.length < minCols) return;
+
+			const off = hasSno ? 1 : 0; // column offset
+			rows.push({
+				_rowIndex:      idx,
+				district:       tds[off]?.innerText?.trim()     || '',
+				projectName:    tds[off + 1]?.innerText?.trim() || '',
+				promoterName:   tds[off + 2]?.innerText?.trim() || '',
+				registrationNo: tds[off + 3]?.innerText?.trim() || '',
+				validUpto:      tds[off + 4]?.innerText?.trim() || '',
+				projectID:      tr.querySelector('.hdnProjectID')?.value   || '',
+				promoterID:     tr.querySelector('.hdnPromoterID')?.value   || '',
+				promoterType:   tr.querySelector('.hdnPromoterType')?.value || '',
+				hasViewBtn:     !!(tds[tds.length - 1]?.querySelector('a'))
+			});
+		});
+		return rows;
+	});
+}
+
+async function scrapeRowDetail(page, rowIndex) {
+	try {
+		// The view button is <a id="modalOpenerButton"> per the page source
+		const clicked = await page.evaluate((idx) => {
+			const rows = document.querySelectorAll('#dataTableSearchProject tbody tr');
+			const row  = rows[idx];
+			if (!row) return false;
+			const btn = row.querySelector('a#modalOpenerButton') || row.querySelector('a');
+			if (!btn) return false;
+			btn.click();
+			return true;
+		}, rowIndex);
+
+		if (!clicked) return null;
+
+		// Modal is #myModal; content is AJAX-loaded into .modal-body
+		// Wait until .modal-body has actual HTML content (not empty)
+		await page.waitForFunction(() => {
+			const body = document.querySelector('#myModal .modal-body');
+			return body && body.innerHTML.trim().length > 50;
+		}, { timeout: 20000 });
+
+		await new Promise(r => setTimeout(r, 600));
+
+		// Click through ALL tabs in #myModal so lazy content loads
+		const tabCount = await page.evaluate(() => {
+			return document.querySelectorAll('#myModal .nav-tabs li a, #myModal .nav-tabs .nav-link').length;
+		});
+
+		if (tabCount > 1) {
+			for (let t = 0; t < tabCount; t++) {
+				await page.evaluate((idx) => {
+					const tabs = [...document.querySelectorAll('#myModal .nav-tabs li a, #myModal .nav-tabs .nav-link')];
+					if (tabs[idx]) tabs[idx].click();
+				}, t);
+				await new Promise(r => setTimeout(r, 500));
+			}
+		}
+
+		// Extract all data from all tab panes
+		const detail = await page.evaluate(new Function(`return ${MODAL_EXTRACTOR}`));
+
+		// Close #myModal via Bootstrap jQuery API
+		await page.evaluate(() => {
+			const $ = window.jQuery || window.$;
+			if ($) { $('#myModal').modal('hide'); return; }
+			const btn = document.querySelector('#myModal [data-dismiss="modal"], #myModal .close');
+			if (btn) btn.click();
+		});
+
+		// Wait for modal backdrop to disappear
+		await page.waitForFunction(() => {
+			const m = document.querySelector('#myModal');
+			return !m || !m.classList.contains('in') || m.style.display === 'none';
+		}, { timeout: 8000 }).catch(() => {});
+
+		await new Promise(r => setTimeout(r, 300));
+		return detail;
+
+	} catch (err) {
+		console.warn(`[Punjab Projects] Detail failed for row ${rowIndex}:`, err.message);
+		await page.evaluate(() => {
+			const $ = window.jQuery || window.$;
+			if ($) { try { $('#myModal').modal('hide'); } catch {} }
+		}).catch(() => {});
+		await new Promise(r => setTimeout(r, 500));
+		return null;
+	}
+}
+
+function mapDetailToProject(detail, basic) {
+	if (!detail) return {};
+	const f = detail.flat || {};
+
+	const find = (...keys) => {
+		for (const k of keys) {
+			const kl = k.toLowerCase();
+			const exact = Object.entries(f).find(([fk]) => fk.toLowerCase() === kl);
+			if (exact?.[1]) return String(exact[1]);
+			const partial = Object.entries(f).find(([fk]) => fk.toLowerCase().includes(kl));
+			if (partial?.[1]) return String(partial[1]);
+		}
+		return undefined;
+	};
+
+	const buildAddr = (...keys) => keys.map(k => find(k)).filter(Boolean).join(', ') || undefined;
+
+	return {
+		reraRegNo:          find('registration no', 'rera no', 'reg. no', 'rera number') || basic.registrationNo,
+		projectName:        find('project name', 'name of project')                       || basic.projectName,
+		promoterName:       find('promoter name', 'builder name', 'applicant name')       || basic.promoterName,
+		district:           find('district')                                               || basic.district,
+		location:           find('area', 'location', 'tehsil', 'village'),
+		projectType:        find('project type', 'type of project'),
+		constructionStatus: find('status', 'construction status'),
+		validUntil:         find('valid upto', 'valid till', 'validity')                  || basic.validUpto,
+		address:            buildAddr('address', 'plot no', 'sector'),
+		rawData:            { ...basic, detail }
+	};
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Route handler
+// ─────────────────────────────────────────────────────────────────────────────
+
+export async function GET({ url }) {
+	const action   = url.searchParams.get('action')   || '';
+	const district = url.searchParams.get('district') || '';
+	const refresh  = url.searchParams.get('refresh')  === 'true';
+	const search   = url.searchParams.get('search')   || '';
+
+	// ── Districts list ──
 	if (action === 'districts') {
 		return json({
 			success: true,
@@ -329,216 +430,145 @@ export async function GET({ url }) {
 		});
 	}
 
-	// Action: get project detail
-	if (action === 'details' && detailProjectId) {
-		let browser;
+	// ── Open browser ──
+	if (action === 'open-browser') {
 		try {
-			browser = await puppeteer.launch({
-				headless: true,
-				args: ['--no-sandbox', '--disable-setuid-sandbox']
-			});
-			const page = await browser.newPage();
-			await page.setViewport({ width: 1280, height: 900 });
-			await page.goto(`${BASE_URL}/publicview/projectinfo`, {
-				waitUntil: 'networkidle2',
-				timeout: 30000
-			});
-
-			const details = await scrapeProjectDetail(page, detailProjectId, detailPromoterId, detailPromoterType);
-
-			if (details) {
-				// Persist detail data and link to company
-				const reraRegNo = details.allFields?.['Registration No.'] || details.allFields?.['RERA Reg. No.'] || `PB-${detailProjectId}`;
-				const promoterName = details.allFields?.['Promoter Name'] || details.allFields?.['Builder Name'] || '';
-
-				try {
-					await ProjectService.upsertProjects(STATE, [{
-						reraRegNo,
-						projectName: details.allFields?.['Project Name'] || '',
-						district: details.allFields?.['District'] || '',
-						location: details.allFields?.['Area'] || details.allFields?.['Location'] || '',
-						projectType: details.allFields?.['Project Type'] || '',
-						constructionStatus: details.allFields?.['Status'] || '',
-						promoterName
-					}], { role: 'promoter' });
-
-					await ProjectService.updateProjectDetails(STATE, reraRegNo, details).catch(() => {});
-				} catch (persistErr) {
-					console.warn('[Punjab Project Detail] Persist failed:', persistErr.message);
-				}
-
-				return json({ success: true, data: details });
-			}
-			return json({ success: false, error: 'Failed to fetch project details' }, { status: 404 });
-		} catch (error) {
-			return json({ success: false, error: error.message }, { status: 500 });
-		} finally {
-			try { if (browser) await browser.close(); } catch {}
+			await openSession(district);
+			return json({ success: true, district: district || 'all' });
+		} catch (err) {
+			await closeSession();
+			return json({ success: false, error: err.message }, { status: 500 });
 		}
 	}
 
-	// Action: scrape all projects
-	if (action === 'scrape-all' || (action === 'list' && refresh && !district)) {
-		return await scrapeAllProjects(search);
+	// ── Check if results table is ready ──
+	if (action === 'check-ready') {
+		if (!isSessionValid()) return json({ ready: false, sessionExpired: true });
+		const conn = await reconnect();
+		const ready = conn ? await isTableReady(conn.page) : false;
+		return json({ ready });
 	}
 
-	// Action: list by district
-	if (action === 'list' && district) {
-		return await getProjectsByDistrict(district, search, refresh);
+	// ── Close browser ──
+	if (action === 'close-browser') {
+		await closeSession();
+		return json({ success: true });
 	}
 
-	// Action: list all from DB
-	if (action === 'list') {
-		const { projects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 5000 });
-		return json({ success: true, data: projects, total, cached: true });
+	// ── Cached list ──
+	if (!refresh) {
+		try {
+			const { projects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 5000 });
+			if (projects.length > 0) return json({ success: true, data: projects, total, cached: true });
+		} catch (dbErr) {
+			console.warn('[Punjab Projects] DB read failed:', dbErr.message);
+		}
+		return json({ success: true, data: [], total: 0, cached: true, empty: true });
 	}
 
-	return json({
-		success: false,
-		error: 'Use ?action=districts, ?action=list&district=X, ?action=scrape-all&refresh=true, or ?action=details&projectId=X'
-	}, { status: 400 });
-}
+	// ── Scrape ──
+	if (!isSessionValid()) {
+		return json({
+			success: false,
+			error: 'Browser session not found — click "Open Browser", fill the CAPTCHA, then click "Scrape Now".'
+		}, { status: 400 });
+	}
 
-async function scrapeAllProjects(search) {
+	const conn = await reconnect();
+	if (!conn) {
+		return json({
+			success: false,
+			error: 'Could not reconnect to browser — the window may have been closed. Open the browser again.'
+		}, { status: 400 });
+	}
+	const { page } = conn;
+
 	if (await ScrapeLogService.isRunning(SOURCE, STATE)) {
-		const { projects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 10000 });
+		const { projects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 5000 });
 		return json({ success: true, data: projects, total, cached: true, scraping: true });
 	}
 
 	const log = await ScrapeLogService.startScrapeLog(SOURCE, STATE);
-	let browser;
 
 	try {
-		browser = await puppeteer.launch({
-			headless: true,
-			args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-web-security']
+		// Wait up to 60s for the table to have real rows (user may still be submitting)
+		console.log('[Punjab Projects] Waiting for results table...');
+		await page.waitForFunction(() => {
+			const selectors = [
+				'#dataTableSearchProject',
+				'#viewProjectPVList table',
+				'#contentRegdProjectList table'
+			];
+			for (const sel of selectors) {
+				const t = document.querySelector(sel);
+				if (t && [...t.querySelectorAll('tbody tr')].some(tr => tr.querySelectorAll('td').length >= 4)) return true;
+			}
+			return false;
+		}, { timeout: 60000 }).catch(() => {
+			console.warn('[Punjab Projects] Table wait timed out — proceeding anyway');
 		});
 
-		const page = await browser.newPage();
-		await page.setViewport({ width: 1280, height: 900 });
+		// Pass 1: basic row data
+		const basicRows = await scrapeBasicRows(page);
+		console.log(`[Punjab Projects] Found ${basicRows.length} rows`);
+		console.log(`[Punjab Projects] ${basicRows.length} rows found — scraping detail modals...`);
 
-		let allProjects = [];
-		let totalPersisted = 0;
+		// Pass 2: click View for each row, navigate all tabs, extract full data
+		const fullProjects = [];
+		for (let i = 0; i < basicRows.length; i++) {
+			const basic = basicRows[i];
+			console.log(`[Punjab Projects] Detail ${i + 1}/${basicRows.length}: ${basic.registrationNo || basic.projectName}`);
 
-		for (const dist of PUNJAB_DISTRICTS) {
-			const rows = await scrapeProjectsForDistrict(page, dist);
-
-			// Persist each district batch immediately with company linking
-			if (rows.length > 0) {
-				try {
-					const count = await ProjectService.upsertProjects(
-						STATE,
-						rows.map(p => ({
-							reraRegNo: p.registrationNo || `PB-${dist}-${p.projectName?.substring(0, 30)}`.replace(/\s+/g, '-'),
-							projectName: p.projectName,
-							name: p.projectName,
-							district: p.district || dist,
-							location: p.district || dist,
-							validUntil: p.validUpto,
-							promoterName: p.promoterName, // Used by ProjectService to link to Company
-							rawProjectID: p.projectID,
-							rawPromoterID: p.promoterID,
-							rawPromoterType: p.promoterType
-						})),
-						{ role: 'promoter' }
-					);
-					totalPersisted += count;
-				} catch (dbErr) {
-					console.warn(`[Punjab Projects] DB persist failed for ${dist}:`, dbErr.message);
-				}
+			let mapped = {};
+			if (basic.hasViewBtn) {
+				const detail = await scrapeRowDetail(page, i);
+				mapped = mapDetailToProject(detail, basic);
 			}
 
-			allProjects.push(...rows);
-			console.log(`[Punjab Projects] ${dist}: ${rows.length} projects (running total: ${allProjects.length})`);
-
-			// Delay between districts
-			await new Promise(r => setTimeout(r, 1500));
+			fullProjects.push({
+				reraRegNo:          mapped.reraRegNo          || basic.registrationNo || `PB-${basic.projectID}`,
+				projectName:        mapped.projectName        || basic.projectName,
+				district:           mapped.district           || basic.district,
+				location:           mapped.location,
+				projectType:        mapped.projectType,
+				constructionStatus: mapped.constructionStatus,
+				validUntil:         mapped.validUntil         || basic.validUpto,
+				promoterName:       mapped.promoterName       || basic.promoterName,
+				address:            mapped.address,
+				rawData:            mapped.rawData            || basic
+			});
 		}
 
-		await ScrapeLogService.completeScrapeLog(log.id, { totalItems: totalPersisted });
-		console.log(`[Punjab Projects] Total: ${allProjects.length} scraped, ${totalPersisted} persisted`);
+		let upsertCount = 0;
+		if (fullProjects.length > 0) {
+			try {
+				upsertCount = await ProjectService.upsertProjects(STATE, fullProjects, { role: 'promoter' });
+			} catch (dbErr) {
+				console.warn('[Punjab Projects] DB upsert failed:', dbErr.message);
+			}
+		}
+
+		await ScrapeLogService.completeScrapeLog(log.id, { totalItems: upsertCount });
+		console.log(`[Punjab Projects] Done — ${basicRows.length} scraped, ${upsertCount} saved`);
+
+		await closeSession();
 
 		const { projects: dbProjects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 10000 });
-		return json({ success: true, data: dbProjects, total, scraped: allProjects.length, persisted: totalPersisted });
+		return json({
+			success: true, data: dbProjects, total,
+			scraped: basicRows.length, upserted: upsertCount
+		});
 
 	} catch (error) {
 		await ScrapeLogService.completeScrapeLog(log.id, { error: error.message });
 		console.error('[Punjab Projects] Scrape failed:', error.message);
 
-		const { projects: dbProjects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 10000 });
-		if (dbProjects.length > 0) {
-			return json({ success: true, data: dbProjects, total, cached: true, scrapeError: error.message });
-		}
-		return json({ success: false, error: error.message }, { status: 500 });
-	} finally {
-		try { if (browser) await browser.close(); } catch {}
-	}
-}
-
-async function getProjectsByDistrict(districtName, search, forceRefresh) {
-	// Try DB first
-	if (!forceRefresh) {
 		try {
-			const { projects, total } = await ProjectService.getProjectsByState(STATE, {
-				district: districtName,
-				search,
-				take: 5000
-			});
-			if (projects.length > 0) {
-				return json({ success: true, data: projects, total, cached: true, district: districtName });
+			const { projects: dbProjects, total } = await ProjectService.getProjectsByState(STATE, { search, take: 5000 });
+			if (dbProjects.length > 0) {
+				return json({ success: true, data: dbProjects, total, cached: true, scrapeError: error.message });
 			}
 		} catch {}
-	}
-
-	// Scrape district
-	let browser;
-	try {
-		browser = await puppeteer.launch({
-			headless: true,
-			args: ['--no-sandbox', '--disable-setuid-sandbox']
-		});
-
-		const page = await browser.newPage();
-		await page.setViewport({ width: 1280, height: 900 });
-
-		const rows = await scrapeProjectsForDistrict(page, districtName);
-
-		if (rows.length > 0) {
-			try {
-				await ProjectService.upsertProjects(
-					STATE,
-					rows.map(p => ({
-						reraRegNo: p.registrationNo || `PB-${districtName}-${p.projectName?.substring(0, 30)}`.replace(/\s+/g, '-'),
-						projectName: p.projectName,
-						name: p.projectName,
-						district: p.district || districtName,
-						location: p.district || districtName,
-						validUntil: p.validUpto,
-						promoterName: p.promoterName
-					})),
-					{ role: 'promoter' }
-				);
-			} catch (dbErr) {
-				console.warn('[Punjab Projects] DB persist failed:', dbErr.message);
-			}
-		}
-
-		return json({ success: true, data: rows, total: rows.length, district: districtName });
-	} catch (error) {
-		// Fallback to DB
-		try {
-			const { projects, total } = await ProjectService.getProjectsByState(STATE, {
-				district: districtName,
-				search,
-				take: 5000
-			});
-			if (projects.length > 0) {
-				return json({ success: true, data: projects, total, cached: true, district: districtName });
-			}
-		} catch {}
-
 		return json({ success: false, error: error.message }, { status: 500 });
-	} finally {
-		try { if (browser) await browser.close(); } catch {}
 	}
 }
