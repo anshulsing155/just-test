@@ -5,8 +5,8 @@
 	// ── State ──
 	let stats = null;
 	let loading = true;
-	let error = '';
-
+	let error = ''; 
+//
 	// Data browser
 	let activeModel = 'agent';
 	let activeState = '';
