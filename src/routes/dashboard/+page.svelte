@@ -982,6 +982,7 @@
 													<option value="Commercial">Commercial</option>
 													<option value="Villa">Villa</option>
 													<option value="Plot">Plot</option>
+													<option value="Mixed">Mixed</option>
 												</select>
 											</div>
 											<div class="sm:col-span-2">
