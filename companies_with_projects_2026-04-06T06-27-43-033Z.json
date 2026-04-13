@@ -19912,10 +19912,13 @@
         "name": "Affordable Housing Sector-22D YEIDA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:36:56.612Z"
+        "scrapedAt": "2026-03-23T08:36:56.612Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fbda09b2489bdd195fbe",
@@ -19923,10 +19926,13 @@
         "name": "Convenient Shopping Complex, Sector 22D",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:46.152Z"
+        "scrapedAt": "2026-03-23T08:37:46.152Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fbf509b2489bdd19602b",
@@ -19934,10 +19940,13 @@
         "name": "Footprints for Commercial Use, Sec-22A",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:13.571Z"
+        "scrapedAt": "2026-03-23T08:38:13.571Z",
+        "lenderName": [],
+        "area": "Sector-22A",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc0009b2489bdd19604f",
@@ -19945,10 +19954,13 @@
         "name": "GH-06, SEC-22A, YEIDA, PHASE 1 (YAMUNOTRI)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:24.157Z"
+        "scrapedAt": "2026-03-23T08:38:24.157Z",
+        "lenderName": [],
+        "area": "Sector-22A",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc0009b2489bdd196050",
@@ -19956,10 +19968,13 @@
         "name": "GH06, Sec-22D, YEIDA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:24.378Z"
+        "scrapedAt": "2026-03-23T08:38:24.378Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc1809b2489bdd1960ba",
@@ -19967,10 +19982,13 @@
         "name": "INDIVIDUAL RESIDENTIAL PLOTS, SEC-17,YEIDA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:47.996Z"
+        "scrapedAt": "2026-03-23T08:38:47.996Z",
+        "lenderName": [],
+        "area": "Sector-17",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc6909b2489bdd19621a",
@@ -19978,10 +19996,13 @@
         "name": "RPS 05/2021",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:09.758Z"
+        "scrapedAt": "2026-03-23T08:40:09.758Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6a09b2489bdd19621c",
@@ -19989,10 +20010,13 @@
         "name": "RPS01,RRPS01 AND RRPS02 (SECTOR 18 AND 20) ,YEIDA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:10.189Z"
+        "scrapedAt": "2026-03-23T08:40:10.189Z",
+        "lenderName": [],
+        "area": "Sector-18",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6a09b2489bdd19621e",
@@ -20000,10 +20024,13 @@
         "name": "RPS-02, SEC-22D",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:10.621Z"
+        "scrapedAt": "2026-03-23T08:40:10.621Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc6a09b2489bdd19621f",
@@ -20011,10 +20038,13 @@
         "name": "RPS-04/2021",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:10.836Z"
+        "scrapedAt": "2026-03-23T08:40:10.836Z",
+        "lenderName": [],
+        "area": "Sector-17",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6b09b2489bdd196220",
@@ -20022,10 +20052,13 @@
         "name": "RPS-06/2022",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:11.042Z"
+        "scrapedAt": "2026-03-23T08:40:11.042Z",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6b09b2489bdd196221",
@@ -20033,10 +20066,13 @@
         "name": "RPS07/2023",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:11.266Z"
+        "scrapedAt": "2026-03-23T08:40:11.266Z",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6b09b2489bdd196222",
@@ -20044,10 +20080,13 @@
         "name": "RPS08/2024",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:11.521Z"
+        "scrapedAt": "2026-03-23T08:40:11.521Z",
+        "lenderName": [],
+        "area": "Sector-24A",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6b09b2489bdd196223",
@@ -20055,10 +20094,13 @@
         "name": "RPS09/2025",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:11.752Z"
+        "scrapedAt": "2026-03-23T08:40:11.752Z",
+        "lenderName": [],
+        "area": "Sector-18",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6c09b2489bdd196224",
@@ -20066,10 +20108,13 @@
         "name": "RPS10/2025",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:11.955Z"
+        "scrapedAt": "2026-03-23T08:40:11.955Z",
+        "lenderName": [],
+        "area": "Sector-15C",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc6c09b2489bdd196225",
@@ -20077,10 +20122,13 @@
         "name": "RRPS -04/2020",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:12.178Z"
+        "scrapedAt": "2026-03-23T08:40:12.178Z",
+        "lenderName": [],
+        "area": "Sector-17",
+        "pinCode": "201308"
       }
     ]
   },
@@ -20485,10 +20533,13 @@
         "name": "BHS-12/13 ETA-II GH-1A/1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:30.872Z"
+        "scrapedAt": "2026-03-23T08:37:30.872Z",
+        "lenderName": [],
+        "area": "ETA-II",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fbcb09b2489bdd195f83",
@@ -20496,10 +20547,13 @@
         "name": "BHS-14 EWS XU-3",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:31.098Z"
+        "scrapedAt": "2026-03-23T08:37:31.098Z",
+        "lenderName": [],
+        "area": "Sector Xu-III",
+        "pinCode": "203202"
       },
       {
         "_id": "69c0fbcb09b2489bdd195f84",
@@ -20507,10 +20561,13 @@
         "name": "BHS-16 MU-II",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:31.303Z"
+        "scrapedAt": "2026-03-23T08:37:31.303Z",
+        "lenderName": [],
+        "area": "Sector MU II",
+        "pinCode": " 201310"
       },
       {
         "_id": "69c0fbcb09b2489bdd195f85",
@@ -20518,10 +20575,13 @@
         "name": "BHS-16 SECTOR-10",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:31.517Z"
+        "scrapedAt": "2026-03-23T08:37:31.517Z",
+        "lenderName": [],
+        "area": "Sector 10",
+        "pinCode": " 201301 "
       },
       {
         "_id": "69c0fbcb09b2489bdd195f86",
@@ -20529,10 +20589,13 @@
         "name": "BHS-17 LOHIYA ENCLAVE OMICRON-1A",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:31.745Z"
+        "scrapedAt": "2026-03-23T08:37:31.745Z",
+        "lenderName": [],
+        "area": "Omicron-1A",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbcc09b2489bdd195f87",
@@ -20540,10 +20603,13 @@
         "name": "BHS-17 LOHIYA ENCLAVE SECTOR-12",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:32.054Z"
+        "scrapedAt": "2026-03-23T08:37:32.054Z",
+        "lenderName": [],
+        "area": "Sector-12",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbcc09b2489bdd195f88",
@@ -20551,10 +20617,13 @@
         "name": "BHS-17, LOHIYA ENCLAVE, PLOT NO-GH-03A, OMICRON-1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:32.367Z"
+        "scrapedAt": "2026-03-23T08:37:32.367Z",
+        "lenderName": [],
+        "area": "Omicron-1",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc6a09b2489bdd19621b",
@@ -20562,10 +20631,13 @@
         "name": "RPS-01 SECTOR-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:09.985Z"
+        "scrapedAt": "2026-03-23T08:40:09.985Z",
+        "lenderName": [],
+        "area": "Sector-2",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fc6a09b2489bdd19621d",
@@ -20573,10 +20645,13 @@
         "name": "RPS-02 ZETA-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:10.403Z"
+        "scrapedAt": "2026-03-23T08:40:10.403Z",
+        "lenderName": [],
+        "pinCode": "201306",
+        "area": "Sector Zeta-2"
       },
       {
         "_id": "69c0fca809b2489bdd196320",
@@ -20584,10 +20659,13 @@
         "name": "XT01 SECTOR-3",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:12.592Z"
+        "scrapedAt": "2026-03-23T08:41:12.592Z",
+        "lenderName": [],
+        "area": "Sector-3",
+        "pinCode": "201306"
       }
     ]
   },
@@ -22857,10 +22935,13 @@
         "name": "RG Mirage Tower L",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:01.164Z"
+        "scrapedAt": "2026-03-23T08:40:01.164Z",
+        "lenderName": [],
+        "area": "Sector-120",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc6109b2489bdd196200",
@@ -22868,10 +22949,13 @@
         "name": "RG Mirage Tower M",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:01.388Z"
+        "scrapedAt": "2026-03-23T08:40:01.388Z",
+        "lenderName": [],
+        "area": "Sector-120",
+        "pinCode": "201301"
       }
     ]
   },
@@ -22934,10 +23018,13 @@
         "name": "KB India Mart",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:11.558Z"
+        "scrapedAt": "2026-03-23T08:39:11.558Z",
+        "lenderName": [],
+        "area": "Knowledge Park V",
+        "pinCode": "201318"
       }
     ]
   },
@@ -23217,10 +23304,13 @@
         "name": "Trident Embassy Phase-1 (TOWERS A,B,C,D,E,F)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:57.060Z"
+        "scrapedAt": "2026-03-23T08:40:57.060Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc9909b2489bdd1962da",
@@ -23228,10 +23318,13 @@
         "name": "Trident Embassy Phase-2 (Towers G,H, I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:57.273Z"
+        "scrapedAt": "2026-03-23T08:40:57.273Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc9909b2489bdd1962db",
@@ -23239,10 +23332,13 @@
         "name": "Trident Embassy Phase-3 (Towers J,K,L & Comm)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:57.507Z"
+        "scrapedAt": "2026-03-23T08:40:57.507Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc9909b2489bdd1962dc",
@@ -23250,10 +23346,13 @@
         "name": "Trident Embassy Reso",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:57.713Z"
+        "scrapedAt": "2026-03-23T08:40:57.713Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       }
     ]
   },
@@ -23360,10 +23459,13 @@
         "name": "INDIA EXPO PLAZA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:47.585Z"
+        "scrapedAt": "2026-03-23T08:38:47.585Z",
+        "lenderName": [],
+        "area": "Knowledge Park-II",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc8a09b2489bdd19629d",
@@ -23371,10 +23473,13 @@
         "name": "SVG TOWNSQUARE-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:42.352Z"
+        "scrapedAt": "2026-03-23T08:40:42.352Z",
+        "lenderName": [],
+        "area": "Sector-16B",
+        "pinCode": "201318"
       }
     ]
   },
@@ -23590,10 +23695,13 @@
         "name": "SPEEDWAY AVENUE",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:28.593Z"
+        "scrapedAt": "2026-03-23T08:40:28.593Z",
+        "lenderName": [],
+        "area": "Sector-25",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc7c09b2489bdd196262",
@@ -23601,10 +23709,13 @@
         "name": "SPEEDWAY AVENUE",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:28.798Z"
+        "scrapedAt": "2026-03-23T08:40:28.798Z",
+        "lenderName": [],
+        "area": "Sector-25",
+        "pinCode": "201308"
       }
     ]
   },
@@ -23700,10 +23811,13 @@
         "name": "EKANAM",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:58.061Z"
+        "scrapedAt": "2026-03-23T08:37:58.061Z",
+        "lenderName": [],
+        "area": "Sector-107",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc0c09b2489bdd196087",
@@ -23711,10 +23825,13 @@
         "name": "Great Value Sharanam",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:36.822Z"
+        "scrapedAt": "2026-03-23T08:38:36.822Z",
+        "lenderName": [],
+        "area": "Sector-107",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc0d09b2489bdd196088",
@@ -23722,10 +23839,13 @@
         "name": "Greatvalue Anandam",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:37.042Z"
+        "scrapedAt": "2026-03-23T08:38:37.042Z",
+        "lenderName": [],
+        "area": "Sector-107",
+        "pinCode": "201301"
       }
     ]
   },
@@ -24017,10 +24137,13 @@
         "name": "RATAN PEARLS (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:59.207Z"
+        "scrapedAt": "2026-03-23T08:39:59.207Z",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fc5f09b2489bdd1961f7",
@@ -24028,10 +24151,13 @@
         "name": "RATAN PEARLS (PHASE-II)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:59.427Z"
+        "scrapedAt": "2026-03-23T08:39:59.427Z",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "201009"
       }
     ]
   },
@@ -24345,10 +24471,13 @@
         "name": "Iris Broadway Greno West",
         "district": "Gautam Buddha Nagar",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:49.554Z"
+        "scrapedAt": "2026-03-23T08:38:49.554Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc1909b2489bdd1960c2",
@@ -24356,10 +24485,13 @@
         "name": "Iris Broadway Greno West (Phase-2)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:49.773Z"
+        "scrapedAt": "2026-03-23T08:38:49.773Z",
+        "lenderName": [],
+        "area": "Sector-1",
+        "pinCode": "201318"
       }
     ]
   },
@@ -24499,10 +24631,13 @@
         "name": "Page 3 Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:43.403Z"
+        "scrapedAt": "2026-03-23T08:39:43.403Z",
+        "lenderName": [],
+        "area": "Sector-94",
+        "pinCode": "201301"
       }
     ]
   },
@@ -24990,10 +25125,13 @@
         "name": "i-thum’s 62 (Formerly Bizlife)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:50.930Z"
+        "scrapedAt": "2026-03-23T08:38:50.930Z",
+        "lenderName": [],
+        "area": "Sector-62",
+        "pinCode": "201301"
       }
     ]
   },
@@ -25056,10 +25194,13 @@
         "name": "ATS LE GRANDIOSE PHASE-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:25.925Z"
+        "scrapedAt": "2026-03-23T08:37:25.925Z",
+        "lenderName": [],
+        "area": "Sector-150",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbc609b2489bdd195f6d",
@@ -25067,10 +25208,13 @@
         "name": "ATS LE GRANDIOSE -PHASE-I",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:26.152Z"
+        "scrapedAt": "2026-03-23T08:37:26.152Z",
+        "lenderName": [],
+        "area": "Sector-150",
+        "pinCode": "201310"
       }
     ]
   },
@@ -25144,10 +25288,13 @@
         "name": "THE BROOK PHASE-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:45.560Z"
+        "scrapedAt": "2026-03-23T08:40:45.560Z",
+        "lenderName": [],
+        "area": "Sector-12",
+        "pinCode": "201318"
       }
     ]
   },
@@ -25800,10 +25947,13 @@
         "name": "MAHAGUN MANTRA 1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:22.866Z"
+        "scrapedAt": "2026-03-23T08:39:22.866Z",
+        "lenderName": [],
+        "area": "Sector-10",
+        "pinCode": "203207"
       }
     ]
   },
@@ -25997,10 +26147,13 @@
         "name": "Cleo County ,Phase -2,(Comprising towers A-3,A-4,A",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:44.754Z"
+        "scrapedAt": "2026-03-23T08:37:44.754Z",
+        "lenderName": [],
+        "area": "Sector-121",
+        "pinCode": "201307"
       },
       {
         "_id": "69c0fbd909b2489bdd195fb9",
@@ -26008,10 +26161,13 @@
         "name": "Cleo County ,Phase -3,(Comprising towers E1,E2,E3,",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:44.964Z"
+        "scrapedAt": "2026-03-23T08:37:44.964Z",
+        "lenderName": [],
+        "area": "Sector-121",
+        "pinCode": "201307"
       },
       {
         "_id": "69c0fbd909b2489bdd195fba",
@@ -26019,10 +26175,13 @@
         "name": "Cleo County, Ph 1 ( comprising of tower D1 D2 C1 C",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:45.182Z"
+        "scrapedAt": "2026-03-23T08:37:45.182Z",
+        "lenderName": [],
+        "area": "Sector-121",
+        "pinCode": "201301"
       }
     ]
   },
@@ -26249,10 +26408,13 @@
         "name": "LORD KRISHNA MEDLLEY",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:17.861Z"
+        "scrapedAt": "2026-03-23T08:39:17.861Z",
+        "lenderName": [],
+        "area": "Sector-19",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc6f09b2489bdd196233",
@@ -26260,10 +26422,13 @@
         "name": "SAVVIOUR MANOHARRAM",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:15.423Z"
+        "scrapedAt": "2026-03-23T08:40:15.423Z",
+        "lenderName": [],
+        "area": "Sector-19",
+        "pinCode": "201310"
       }
     ]
   },
@@ -26456,10 +26621,13 @@
         "name": "OASIS GRANDSTAND ( PHASE 1)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:40.615Z"
+        "scrapedAt": "2026-03-23T08:39:40.615Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc4c09b2489bdd1961a7",
@@ -26467,10 +26635,13 @@
         "name": "OASIS GRANDSTAND ( PHASE 2)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:40.842Z"
+        "scrapedAt": "2026-03-23T08:39:40.842Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc4d09b2489bdd1961a8",
@@ -26478,10 +26649,13 @@
         "name": "OASIS GRANDSTAND PHASE-2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:41.050Z"
+        "scrapedAt": "2026-03-23T08:39:41.050Z",
+        "lenderName": [],
+        "area": "Sector-22D",
+        "pinCode": "201310"
       }
     ]
   },
@@ -26720,10 +26894,13 @@
         "name": "Royal Nest",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:09.056Z"
+        "scrapedAt": "2026-03-23T08:40:09.056Z",
+        "lenderName": [],
+        "area": "Techzone-4",
+        "pinCode": "201009"
       }
     ]
   },
@@ -27533,10 +27710,13 @@
         "name": "SVG GALLERIA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:41.862Z"
+        "scrapedAt": "2026-03-23T08:40:41.862Z",
+        "lenderName": [],
+        "area": "Sector-131",
+        "pinCode": "201304"
       }
     ]
   },
@@ -27665,10 +27845,13 @@
         "name": "Kasna Plaza Ph 1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:10.681Z"
+        "scrapedAt": "2026-03-23T08:39:10.681Z",
+        "lenderName": [],
+        "area": "Kasna, Ecotech-1",
+        "pinCode": "201310"
       }
     ]
   },
@@ -27764,10 +27947,13 @@
         "name": "7th Avenue - Gaur City",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:36:49.039Z"
+        "scrapedAt": "2026-03-23T08:36:49.039Z",
+        "lenderName": [],
+        "area": "Sector 4",
+        "pinCode": " 201318"
       },
       {
         "_id": "69c0fbfd09b2489bdd196045",
@@ -27775,10 +27961,13 @@
         "name": "Gaur City Center",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:21.196Z"
+        "scrapedAt": "2026-03-23T08:38:21.196Z",
+        "lenderName": [],
+        "area": " Sector 4",
+        "pinCode": " 201318"
       },
       {
         "_id": "69c0fbfd09b2489bdd196046",
@@ -27786,10 +27975,13 @@
         "name": "Gaur City Mall",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:21.501Z"
+        "scrapedAt": "2026-03-23T08:38:21.501Z",
+        "lenderName": [],
+        "area": " Sector 4",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fbfe09b2489bdd196048",
@@ -27797,10 +27989,13 @@
         "name": "Gaur Mulberry Mansions - FH-03",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:22.067Z"
+        "scrapedAt": "2026-03-23T08:38:22.067Z",
+        "lenderName": [],
+        "area": " Sector 1",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fce009b2489bdd1963b5",
@@ -27808,10 +28003,13 @@
         "name": "GAUR NYC RESIDENCES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:08.182Z"
+        "scrapedAt": "2026-03-23T08:42:08.182Z",
+        "lenderName": [],
+        "pinCode": "201002",
+        "area": "Sector-3"
       }
     ]
   },
@@ -27885,10 +28083,13 @@
         "name": "SETHI VENICE PHASE I (TOWER A , B , L , M , CONVEN",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:16.757Z"
+        "scrapedAt": "2026-03-23T08:40:16.757Z",
+        "lenderName": [],
+        "area": "Sector 150",
+        "pinCode": "201310"
       }
     ]
   },
@@ -27972,10 +28173,13 @@
         "name": "KINGS PARK",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:12.817Z"
+        "scrapedAt": "2026-03-23T08:39:12.817Z",
+        "lenderName": [],
+        "pinCode": "201310",
+        "area": "Noida Extension belt"
       }
     ]
   },
@@ -28005,10 +28209,13 @@
         "name": "Unnati Fortune World - Phase 1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:02.712Z"
+        "scrapedAt": "2026-03-23T08:41:02.712Z",
+        "lenderName": [],
+        "area": "Sector 142",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fc9e09b2489bdd1962f4",
@@ -28016,10 +28223,13 @@
         "name": "Unnati Fortune World - Phase 2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:02.921Z"
+        "scrapedAt": "2026-03-23T08:41:02.921Z",
+        "lenderName": [],
+        "area": "Sector 144",
+        "pinCode": "201304"
       }
     ]
   },
@@ -28049,10 +28259,13 @@
         "name": "Fusion Homes",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:14.805Z"
+        "scrapedAt": "2026-03-23T08:38:14.805Z",
+        "lenderName": [],
+        "area": "Techzone IV",
+        "pinCode": "201306"
       }
     ]
   },
@@ -29079,10 +29292,13 @@
         "name": "HBA TECHZONE RESIDENCY",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:43.596Z"
+        "scrapedAt": "2026-03-23T08:38:43.596Z",
+        "lenderName": [],
+        "area": "Sector 27",
+        "pinCode": "201308"
       }
     ]
   },
@@ -29475,10 +29691,13 @@
         "name": "MIGSUN GREEN MANSION",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:28.103Z"
+        "scrapedAt": "2026-03-23T08:39:28.103Z",
+        "lenderName": [],
+        "area": "Surajpur / Zeta-1",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fcf709b2489bdd196417",
@@ -29486,10 +29705,13 @@
         "name": "Migsun Atharva - Migsun Mi Gente - Migsun Estella",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:31.577Z"
+        "scrapedAt": "2026-03-23T08:42:31.577Z",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcf709b2489bdd196418",
@@ -29497,10 +29719,13 @@
         "name": "MIGSUN ATHARVA (PMAY)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:31.774Z"
+        "scrapedAt": "2026-03-23T08:42:31.774Z",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -29824,10 +30049,13 @@
         "name": "CENTRADE BUSINESS PARK PHASE I",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:41.119Z"
+        "scrapedAt": "2026-03-23T08:37:41.119Z",
+        "lenderName": [],
+        "area": "Sector 140",
+        "pinCode": "201305"
       },
       {
         "_id": "69c0fbd509b2489bdd195fad",
@@ -29835,10 +30063,13 @@
         "name": "CENTRADE BUSINESS PARK PHASE II",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:41.398Z"
+        "scrapedAt": "2026-03-23T08:37:41.398Z",
+        "lenderName": [],
+        "area": "Sector 140",
+        "pinCode": "201305"
       }
     ]
   },
@@ -30054,10 +30285,13 @@
         "name": "Green View- II Sahakari Awas Samiti Limited",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:38.174Z"
+        "scrapedAt": "2026-03-23T08:38:38.174Z",
+        "lenderName": [],
+        "pinCode": "201308",
+        "area": "Udyog Vihar"
       }
     ]
   },
@@ -30284,10 +30518,13 @@
         "name": "EMINENCE - PHASE 1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:03.605Z"
+        "scrapedAt": "2026-03-23T08:38:03.605Z",
+        "lenderName": [],
+        "area": "Sector 150",
+        "pinCode": "201310"
       }
     ]
   },
@@ -30383,10 +30620,13 @@
         "name": "Gaur Saundaryam (Phase-2)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:22.294Z"
+        "scrapedAt": "2026-03-23T08:38:22.294Z",
+        "lenderName": [],
+        "area": "Techzone IV",
+        "pinCode": "201009"
       }
     ]
   },
@@ -30821,10 +31061,13 @@
         "name": "AISHWARYAM",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:36:59.852Z"
+        "scrapedAt": "2026-03-23T08:36:59.852Z",
+        "lenderName": [],
+        "area": "Sector 16C",
+        "pinCode": "201009"
       }
     ]
   },
@@ -31107,10 +31350,13 @@
         "name": "Greenbay - Golf Homes",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:39.148Z"
+        "scrapedAt": "2026-03-23T08:38:39.148Z",
+        "lenderName": [],
+        "area": "Sector 22D",
+        "pinCode": "203201"
       },
       {
         "_id": "69c0fc0f09b2489bdd196092",
@@ -31118,10 +31364,13 @@
         "name": "Greenbay Golf Village",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:39.377Z"
+        "scrapedAt": "2026-03-23T08:38:39.377Z",
+        "lenderName": [],
+        "area": "Sector 22D",
+        "pinCode": "203201"
       },
       {
         "_id": "69c0fc9409b2489bdd1962c2",
@@ -31129,10 +31378,13 @@
         "name": "The Monarque",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:52.196Z"
+        "scrapedAt": "2026-03-23T08:40:52.196Z",
+        "lenderName": [],
+        "area": "Sector 22D",
+        "pinCode": "203201"
       }
     ]
   },
@@ -31414,10 +31666,13 @@
         "name": "Bhutani 18",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:32.586Z"
+        "scrapedAt": "2026-03-23T08:37:32.586Z",
+        "lenderName": [],
+        "area": "Sector 128",
+        "pinCode": "201304"
       }
     ]
   },
@@ -31480,10 +31735,13 @@
         "name": "DLF Techpark Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:53.644Z"
+        "scrapedAt": "2026-03-23T08:37:53.644Z",
+        "lenderName": [],
+        "area": "Sector 143A",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fbe109b2489bdd195fde",
@@ -31491,10 +31749,13 @@
         "name": "DLF Techpark Noida Phase 2",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:53.857Z"
+        "scrapedAt": "2026-03-23T08:37:53.857Z",
+        "lenderName": [],
+        "area": "Sector 143A",
+        "pinCode": "201306"
       }
     ]
   },
@@ -31918,10 +32179,13 @@
         "name": "Ithum’s Galleria (Formerly RST Galleria)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:51.148Z"
+        "scrapedAt": "2026-03-23T08:38:51.148Z",
+        "lenderName": [],
+        "area": "Alpha II, Greater Noida",
+        "pinCode": "201310"
       }
     ]
   },
@@ -32215,10 +32479,13 @@
         "name": "civitech Santoni",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:44.088Z"
+        "scrapedAt": "2026-03-23T08:37:44.088Z",
+        "lenderName": [],
+        "area": "Sector 16B",
+        "pinCode": "201009"
       }
     ]
   },
@@ -32248,10 +32515,13 @@
         "name": "Shivam Plaza",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:17.407Z"
+        "scrapedAt": "2026-03-23T08:40:17.407Z",
+        "lenderName": [],
+        "area": "Delta I, Greater Noida",
+        "pinCode": "201310"
       }
     ]
   },
@@ -32358,10 +32628,13 @@
         "name": "I-Thum",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:50.430Z"
+        "scrapedAt": "2026-03-23T08:38:50.430Z",
+        "lenderName": [],
+        "area": "Sector 62, Noida",
+        "pinCode": "201301"
       }
     ]
   },
@@ -32412,10 +32685,13 @@
         "name": "Spring Elmas",
         "district": "Gautam Buddha Nagar",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:30.482Z"
+        "scrapedAt": "2026-03-23T08:40:30.482Z",
+        "lenderName": [],
+        "area": "Sector 12, Noida Extension",
+        "pinCode": "201306"
       }
     ]
   },
@@ -32664,10 +32940,13 @@
         "name": "SAMRIDHI LUXURIYA AVENUE",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:14.531Z"
+        "scrapedAt": "2026-03-23T08:40:14.531Z",
+        "lenderName": [],
+        "area": "Sector 150, Noida",
+        "pinCode": "201310"
       }
     ]
   },
@@ -32796,10 +33075,13 @@
         "name": "MAHAGUN \"MARINA WWALK\" MALL",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:22.411Z"
+        "scrapedAt": "2026-03-23T08:39:22.411Z",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fcf109b2489bdd196405",
@@ -32807,10 +33089,13 @@
         "name": "MAHAGUNPURAM - PHASE II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:42:25.925Z"
+        "scrapedAt": "2026-03-23T08:42:25.925Z",
+        "lenderName": [],
+        "area": "NH-24 / Lal Kuan",
+        "pinCode": "201002"
       }
     ]
   },
@@ -33268,10 +33553,13 @@
         "name": "Paras Avenue",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:49.739Z"
+        "scrapedAt": "2026-03-23T08:39:49.739Z",
+        "lenderName": [],
+        "area": " Sector 129",
+        "pinCode": "201304"
       }
     ]
   },
@@ -33301,10 +33589,13 @@
         "name": "Noida Cyber Hub",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:39:37.716Z"
+        "scrapedAt": "2026-03-23T08:39:37.716Z",
+        "lenderName": [],
+        "area": "Sector 62, Noida",
+        "pinCode": ": 201309"
       }
     ]
   },
@@ -33388,10 +33679,13 @@
         "name": "Earth Sapphire Court",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:56.230Z"
+        "scrapedAt": "2026-03-23T08:37:56.230Z",
+        "lenderName": [],
+        "area": "Knowledge Park 5 ",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fbe409b2489bdd195fe9",
@@ -33399,10 +33693,13 @@
         "name": "Earth Techone",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:56.463Z"
+        "scrapedAt": "2026-03-23T08:37:56.463Z",
+        "lenderName": [],
+        "pinCode": "201310 ",
+        "area": "Tech Zone, Yamuna Expressway"
       },
       {
         "_id": "69c0fbe509b2489bdd195feb",
@@ -33410,10 +33707,13 @@
         "name": "Earth Towne",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:57.429Z"
+        "scrapedAt": "2026-03-23T08:37:57.429Z",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida",
+        "pinCode": "201306"
       }
     ]
   },
@@ -33476,10 +33776,13 @@
         "name": "Earth Gracia",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:56.004Z"
+        "scrapedAt": "2026-03-23T08:37:56.004Z",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida",
+        "pinCode": "201306"
       }
     ]
   },
@@ -33652,10 +33955,13 @@
         "name": "Sunworld Vanalika Phase-II",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:33.475Z"
+        "scrapedAt": "2026-03-23T08:40:33.475Z",
+        "lenderName": [],
+        "area": "Sector 107, Noida",
+        "pinCode": "201304"
       }
     ]
   },
@@ -33872,10 +34178,13 @@
         "name": "SATYAM GALLERIA",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:40:15.192Z"
+        "scrapedAt": "2026-03-23T08:40:15.192Z",
+        "lenderName": [],
+        "area": "Sector P4",
+        "pinCode": "201310"
       }
     ]
   },
@@ -34289,10 +34598,13 @@
         "name": "GOLF GREEN AVENUE",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:38:33.381Z"
+        "scrapedAt": "2026-03-23T08:38:33.381Z",
+        "lenderName": [],
+        "area": "Sector 25",
+        "pinCode": "201310"
       }
     ]
   },
@@ -34531,10 +34843,13 @@
         "name": "Yamuna City Mall",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:41:12.788Z"
+        "scrapedAt": "2026-03-23T08:41:12.788Z",
+        "lenderName": [],
+        "area": "Yamuna Expressway",
+        "pinCode": "203201"
       }
     ]
   },
@@ -34784,10 +35099,13 @@
         "name": "Earth Titanium",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
-        "scrapedAt": "2026-03-23T08:37:56.714Z"
+        "scrapedAt": "2026-03-23T08:37:56.714Z",
+        "lenderName": [],
+        "pinCode": "201310",
+        "area": " Tech Zone 1"
       }
     ]
   },
