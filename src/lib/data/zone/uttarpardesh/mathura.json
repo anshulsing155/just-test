@@ -1,0 +1,540 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Mathura",
+  "city": "Mathura",
+  "summary": "",
+  "total_areas": 215,
+  "total_pincodes": 29,
+  "zones": [
+    {
+      "name": "Mathura City",
+      "pincodes": [
+        281001
+      ],
+      "areas": [
+        "Mathura City",
+        "Mathura Jn RS",
+        "Arya Samaj Road",
+        "Chatta Bazar SO Mathura",
+        "Veterinary College",
+        "Chandanban",
+        "Civil Court SO Mathura",
+        "Deeg Gate",
+        "Krishna Puri",
+        "Sadar Bazar SO Mathura",
+        "Mathura",
+        "Bharatpur Darwaza",
+        "Lal Darwaza SO Mathura",
+        "Mathura Chawk",
+        "Roberts Line SO Mathura",
+        "Sri Krishna Janam Sthan"
+      ],
+      "keywords": [
+        "Mathura",
+        "City Center",
+        "Railway Station"
+      ],
+      "id": "mathura_1"
+    },
+    {
+      "name": "Vrindavan",
+      "pincodes": [
+        281121
+      ],
+      "areas": [
+        "Brij Academy",
+        "GN Bazar",
+        "Sri Bankey Bihari Ji",
+        "Loi Bazar",
+        "Vrindaban",
+        "Gurukul",
+        "Raman Reti",
+        "Manav Sewa Sangh",
+        "Leela Dham"
+      ],
+      "keywords": [
+        "Vrindavan",
+        "Temple",
+        "Pilgrimage"
+      ],
+      "id": "mathura_2"
+    },
+    {
+      "name": "Kosi Kalan",
+      "pincodes": [
+        281403,
+        281201,
+        281406,
+        281206,
+        281205,
+        281303
+      ],
+      "areas": [
+        "Kamar",
+        "Phalen",
+        "Bathain Kalan",
+        "Bukharari",
+        "Dahgaon",
+        "Hatana",
+        "Kosi Kalan",
+        "Kadauna",
+        "Kharoth",
+        "Lalpur",
+        "Nandgaon",
+        "Sahpur",
+        "Barchawali",
+        "Gidoh",
+        "Jab",
+        "Kotban",
+        "Roop Nagar",
+        "Chandpur Kalan",
+        "Kolahar",
+        "Sehi",
+        "Gudera",
+        "Kumhan",
+        "Bhidoni",
+        "Bhooreka",
+        "Chaumuhan",
+        "Jait",
+        "Managarhi",
+        "Mitholi",
+        "Akbarpur",
+        "Atas Bangar",
+        "Tarauli",
+        "Bhalai",
+        "Jarara",
+        "Awakhera",
+        "Parkham Gujar",
+        "Gajoo",
+        "Bhadanwara",
+        "Hasanpur",
+        "Sikanderpur",
+        "Surir",
+        "Parsoli",
+        "Meerpur",
+        "Bajna SO Mathura",
+        "Gokul",
+        "Sonai SO Mathura",
+        "Ahamadpur",
+        "Barauth",
+        "Edalgarhi",
+        "Pachahara",
+        "Shall",
+        "Ajhai Kurd",
+        "Karahari",
+        "Khaira Kothi",
+        "Lohai",
+        "Nawali",
+        "Rajagarhi Khawal"
+      ],
+      "keywords": [
+        "Kosi Kalan",
+        "Market",
+        "Transport Hub"
+      ],
+      "id": "mathura_3"
+    },
+    {
+      "name": "Goverdhan",
+      "pincodes": [
+        281502
+      ],
+      "areas": [
+        "Palson",
+        "Neemgaon",
+        "Bhagosa",
+        "Mahrauli",
+        "Siwal",
+        "Anyor",
+        "Deoseras",
+        "Mahmadpur Parasoli",
+        "Goverdhan",
+        "Bharana Kalan",
+        "Paintha",
+        "GB Jatipura",
+        "Mudseras",
+        "Sahar"
+      ],
+      "keywords": [
+        "Goverdhan",
+        "Pilgrimage",
+        "Hill"
+      ],
+      "id": "mathura_4"
+    },
+    {
+      "name": "Chhata",
+      "pincodes": [
+        281401
+      ],
+      "areas": [
+        "Bishambhara",
+        "Ladhpur",
+        "Dhansinga",
+        "Ranwari",
+        "Paigaon",
+        "Nari",
+        "Chhata SO Mathura",
+        "Dautana"
+      ],
+      "keywords": [
+        "Chhata",
+        "Rural",
+        "Agriculture"
+      ],
+      "id": "mathura_5"
+    },
+    {
+      "name": "Baldeo",
+      "pincodes": [
+        281301
+      ],
+      "areas": [
+        "Avairani",
+        "Magna",
+        "Daulatpur",
+        "Madaura",
+        "Nagla Bali",
+        "Nera",
+        "Baldeo",
+        "Akosh",
+        "Bandi",
+        "Barauli",
+        "Jharautha",
+        "Patlauni"
+      ],
+      "keywords": [
+        "Baldeo",
+        "Temple",
+        "Rural"
+      ],
+      "id": "mathura_6"
+    },
+    {
+      "name": "Raya",
+      "pincodes": [
+        281204
+      ],
+      "areas": [
+        "Barhaun",
+        "Khirari",
+        "Laxmi Nagar",
+        "Bisawali",
+        "Manina Balu",
+        "Nagaura",
+        "Sardargarh",
+        "Raya",
+        "Airakhera",
+        "Madem",
+        "Udhar",
+        "Karab",
+        "Lohban",
+        "Siriya Ki Nagaria",
+        "Bakla",
+        "Panigaon"
+      ],
+      "keywords": [
+        "Raya",
+        "Rural",
+        "Market"
+      ],
+      "id": "mathura_7"
+    },
+    {
+      "name": "Barsana",
+      "pincodes": [
+        281405
+      ],
+      "areas": [
+        "Kamai",
+        "Barsana",
+        "Hathia",
+        "Maharana"
+      ],
+      "keywords": [
+        "Barsana",
+        "Pilgrimage",
+        "Radha"
+      ],
+      "id": "mathura_8"
+    },
+    {
+      "name": "Shergarh",
+      "pincodes": [
+        281404
+      ],
+      "areas": [
+        "Agaryala",
+        "Jatwari",
+        "Dalauta",
+        "Ranhera",
+        "Naugaon",
+        "Senwa",
+        "Shergarh SO Mathura"
+      ],
+      "keywords": [
+        "Shergarh",
+        "Rural",
+        "Fort"
+      ],
+      "id": "mathura_9"
+    },
+    {
+      "name": "Mahaban",
+      "pincodes": [
+        281305
+      ],
+      "areas": [
+        "Hayatpur",
+        "Kishanpur",
+        "Rawal Banger",
+        "Mahaban",
+        "Sihora"
+      ],
+      "keywords": [
+        "Mahaban",
+        "Rural",
+        "Historical"
+      ],
+      "id": "mathura_10"
+    },
+    {
+      "name": "Sonkh",
+      "pincodes": [
+        281123,
+        281308
+      ],
+      "areas": [
+        "Bachagaon",
+        "Fonder",
+        "Kaunthra",
+        "Nainu Patti",
+        "Son",
+        "Magorra",
+        "Sonkh",
+        "Nasirpur",
+        "Byonhi",
+        "Daghenta",
+        "Baltikari",
+        "Karsaura",
+        "Sarai Daud",
+        "Anora",
+        "Pachawar",
+        "Sonkh Khera",
+        "Jugasana"
+      ],
+      "keywords": [
+        "Sonkh",
+        "Rural",
+        "Cluster"
+      ],
+      "id": "mathura_11"
+    },
+    {
+      "name": "Mant",
+      "pincodes": [
+        281202
+      ],
+      "areas": [
+        "Arrua",
+        "Harnaul",
+        "Bhadraban",
+        "Mant",
+        "Jabra",
+        "Tentigaon",
+        "Dangoli Banger",
+        "Naseeti"
+      ],
+      "keywords": [
+        "Mant",
+        "Rural",
+        "Agriculture"
+      ],
+      "id": "mathura_12"
+    },
+    {
+      "name": "Naujhil",
+      "pincodes": [
+        281203
+      ],
+      "areas": [
+        "Nauhjhil",
+        "Musmuna",
+        "Chhinparai"
+      ],
+      "keywords": [
+        "Naujhil",
+        "Rural",
+        "Cluster"
+      ],
+      "id": "mathura_13"
+    },
+    {
+      "name": "Farah",
+      "pincodes": [
+        281122
+      ],
+      "areas": [
+        "Bhaderua",
+        "Pilua",
+        "Raipura Jat",
+        "Dhanajeewana",
+        "Gadhya Latipur",
+        "Beri",
+        "Ole",
+        "Pingari",
+        "Parkham",
+        "Farah",
+        "Jhudawai"
+      ],
+      "keywords": [
+        "Farah",
+        "Rural",
+        "Cluster"
+      ],
+      "id": "mathura_14"
+    },
+    {
+      "name": "Mathura Refinery",
+      "pincodes": [
+        281005,
+        281006
+      ],
+      "areas": [
+        "Barari",
+        "Dhangaon",
+        "Kosi Khurd",
+        "Sersa",
+        "Bhainsa",
+        "Mathura Refinery",
+        "Aurangabad",
+        "Adooki",
+        "Bad",
+        "Refinery Nagar"
+      ],
+      "keywords": [
+        "Refinery",
+        "Industrial",
+        "Mathura"
+      ],
+      "id": "mathura_15"
+    },
+    {
+      "name": "Maholi",
+      "pincodes": [
+        209402
+      ],
+      "areas": [
+        "Maholi"
+      ],
+      "keywords": [
+        "Maholi",
+        "Rural",
+        "Isolated"
+      ],
+      "id": "mathura_16"
+    },
+    {
+      "name": "Raipur",
+      "pincodes": [
+        209863
+      ],
+      "areas": [
+        "Raipur"
+      ],
+      "keywords": [
+        "Raipur",
+        "Rural",
+        "Isolated"
+      ],
+      "id": "mathura_17"
+    },
+    {
+      "name": "Sakatpur",
+      "pincodes": [
+        241001
+      ],
+      "areas": [
+        "Sakatpur"
+      ],
+      "keywords": [
+        "Sakatpur",
+        "Rural",
+        "Isolated"
+      ],
+      "id": "mathura_18"
+    },
+    {
+      "name": "Prem Nagar",
+      "pincodes": [
+        281003
+      ],
+      "areas": [
+        "Prem Nagar",
+        "Gayatri Tapo Bhoomi",
+        "Chhatikara"
+      ],
+      "keywords": [
+        "Prem Nagar",
+        "Residential",
+        "Cluster"
+      ],
+      "id": "mathura_19"
+    },
+    {
+      "name": "Bati",
+      "pincodes": [
+        281004
+      ],
+      "areas": [
+        "Bati",
+        "Satoha",
+        "Krishna Nagar SO Mathura",
+        "Usfar",
+        "Maholi Road"
+      ],
+      "keywords": [
+        "Bati",
+        "Residential",
+        "Cluster"
+      ],
+      "id": "mathura_20"
+    },
+    {
+      "name": "Jikhangaon",
+      "pincodes": [
+        281501
+      ],
+      "areas": [
+        "Jikhangaon",
+        "Junsuti",
+        "Khamni",
+        "Aring"
+      ],
+      "keywords": [
+        "Jikhangaon",
+        "Rural",
+        "Cluster"
+      ],
+      "id": "mathura_21"
+    },
+    {
+      "name": "Ral",
+      "pincodes": [
+        281504
+      ],
+      "areas": [
+        "Ral",
+        "Badhauta",
+        "Radhakund",
+        "Pelkhu"
+      ],
+      "keywords": [
+        "Ral",
+        "Rural",
+        "Cluster"
+      ],
+      "id": "mathura_22"
+    }
+  ]
+}

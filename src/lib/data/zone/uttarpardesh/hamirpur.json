@@ -1,0 +1,348 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Hamirpur",
+  "city": "Hamirpur",
+  "summary": "",
+  "total_areas": 143,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Hamirpur Central",
+      "pincodes": [
+        210301
+      ],
+      "areas": [
+        "Surauli Bujurg",
+        "Manjhoopur",
+        "Kalaulitir",
+        "Hamirpur DB",
+        "Kuchhechha",
+        "Tikrauli",
+        "Hamirpur",
+        "Pauthia Bujurg",
+        "Ujnedi"
+      ],
+      "keywords": [
+        "Hamirpur",
+        "Central"
+      ],
+      "id": "hamirpur_1"
+    },
+    {
+      "name": "Patyara Cluster",
+      "pincodes": [
+        210341
+      ],
+      "areas": [
+        "Patyara",
+        "Ingohta",
+        "Bidokhar",
+        "Deogaon",
+        "Barwa",
+        "Mawaijar",
+        "Patanpur"
+      ],
+      "keywords": [
+        "Patyara",
+        "Cluster"
+      ],
+      "id": "hamirpur_2"
+    },
+    {
+      "name": "Jaria and Surroundings",
+      "pincodes": [
+        210422
+      ],
+      "areas": [
+        "Bira",
+        "Islampur",
+        "Birhat",
+        "Jaria SO Hamirpur",
+        "Atrauli",
+        "Khera Silazit",
+        "Jamauri Daanda",
+        "Chhandaut",
+        "Itailiya",
+        "Zitkiri"
+      ],
+      "keywords": [
+        "Jaria",
+        "Surroundings"
+      ],
+      "id": "hamirpur_3"
+    },
+    {
+      "name": "Surha-Kuwan",
+      "pincodes": [
+        210425
+      ],
+      "areas": [
+        "Surha",
+        "Kuwan"
+      ],
+      "keywords": [
+        "Surha",
+        "Kuwan"
+      ],
+      "id": "hamirpur_4"
+    },
+    {
+      "name": "Majhagawan Belt",
+      "pincodes": [
+        210428
+      ],
+      "areas": [
+        "Majhagawan",
+        "Tolarawat",
+        "Dhagwan",
+        "Jarakhar",
+        "Nauranga",
+        "Malehta"
+      ],
+      "keywords": [
+        "Majhagawan",
+        "Belt"
+      ],
+      "id": "hamirpur_5"
+    },
+    {
+      "name": "Gohand Region",
+      "pincodes": [
+        210430
+      ],
+      "areas": [
+        "Barauli Kharka",
+        "Rihuta",
+        "Gohand",
+        "Kachhewan Kalan",
+        "Magrauth",
+        "Jigni",
+        "Gadhar",
+        "Chadwari Danda",
+        "Amgaon",
+        "Chikasi",
+        "Kargawan",
+        "Rahank",
+        "Rawatpura"
+      ],
+      "keywords": [
+        "Gohand",
+        "Region"
+      ],
+      "id": "hamirpur_6"
+    },
+    {
+      "name": "Rath and Vicinity",
+      "pincodes": [
+        210431
+      ],
+      "areas": [
+        "Kaitha",
+        "Nakra",
+        "Turra",
+        "Rath",
+        "Basela",
+        "Bhainsai",
+        "Jakeri",
+        "Umariya",
+        "Dhamna",
+        "Dhanauri",
+        "Itaura",
+        "Padra",
+        "Saidpur",
+        "Sarsai",
+        "Aunta",
+        "Odera",
+        "Kot Bazar Rath"
+      ],
+      "keywords": [
+        "Rath",
+        "Vicinity"
+      ],
+      "id": "hamirpur_7"
+    },
+    {
+      "name": "Sarila State",
+      "pincodes": [
+        210432
+      ],
+      "areas": [
+        "Neoli Bansa",
+        "Sarila State",
+        "Amood",
+        "Dhauhal Buzurg",
+        "Inderpura",
+        "Jalalpur",
+        "Puraini",
+        "Bilgaon",
+        "Chhiboli",
+        "Mamna"
+      ],
+      "keywords": [
+        "Sarila",
+        "State"
+      ],
+      "id": "hamirpur_8"
+    },
+    {
+      "name": "Bewar and Surroundings",
+      "pincodes": [
+        210501
+      ],
+      "areas": [
+        "Swasa Bujurg",
+        "Chhani Buzurg",
+        "Bandhur Khurd",
+        "Lodipur Newada",
+        "Sayar",
+        "Umari",
+        "Bajehta",
+        "Bewar SO Hamirpur",
+        "Mahera",
+        "Ruripara"
+      ],
+      "keywords": [
+        "Bewar",
+        "Surroundings"
+      ],
+      "id": "hamirpur_9"
+    },
+    {
+      "name": "Sumerpur Area",
+      "pincodes": [
+        210502
+      ],
+      "areas": [
+        "Birkhera",
+        "Chandpura",
+        "Terha",
+        "Atra",
+        "Kundaura",
+        "Pandhari",
+        "Atariyan",
+        "Nadehra",
+        "Banki",
+        "Pachkhura",
+        "Baruwa Sumerpur"
+      ],
+      "keywords": [
+        "Sumerpur",
+        "Area"
+      ],
+      "id": "hamirpur_10"
+    },
+    {
+      "name": "Gusiyari-Chamar Khanna",
+      "pincodes": [
+        210504
+      ],
+      "areas": [
+        "Gusiyari",
+        "Chamar Khanna"
+      ],
+      "keywords": [
+        "Gusiyari",
+        "Chamar Khanna"
+      ],
+      "id": "hamirpur_11"
+    },
+    {
+      "name": "Kurara and Nearby",
+      "pincodes": [
+        210505
+      ],
+      "areas": [
+        "Bhauli",
+        "Kandaur",
+        "Shekaupur",
+        "Patara",
+        "Kurara",
+        "Jhalokhar",
+        "Kharaunj",
+        "Bilauta",
+        "Kusmara",
+        "Misripur",
+        "Para"
+      ],
+      "keywords": [
+        "Kurara",
+        "Nearby"
+      ],
+      "id": "hamirpur_12"
+    },
+    {
+      "name": "Muskara Region",
+      "pincodes": [
+        210506
+      ],
+      "areas": [
+        "Imiliya",
+        "Neoria",
+        "Pahari Bhitari",
+        "Gundela",
+        "Masgaon",
+        "Chilli",
+        "Gahrauli",
+        "Muskara",
+        "Baswari",
+        "Bihuni Kalan"
+      ],
+      "keywords": [
+        "Muskara",
+        "Region"
+      ],
+      "id": "hamirpur_13"
+    },
+    {
+      "name": "Sisolar and Surroundings",
+      "pincodes": [
+        210507
+      ],
+      "areas": [
+        "Bhamai",
+        "Bhulsi",
+        "Biharka",
+        "Garha",
+        "Ichauli",
+        "Urdana",
+        "Kaithi",
+        "Mehuna Mundera",
+        "Sisolar",
+        "Ragaul",
+        "Bhaismari",
+        "Kamharia",
+        "Khandeh",
+        "Parchhat",
+        "Artara",
+        "Gyondi",
+        "Kunetha",
+        "Padhori",
+        "Ragaul Tahsil",
+        "Bigahna",
+        "Kishwahi",
+        "Makraon",
+        "Naraich"
+      ],
+      "keywords": [
+        "Sisolar",
+        "Surroundings"
+      ],
+      "id": "hamirpur_14"
+    },
+    {
+      "name": "Beri-Kakrau",
+      "pincodes": [
+        285203
+      ],
+      "areas": [
+        "Beri",
+        "Kakrau"
+      ],
+      "keywords": [
+        "Beri",
+        "Kakrau"
+      ],
+      "id": "hamirpur_15"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Hardoi",
+  "city": "Hardoi",
+  "summary": "",
+  "total_areas": 331,
+  "total_pincodes": 25,
+  "zones": [
+    {
+      "name": "Hardoi Central",
+      "pincodes": [
+        241001
+      ],
+      "areas": [
+        "Saitiyapur",
+        "Sathara",
+        "Tatyora",
+        "Odra",
+        "Kakendi",
+        "Poora Bahadur",
+        "Hardoi Kutchery",
+        "Nabi Purwa",
+        "Vanshi Nagar",
+        "White Ganj",
+        "Khajurahara",
+        "Turtipur",
+        "Eja",
+        "Kurria",
+        "Malihamau",
+        "Kutuwapur",
+        "Naya Gaon Mubarakpur",
+        "Dhiar Maholiya",
+        "Neer",
+        "Madara",
+        "Pihani Chungi",
+        "Munney Miyan Ka Chauraha",
+        "Avas Vikas Colony",
+        "Lalpalpur",
+        "Rara",
+        "Sikarohari",
+        "Bawan",
+        "Sursa",
+        "Sakatpur",
+        "Hardoi R S",
+        "Lucknow Road",
+        "Bawan Chungi",
+        "Sakara",
+        "Kaudha",
+        "Sadai Behta",
+        "Babnapur",
+        "Bhadaicha",
+        "Bahar",
+        "Bharigawan",
+        "Hardoi",
+        "Asha Nagar"
+      ],
+      "keywords": [
+        "Hardoi",
+        "Central",
+        "Kutchery",
+        "Avas Vikas"
+      ],
+      "id": "hardoi_1"
+    },
+    {
+      "name": "Sandila Region",
+      "pincodes": [
+        241204,
+        241127
+      ],
+      "areas": [
+        "Chhanoiya",
+        "Sandila",
+        "Atia Sahpur",
+        "Malaiya",
+        "Meer Nagar Ajigawan",
+        "Rainso",
+        "Sarve",
+        "Teriya",
+        "Dalelnagar",
+        "Atrauli",
+        "Atwa Bhasen",
+        "Loomamau",
+        "Malehra",
+        "Saank",
+        "Jalalpur",
+        "Sandila I Estate"
+      ],
+      "keywords": [
+        "Sandila",
+        "Region"
+      ],
+      "id": "hardoi_2"
+    },
+    {
+      "name": "Shahabad Cluster",
+      "pincodes": [
+        241124
+      ],
+      "areas": [
+        "Anjhi R S",
+        "Fatehpur Gayand",
+        "Singulapur",
+        "Jamura",
+        "Kakarghata",
+        "Nagla Lothu",
+        "Pareli",
+        "Siroman Nagar",
+        "Tumurkee",
+        "Shahabad SO Hardoi",
+        "Basit Nagar",
+        "Fatehpur Gazi",
+        "Kodra Saraiya",
+        "Shahabad BS",
+        "Anjhi Gaon",
+        "Kundi",
+        "Sarsawan",
+        "Sikandarpu Narkatara",
+        "Udharanpur"
+      ],
+      "keywords": [
+        "Shahabad",
+        "Cluster"
+      ],
+      "id": "hardoi_3"
+    },
+    {
+      "name": "Pihani and Surroundings",
+      "pincodes": [
+        241406
+      ],
+      "areas": [
+        "Burhagaon",
+        "Karim Nagar",
+        "Khateli",
+        "Pandarawa Kot",
+        "Itara",
+        "Jareli",
+        "Para",
+        "Pihani",
+        "Banjariya",
+        "Kusuma",
+        "Majhiya",
+        "Sirsa"
+      ],
+      "keywords": [
+        "Pihani",
+        "Surroundings"
+      ],
+      "id": "hardoi_4"
+    },
+    {
+      "name": "Bilgram Area",
+      "pincodes": [
+        241301
+      ],
+      "areas": [
+        "Noorpur Hathaura",
+        "Sugwan",
+        "Chhibaramau",
+        "Jareuli Sherpur",
+        "Tundwal",
+        "Bilgram BS",
+        "Bilgram",
+        "Andharra",
+        "Parsola",
+        "Dabha",
+        "Dahigawan",
+        "Durgaganj",
+        "Pasner"
+      ],
+      "keywords": [
+        "Bilgram",
+        "Area"
+      ],
+      "id": "hardoi_5"
+    },
+    {
+      "name": "Sandi and Vicinity",
+      "pincodes": [
+        241403
+      ],
+      "areas": [
+        "Kuchila",
+        "Adampur",
+        "Baghrai",
+        "Chacharapur",
+        "Mansoorpur",
+        "Akhbelpur Malwa",
+        "Sarhiapur",
+        "Jarauli Newada",
+        "Srimau",
+        "Sandi"
+      ],
+      "keywords": [
+        "Sandi",
+        "Vicinity"
+      ],
+      "id": "hardoi_6"
+    },
+    {
+      "name": "Gopamau Region",
+      "pincodes": [
+        241404
+      ],
+      "areas": [
+        "Hariharpur",
+        "Tadiyawan",
+        "Thamarawa",
+        "Bahorwa",
+        "Bhainsari",
+        "Sadila",
+        "Gopamau",
+        "Deoria",
+        "Harrai",
+        "Lilwal",
+        "Teni"
+      ],
+      "keywords": [
+        "Gopamau",
+        "Region"
+      ],
+      "id": "hardoi_7"
+    },
+    {
+      "name": "Mallawan and Nearby",
+      "pincodes": [
+        241303
+      ],
+      "areas": [
+        "Babatmau",
+        "Barahuwan",
+        "Bhithai",
+        "Karwa",
+        "Ishwarpur Sain",
+        "Bakhaura",
+        "Bansa",
+        "Matiyamau",
+        "Shahpur Ganga",
+        "Daru Kuinwa",
+        "Goswa",
+        "Purwawan",
+        "Mallawan",
+        "Barauna",
+        "Phulai",
+        "Raghopur",
+        "Shahpur Pawar"
+      ],
+      "keywords": [
+        "Mallawan",
+        "Nearby"
+      ],
+      "id": "hardoi_8"
+    },
+    {
+      "name": "Beniganj and Surroundings",
+      "pincodes": [
+        241304
+      ],
+      "areas": [
+        "Chathia",
+        "Gondarao",
+        "Kalyanmal",
+        "Tikari",
+        "Ugpur",
+        "Beruwa",
+        "Jarauwa",
+        "Kothawan",
+        "Majhigawan",
+        "Bhikpur Aima",
+        "Raipur",
+        "Beniganj",
+        "Hans Barauli",
+        "Harraiya",
+        "Jairajpur",
+        "Karim Nagar Sunauwa",
+        "Kuniya",
+        "Nagwa",
+        "Umrari"
+      ],
+      "keywords": [
+        "Beniganj",
+        "Surroundings"
+      ],
+      "id": "hardoi_9"
+    },
+    {
+      "name": "Harpalpur and Vicinity",
+      "pincodes": [
+        241402
+      ],
+      "areas": [
+        "Baran",
+        "Barsohiya",
+        "Daheliya",
+        "Khasaura",
+        "Lamkan",
+        "Palia",
+        "Barnai Chatarkha",
+        "Behta Rampura",
+        "Semaria",
+        "Arwal",
+        "Uncha Gaon",
+        "Arjunpur",
+        "Pithanapur Nagariya",
+        "Chanadapur",
+        "Malautha",
+        "Satautha",
+        "Tikar",
+        "Harpalpur SO Hardoi"
+      ],
+      "keywords": [
+        "Harpalpur",
+        "Vicinity"
+      ],
+      "id": "hardoi_10"
+    },
+    {
+      "name": "Kachhauna and Surroundings",
+      "pincodes": [
+        241126
+      ],
+      "areas": [
+        "Barwa Sarsand",
+        "Kalauli",
+        "Gajoo",
+        "Kursath",
+        "Lonhra",
+        "Hathaura Raj",
+        "Samspur",
+        "Atwa Ali Mardanpur",
+        "Balamau Village",
+        "Kachhauna"
+      ],
+      "keywords": [
+        "Kachhauna",
+        "Surroundings"
+      ],
+      "id": "hardoi_11"
+    },
+    {
+      "name": "Behander and Vicinity",
+      "pincodes": [
+        241201
+      ],
+      "areas": [
+        "Gauri Dayampur",
+        "Behander",
+        "Jahidpur",
+        "Bahlolpur",
+        "Behendar Khurd",
+        "Birauli",
+        "Dewari",
+        "Hiya",
+        "Jarha",
+        "Kudauni",
+        "Bara Gaon",
+        "Bhatoli",
+        "Madar"
+      ],
+      "keywords": [
+        "Behander",
+        "Vicinity"
+      ],
+      "id": "hardoi_12"
+    },
+    {
+      "name": "Baghauli and Surroundings",
+      "pincodes": [
+        241122
+      ],
+      "areas": [
+        "Faridapur",
+        "Victoriyaganj",
+        "Baghauli",
+        "Bhithadan",
+        "Bamhna Khera",
+        "Kaimau",
+        "Mahri",
+        "Masit",
+        "Meoni",
+        "Pachkohara"
+      ],
+      "keywords": [
+        "Baghauli",
+        "Surroundings"
+      ],
+      "id": "hardoi_13"
+    },
+    {
+      "name": "Sawaijpur and Vicinity",
+      "pincodes": [
+        241123
+      ],
+      "areas": [
+        "Babarpur",
+        "Dhani Nagla",
+        "Kamalpur",
+        "Aamtara",
+        "Anangpur",
+        "Baijupur",
+        "Bilsari",
+        "Daultpur",
+        "Harha Malikapur",
+        "Sahjanpur",
+        "Baruwara",
+        "Bharakhani",
+        "Munder",
+        "Pachdeora",
+        "Pali SO Hardoi",
+        "Jeora",
+        "Khitauli",
+        "Lakhmapur",
+        "Maikpur",
+        "Sawaijpur",
+        "Aliganj Nankheria",
+        "Amirta",
+        "Sarai Raghav"
+      ],
+      "keywords": [
+        "Sawaijpur",
+        "Vicinity"
+      ],
+      "id": "hardoi_14"
+    },
+    {
+      "name": "Majhila and Surroundings",
+      "pincodes": [
+        241125
+      ],
+      "areas": [
+        "Majhila",
+        "Bijgawan",
+        "Behta Gokul",
+        "Chathia Dhanwar",
+        "Umrauli",
+        "Allipur",
+        "Kaimi",
+        "Sakaha",
+        "Todarpur Gaon",
+        "Todarpur R S",
+        "Tolwa Aat Danpur",
+        "Manpur",
+        "Mawaiya",
+        "Sharma Fatehpur",
+        "Bahera Rasoolpur"
+      ],
+      "keywords": [
+        "Majhila",
+        "Surroundings"
+      ],
+      "id": "hardoi_15"
+    },
+    {
+      "name": "Ganj Jalalabad",
+      "pincodes": [
+        209869
+      ],
+      "areas": [
+        "Ganj Jalalabad"
+      ],
+      "keywords": [
+        "Ganj Jalalabad"
+      ],
+      "id": "hardoi_16"
+    },
+    {
+      "name": "Mahmoodpur and Surroundings",
+      "pincodes": [
+        241407
+      ],
+      "areas": [
+        "Alam Nagar",
+        "Mahmoodpur Saraiya",
+        "Raingai",
+        "Abdulla Nagar",
+        "Kunwarpur Basith",
+        "Manikapur",
+        "Rasoolpur",
+        "Bhogiyapur",
+        "Daheliya Rampur",
+        "Jahani Khera",
+        "Saadat Nagar",
+        "Bandaraha",
+        "Chaina",
+        "Sahijana",
+        "Rabha"
+      ],
+      "keywords": [
+        "Mahmoodpur",
+        "Surroundings"
+      ],
+      "id": "hardoi_17"
+    },
+    {
+      "name": "Bharawan and Vicinity",
+      "pincodes": [
+        241202
+      ],
+      "areas": [
+        "Bhatpur",
+        "Pawayan",
+        "Ajamatpur",
+        "Chhatia Rampur",
+        "Hazipur",
+        "Kaudiya",
+        "Bharawan",
+        "Bani",
+        "Chhawan",
+        "Mahitha"
+      ],
+      "keywords": [
+        "Bharawan",
+        "Vicinity"
+      ],
+      "id": "hardoi_18"
+    },
+    {
+      "name": "Madhoganj and Surroundings",
+      "pincodes": [
+        241302
+      ],
+      "areas": [
+        "Gauntra",
+        "Selapur",
+        "Shahpur Basudeo",
+        "Shuklapur Bhagat",
+        "Shahbda",
+        "Gaura",
+        "Odra Pachlai",
+        "Pahuntera",
+        "Parcha Rasoolpur",
+        "Sadarpur",
+        "Sautera",
+        "Madhoganj SO Hardoi"
+      ],
+      "keywords": [
+        "Madhoganj",
+        "Surroundings"
+      ],
+      "id": "hardoi_19"
+    },
+    {
+      "name": "Kalika and Surroundings",
+      "pincodes": [
+        241121
+      ],
+      "areas": [
+        "Kalika",
+        "Thok Bandho",
+        "Aihrori",
+        "Atwa Kataiya",
+        "Barkherwa",
+        "Bharayal",
+        "Bhitha Maha Singh",
+        "Gadeora",
+        "Mangolapur"
+      ],
+      "keywords": [
+        "Kalika",
+        "Surroundings"
+      ],
+      "id": "hardoi_20"
+    },
+    {
+      "name": "Subhan Khera and Surroundings",
+      "pincodes": [
+        241305
+      ],
+      "areas": [
+        "Subhan Khera",
+        "Ashi Azampur",
+        "Behsar",
+        "Khajohana",
+        "Nayagaon",
+        "Khurda Madarpur",
+        "Terwa Dahigawan",
+        "Gaus Ganj"
+      ],
+      "keywords": [
+        "Subhan Khera",
+        "Surroundings"
+      ],
+      "id": "hardoi_21"
+    },
+    {
+      "name": "Kurseli and Surroundings",
+      "pincodes": [
+        241405
+      ],
+      "areas": [
+        "Kurseli",
+        "Bhadeora",
+        "Pila Mahuwa",
+        "Uchawal",
+        "Chandeli",
+        "Hariyawan",
+        "Mansoor Nagar"
+      ],
+      "keywords": [
+        "Kurseli",
+        "Surroundings"
+      ],
+      "id": "hardoi_22"
+    },
+    {
+      "name": "Dhikunni and Surroundings",
+      "pincodes": [
+        241203
+      ],
+      "areas": [
+        "Dhikunni",
+        "Atsaliya",
+        "Goni Gondwa",
+        "Jangaon",
+        "Kashipur Baheria",
+        "Mohammadpur Belwaran",
+        "Bahuti",
+        "Majhigawan Gadeora",
+        "Sarva",
+        "Sikrori",
+        "Tikra Khurd",
+        "Erka Bherka",
+        "Mahagawan"
+      ],
+      "keywords": [
+        "Dhikunni",
+        "Surroundings"
+      ],
+      "id": "hardoi_23"
+    },
+    {
+      "name": "Naseoli and Surroundings",
+      "pincodes": [
+        241401
+      ],
+      "areas": [
+        "Naseoli Gopal",
+        "Bootamau",
+        "Lonar",
+        "Khanigaon Khurd",
+        "Barwan SO Hardoi",
+        "Sahpur Nau",
+        "Simariya",
+        "Bamtapur",
+        "Bhailamau"
+      ],
+      "keywords": [
+        "Naseoli",
+        "Surroundings"
+      ],
+      "id": "hardoi_24"
+    }
+  ]
+}

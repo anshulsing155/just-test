@@ -1,0 +1,723 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Agra",
+  "city": "Agra",
+  "summary": "",
+  "total_areas": 336,
+  "total_pincodes": 29,
+  "zones": [
+    {
+      "name": "Sadar Bazar and Surroundings",
+      "pincodes": [
+        282001
+      ],
+      "areas": [
+        "509 Commad",
+        "Deori Road",
+        "SADAR BAZAR",
+        "SARAI KHWAJA",
+        "Agra",
+        "INDRAPURAM",
+        "TAJ",
+        "Agra Barracks",
+        "GL Emporium",
+        "IDGAH COLONY",
+        "PRR",
+        "NDC Agra",
+        "RAKABGANJ",
+        "TAJGANJ",
+        "15 Bn PAC"
+      ],
+      "keywords": [
+        "Sadar Bazar",
+        "Tajganj",
+        "Idgah Colony"
+      ],
+      "id": "agra_1"
+    },
+    {
+      "name": "Civil Lines and Sanjay Place",
+      "pincodes": [
+        282002
+      ],
+      "areas": [
+        "Billoch Pura",
+        "FATEHPUR SIKARI ROAD",
+        "Gokulpura",
+        "JAGDISHPURA",
+        "SANJAY PLACE",
+        "Khandri",
+        "MEDICAL COLLEGE",
+        "NMPALIKA",
+        "Civil Court",
+        "Civil Lines",
+        "RAJAMANDI",
+        "LOHAMANDI",
+        "RBS COLLEGE",
+        "TP NAGAR"
+      ],
+      "keywords": [
+        "Civil Lines",
+        "Sanjay Place"
+      ],
+      "id": "agra_2"
+    },
+    {
+      "name": "Agra Fort and Rawatpara",
+      "pincodes": [
+        282003
+      ],
+      "areas": [
+        "Gandhi Nagar",
+        "RAWATPARA",
+        "Agra Fort",
+        "BP Oilmill",
+        "KALIBARI",
+        "PHULATTI BAZAR",
+        "JOHRI BAZAR",
+        "TEDI BAGIYA ROAD"
+      ],
+      "keywords": [
+        "Agra Fort",
+        "Rawatpara"
+      ],
+      "id": "agra_3"
+    },
+    {
+      "name": "Kamla Nagar and University Area",
+      "pincodes": [
+        282004
+      ],
+      "areas": [
+        "Agra University",
+        "JOHNS MILLS",
+        "GG Industries",
+        "KAMLA NAGAR",
+        "TAJ NAGRI"
+      ],
+      "keywords": [
+        "Kamla Nagar",
+        "Agra University"
+      ],
+      "id": "agra_4"
+    },
+    {
+      "name": "Dayal Bagh and New Agra",
+      "pincodes": [
+        282005
+      ],
+      "areas": [
+        "Jaganpur",
+        "Dayal Bagh",
+        "YAMUNA KINARA",
+        "KH SANSTHAN",
+        "NEW AGRA"
+      ],
+      "keywords": [
+        "Dayal Bagh",
+        "New Agra"
+      ],
+      "id": "agra_5"
+    },
+    {
+      "name": "Industrial Estate and Chhalesar",
+      "pincodes": [
+        282006
+      ],
+      "areas": [
+        "Chhalesar",
+        "Labour Colony",
+        "Dhandupura",
+        "Naraich",
+        "Rehan Kalan",
+        "INDUSTRIAL ESTATE",
+        "Bamrauli Katara",
+        "Budhana Mustkil",
+        "Kalal Kheria",
+        "YAMUNA BRIDGE",
+        "Nagla Sabla",
+        "Foundary Nagar"
+      ],
+      "keywords": [
+        "Industrial Estate",
+        "Chhalesar"
+      ],
+      "id": "agra_6"
+    },
+    {
+      "name": "Sikandra and Avas Vikas",
+      "pincodes": [
+        282007
+      ],
+      "areas": [
+        "Arsena",
+        "Keetham",
+        "Avas Vikas Colony",
+        "Bodla",
+        "Dahtora",
+        "Panwari",
+        "Runkata",
+        "Artoni",
+        "Bainpur",
+        "Kailash",
+        "SIKANDRA"
+      ],
+      "keywords": [
+        "Sikandra",
+        "Avas Vikas"
+      ],
+      "id": "agra_7"
+    },
+    {
+      "name": "IAF Area",
+      "pincodes": [
+        282008
+      ],
+      "areas": [
+        "IAF"
+      ],
+      "keywords": [
+        "IAF"
+      ],
+      "id": "agra_8"
+    },
+    {
+      "name": "Bamrauli Ahir and Surroundings",
+      "pincodes": [
+        282009
+      ],
+      "areas": [
+        "Sultan Pura",
+        "Karodhana Kala",
+        "Kurra Chittaipur",
+        "Nagla Kali",
+        "Seola Jat",
+        "Deori",
+        "Semri",
+        "Nainana Jat",
+        "Bamrauli Ahir",
+        "Rohta",
+        "Kakua",
+        "COD"
+      ],
+      "keywords": [
+        "Bamrauli Ahir",
+        "Rohta"
+      ],
+      "id": "agra_9"
+    },
+    {
+      "name": "Shahganj and Collectorate",
+      "pincodes": [
+        282010
+      ],
+      "areas": [
+        "Bhogipura",
+        "SHAHGANJ",
+        "Collectorate",
+        "POLICE LINE"
+      ],
+      "keywords": [
+        "Shahganj",
+        "Collectorate"
+      ],
+      "id": "agra_10"
+    },
+    {
+      "name": "Achhnera and Surroundings",
+      "pincodes": [
+        283101
+      ],
+      "areas": [
+        "Biara",
+        "Mangrol Jat",
+        "Raibha",
+        "Daultabad",
+        "Kachaura",
+        "Sandhan",
+        "Turkia",
+        "Achnera Mandi",
+        "Baharawati",
+        "Hansela",
+        "Rampur",
+        "Achhnera",
+        "Arrua Khas",
+        "Kathwari"
+      ],
+      "keywords": [
+        "Achhnera",
+        "Achnera Mandi"
+      ],
+      "id": "agra_11"
+    },
+    {
+      "name": "Akola and Surroundings",
+      "pincodes": [
+        283102
+      ],
+      "areas": [
+        "Berichahar",
+        "Bisalpur",
+        "Dhanoli",
+        "Garsani",
+        "Akola",
+        "Malpura",
+        "Murkia",
+        "Akhabai",
+        "Ujarai",
+        "Jarua Katra",
+        "Mankeda",
+        "Barara"
+      ],
+      "keywords": [
+        "Akola",
+        "Malpura"
+      ],
+      "id": "agra_12"
+    },
+    {
+      "name": "Bah and Surroundings",
+      "pincodes": [
+        283104
+      ],
+      "areas": [
+        "Kwari",
+        "Bah",
+        "Jarar",
+        "Sidhaoli",
+        "Vikrampur",
+        "Bamrauli",
+        "Chaurangahar",
+        "Gonseli",
+        "Pura Guman Singh",
+        "Pura Tinnet",
+        "Rudhmuli",
+        "Bateshwar",
+        "Chamraua",
+        "Kamtari",
+        "Maloni"
+      ],
+      "keywords": [
+        "Bah",
+        "Bateshwar"
+      ],
+      "id": "agra_13"
+    },
+    {
+      "name": "Midhakur and Surroundings",
+      "pincodes": [
+        283105
+      ],
+      "areas": [
+        "Daoli",
+        "Kalwari",
+        "Sahara",
+        "Sahata",
+        "Shahi",
+        "Karahara",
+        "Pathauli",
+        "Sunari",
+        "Atoos",
+        "Kukthala",
+        "VAYU VIHAR",
+        "Midhakur",
+        "BV Bichpuri"
+      ],
+      "keywords": [
+        "Midhakur",
+        "Vayu Vihar"
+      ],
+      "id": "agra_14"
+    },
+    {
+      "name": "Fatehpur Sikri and Surroundings",
+      "pincodes": [
+        283110
+      ],
+      "areas": [
+        "Gurki Mandi",
+        "Korai",
+        "Fatehpur Sikri",
+        "Dabar",
+        "Doora",
+        "Jajauli",
+        "Mandi Mirja Khan",
+        "Mehdau",
+        "Sikraondha",
+        "Churiyari",
+        "Samara",
+        "Undera",
+        "Arhera",
+        "Aulanda",
+        "Baseri Kazi",
+        "Bharkol",
+        "Chauma Shahpur",
+        "Nagar",
+        "Dulhara",
+        "Patsal"
+      ],
+      "keywords": [
+        "Fatehpur Sikri",
+        "Korai"
+      ],
+      "id": "agra_15"
+    },
+    {
+      "name": "Fatehabad and Surroundings",
+      "pincodes": [
+        283111
+      ],
+      "areas": [
+        "Arnota",
+        "Maharajpur",
+        "Nibohara",
+        "Palia",
+        "Swara",
+        "Tanora Noorpur",
+        "Fatehabad",
+        "Gubroth",
+        "Jarari",
+        "Kaulara Kalan",
+        "Mehra Chudhary",
+        "Nagaria",
+        "Tarauli Gujar",
+        "Tiwaha",
+        "Barauli Gujar",
+        "Bhalokhara",
+        "Sikrara",
+        "Bijhamai",
+        "Dauki",
+        "Kundaul",
+        "Nagar Chand",
+        "Wazitpur",
+        "Rasoolpur",
+        "Bihari",
+        "Jagrajpur",
+        "Khander",
+        "Fatehabad Bazar"
+      ],
+      "keywords": [
+        "Fatehabad",
+        "Fatehabad Bazar"
+      ],
+      "id": "agra_16"
+    },
+    {
+      "name": "Iradat Nagar and Surroundings",
+      "pincodes": [
+        283112
+      ],
+      "areas": [
+        "Rahlai",
+        "Kheria",
+        "Birthala",
+        "Mahab",
+        "Nagla Patam",
+        "IRADAT NAGAR",
+        "Bikapur Tap Kharga",
+        "Darki",
+        "Mihawa",
+        "Puseta"
+      ],
+      "keywords": [
+        "Iradat Nagar",
+        "Kheria"
+      ],
+      "id": "agra_17"
+    },
+    {
+      "name": "Bichola and Surroundings",
+      "pincodes": [
+        283113
+      ],
+      "areas": [
+        "Holipura",
+        "Bichola",
+        "Pharera",
+        "Pura Kanhera",
+        "Bitholi",
+        "Rajora",
+        "Bhadrauli",
+        "Pidhora",
+        "Ratoti"
+      ],
+      "keywords": [
+        "Bichola",
+        "Holipura"
+      ],
+      "id": "agra_18"
+    },
+    {
+      "name": "Jaitpur and Surroundings",
+      "pincodes": [
+        283114
+      ],
+      "areas": [
+        "Nadgawan",
+        "Khilawali",
+        "Richhpura",
+        "JAITPUR",
+        "Parna",
+        "Sanjeti",
+        "Shiv Nagar",
+        "Garhwar",
+        "Kukapur",
+        "Mau",
+        "Naugawan",
+        "Shiaupura",
+        "Chitra Hat",
+        "Kachora Ghat",
+        "Shahpur Brahman"
+      ],
+      "keywords": [
+        "Jaitpur",
+        "Richhpura"
+      ],
+      "id": "agra_19"
+    },
+    {
+      "name": "Jagner and Surroundings",
+      "pincodes": [
+        283115
+      ],
+      "areas": [
+        "Tantpur",
+        "Chandsor",
+        "Richoba",
+        "Singaich",
+        "Soni Khera",
+        "Bamnai Kalan",
+        "Basai Jagner",
+        "Bhara",
+        "Dhanina",
+        "Dehgawan",
+        "Noni",
+        "JAGNER"
+      ],
+      "keywords": [
+        "Jagner",
+        "Basai Jagner"
+      ],
+      "id": "agra_20"
+    },
+    {
+      "name": "Kagrol and Surroundings",
+      "pincodes": [
+        283119
+      ],
+      "areas": [
+        "Garh Mukha",
+        "Sarendi",
+        "KAGROL",
+        "Sarendha",
+        "Barwar",
+        "Cheet",
+        "Digrauta",
+        "Waha"
+      ],
+      "keywords": [
+        "Kagrol",
+        "Garh Mukha"
+      ],
+      "id": "agra_21"
+    },
+    {
+      "name": "Kheragarh and Surroundings",
+      "pincodes": [
+        283121
+      ],
+      "areas": [
+        "Bhilawali",
+        "Nagla Dulhe Khan",
+        "KHERAGARH",
+        "Bhakar"
+      ],
+      "keywords": [
+        "Kheragarh",
+        "Bhilawali"
+      ],
+      "id": "agra_22"
+    },
+    {
+      "name": "Kiraoli and Surroundings",
+      "pincodes": [
+        283122
+      ],
+      "areas": [
+        "Baseri Chahar",
+        "Deoretha",
+        "Nahchani",
+        "Puramana",
+        "Rojholi",
+        "KIRAOLI",
+        "Beman",
+        "Jaingara",
+        "Mahuar",
+        "Salemabad"
+      ],
+      "keywords": [
+        "Kiraoli",
+        "Baseri Chahar"
+      ],
+      "id": "agra_23"
+    },
+    {
+      "name": "Pinahat and Surroundings",
+      "pincodes": [
+        283123
+      ],
+      "areas": [
+        "Karkoli",
+        "Kukthari",
+        "Manikpura",
+        "Tasond",
+        "Basoni",
+        "Sabora",
+        "Umretha",
+        "Reha",
+        "Barenda",
+        "Gajaura",
+        "Biprawali",
+        "PINAHAT"
+      ],
+      "keywords": [
+        "Pinahat",
+        "Karkoli"
+      ],
+      "id": "agra_24"
+    },
+    {
+      "name": "Saiyan and Surroundings",
+      "pincodes": [
+        283124
+      ],
+      "areas": [
+        "Dankasha",
+        "Hironda",
+        "Jonai",
+        "Rithori",
+        "Tehra",
+        "Jajau",
+        "Birharu",
+        "Garshan",
+        "Birai",
+        "Ladhu Khera",
+        "Ayela",
+        "Nadeem",
+        "SAIYAN"
+      ],
+      "keywords": [
+        "Saiyan",
+        "Tehra"
+      ],
+      "id": "agra_25"
+    },
+    {
+      "name": "Shamsabad and Surroundings",
+      "pincodes": [
+        283125
+      ],
+      "areas": [
+        "Garhi Lal Kalan",
+        "HNKhera",
+        "Pentikhera",
+        "Phool Pur",
+        "Therai",
+        "Barobara Khurd",
+        "Shahpur Toola",
+        "Dhanaula Kalan",
+        "Lahra",
+        "Lakhurani",
+        "Shyamo",
+        "SHAMSABAD",
+        "Barauli Ahir",
+        "Chitaura",
+        "Dhim Shree",
+        "Digner",
+        "Gutila",
+        "Thana Shankar Dwari"
+      ],
+      "keywords": [
+        "Shamsabad",
+        "Barauli Ahir"
+      ],
+      "id": "agra_26"
+    },
+    {
+      "name": "Khandauli and Surroundings",
+      "pincodes": [
+        283126
+      ],
+      "areas": [
+        "Baman",
+        "Hasanpur",
+        "Kanjauli",
+        "Malupur",
+        "Uncha",
+        "KHANDAULI",
+        "Pent Khera",
+        "Sarai",
+        "Basona",
+        "Semera",
+        "Murhi Chauraha",
+        "Hazipur Khera",
+        "Poiya Tarrakpur"
+      ],
+      "keywords": [
+        "Khandauli",
+        "Baman"
+      ],
+      "id": "agra_27"
+    },
+    {
+      "name": "Etmadpur and Surroundings",
+      "pincodes": [
+        283201
+      ],
+      "areas": [
+        "Aharan",
+        "Anwal Khera",
+        "Chamraula",
+        "Khanda",
+        "Mahwatpur",
+        "Mitaoli",
+        "Siktara",
+        "Tehu",
+        "Barhan",
+        "Arela",
+        "Chaoli",
+        "Murthar Alipur",
+        "Chokda",
+        "Mukhbar",
+        "Nagla Bari",
+        "Nagla Bel",
+        "Ushmanpur"
+      ],
+      "keywords": [
+        "Etmadpur",
+        "Barhan"
+      ],
+      "id": "agra_28"
+    },
+    {
+      "name": "Etmadpur Rural",
+      "pincodes": [
+        283202
+      ],
+      "areas": [
+        "Bhagupur",
+        "Dhaurra",
+        "Behrampur",
+        "Dharera",
+        "Agwar",
+        "Sawain",
+        "Etmadpur"
+      ],
+      "keywords": [
+        "Etmadpur",
+        "Dhaurra"
+      ],
+      "id": "agra_29"
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Meerut",
+  "city": "Meerut",
+  "summary": "",
+  "total_areas": 271,
+  "total_pincodes": 25,
+  "zones": [
+    {
+      "name": "Kharkhauda Region",
+      "pincodes": [
+        245206
+      ],
+      "areas": [
+        "Chandsara",
+        "Phaphunda",
+        "Kharkhauda",
+        "Sarawa",
+        "Ajrara",
+        "Bijauli",
+        "Khaspur",
+        "Panchi",
+        "Atrara",
+        "Gagol",
+        "Bhadoli",
+        "Kaili",
+        "Kaul",
+        "Uldhan"
+      ],
+      "keywords": [
+        "Kharkhauda",
+        "Chandsara",
+        "Phaphunda"
+      ],
+      "id": "meerut_1"
+    },
+    {
+      "name": "Meerut Central",
+      "pincodes": [
+        250001,
+        250002
+      ],
+      "areas": [
+        "Bana",
+        "Maukhas",
+        "Rukanpur Morna",
+        "Sikhera",
+        "Mainthna Inder Singh",
+        "Abulane",
+        "Begum Bagh",
+        "Kanker Khera",
+        "NDC Meerut",
+        "Gandhi Ashram SO Meerut",
+        "Rajpura",
+        "Meerut Cantt",
+        "Belvedere",
+        "Defence Colony SO Meerut",
+        "Kaseru Khera",
+        "P R C",
+        "Chhipi Tank",
+        "Thapar Nagar",
+        "Bhatipura",
+        "Rasulpur Aurangabad",
+        "Incholi",
+        "Ganganagar",
+        "Krishna Nagar",
+        "Shivpuri SO Meerut",
+        "Muzaffarnagar Saini",
+        "Mundali",
+        "Dabka",
+        "Kastla Shamshernagar",
+        "Abdullapur",
+        "Kayastha Badha",
+        "RABazar",
+        "Sardhana Road",
+        "Victoria Park",
+        "Suraj Kund Road",
+        "W K Road",
+        "Budhera Zahidpur",
+        "Baghpat Gate",
+        "Banker Street",
+        "Meerut Tehsil",
+        "SGMandi",
+        "Sarrafa Bazar",
+        "Meerut City",
+        "Ramnagar SO Meerut",
+        "Kishanpura SO Meerut",
+        "Nadir Ali Co",
+        "Panchli Khurd",
+        "Lisari",
+        "Budhana Gate",
+        "Meerut City R S",
+        "Ramlila Ground",
+        "Rly Road Meerut",
+        "Malyana",
+        "Ghosipur",
+        "Kabari Bazar",
+        "Kaiser Ganj",
+        "Lisari Gate"
+      ],
+      "keywords": [
+        "Meerut Cantt",
+        "Abulane",
+        "Begum Bagh"
+      ],
+      "id": "meerut_2"
+    },
+    {
+      "name": "Saket and Kutchery",
+      "pincodes": [
+        250003
+      ],
+      "areas": [
+        "Meerut Kutchery",
+        "Saket SO Meerut"
+      ],
+      "keywords": [
+        "Saket",
+        "Kutchery"
+      ],
+      "id": "meerut_3"
+    },
+    {
+      "name": "Shastri Nagar and University Area",
+      "pincodes": [
+        250004
+      ],
+      "areas": [
+        "Datawali",
+        "Murlipur Phool",
+        "Jithauli",
+        "L L R M Medcollege",
+        "Kina Nagar",
+        "Sisoli",
+        "Meerut University",
+        "Hasanpur Kadim",
+        "Samai Pur",
+        "Shastri Nagar SO Meerut"
+      ],
+      "keywords": [
+        "Shastri Nagar",
+        "Meerut University"
+      ],
+      "id": "meerut_4"
+    },
+    {
+      "name": "MIET and Sushant City",
+      "pincodes": [
+        250005
+      ],
+      "areas": [
+        "MIET",
+        "Sushant City"
+      ],
+      "keywords": [
+        "MIET",
+        "Sushant City"
+      ],
+      "id": "meerut_5"
+    },
+    {
+      "name": "Partapur Industrial Area",
+      "pincodes": [
+        250103
+      ],
+      "areas": [
+        "I E Partapur",
+        "I E Partapur Ext",
+        "Bhoor Baral",
+        "Rithani",
+        "Partapur"
+      ],
+      "keywords": [
+        "Partapur",
+        "Industrial"
+      ],
+      "id": "meerut_6"
+    },
+    {
+      "name": "Kithore and Surroundings",
+      "pincodes": [
+        250104
+      ],
+      "areas": [
+        "Shafibad Loti",
+        "Kithore",
+        "Aseelpur",
+        "Jaroda",
+        "Mahalwala",
+        "Sarwani Arifpur",
+        "Shahjahanpur",
+        "Gesupur",
+        "Lalyaana",
+        "Nagli Badli",
+        "Radhana",
+        "Muzaffarpur Bagarpur"
+      ],
+      "keywords": [
+        "Kithore",
+        "Shahjahanpur"
+      ],
+      "id": "meerut_7"
+    },
+    {
+      "name": "Machhara and Nearby",
+      "pincodes": [
+        250106
+      ],
+      "areas": [
+        "Hasanpur Kalan",
+        "Rachhauti",
+        "Machhara",
+        "Paswara",
+        "Sholda"
+      ],
+      "keywords": [
+        "Machhara",
+        "Hasanpur Kalan"
+      ],
+      "id": "meerut_8"
+    },
+    {
+      "name": "Modipuram and Pallavpuram",
+      "pincodes": [
+        250110
+      ],
+      "areas": [
+        "Pallavpuram",
+        "Dulhera",
+        "Modipuram",
+        "Pabli Khas"
+      ],
+      "keywords": [
+        "Modipuram",
+        "Pallavpuram"
+      ],
+      "id": "meerut_9"
+    },
+    {
+      "name": "Mohiuddinpur and Surroundings",
+      "pincodes": [
+        250205
+      ],
+      "areas": [
+        "Kanshi",
+        "Kazamabad Goon",
+        "Muzakkipur",
+        "Mohiuddinpur",
+        "Chhajupur"
+      ],
+      "keywords": [
+        "Mohiuddinpur",
+        "Kazamabad Goon"
+      ],
+      "id": "meerut_10"
+    },
+    {
+      "name": "Daurala and Nearby",
+      "pincodes": [
+        250221
+      ],
+      "areas": [
+        "Daurala Gaon",
+        "Alipur",
+        "Samaspur Surani",
+        "Kulanjan",
+        "Lohiya",
+        "Samoli Khash Pur",
+        "Sarsawa",
+        "Mataur",
+        "Daurala"
+      ],
+      "keywords": [
+        "Daurala",
+        "Samaspur Surani"
+      ],
+      "id": "meerut_11"
+    },
+    {
+      "name": "Lawar and Mahal",
+      "pincodes": [
+        250222
+      ],
+      "areas": [
+        "Mahal",
+        "Lawar",
+        "Mahalka"
+      ],
+      "keywords": [
+        "Lawar",
+        "Mahal"
+      ],
+      "id": "meerut_12"
+    },
+    {
+      "name": "Sakoti Tanda and Surroundings",
+      "pincodes": [
+        250223
+      ],
+      "areas": [
+        "Dadri",
+        "Kapsad",
+        "Sakoti Tanda",
+        "Kailii",
+        "Ruhasa",
+        "Mandora"
+      ],
+      "keywords": [
+        "Sakoti Tanda",
+        "Dadri"
+      ],
+      "id": "meerut_13"
+    },
+    {
+      "name": "Nanu and Bhalsona",
+      "pincodes": [
+        250341
+      ],
+      "areas": [
+        "Bhalsona",
+        "Pathauli",
+        "B N Nanu",
+        "Pohli",
+        "Ekri",
+        "Janjokhar",
+        "Bahadurpur",
+        "Jangethi",
+        "Khirwa Jalalpur",
+        "Dabathwa"
+      ],
+      "keywords": [
+        "Nanu",
+        "Bhalsona"
+      ],
+      "id": "meerut_14"
+    },
+    {
+      "name": "Sardhana and Surroundings",
+      "pincodes": [
+        250342
+      ],
+      "areas": [
+        "Jhitkari",
+        "Kalandi",
+        "Kushaoli",
+        "Mahadev",
+        "Sardhana",
+        "Bhamori",
+        "Khera",
+        "Pithlokar",
+        "Baparsi",
+        "Kaland",
+        "Rardhana",
+        "Chhur",
+        "Mulhera",
+        "Muzahidpur",
+        "CBSardhana",
+        "Chhabariya",
+        "Salawa"
+      ],
+      "keywords": [
+        "Sardhana",
+        "Mahadev"
+      ],
+      "id": "meerut_15"
+    },
+    {
+      "name": "Sarurpur Khurd and Nearby",
+      "pincodes": [
+        250344
+      ],
+      "areas": [
+        "Panchli Buzurg",
+        "Jassar Sultan Nagar",
+        "Khiwai",
+        "Maina Poothi",
+        "Sarurpur Khurd",
+        "Karnawal",
+        "Bhooni",
+        "Dahar",
+        "Gotka",
+        "Harra"
+      ],
+      "keywords": [
+        "Sarurpur Khurd",
+        "Khiwai"
+      ],
+      "id": "meerut_16"
+    },
+    {
+      "name": "Mawana and Surroundings",
+      "pincodes": [
+        250401,
+        250402
+      ],
+      "areas": [
+        "Akbarpur Sadat",
+        "Gadeena",
+        "Nagla Hareru",
+        "Niloha",
+        "Rahaoti",
+        "Darveshpur",
+        "Kaull",
+        "Naidu",
+        "Pilona",
+        "Sandhan",
+        "Tofapur",
+        "Alipur Morna",
+        "Jai Singhpur",
+        "Mawana Khurd",
+        "Mawana Tehsil",
+        "Assa",
+        "Dhanpura",
+        "Meewan",
+        "Phalauda",
+        "Bhainsa",
+        "Phitkari",
+        "Mawana",
+        "Sathla",
+        "Mawana Factory",
+        "Dhikauli",
+        "Nasarpur"
+      ],
+      "keywords": [
+        "Mawana",
+        "Mawana Khurd"
+      ],
+      "id": "meerut_17"
+    },
+    {
+      "name": "Hastinapur and Nearby",
+      "pincodes": [
+        250404
+      ],
+      "areas": [
+        "Doodhli",
+        "Ganeshpur",
+        "Tarapur",
+        "Maur Khurd",
+        "Behsuma",
+        "Kishorepur",
+        "Latifpur",
+        "Saifpur Karamchanpur",
+        "Bastora",
+        "M P Sikhera",
+        "Digamber Jain Mandir",
+        "Hastinapur"
+      ],
+      "keywords": [
+        "Hastinapur",
+        "Behsuma"
+      ],
+      "id": "meerut_18"
+    },
+    {
+      "name": "Parikshitgarh and Surroundings",
+      "pincodes": [
+        250406
+      ],
+      "areas": [
+        "Ahmedpuri",
+        "Amarsinghpur",
+        "Manpur",
+        "Poothi",
+        "Chitwana Sherpur",
+        "Ekla Rasulpur",
+        "Siyal",
+        "AP Badhla",
+        "Etmadpur",
+        "Jai",
+        "Khajuri",
+        "Sondutt",
+        "Parikshitgarh",
+        "Agwanpur",
+        "Naarangpur"
+      ],
+      "keywords": [
+        "Parikshitgarh",
+        "Agwanpur"
+      ],
+      "id": "meerut_19"
+    },
+    {
+      "name": "Jani and Surroundings",
+      "pincodes": [
+        250501
+      ],
+      "areas": [
+        "Nek",
+        "Peepla Idrishpur",
+        "Dahadra",
+        "Kurali",
+        "Jani",
+        "Behrampur",
+        "Bhola",
+        "Jani Kalan",
+        "Kitholi",
+        "Siwal",
+        "Kalanjari",
+        "Khanpur"
+      ],
+      "keywords": [
+        "Jani",
+        "Kitholi"
+      ],
+      "id": "meerut_20"
+    },
+    {
+      "name": "Rohta and Nearby",
+      "pincodes": [
+        250502
+      ],
+      "areas": [
+        "Dalampur",
+        "Kaithwari",
+        "Meerpur",
+        "Narangpur",
+        "Rasulpur Rohta",
+        "Kalina",
+        "Amanullapur",
+        "Arnawali",
+        "Baram",
+        "Rasulpur Kinoni",
+        "Satwai",
+        "Chandori Khas",
+        "Kalyanpur",
+        "Poothkhas",
+        "Rasna"
+      ],
+      "keywords": [
+        "Rohta",
+        "Meerpur"
+      ],
+      "id": "meerut_21"
+    },
+    {
+      "name": "Chhaprauli and Surroundings",
+      "pincodes": [
+        250617
+      ],
+      "areas": [
+        "Badarkha",
+        "Nangal",
+        "Mukandpur",
+        "Bodha",
+        "Halalpur",
+        "Hewa",
+        "Kakor Kalan",
+        "Kurri",
+        "Sabga",
+        "Silana",
+        "Tugana",
+        "Rathaura",
+        "Sherpur Luhari",
+        "Chhaprauli"
+      ],
+      "keywords": [
+        "Chhaprauli",
+        "Badarkha"
+      ],
+      "id": "meerut_22"
+    },
+    {
+      "name": "Baleni and Nearby",
+      "pincodes": [
+        250626
+      ],
+      "areas": [
+        "Mukri",
+        "Duttnagar",
+        "Mohd Pur Dhoomi",
+        "Dhilaura",
+        "Dhaulri",
+        "Dolcha",
+        "Baleni"
+      ],
+      "keywords": [
+        "Baleni",
+        "Mukri"
+      ],
+      "id": "meerut_23"
+    }
+  ]
+}

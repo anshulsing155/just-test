@@ -1,0 +1,893 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Ghazipur",
+  "city": "Ghazipur",
+  "summary": "",
+  "total_areas": 378,
+  "total_pincodes": 44,
+  "zones": [
+    {
+      "name": "Dildarnagar Area",
+      "pincodes": [
+        232326
+      ],
+      "areas": [
+        "Dewaitha",
+        "JABURNA",
+        "Tiyari",
+        "Dildarnagar Bazar",
+        "Mohammadpur",
+        "Nagsar",
+        "Raksaha",
+        "Tajpur Kurra",
+        "Sarahula",
+        "Dildarnagar",
+        "Gohda Bishunpura",
+        "Kusi",
+        "Sinhani",
+        "BEMUA"
+      ],
+      "keywords": [
+        "Dildarnagar",
+        "Market",
+        "Bazar"
+      ],
+      "id": "ghazipur_1"
+    },
+    {
+      "name": "Gahmar Region",
+      "pincodes": [
+        232327
+      ],
+      "areas": [
+        "Bhataura",
+        "Sayer",
+        "Gahmar Bazar",
+        "Pachauri",
+        "Gahmar"
+      ],
+      "keywords": [
+        "Gahmar",
+        "Bazar"
+      ],
+      "id": "ghazipur_2"
+    },
+    {
+      "name": "Reotipur Cluster",
+      "pincodes": [
+        232328
+      ],
+      "areas": [
+        "Pakari",
+        "Gaura",
+        "Derhgawan",
+        "Reotipur"
+      ],
+      "keywords": [
+        "Reotipur",
+        "Cluster"
+      ],
+      "id": "ghazipur_3"
+    },
+    {
+      "name": "Zamania Area",
+      "pincodes": [
+        232329,
+        232331
+      ],
+      "areas": [
+        "Darauli",
+        "Lahuwar",
+        "Zamania",
+        "Bahadurpur",
+        "Dhanauta",
+        "Phulli",
+        "Pachokhar",
+        "Umarganj Nariaon",
+        "Zamania Bazar",
+        "Baruin",
+        "Khargasipur Urf Naibazar",
+        "Zamania RS",
+        "Gaighat",
+        "Rohura",
+        "Tokwa",
+        "Abhaipur",
+        "Daudpur",
+        "Narsinghpur"
+      ],
+      "keywords": [
+        "Zamania",
+        "Bazar",
+        "RS"
+      ],
+      "id": "ghazipur_4"
+    },
+    {
+      "name": "Tarighat Zone",
+      "pincodes": [
+        232332
+      ],
+      "areas": [
+        "Garua Maksudpur",
+        "Bhikhichaura",
+        "Tarighat",
+        "Patkaniya",
+        "Yuvrajpur"
+      ],
+      "keywords": [
+        "Tarighat"
+      ],
+      "id": "ghazipur_5"
+    },
+    {
+      "name": "Seorai Region",
+      "pincodes": [
+        232333
+      ],
+      "areas": [
+        "Amaura",
+        "Gorsara",
+        "Mahna",
+        "NAULI",
+        "Seorai",
+        "BAKASARA",
+        "Lahna",
+        "Bhadaura",
+        "Utrauli",
+        "Athatha",
+        "Maniya",
+        "Dewal",
+        "Satramganj Bazar"
+      ],
+      "keywords": [
+        "Seorai",
+        "Bazar"
+      ],
+      "id": "ghazipur_6"
+    },
+    {
+      "name": "Sonhariya Cluster",
+      "pincodes": [
+        232336
+      ],
+      "areas": [
+        "Dharhni",
+        "Andharipur Sonwal",
+        "Bhuwalchak",
+        "SONHARIYA",
+        "Bhagirathpur",
+        "Asaon"
+      ],
+      "keywords": [
+        "Sonhariya"
+      ],
+      "id": "ghazipur_7"
+    },
+    {
+      "name": "Nasirpur Area",
+      "pincodes": [
+        232339
+      ],
+      "areas": [
+        "Basuka",
+        "Nasirpur",
+        "Karahiya"
+      ],
+      "keywords": [
+        "Nasirpur"
+      ],
+      "id": "ghazipur_8"
+    },
+    {
+      "name": "Deoria Zone",
+      "pincodes": [
+        232340
+      ],
+      "areas": [
+        "Jeevpur",
+        "Betabar Kalan",
+        "Saidabad",
+        "Tajpur Majnha",
+        "Deoria SO Ghazipur",
+        "Sabbalpur Kalan",
+        "Tisaura"
+      ],
+      "keywords": [
+        "Deoria"
+      ],
+      "id": "ghazipur_9"
+    },
+    {
+      "name": "Suhwal",
+      "pincodes": [
+        232341
+      ],
+      "areas": [
+        "SUHWAL"
+      ],
+      "keywords": [
+        "Suhwal"
+      ],
+      "id": "ghazipur_10"
+    },
+    {
+      "name": "Ghazipur City",
+      "pincodes": [
+        233001
+      ],
+      "areas": [
+        "Ghazipur City",
+        "DEGREE COLLEGE",
+        "Ghazipur RS",
+        "Ghazipur",
+        "Markeenganj",
+        "Subhashnagar SO Ghazipur"
+      ],
+      "keywords": [
+        "Ghazipur",
+        "City",
+        "RS"
+      ],
+      "id": "ghazipur_11"
+    },
+    {
+      "name": "Rauza Area",
+      "pincodes": [
+        233002
+      ],
+      "areas": [
+        "Akarmpur Banjaripur",
+        "Mahrajganj",
+        "Rasulpur Kanhwara",
+        "Bikapur",
+        "Fadanpur",
+        "Jaitpura",
+        "Kaithwalia",
+        "Permeth",
+        "Sohilapur",
+        "Talwal",
+        "Chak Abdul Sattar",
+        "Chhawani Line",
+        "Noorpur",
+        "Atwa Fatehpur",
+        "Hussainpur",
+        "Pithapur",
+        "Sarai Gokul",
+        "Peernagar",
+        "Baipur Deokali",
+        "Chaukiya",
+        "Khalispur",
+        "Rauza"
+      ],
+      "keywords": [
+        "Rauza"
+      ],
+      "id": "ghazipur_12"
+    },
+    {
+      "name": "Aurihar Cluster",
+      "pincodes": [
+        233221
+      ],
+      "areas": [
+        "Aurihar",
+        "Ameda",
+        "Belhari",
+        "Dadara",
+        "Karampur",
+        "Sauna",
+        "Singarpur",
+        "Soniyapar",
+        "Anauni",
+        "Maudha"
+      ],
+      "keywords": [
+        "Aurihar"
+      ],
+      "id": "ghazipur_13"
+    },
+    {
+      "name": "Jahurabad Area",
+      "pincodes": [
+        233222
+      ],
+      "areas": [
+        "Dahendu",
+        "Semaur",
+        "Gangauli",
+        "Basudeopur",
+        "Alawalpur Afga",
+        "Dhotari",
+        "Gathia",
+        "Jahurabad",
+        "Mahespur Kalan",
+        "Abishahan",
+        "Hajipur Baresar",
+        "Renga"
+      ],
+      "keywords": [
+        "Jahurabad"
+      ],
+      "id": "ghazipur_14"
+    },
+    {
+      "name": "Khanpur Zone",
+      "pincodes": [
+        233223
+      ],
+      "areas": [
+        "Amehta",
+        "Gauri",
+        "Rampur SO Ghazipur",
+        "Newada",
+        "Bahediya",
+        "Khanpur",
+        "Baheri"
+      ],
+      "keywords": [
+        "Khanpur"
+      ],
+      "id": "ghazipur_15"
+    },
+    {
+      "name": "Karanda Cluster",
+      "pincodes": [
+        233224
+      ],
+      "areas": [
+        "Mainpur",
+        "Sikandarpur",
+        "Lilapur",
+        "Karanda",
+        "Chochakpur"
+      ],
+      "keywords": [
+        "Karanda"
+      ],
+      "id": "ghazipur_16"
+    },
+    {
+      "name": "Karimuddinpur Area",
+      "pincodes": [
+        233225
+      ],
+      "areas": [
+        "Gondaur",
+        "Karimuddinpur",
+        "Patepur",
+        "Asawar",
+        "LATTHUDIH",
+        "Gandhinagar",
+        "Maura",
+        "Dubiha",
+        "Utraon"
+      ],
+      "keywords": [
+        "Karimuddinpur"
+      ],
+      "id": "ghazipur_17"
+    },
+    {
+      "name": "Mardah Region",
+      "pincodes": [
+        233226,
+        232330,
+        232325
+      ],
+      "areas": [
+        "Bhojapur",
+        "Indaur",
+        "Kelhi",
+        "Nakhatpur",
+        "Prithvipur",
+        "Chaubepur",
+        "Gai",
+        "Ghariha",
+        "Kansahari",
+        "Pipnar",
+        "Bijaura",
+        "Dhanespur",
+        "Dorasar",
+        "Gobindpur",
+        "Harhari",
+        "Singera",
+        "Barahi",
+        "Birbalpur",
+        "Bogna",
+        "Gahli Basarikpur",
+        "Kondari",
+        "Matehu",
+        "Mardah",
+        "Dhanarhi",
+        "BARA",
+        "Usia"
+      ],
+      "keywords": [
+        "Mardah"
+      ],
+      "id": "ghazipur_18"
+    },
+    {
+      "name": "Mohammadabad Yusufpur",
+      "pincodes": [
+        233227
+      ],
+      "areas": [
+        "Machhati",
+        "Pakhanpura",
+        "Tamalpura",
+        "Kundesar",
+        "Murki Kalan",
+        "Murtazipur",
+        "Pardhan Ki Bareji",
+        "Shahbazkuli",
+        "Abadan Bairan",
+        "Gauspur",
+        "Semara",
+        "Tandawan",
+        "Tiwaripur",
+        "Yusufpur Bazar",
+        "Awathahi",
+        "Balapur",
+        "Mohammadabad Yusufpur"
+      ],
+      "keywords": [
+        "Mohammadabad",
+        "Yusufpur"
+      ],
+      "id": "ghazipur_19"
+    },
+    {
+      "name": "Sonwani Cluster",
+      "pincodes": [
+        233228
+      ],
+      "areas": [
+        "Patar",
+        "Goshalpur",
+        "Mahend",
+        "Sonwani",
+        "Tajpur Dehma",
+        "Bharauli Kalan"
+      ],
+      "keywords": [
+        "Sonwani"
+      ],
+      "id": "ghazipur_20"
+    },
+    {
+      "name": "Barachawar Area",
+      "pincodes": [
+        233229
+      ],
+      "areas": [
+        "Kamupur",
+        "Narainpur",
+        "Banki Khurd",
+        "Bhikham Amhat",
+        "Mata",
+        "BARACHAWAR"
+      ],
+      "keywords": [
+        "Barachawar"
+      ],
+      "id": "ghazipur_21"
+    },
+    {
+      "name": "Kasimabad Zone",
+      "pincodes": [
+        233230
+      ],
+      "areas": [
+        "Kasimabad",
+        "Maharaur",
+        "Sidhaut",
+        "Rajapur Katya",
+        "Shekhanpur",
+        "Khajurgaon"
+      ],
+      "keywords": [
+        "Kasimabad"
+      ],
+      "id": "ghazipur_22"
+    },
+    {
+      "name": "Bhawarkol Region",
+      "pincodes": [
+        233231
+      ],
+      "areas": [
+        "Kathar",
+        "Mirzabad Mania",
+        "Sukhdehra",
+        "Taraon Balua",
+        "Kanuwan",
+        "Mason",
+        "BHAWARKOL",
+        "Birpur",
+        "Jashdeopur",
+        "Loharpur",
+        "Amrupur"
+      ],
+      "keywords": [
+        "Bhawarkol"
+      ],
+      "id": "ghazipur_23"
+    },
+    {
+      "name": "Dinapur Cluster",
+      "pincodes": [
+        233232
+      ],
+      "areas": [
+        "Puraina",
+        "Barsara",
+        "Goshandepur",
+        "Dharammarpur",
+        "Saitapatti",
+        "Dinapur"
+      ],
+      "keywords": [
+        "Dinapur"
+      ],
+      "id": "ghazipur_24"
+    },
+    {
+      "name": "Mundera Area",
+      "pincodes": [
+        233233
+      ],
+      "areas": [
+        "Deoria",
+        "Mundera",
+        "Reosara",
+        "Joga Musahib",
+        "Lauwadih",
+        "Khardiha",
+        "Khairabari",
+        "Siyari"
+      ],
+      "keywords": [
+        "Mundera"
+      ],
+      "id": "ghazipur_25"
+    },
+    {
+      "name": "Sherpur Kalan",
+      "pincodes": [
+        233234
+      ],
+      "areas": [
+        "Sherpur Kalan"
+      ],
+      "keywords": [
+        "Sherpur"
+      ],
+      "id": "ghazipur_26"
+    },
+    {
+      "name": "Birno Zone",
+      "pincodes": [
+        233300
+      ],
+      "areas": [
+        "Dharmagatpur",
+        "Ruhipur",
+        "BIRNO",
+        "Ranipur",
+        "Chaurabojh",
+        "Pandepur Radhey",
+        "Tilesara",
+        "Badhupur",
+        "Bharsar"
+      ],
+      "keywords": [
+        "Birno"
+      ],
+      "id": "ghazipur_27"
+    },
+    {
+      "name": "Mubarakpur Area",
+      "pincodes": [
+        233301
+      ],
+      "areas": [
+        "Mubarakpur SO Ghazipur",
+        "Parasa",
+        "Bareji",
+        "Kataria",
+        "Rajapur",
+        "Bagend"
+      ],
+      "keywords": [
+        "Mubarakpur"
+      ],
+      "id": "ghazipur_28"
+    },
+    {
+      "name": "Nandganj Cluster",
+      "pincodes": [
+        233302
+      ],
+      "areas": [
+        "Nandganj",
+        "Belsari",
+        "Nari Pachdeora",
+        "Dhelwa",
+        "Naisare",
+        "Sabua",
+        "Saheri",
+        "Sauram",
+        "Chandipur",
+        "Dhanaipur",
+        "Fateullahpur",
+        "Alipur Bangawan",
+        "Kusumhi Kalan",
+        "Madanahi"
+      ],
+      "keywords": [
+        "Nandganj"
+      ],
+      "id": "ghazipur_29"
+    },
+    {
+      "name": "Nonhara Zone",
+      "pincodes": [
+        233303
+      ],
+      "areas": [
+        "Bauri",
+        "Lawa",
+        "Miranpur",
+        "Bhala",
+        "Para",
+        "Nonhara"
+      ],
+      "keywords": [
+        "Nonhara"
+      ],
+      "id": "ghazipur_30"
+    },
+    {
+      "name": "Saidpur Area",
+      "pincodes": [
+        233304
+      ],
+      "areas": [
+        "Kaneri",
+        "Saidpur Bazar",
+        "Piyari",
+        "Deochandpur",
+        "KHAJURA",
+        "Saidpur SO Ghazipur",
+        "Holipur",
+        "Muriyar",
+        "Baurawan",
+        "Dhuwarjun",
+        "Bhitari",
+        "Chaktaj Katghara",
+        "Dahra Kalan",
+        "Daulatpur",
+        "Mahpur"
+      ],
+      "keywords": [
+        "Saidpur"
+      ],
+      "id": "ghazipur_31"
+    },
+    {
+      "name": "Zangipur Cluster",
+      "pincodes": [
+        233305
+      ],
+      "areas": [
+        "Belwa Urf Rasulpur",
+        "Rampur Jiwan",
+        "Manpur",
+        "ZANGIPUR",
+        "Alawalpur",
+        "Gumma",
+        "Kataila",
+        "Arakhpur",
+        "Pahetia",
+        "Andhau",
+        "Buzurga Gouspur"
+      ],
+      "keywords": [
+        "Zangipur"
+      ],
+      "id": "ghazipur_32"
+    },
+    {
+      "name": "Rasulpur Pacharasi Area",
+      "pincodes": [
+        233306
+      ],
+      "areas": [
+        "Jewal",
+        "Sammanpur",
+        "Taraon",
+        "Rampur Majha",
+        "Basuchak",
+        "Paharpur Kalan",
+        "Turna",
+        "Deokali",
+        "Rasulpur Pacharasi"
+      ],
+      "keywords": [
+        "Rasulpur"
+      ],
+      "id": "ghazipur_33"
+    },
+    {
+      "name": "Bikrampur Zone",
+      "pincodes": [
+        233307
+      ],
+      "areas": [
+        "Khidirganj",
+        "Uchauri",
+        "Bikrampur",
+        "BHIMAPAR",
+        "Bhuwarpur",
+        "Mangari",
+        "Makhdumpur"
+      ],
+      "keywords": [
+        "Bikrampur"
+      ],
+      "id": "ghazipur_34"
+    },
+    {
+      "name": "Yusufpur Area",
+      "pincodes": [
+        233310
+      ],
+      "areas": [
+        "Malikpura",
+        "Bajidpur",
+        "Yusufpur",
+        "Chaura",
+        "Hansrajpur",
+        "Sarai Gobind"
+      ],
+      "keywords": [
+        "Yusufpur"
+      ],
+      "id": "ghazipur_35"
+    },
+    {
+      "name": "Pahalwanpur Cluster",
+      "pincodes": [
+        233311
+      ],
+      "areas": [
+        "Barhat",
+        "Chilar",
+        "Dhari Kala",
+        "Katghara",
+        "Sujanipur",
+        "Parsotia",
+        "NSS Mill",
+        "Pahalwanpur",
+        "Sihori"
+      ],
+      "keywords": [
+        "Pahalwanpur"
+      ],
+      "id": "ghazipur_36"
+    },
+    {
+      "name": "Bahadurganj Area",
+      "pincodes": [
+        275201
+      ],
+      "areas": [
+        "Pali",
+        "Bahadurganj",
+        "Ramgarh",
+        "Mahuwari",
+        "Salamatpur"
+      ],
+      "keywords": [
+        "Bahadurganj"
+      ],
+      "id": "ghazipur_37"
+    },
+    {
+      "name": "Dullahpur Zone",
+      "pincodes": [
+        275202
+      ],
+      "areas": [
+        "Jalalabad",
+        "Lediha",
+        "Sikhari",
+        "Orarai",
+        "Dullahpur",
+        "Hardaspur Kalan",
+        "Baragaon",
+        "Dhamupur",
+        "Rehti Malipur",
+        "Tirchhi"
+      ],
+      "keywords": [
+        "Dullahpur"
+      ],
+      "id": "ghazipur_38"
+    },
+    {
+      "name": "Jakhania Cluster",
+      "pincodes": [
+        275203
+      ],
+      "areas": [
+        "Jalalpurdhani",
+        "Khetabpur",
+        "Jakhania",
+        "Alipur Madara",
+        "Bhurkura",
+        "Rampur Balbhadra",
+        "Burhanpur",
+        "Padumpur",
+        "Sadarjahanpur",
+        "Chauja",
+        "Jhotna",
+        "Orasan"
+      ],
+      "keywords": [
+        "Jakhania"
+      ],
+      "id": "ghazipur_39"
+    },
+    {
+      "name": "Sadat Region",
+      "pincodes": [
+        275204
+      ],
+      "areas": [
+        "Mirpur",
+        "Raipur",
+        "Barwa Kalan",
+        "Mirzapur",
+        "Sadat",
+        "Akbarpur",
+        "Bahariabad",
+        "Darhwal",
+        "Daulatnagar",
+        "Salempur Baghai",
+        "Shishuapar",
+        "Ukraon",
+        "Bhala Khurd",
+        "Hurmuzpur",
+        "Paliwar",
+        "Dora",
+        "Gadaipur",
+        "Maudhia"
+      ],
+      "keywords": [
+        "Sadat"
+      ],
+      "id": "ghazipur_40"
+    },
+    {
+      "name": "Shadiabad Area",
+      "pincodes": [
+        275205
+      ],
+      "areas": [
+        "Guraini",
+        "Kharwadih",
+        "Shadiabad",
+        "Basewa",
+        "Sauri",
+        "Manihari",
+        "Surhurpur"
+      ],
+      "keywords": [
+        "Shadiabad"
+      ],
+      "id": "ghazipur_41"
+    }
+  ]
+}

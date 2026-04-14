@@ -1,0 +1,433 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Etah",
+  "city": "Etah",
+  "summary": "",
+  "total_areas": 201,
+  "total_pincodes": 17,
+  "zones": [
+    {
+      "name": "Etah Central",
+      "pincodes": [
+        207001
+      ],
+      "areas": [
+        "Collectorate Compound",
+        "Patiali Gate",
+        "Gandhi Market SO Etah",
+        "Etah"
+      ],
+      "keywords": [
+        "Etah",
+        "Central",
+        "Market"
+      ],
+      "id": "etah_1"
+    },
+    {
+      "name": "Rajpur and Surroundings",
+      "pincodes": [
+        207002
+      ],
+      "areas": [
+        "Rajpur",
+        "Rijor",
+        "Datai",
+        "Sarvodaya Ashram",
+        "Babsa",
+        "Rarpatti",
+        "Aruna Nagar",
+        "Begaur",
+        "Phaphoto",
+        "Bijauri",
+        "Chhoti Nidhaoli",
+        "Rustamgarh",
+        "Nagla Khilli",
+        "Kakrawali",
+        "Milawali",
+        "Sarnau",
+        "Ahemadpur Nagla Dhanu",
+        "Lalgarhi",
+        "Loya Badshapur",
+        "Jirsimi",
+        "Ahamdabad",
+        "Nagla Galu",
+        "Neorai",
+        "Nagla Pawal",
+        "Girora",
+        "Marthara Bhagwandas"
+      ],
+      "keywords": [
+        "Rajpur",
+        "Surroundings"
+      ],
+      "id": "etah_2"
+    },
+    {
+      "name": "Malwan and Nearby",
+      "pincodes": [
+        207003
+      ],
+      "areas": [
+        "Barauli",
+        "Malwan",
+        "Sonhar",
+        "Jamlapur",
+        "Mahua Khaira",
+        "Jeskpur",
+        "Kansuri",
+        "Garhi",
+        "Brahm Sajiwan",
+        "Kangrol",
+        "Hirondi",
+        "Pamas",
+        "Sheetal Pur",
+        "Nigoh Hasanpur",
+        "Kashon",
+        "Parson",
+        "Kartala",
+        "Khaddua",
+        "Manikpur",
+        "Bhagwala",
+        "Garia Sheelam",
+        "Chhachena",
+        "Puraon",
+        "Jeskhpur"
+      ],
+      "keywords": [
+        "Malwan",
+        "Nearby"
+      ],
+      "id": "etah_3"
+    },
+    {
+      "name": "Pilua Cluster",
+      "pincodes": [
+        207120
+      ],
+      "areas": [
+        "Bhadwas",
+        "Jitauli",
+        "Pilua",
+        "Barai",
+        "Barigawan",
+        "Jogamai Kalan",
+        "Muiddinpur",
+        "Songra"
+      ],
+      "keywords": [
+        "Pilua",
+        "Cluster"
+      ],
+      "id": "etah_4"
+    },
+    {
+      "name": "Sakeet Region",
+      "pincodes": [
+        207121
+      ],
+      "areas": [
+        "Ishara Purbi",
+        "Chaprai Sikandarpur",
+        "Bhartoli",
+        "Lothra",
+        "Saina Kalan",
+        "Angadpur",
+        "Kawar",
+        "Nandpur Bailamay",
+        "Peepal Khairia",
+        "Ambarpur Rejor",
+        "Sakeet"
+      ],
+      "keywords": [
+        "Sakeet",
+        "Region"
+      ],
+      "id": "etah_5"
+    },
+    {
+      "name": "Nidholi Kalan Area",
+      "pincodes": [
+        207122
+      ],
+      "areas": [
+        "Gahaitoo",
+        "Mitraul",
+        "Dholeswar",
+        "Jhinwar",
+        "Magrauli",
+        "Nidholi Kalan",
+        "Dalshahpur",
+        "Margayan",
+        "Manora"
+      ],
+      "keywords": [
+        "Nidholi Kalan",
+        "Area"
+      ],
+      "id": "etah_6"
+    },
+    {
+      "name": "Achalpur and Vicinity",
+      "pincodes": [
+        207125
+      ],
+      "areas": [
+        "Achalpur",
+        "Dhiramai",
+        "Sheorai",
+        "Mirehachi",
+        "Burhenabad",
+        "Gobra",
+        "Sirsa Tippu",
+        "Banthal Kutukpur",
+        "Lodhamai",
+        "Naya Bans"
+      ],
+      "keywords": [
+        "Achalpur",
+        "Vicinity"
+      ],
+      "id": "etah_7"
+    },
+    {
+      "name": "Amanpur Zone",
+      "pincodes": [
+        207241
+      ],
+      "areas": [
+        "Partappur",
+        "Samaspur Dengri",
+        "Amanpur"
+      ],
+      "keywords": [
+        "Amanpur",
+        "Zone"
+      ],
+      "id": "etah_8"
+    },
+    {
+      "name": "Bilsad and Surroundings",
+      "pincodes": [
+        207244
+      ],
+      "areas": [
+        "Bijora",
+        "Bilsad",
+        "Alliyapur",
+        "Gariya Jagannath",
+        "Luhari Kherra",
+        "Mokampur",
+        "Nagla Pohpi",
+        "Shahpur Tehla",
+        "Raja Ka Rampur",
+        "Majhola"
+      ],
+      "keywords": [
+        "Bilsad",
+        "Surroundings"
+      ],
+      "id": "etah_9"
+    },
+    {
+      "name": "Aliganj and Nearby",
+      "pincodes": [
+        207247
+      ],
+      "areas": [
+        "Junedpur",
+        "Nagla Gajpat",
+        "Akbarpurkot",
+        "Gahi",
+        "Jasrathpur",
+        "Kaila",
+        "Amraulirattanpur",
+        "Angriya",
+        "Datingara",
+        "Sarutiya",
+        "Ubhai Asadnagar",
+        "Daheliyapooth",
+        "Mohammadnagar Bajhera",
+        "Pardanapur",
+        "Kakora",
+        "Nadrala",
+        "Sarauth",
+        "Aliganj SO Etah"
+      ],
+      "keywords": [
+        "Aliganj",
+        "Nearby"
+      ],
+      "id": "etah_10"
+    },
+    {
+      "name": "Kasela Cluster",
+      "pincodes": [
+        207248
+      ],
+      "areas": [
+        "Kasela",
+        "Shekhpura",
+        "Fagnaul",
+        "Udaipura",
+        "Dhumri",
+        "Jalalpur Santhal",
+        "Rupdhani",
+        "Baroliya",
+        "Datauli"
+      ],
+      "keywords": [
+        "Kasela",
+        "Cluster"
+      ],
+      "id": "etah_11"
+    },
+    {
+      "name": "Jaithra and Surroundings",
+      "pincodes": [
+        207249
+      ],
+      "areas": [
+        "Barahpur",
+        "Daheliya",
+        "Nagla Leeladhar",
+        "Bhalol",
+        "Jiroliya",
+        "Khirya Nagar Shah",
+        "Pinjari",
+        "Targawan",
+        "Jaithra",
+        "Bhaupura",
+        "Dharoli",
+        "Parauli Suhagpur",
+        "Barna",
+        "Meidupura",
+        "Sahadat Nagar"
+      ],
+      "keywords": [
+        "Jaithra",
+        "Surroundings"
+      ],
+      "id": "etah_12"
+    },
+    {
+      "name": "Kalua Teel Pur Area",
+      "pincodes": [
+        207250
+      ],
+      "areas": [
+        "Alipur",
+        "Kharsulia",
+        "Kalua Teel Pur",
+        "Sarai Aghat"
+      ],
+      "keywords": [
+        "Kalua Teel Pur",
+        "Area"
+      ],
+      "id": "etah_13"
+    },
+    {
+      "name": "Awagarh and Vicinity",
+      "pincodes": [
+        207301
+      ],
+      "areas": [
+        "Jalukhera",
+        "Awagarh",
+        "Baraikalyanpur",
+        "Gahrana",
+        "Narura",
+        "Pondari",
+        "Rohina Mirjapur",
+        "Tikathar",
+        "Barabhodela",
+        "Basundhara",
+        "Khatout",
+        "Borakalan",
+        "Pipehra",
+        "Jarani Kalan"
+      ],
+      "keywords": [
+        "Awagarh",
+        "Vicinity"
+      ],
+      "id": "etah_14"
+    },
+    {
+      "name": "Jalesar Region",
+      "pincodes": [
+        207302
+      ],
+      "areas": [
+        "Badhawali",
+        "Misauli",
+        "Narau",
+        "Punhera",
+        "Simrau",
+        "Ganehspur",
+        "Neem Khera",
+        "Pilkhatra",
+        "Gudaun",
+        "Maksud Pur",
+        "Rejua",
+        "Isauli",
+        "Jainpura",
+        "Nagla Anni",
+        "Naukhera",
+        "Shahnagar Timarua",
+        "Shakrauli",
+        "Berni",
+        "Chirgawan",
+        "Jamon",
+        "Sarai Neem",
+        "Takhawan",
+        "Jalesar"
+      ],
+      "keywords": [
+        "Jalesar",
+        "Region"
+      ],
+      "id": "etah_15"
+    },
+    {
+      "name": "Marehara and Nearby",
+      "pincodes": [
+        207401
+      ],
+      "areas": [
+        "Kutukpur Kaseri",
+        "Mohani Mamoorganj",
+        "Pidora",
+        "Piwari",
+        "Salempur Pironda",
+        "Kantore",
+        "Kanar Kheraa",
+        "Mehni Sora",
+        "Bahadurpur",
+        "Beri",
+        "Tirlokpur",
+        "Marehara",
+        "Mohanpura"
+      ],
+      "keywords": [
+        "Marehara",
+        "Nearby"
+      ],
+      "id": "etah_16"
+    },
+    {
+      "name": "Unchagaon",
+      "pincodes": [
+        281104
+      ],
+      "areas": [
+        "Unchagaon"
+      ],
+      "keywords": [
+        "Unchagaon"
+      ],
+      "id": "etah_17"
+    }
+  ]
+}

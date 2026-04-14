@@ -1,0 +1,795 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "city": "Prayagraj",
+  "summary": "",
+  "total_areas": 420,
+  "total_pincodes": 55,
+  "zones": [
+    {
+      "name": "Civil Lines and Surroundings",
+      "pincodes": [
+        211001,
+        211002
+      ],
+      "areas": [
+        "Leader",
+        "S N Marg",
+        "Prayagraj New Cantt",
+        "Malaka",
+        "PRAYAGRAJ HPO",
+        "K N Marg",
+        "Katra",
+        "Rajapur",
+        "K G Marg",
+        "Prayag",
+        "University",
+        "Prayagraj Kty",
+        "DisttBoard",
+        "Subhash Ngr",
+        "George Town",
+        "Indian Press"
+      ],
+      "keywords": [
+        "Civil Lines",
+        "George Town",
+        "University"
+      ],
+      "id": "prayagraj_1"
+    },
+    {
+      "name": "Chowk and Surroundings",
+      "pincodes": [
+        211003
+      ],
+      "areas": [
+        "Attarsuiya",
+        "Kalyani Devi",
+        "Mutthiganj",
+        "Prayagraj City",
+        "New Bairahana",
+        "S R Marg",
+        "Ahmadganj",
+        "Prayagraj Chowk",
+        "Hindi Sahitya Sammelan",
+        "Krishna Nagar",
+        "Prayag Mahila Vidyapith",
+        "Bahadurganj SO Allahabad"
+      ],
+      "keywords": [
+        "Chowk",
+        "Mutthiganj",
+        "Kalyani Devi"
+      ],
+      "id": "prayagraj_2"
+    },
+    {
+      "name": "Engineering College Area",
+      "pincodes": [
+        211004
+      ],
+      "areas": [
+        "M L N EnggColl",
+        "Cavellary Lines"
+      ],
+      "keywords": [
+        "Engineering College",
+        "Cavellary Lines"
+      ],
+      "id": "prayagraj_3"
+    },
+    {
+      "name": "Prayagraj Fort",
+      "pincodes": [
+        211005
+      ],
+      "areas": [
+        "Prayagraj Fort"
+      ],
+      "keywords": [
+        "Fort"
+      ],
+      "id": "prayagraj_4"
+    },
+    {
+      "name": "Daraganj and Allahpur",
+      "pincodes": [
+        211006
+      ],
+      "areas": [
+        "Nirala Chowk",
+        "Sohbatia Bagh",
+        "Allahpur",
+        "Daraganj"
+      ],
+      "keywords": [
+        "Daraganj",
+        "Allahpur"
+      ],
+      "id": "prayagraj_5"
+    },
+    {
+      "name": "Naini Industrial Area",
+      "pincodes": [
+        211008,
+        211010
+      ],
+      "areas": [
+        "Nibi",
+        "I L C",
+        "Arail",
+        "Naini",
+        "Dandi Bazar",
+        "Chaka",
+        "Naini Pac",
+        "Khandesara",
+        "I T I Naini",
+        "Deys Medical Tiraha",
+        "T S L"
+      ],
+      "keywords": [
+        "Naini",
+        "Industrial Area"
+      ],
+      "id": "prayagraj_6"
+    },
+    {
+      "name": "Dhoomanganj and Surroundings",
+      "pincodes": [
+        211011
+      ],
+      "areas": [
+        "Sulem Sarai",
+        "Dhoomanganj",
+        "Rajrooppur",
+        "Begumsarai"
+      ],
+      "keywords": [
+        "Dhoomanganj",
+        "Sulem Sarai"
+      ],
+      "id": "prayagraj_7"
+    },
+    {
+      "name": "Bamrauli and Surroundings",
+      "pincodes": [
+        211012
+      ],
+      "areas": [
+        "Jalalpur Ghosi",
+        "Mandardeeh Mafi",
+        "Shergarh",
+        "Karehnda",
+        "Bisauna",
+        "Bamrauli",
+        "Asrawey Kalan",
+        "Bamhrauli Uparhar",
+        "Bhagwatpur",
+        "Ganja",
+        "Gauspur Katahula"
+      ],
+      "keywords": [
+        "Bamrauli",
+        "Shergarh"
+      ],
+      "id": "prayagraj_8"
+    },
+    {
+      "name": "Phaphamau and Surroundings",
+      "pincodes": [
+        211013
+      ],
+      "areas": [
+        "Madhonagar Bigahia",
+        "Sewaith",
+        "Ismailganj",
+        "Hathigahan",
+        "Malak Harhar",
+        "Phaphamau",
+        "Gohari"
+      ],
+      "keywords": [
+        "Phaphamau",
+        "Ismailganj"
+      ],
+      "id": "prayagraj_9"
+    },
+    {
+      "name": "Subedarganj",
+      "pincodes": [
+        211015
+      ],
+      "areas": [
+        "Subedarganj"
+      ],
+      "keywords": [
+        "Subedarganj"
+      ],
+      "id": "prayagraj_10"
+    },
+    {
+      "name": "G T B Nagar and Surroundings",
+      "pincodes": [
+        211016
+      ],
+      "areas": [
+        "G T B Nagar",
+        "Kesaria Road",
+        "Purshottam Nagar"
+      ],
+      "keywords": [
+        "G T B Nagar"
+      ],
+      "id": "prayagraj_11"
+    },
+    {
+      "name": "Jhunsi and Surroundings",
+      "pincodes": [
+        211019,
+        211020
+      ],
+      "areas": [
+        "Chhibaiya",
+        "Malawan Khurd",
+        "Nibi Kalan",
+        "Chhatnag",
+        "Jhunsi",
+        "Jhunsi South PO Kumbh Mela",
+        "Arail PO Kumbh Mela",
+        "Central PO Kumbh Mela",
+        "Parade West PO Kumbh Mela"
+      ],
+      "keywords": [
+        "Jhunsi",
+        "Kumbh Mela"
+      ],
+      "id": "prayagraj_12"
+    },
+    {
+      "name": "CRPF and Surroundings",
+      "pincodes": [
+        211022
+      ],
+      "areas": [
+        "CRPF Group Center Ismailganj"
+      ],
+      "keywords": [
+        "CRPF"
+      ],
+      "id": "prayagraj_13"
+    },
+    {
+      "name": "Manda and Surroundings",
+      "pincodes": [
+        212104
+      ],
+      "areas": [
+        "Daswar",
+        "Bhanjanpur",
+        "Dohatha",
+        "Madar",
+        "Nahwai ED",
+        "Bharatganj",
+        "Manda",
+        "Sonversa",
+        "Bampur",
+        "Bedauli",
+        "Hata",
+        "Kosda Kalan",
+        "Shukulpur",
+        "Majhigaown",
+        "Trisentulapur"
+      ],
+      "keywords": [
+        "Manda",
+        "Bharatganj"
+      ],
+      "id": "prayagraj_14"
+    },
+    {
+      "name": "Kaundhiyara and Surroundings",
+      "pincodes": [
+        212106
+      ],
+      "areas": [
+        "Belsara",
+        "Chamu",
+        "Maida",
+        "Jari Bazar",
+        "Kheraht Khurd",
+        "Sujani",
+        "Kaundhiyra",
+        "Palpatti",
+        "Barha"
+      ],
+      "keywords": [
+        "Kaundhiyara",
+        "Jari Bazar"
+      ],
+      "id": "prayagraj_15"
+    },
+    {
+      "name": "Lalapur and Surroundings",
+      "pincodes": [
+        212107
+      ],
+      "areas": [
+        "Dhara",
+        "Lalapur Bhatpura",
+        "Manpur",
+        "Nagarwar",
+        "Panduwa",
+        "Bara",
+        "Chhatahra",
+        "Chilla",
+        "Lohgara",
+        "Naganpur",
+        "Belamundi",
+        "Chhiri",
+        "Naudhiya Tarhar",
+        "Panwar",
+        "Bhita",
+        "Dubaha",
+        "Tatarganj",
+        "Kanti",
+        "Leondi",
+        "Othgi Tarhar",
+        "Jasra"
+      ],
+      "keywords": [
+        "Lalapur",
+        "Bara"
+      ],
+      "id": "prayagraj_16"
+    },
+    {
+      "name": "Shankargarh and Surroundings",
+      "pincodes": [
+        212108
+      ],
+      "areas": [
+        "Lakhnauti",
+        "Bhandiwar",
+        "Shankargarh",
+        "Bemra",
+        "Newadhiya Uparhar",
+        "Bihariya",
+        "Basahra Uparhar"
+      ],
+      "keywords": [
+        "Shankargarh",
+        "Bemra"
+      ],
+      "id": "prayagraj_17"
+    },
+    {
+      "name": "Baharia and Surroundings",
+      "pincodes": [
+        212109
+      ],
+      "areas": [
+        "Baharia Bazar",
+        "Kumhauna",
+        "Kahli",
+        "Karnaipur",
+        "Kamlanagar",
+        "Bomapur",
+        "Sikandra"
+      ],
+      "keywords": [
+        "Baharia",
+        "Karnaipur"
+      ],
+      "id": "prayagraj_18"
+    },
+    {
+      "name": "Ghoorpur and Surroundings",
+      "pincodes": [
+        212111
+      ],
+      "areas": [
+        "Balapur",
+        "Ghoorpur",
+        "Dandupur",
+        "Purwa Khas",
+        "Bagbana",
+        "Karma"
+      ],
+      "keywords": [
+        "Ghoorpur",
+        "Balapur"
+      ],
+      "id": "prayagraj_19"
+    },
+    {
+      "name": "Pura Mufti and Surroundings",
+      "pincodes": [
+        212208
+      ],
+      "areas": [
+        "Pura Mufti ED",
+        "Sallahpur",
+        "Ahmedpur Pawan",
+        "Ahmedpur Asrauli",
+        "Fatehpur Ghat",
+        "Mohdpur Taluka",
+        "Manauri"
+      ],
+      "keywords": [
+        "Pura Mufti",
+        "Manauri"
+      ],
+      "id": "prayagraj_20"
+    },
+    {
+      "name": "Karchhana and Surroundings",
+      "pincodes": [
+        212301
+      ],
+      "areas": [
+        "Pathra",
+        "Piprao",
+        "Tilakhwar",
+        "Baraon",
+        "Bendon",
+        "Deora",
+        "Konhdar",
+        "Arai",
+        "Issauta",
+        "Karchhana",
+        "Dharwara",
+        "Harduwa",
+        "Karchha RS",
+        "Sonai",
+        "Akorha",
+        "Mungari",
+        "Pindi",
+        "Silaundhi"
+      ],
+      "keywords": [
+        "Karchhana",
+        "Pathra"
+      ],
+      "id": "prayagraj_21"
+    },
+    {
+      "name": "Meja and Surroundings",
+      "pincodes": [
+        212302,
+        212303,
+        212110,
+        212307,
+        212306,
+        212305,
+        221502,
+        221505,
+        212503,
+        212401,
+        212507,
+        212402,
+        221507,
+        211017,
+        212202,
+        212404,
+        212502,
+        212405,
+        211007,
+        211014,
+        211023,
+        212308,
+        229413,
+        212105,
+        211021,
+        211018,
+        212212
+      ],
+      "areas": [
+        "Belhat",
+        "Bhatauti",
+        "Pasna",
+        "Tigza",
+        "Dari",
+        "Kurki Kalan",
+        "Lutar",
+        "Basahra",
+        "Bhaiyan",
+        "Siki Kalan",
+        "Gunai Gaharpur",
+        "Meja",
+        "Achhola",
+        "Newadhiya",
+        "Amora",
+        "Barha Kalan",
+        "Nibaiya",
+        "Zera",
+        "Aunta",
+        "Bhaganpur",
+        "Bharari",
+        "Masauli",
+        "Uruwa",
+        "Amilia Kalan",
+        "Babhani Hethar",
+        "Samhan",
+        "Meja Road",
+        "Lotarh",
+        "Kathauli",
+        "Chhapar",
+        "Kapraura",
+        "Lendiyari",
+        "Deeha",
+        "Chiraon",
+        "Pachera",
+        "Chowki",
+        "Dubeypur",
+        "Mahajna",
+        "Hetapur",
+        "Barai Harakh",
+        "Nibi Bari",
+        "Newada",
+        "Siswan",
+        "Bahadurgarh Arwasi",
+        "Babhan Kuiyan",
+        "Garapur",
+        "Prayagraj High Court",
+        "Nari Bari",
+        "Sahson",
+        "Inguwa Kathgaon",
+        "Khiri",
+        "Panasa",
+        "Baraha",
+        "Kheoli Kalan",
+        "Misirpur",
+        "Rampur Kalan",
+        "Ramnagar",
+        "Upraura",
+        "Aura",
+        "Bhelsi",
+        "Bhiti",
+        "Bilari",
+        "Bithauli",
+        "Jaswan",
+        "Babuganj",
+        "Jagatpur",
+        "Sarai Inayat",
+        "Bhagwatipurkhutana",
+        "Chanethu",
+        "Mandwa Bazar",
+        "Tejpur",
+        "Deoli",
+        "Gorigon",
+        "Saraj Mamrej",
+        "Deonahri",
+        "Singra Mau",
+        "Badagaon",
+        "Bari",
+        "Chandpur",
+        "Karaundi",
+        "Bhogwara",
+        "Agriculture Institute",
+        "C D A P",
+        "Khain",
+        "Prayagraj NDC",
+        "NTPC Kohdar Meja",
+        "Holagarh",
+        "Janghai Bazar",
+        "Mau Aima",
+        "Phoolpur",
+        "Mohabbatganj Uparhar",
+        "Khoonta",
+        "Panwari",
+        "Bisari",
+        "Garha",
+        "Handia Manpur",
+        "Kapasi Kalan",
+        "Karpia",
+        "Mahuli",
+        "Ramgarh",
+        "Saji",
+        "Dohariya",
+        "Jawaniya",
+        "Shukulpur ED",
+        "Atraura",
+        "Girdkot",
+        "Tela",
+        "Bagai Khurd",
+        "Leelapur Kala",
+        "Ramaipur",
+        "Aruvaon",
+        "Dahiyawan",
+        "Mukundpur",
+        "Niyayipur",
+        "Nindula",
+        "Pipari",
+        "Rampur Kotwa",
+        "Chhata",
+        "Chhitpalgarh",
+        "MohdPur Gheempur",
+        "Nai Bazar",
+        "Umariasari",
+        "Kapsa",
+        "Mendewa",
+        "Sehuadeeh",
+        "Nasratpur",
+        "Khakhaicha",
+        "Soron",
+        "Chheoki",
+        "Baraut",
+        "Rajarshi Tondon Open University",
+        "Bharat Nagar",
+        "Birpur",
+        "Ghodedeeh",
+        "Beri",
+        "Kush Fara",
+        "Paintiha",
+        "Lohari",
+        "Madra Mukundpur",
+        "Paranipur",
+        "Unchdeeh",
+        "Dhobaha",
+        "Lokmanpur",
+        "Kotwa",
+        "Purabnara",
+        "Sarai Madan Urf Chanti",
+        "Maharchha",
+        "Patwa",
+        "Andhiyaari",
+        "Nindura",
+        "Piyari Urf Bijlipur",
+        "Bakajalalpur",
+        "Harisenganj",
+        "Mehraunda",
+        "Chamrupur Urf Nantaut",
+        "Deewanganj",
+        "Jalalpur Kasba",
+        "Katrauli",
+        "Mailahan",
+        "Pratappur",
+        "Khargapur",
+        "Shivgarh",
+        "Barasta Kalan",
+        "Basna",
+        "Koraon",
+        "Public Service Commission",
+        "Ghiya Nagar",
+        "Soraon",
+        "Ugrasen Pur",
+        "Bahraicha",
+        "Bhunda",
+        "Mahori",
+        "Rokari",
+        "Ayodhya",
+        "Badaur",
+        "Badokhar",
+        "Bhageshar",
+        "Deoghat",
+        "Khajuri",
+        "Nathupur",
+        "Sansarpur",
+        "Bigahuna",
+        "Kewai Buzurg",
+        "Pure Kanta",
+        "Barethi",
+        "Dubawal",
+        "Jamunipur",
+        "Katwaroopur",
+        "Mugarshan",
+        "Anuwa",
+        "Biharia",
+        "Parewa Narainpur",
+        "Kiraon",
+        "Narainganj",
+        "Chandopara",
+        "Kanethi",
+        "Ramgarh Kothari",
+        "Belwa",
+        "Hetapatti",
+        "Umari",
+        "Prem Nagar Chauraha",
+        "Manauri AF",
+        "Sirsa",
+        "Hanumanganj",
+        "Lalgopal Ganj"
+      ],
+      "keywords": [
+        "Meja",
+        "Achhola"
+      ],
+      "id": "prayagraj_22"
+    },
+    {
+      "name": "Handia and Surroundings",
+      "pincodes": [
+        221503
+      ],
+      "areas": [
+        "Beerapur",
+        "Jagdishpur",
+        "Handia",
+        "Handia TI",
+        "Katahra",
+        "Mawaiya Hindwani",
+        "Shahipur",
+        "Prithvipur",
+        "Sirsa Chauraha",
+        "Dhanupur",
+        "Haripur Marron",
+        "Bamaila",
+        "Bhopatpur",
+        "Jaguwa",
+        "Lakshagrih",
+        "Siyadeeh"
+      ],
+      "keywords": [
+        "Handia",
+        "Jagdishpur"
+      ],
+      "id": "prayagraj_23"
+    },
+    {
+      "name": "Saidabad and Surroundings",
+      "pincodes": [
+        221508
+      ],
+      "areas": [
+        "Dhokari",
+        "Sikikhurda",
+        "Ashey Pur",
+        "Dumduma",
+        "Saidabad",
+        "Basgit Bazar",
+        "Khaptiha",
+        "Arahkala",
+        "Motiha",
+        "Utraon",
+        "Buir"
+      ],
+      "keywords": [
+        "Saidabad",
+        "Dumduma"
+      ],
+      "id": "prayagraj_24"
+    },
+    {
+      "name": "Shringverpur and Surroundings",
+      "pincodes": [
+        229411
+      ],
+      "areas": [
+        "Aladadpur",
+        "Mansoorabad",
+        "Pure Ghasi",
+        "Anapur",
+        "Mendara",
+        "Shringverpur",
+        "Prem Misirpur Korali"
+      ],
+      "keywords": [
+        "Shringverpur",
+        "Mansoorabad"
+      ],
+      "id": "prayagraj_25"
+    },
+    {
+      "name": "Atrampur and Surroundings",
+      "pincodes": [
+        229412
+      ],
+      "areas": [
+        "Bajha Mazra Lohia Nagar",
+        "Saraswatipur Urf Kaudihar",
+        "Balraj Nagar",
+        "Mubarakpur",
+        "Serawan",
+        "Ulda",
+        "Atrampur",
+        "Masni Jagdishpur",
+        "Pachdeora"
+      ],
+      "keywords": [
+        "Atrampur",
+        "Mubarakpur"
+      ],
+      "id": "prayagraj_26"
+    }
+  ]
+}

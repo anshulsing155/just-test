@@ -1,0 +1,491 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Maharajganj",
+  "city": "Maharajganj",
+  "summary": "",
+  "total_areas": 203,
+  "total_pincodes": 20,
+  "zones": [
+    {
+      "name": "Ghughli and Surroundings",
+      "pincodes": [
+        273151
+      ],
+      "areas": [
+        "Biraicha",
+        "Banspar",
+        "Mednipur",
+        "Pakdiar Bishunpur",
+        "Rampur Baldiha",
+        "Chaumukha",
+        "Pakdi Bishunpur",
+        "Ghughli R.S",
+        "Gaura Dubey",
+        "Munderi",
+        "Narayanpur"
+      ],
+      "keywords": [
+        "Ghughli",
+        "Biraicha",
+        "Rampur Baldiha"
+      ],
+      "id": "maharajganj_1"
+    },
+    {
+      "name": "Anandnagar Cluster",
+      "pincodes": [
+        273155
+      ],
+      "areas": [
+        "Ramnagar",
+        "Bargadwa Harriya",
+        "Goplapur",
+        "Lvp Nagar",
+        "Baratgarah",
+        "Mathuranagar",
+        "Pharendra Khurd",
+        "Pokharbhinda",
+        "Lezar Mahdewa",
+        "Dandwarkhurd",
+        "Anandnagar S.O Maharajganj"
+      ],
+      "keywords": [
+        "Anandnagar",
+        "Ramnagar",
+        "Pharendra Khurd"
+      ],
+      "id": "maharajganj_2"
+    },
+    {
+      "name": "Bribgemanganj and Vicinity",
+      "pincodes": [
+        273157
+      ],
+      "areas": [
+        "Banjaria Sonbarsa",
+        "Sahjanwa Babu",
+        "Mishrouliya",
+        "Sauraha",
+        "Bribgemanganj",
+        "Lehrabazar",
+        "Shahabad",
+        "Bargahpur",
+        "Belaharriya",
+        "Mahulani"
+      ],
+      "keywords": [
+        "Bribgemanganj",
+        "Sahjanwa Babu",
+        "Lehrabazar"
+      ],
+      "id": "maharajganj_3"
+    },
+    {
+      "name": "Mahdewa Region",
+      "pincodes": [
+        273161
+      ],
+      "areas": [
+        "Mahdewa",
+        "Nausagra",
+        "Dhani Bazar",
+        "Baisar",
+        "Belouha",
+        "Sikandrajitpur"
+      ],
+      "keywords": [
+        "Mahdewa",
+        "Dhani Bazar",
+        "Nausagra"
+      ],
+      "id": "maharajganj_4"
+    },
+    {
+      "name": "Laxmipur and Surroundings",
+      "pincodes": [
+        273162
+      ],
+      "areas": [
+        "Basantpur",
+        "Khlikgarh",
+        "Puranderpur",
+        "Rajdhani",
+        "Dhuswakala",
+        "Smardhira",
+        "Pipra Sohat",
+        "Mudila",
+        "Semra Maharaj",
+        "Shaildah",
+        "Bhagirath Pur",
+        "Laxmipur Maharajganj"
+      ],
+      "keywords": [
+        "Laxmipur",
+        "Puranderpur",
+        "Rajdhani"
+      ],
+      "id": "maharajganj_5"
+    },
+    {
+      "name": "Siswa Bazar Cluster",
+      "pincodes": [
+        273163
+      ],
+      "areas": [
+        "Badhra Mahant",
+        "Bariarpur",
+        "Basuli Farm",
+        "Lohepar",
+        "Chargha",
+        "Guri Badhipurwa",
+        "Khesrari",
+        "Germa",
+        "Kaima",
+        "Sabaya",
+        "Siswa Bazar",
+        "Ardauna",
+        "Kothibhar",
+        "Rampur Kala",
+        "Chainpur",
+        "Karamahi",
+        "Katahari",
+        "Madhwalia"
+      ],
+      "keywords": [
+        "Siswa Bazar",
+        "Badhra Mahant",
+        "Rampur Kala"
+      ],
+      "id": "maharajganj_6"
+    },
+    {
+      "name": "Nautanwa and Nearby",
+      "pincodes": [
+        273164
+      ],
+      "areas": [
+        "Adda Bazar",
+        "Puraniha",
+        "Chakdah",
+        "Nautanwa Bazar",
+        "Banarisihakhurd",
+        "Charalaha",
+        "Kajari",
+        "Karialia",
+        "Khanua",
+        "Karamahwa",
+        "Khoria Bazar",
+        "Naikot"
+      ],
+      "keywords": [
+        "Nautanwa",
+        "Adda Bazar",
+        "Khanua"
+      ],
+      "id": "maharajganj_7"
+    },
+    {
+      "name": "Domara and Surroundings",
+      "pincodes": [
+        273165
+      ],
+      "areas": [
+        "Domara",
+        "Gangibazar",
+        "Mansorganj Khurd",
+        "Narakataha Bazar"
+      ],
+      "keywords": [
+        "Domara",
+        "Gangibazar",
+        "Mansorganj Khurd"
+      ],
+      "id": "maharajganj_8"
+    },
+    {
+      "name": "Mithaura and Vicinity",
+      "pincodes": [
+        273207
+      ],
+      "areas": [
+        "Jamuie Pandit",
+        "Mishraulia",
+        "Mujahna Buzurg",
+        "Parsauni",
+        "Bheria",
+        "Gaunaria",
+        "Jagdaur",
+        "Patrengwa",
+        "Badhara Mir",
+        "Madhubani",
+        "Pipra Bazar",
+        "Senduria",
+        "Sonbarsa",
+        "Mithaura Bazar"
+      ],
+      "keywords": [
+        "Mithaura",
+        "Pipra Bazar",
+        "Madhubani"
+      ],
+      "id": "maharajganj_9"
+    },
+    {
+      "name": "Partawal and Surroundings",
+      "pincodes": [
+        273301
+      ],
+      "areas": [
+        "Harpurtiwari",
+        "Lakhima",
+        "Nebuiya",
+        "Semra Chandauli",
+        "Partawal Bazar",
+        "Dhanaha Nayak",
+        "Basahia Buzurg",
+        "Dharmauli",
+        "Jaddupipra"
+      ],
+      "keywords": [
+        "Partawal",
+        "Harpurtiwari",
+        "Semra Chandauli"
+      ],
+      "id": "maharajganj_10"
+    },
+    {
+      "name": "Siswa Raja and Vicinity",
+      "pincodes": [
+        273302
+      ],
+      "areas": [
+        "Balua",
+        "Laxmipurdeurwa",
+        "Laxmipurektanga",
+        "Purena Khandi Chauri",
+        "Pakdi Dixit",
+        "Belwatikar",
+        "Laxmipurshiwala",
+        "Siswa Raja",
+        "Bhainsi",
+        "Gopala",
+        "Parsa Gidahi",
+        "Shikarpur",
+        "Harakpur",
+        "Pachrukhia",
+        "Piparpati Tiwari",
+        "Sohrauna Tiwari",
+        "Tarkulwa Tiwari",
+        "Bhitauli Bazar"
+      ],
+      "keywords": [
+        "Siswa Raja",
+        "Laxmipurdeurwa",
+        "Shikarpur"
+      ],
+      "id": "maharajganj_11"
+    },
+    {
+      "name": "Maharajganj Central",
+      "pincodes": [
+        273303
+      ],
+      "areas": [
+        "Mahuawa",
+        "Sewareji",
+        "Belwa Qazi",
+        "Dhanewa Dhanai",
+        "Kamhariakala",
+        "Karmha",
+        "Katahra",
+        "Nadua Bazar",
+        "Panewa Panei",
+        "Salamat Garh",
+        "Collectrate Compound Maharajganj",
+        "Bagapar",
+        "Banspar Baijauli",
+        "Darahata",
+        "Khutha Bazar",
+        "Kotamukund Pur",
+        "Maharajganj",
+        "Bauliaraja",
+        "Chehari",
+        "Neta Surhurwa",
+        "Pakdinauni A",
+        "Rudhaulibhawshak",
+        "Sonara",
+        "Belwa Khurd",
+        "Khajuria",
+        "Uska"
+      ],
+      "keywords": [
+        "Maharajganj",
+        "Nadua Bazar",
+        "Salamat Garh"
+      ],
+      "id": "maharajganj_12"
+    },
+    {
+      "name": "Nichlaul and Surroundings",
+      "pincodes": [
+        273304
+      ],
+      "areas": [
+        "Baithwalia",
+        "Doma Khas",
+        "Sekhui",
+        "Nichlaul",
+        "Auratar",
+        "Bali",
+        "Madanpura",
+        "Ledi"
+      ],
+      "keywords": [
+        "Nichlaul",
+        "Baithwalia",
+        "Doma Khas"
+      ],
+      "id": "maharajganj_13"
+    },
+    {
+      "name": "Thuthibari and Vicinity",
+      "pincodes": [
+        273305
+      ],
+      "areas": [
+        "Dangrupur",
+        "Devgatti",
+        "Pipra",
+        "Dogahra",
+        "Jhingti",
+        "Parsamalik",
+        "Sekhwani",
+        "Shiwatari Bzr",
+        "Thuthibari",
+        "Manikapur"
+      ],
+      "keywords": [
+        "Thuthibari",
+        "Dangrupur",
+        "Devgatti"
+      ],
+      "id": "maharajganj_14"
+    },
+    {
+      "name": "Shyamdeorva and Surroundings",
+      "pincodes": [
+        273306
+      ],
+      "areas": [
+        "Piparpati",
+        "Badhara Baraipar",
+        "Natwa Jungle",
+        "Shyamdeorva"
+      ],
+      "keywords": [
+        "Shyamdeorva",
+        "Piparpati",
+        "Natwa Jungle"
+      ],
+      "id": "maharajganj_15"
+    },
+    {
+      "name": "Sonauli and Vicinity",
+      "pincodes": [
+        273308
+      ],
+      "areas": [
+        "Bhagwanpur Bazar",
+        "Zara",
+        "Ratanpur",
+        "Sonauli",
+        "Nipania"
+      ],
+      "keywords": [
+        "Sonauli",
+        "Bhagwanpur Bazar",
+        "Ratanpur"
+      ],
+      "id": "maharajganj_16"
+    },
+    {
+      "name": "Kamharia Buzurg Cluster",
+      "pincodes": [
+        273309
+      ],
+      "areas": [
+        "Raj mandir Kala",
+        "Lalpur",
+        "Shikargarh",
+        "Eksarwa",
+        "Amwa Buzurg",
+        "Kesauli",
+        "Rudra pur shivnath",
+        "Kamharia Buzurg",
+        "Koluhi"
+      ],
+      "keywords": [
+        "Kamharia Buzurg",
+        "Raj mandir Kala",
+        "Shikargarh"
+      ],
+      "id": "maharajganj_17"
+    },
+    {
+      "name": "Paniyara and Surroundings",
+      "pincodes": [
+        273310
+      ],
+      "areas": [
+        "Baidabazar",
+        "Devipur",
+        "Kamasin khurd",
+        "Madhonagar",
+        "Mahua sukul",
+        "Rajaura Khurd",
+        "Paniyara",
+        "Maula Ganj"
+      ],
+      "keywords": [
+        "Paniyara",
+        "Baidabazar",
+        "Devipur"
+      ],
+      "id": "maharajganj_18"
+    },
+    {
+      "name": "Laxmipur Khurd Cluster",
+      "pincodes": [
+        273311
+      ],
+      "areas": [
+        "Gadaura",
+        "Meghauli Kala",
+        "Bodna",
+        "Laxmipur Khurd",
+        "Orwalliya",
+        "Jhulnipur",
+        "Rengahia"
+      ],
+      "keywords": [
+        "Laxmipur Khurd",
+        "Gadaura",
+        "Meghauli Kala"
+      ],
+      "id": "maharajganj_19"
+    },
+    {
+      "name": "Chowk Bazar",
+      "pincodes": [
+        273312
+      ],
+      "areas": [
+        "CHOWK BAZAR"
+      ],
+      "keywords": [
+        "Chowk Bazar"
+      ],
+      "id": "maharajganj_20"
+    }
+  ]
+}

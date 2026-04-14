@@ -1,0 +1,490 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Basti",
+  "city": "Basti",
+  "summary": "",
+  "total_areas": 274,
+  "total_pincodes": 25,
+  "zones": [
+    {
+      "name": "Basti Central",
+      "pincodes": [
+        272001,
+        272002
+      ],
+      "areas": [
+        "ITI SO Basti",
+        "Orijote",
+        "Gandhinagar SO Basti",
+        "Basti Kutchery",
+        "Basti",
+        "Civil Line SO Basti",
+        "Dudhaura",
+        "Karahi",
+        "Karma Khan",
+        "Nagahara",
+        "Pakari Dhaurahra",
+        "Puraina Mansoor",
+        "Puraina Pandey",
+        "Basti BS",
+        "Dakhin Darwaza SO Basti",
+        "Bhelkha",
+        "Ganeshpur",
+        "Majahuwameer",
+        "Manjharia Vikram",
+        "Kasaila Marwatiya",
+        "Pakri Jai",
+        "Pursia",
+        "Pandey Bazar",
+        "TB Clinic SO Basti",
+        "Basti Sugar Factory",
+        "Kondra Pandey",
+        "Gaura",
+        "Hathiagarh",
+        "Jamadashahi",
+        "Madwanagar",
+        "Orawara",
+        "Rasoolpur",
+        "Saithawalia",
+        "Ushara Shahid",
+        "Purani Basti",
+        "Baghnagar",
+        "Bai Pokhar",
+        "Bankata",
+        "Chhapia Sheobaran",
+        "Labnapar",
+        "Majhauwa Khajuri",
+        "Subdeiyakala"
+      ],
+      "keywords": [
+        "Basti",
+        "Central",
+        "City"
+      ],
+      "id": "basti_1"
+    },
+    {
+      "name": "Bankati Region",
+      "pincodes": [
+        272123,
+        272124
+      ],
+      "areas": [
+        "Bharwalia",
+        "Khoria",
+        "Pagar",
+        "Bankati Bazar",
+        "Barahuwan",
+        "Deisand",
+        "Misrauliya",
+        "Gaura Upadhyay",
+        "Kothwa",
+        "Samaspur",
+        "Naraiyanpur",
+        "Pipragautam",
+        "Mahson",
+        "Bhawanipur",
+        "Niranjanpur",
+        "Sillo"
+      ],
+      "keywords": [
+        "Bankati",
+        "Region"
+      ],
+      "id": "basti_2"
+    },
+    {
+      "name": "Amorha Cluster",
+      "pincodes": [
+        272127,
+        272128
+      ],
+      "areas": [
+        "Dhirauli Babu",
+        "Ghorsayen",
+        "Hiyaroopur",
+        "Turasi",
+        "Jajupur",
+        "Pachwas",
+        "Amorha",
+        "Jaitapur",
+        "Khesuwa",
+        "Sangrampur",
+        "Nande Kuwan",
+        "Kataria",
+        "Roopgarh",
+        "Bishesharganj",
+        "Sarraiya Atibal",
+        "Sudipur",
+        "Bardia Kunwar",
+        "Turkipur"
+      ],
+      "keywords": [
+        "Amorha",
+        "Cluster"
+      ],
+      "id": "basti_3"
+    },
+    {
+      "name": "Malauli and Surroundings",
+      "pincodes": [
+        272129,
+        272130
+      ],
+      "areas": [
+        "Malauli Gosain",
+        "Nandnagar",
+        "Belwa",
+        "Sikandarpur",
+        "Tharuapur",
+        "Dhenugawan",
+        "Shankarpur",
+        "Bhainsaha",
+        "Jagdishpur",
+        "Parasrampur",
+        "Harish Nagar",
+        "Kharawan Kunwsar",
+        "Lalpur",
+        "Deferi",
+        "Gopinathpur",
+        "Sringinari",
+        "Raghunathpur",
+        "Nedula",
+        "Salempur"
+      ],
+      "keywords": [
+        "Malauli",
+        "Surroundings"
+      ],
+      "id": "basti_4"
+    },
+    {
+      "name": "Captainganj Area",
+      "pincodes": [
+        272131
+      ],
+      "areas": [
+        "Dubaulia",
+        "Haribanshpur",
+        "Pak Bakhtawar",
+        "Barahata",
+        "Barhni",
+        "Dubauli Dubey",
+        "Kaudikol",
+        "Unji",
+        "Naghara",
+        "Dailapur",
+        "Gopiapar",
+        "Mahuwalakhanpur",
+        "Pokhara",
+        "Bairagal",
+        "Bemhari",
+        "Garha",
+        "Govindpara",
+        "Kodai",
+        "Ojhaganj",
+        "Tilakpur",
+        "C C M Padmapur",
+        "Captainganj"
+      ],
+      "keywords": [
+        "Captainganj",
+        "Area"
+      ],
+      "id": "basti_5"
+    },
+    {
+      "name": "Mahuwar and Vicinity",
+      "pincodes": [
+        272148,
+        272150
+      ],
+      "areas": [
+        "Mahuwar",
+        "Dandwapandey",
+        "Kerauna",
+        "Sehuda Kala",
+        "Rayath",
+        "Ambari",
+        "Kohra",
+        "Misraulia Bhaiya",
+        "Parsa Damya",
+        "Raunakala",
+        "Dasia",
+        "Majhauwa Baikunth",
+        "Hanumanganj"
+      ],
+      "keywords": [
+        "Mahuwar",
+        "Vicinity"
+      ],
+      "id": "basti_6"
+    },
+    {
+      "name": "Rudranagar Belt",
+      "pincodes": [
+        272151,
+        272155
+      ],
+      "areas": [
+        "Bankatia",
+        "Malhwar",
+        "Sagra",
+        "Khambha",
+        "Surwarkalan",
+        "Athadama",
+        "Bhitehara",
+        "Rudranagar",
+        "Harraiya",
+        "Bhadawal",
+        "Keshwapur",
+        "Majhauwa Babu",
+        "Sukrauli Chaudhary",
+        "Barahpur",
+        "Chorkhari",
+        "Mahuwapar",
+        "Gauhania",
+        "Amari Bazar",
+        "Mahrajganj",
+        "Thana Khas"
+      ],
+      "keywords": [
+        "Rudranagar",
+        "Belt"
+      ],
+      "id": "basti_7"
+    },
+    {
+      "name": "Babhnan and Surroundings",
+      "pincodes": [
+        272161,
+        272163
+      ],
+      "areas": [
+        "Mahuwadabar",
+        "Barhya",
+        "Belwaria Jungle",
+        "Babhnan",
+        "Ainpur",
+        "Ajgaiba Jungle",
+        "Kachhia",
+        "Pendar",
+        "Pikaura",
+        "Shivpur",
+        "Sukrauli",
+        "Belghat",
+        "Belsar",
+        "Bhainsa Chaubey",
+        "Itbahara",
+        "Mansoornagar",
+        "Bairikhala",
+        "Kurda",
+        "Pipra Kazi",
+        "Sardaha Sukul",
+        "Tinich",
+        "Gaur RS"
+      ],
+      "keywords": [
+        "Babhnan",
+        "Surroundings"
+      ],
+      "id": "basti_8"
+    },
+    {
+      "name": "Lalganj and Nearby",
+      "pincodes": [
+        272171,
+        272177
+      ],
+      "areas": [
+        "Rautapar",
+        "Newari",
+        "Lalganj Basti",
+        "Thokwa",
+        "Gonare",
+        "Khairati",
+        "Naguwa",
+        "Bhitani",
+        "Banpur",
+        "Kharka"
+      ],
+      "keywords": [
+        "Lalganj",
+        "Nearby"
+      ],
+      "id": "basti_9"
+    },
+    {
+      "name": "Munderwa Region",
+      "pincodes": [
+        272178
+      ],
+      "areas": [
+        "Rampur",
+        "Ahra",
+        "Chaikala",
+        "Daridiha",
+        "Gulariha Sirma",
+        "Baghari",
+        "Bhuwandand",
+        "Ekdangi",
+        "Karah Pithia",
+        "Padari",
+        "Unchgaon",
+        "Bodwal",
+        "Changera Mangera",
+        "Kuriyar",
+        "Sanda",
+        "Budhakala",
+        "Bansgoan",
+        "Kurthia",
+        "Rajapur Sarraiya",
+        "Sallepur",
+        "Unchahara Kala",
+        "Munderwa"
+      ],
+      "keywords": [
+        "Munderwa",
+        "Region"
+      ],
+      "id": "basti_10"
+    },
+    {
+      "name": "Mahadewa Cluster",
+      "pincodes": [
+        272181,
+        272182
+      ],
+      "areas": [
+        "Hundrakunwar",
+        "Belbharia Ram Gulam",
+        "Paikolia",
+        "Jitipur",
+        "Diwakarpur",
+        "Raghwapur",
+        "Itwakungai",
+        "Mahadewa",
+        "Vedipur",
+        "Sansarpur",
+        "Belhara",
+        "Siarapar",
+        "Walterganj"
+      ],
+      "keywords": [
+        "Mahadewa",
+        "Cluster"
+      ],
+      "id": "basti_11"
+    },
+    {
+      "name": "Sonha and Surroundings",
+      "pincodes": [
+        272190
+      ],
+      "areas": [
+        "Amrauli Sumali",
+        "Lapsi",
+        "Teliha Deeh",
+        "Chaukwa",
+        "Majhauwa Khurd",
+        "Sonha",
+        "Saltauwa",
+        "Bishunpurwa",
+        "Bargadwa",
+        "Jahlipur",
+        "Jinswa",
+        "Sihari Sardaha"
+      ],
+      "keywords": [
+        "Sonha",
+        "Surroundings"
+      ],
+      "id": "basti_12"
+    },
+    {
+      "name": "Bhanpur Area",
+      "pincodes": [
+        272194
+      ],
+      "areas": [
+        "Amarediha",
+        "Karmahiya",
+        "Dhawai",
+        "Dhosar",
+        "Ramnagar",
+        "Asnahra",
+        "Tandwa",
+        "Tusail",
+        "Bhanpur Babu",
+        "Dhaurahra",
+        "Piraila Garib"
+      ],
+      "keywords": [
+        "Bhanpur",
+        "Area"
+      ],
+      "id": "basti_13"
+    },
+    {
+      "name": "Kalwari and Vicinity",
+      "pincodes": [
+        272301,
+        272302
+      ],
+      "areas": [
+        "Chilma Bazar",
+        "Parsaon",
+        "Bhangura",
+        "Chhardahi",
+        "Rajpur Bairihwa",
+        "Umaria",
+        "Dihukpura",
+        "Gaighat",
+        "Kanaila",
+        "Kudraha",
+        "Kusaura",
+        "BaiMustahkam",
+        "Dingrapur",
+        "Gauspur",
+        "Kewarimustahkam",
+        "Kalwari",
+        "Delhwa",
+        "Manuwa",
+        "Naikapar",
+        "Lakhanahat",
+        "Marwatia Baboo",
+        "Nagar Bazar",
+        "Beili",
+        "Katya",
+        "Semara",
+        "Bahadurpur",
+        "Dewapar",
+        "Kasaila",
+        "Mahripur",
+        "Pokharni",
+        "Ranipur",
+        "Kathar Jungle",
+        "Meetanjot"
+      ],
+      "keywords": [
+        "Kalwari",
+        "Vicinity"
+      ],
+      "id": "basti_14"
+    },
+    {
+      "name": "Gaura Pandey",
+      "pincodes": [
+        271305
+      ],
+      "areas": [
+        "Gaura Pandey"
+      ],
+      "keywords": [
+        "Gaura",
+        "Pandey"
+      ],
+      "id": "basti_15"
+    }
+  ]
+}

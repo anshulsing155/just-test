@@ -1,0 +1,308 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Amroha",
+  "city": "Amroha",
+  "summary": "",
+  "total_areas": 102,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Amroha Central",
+      "pincodes": [
+        244221
+      ],
+      "areas": [
+        "Buderna",
+        "Amroha",
+        "Jalajpur Dhana",
+        "Kailsa",
+        "Amroha Shahi Chabutra",
+        "Hajarpur Jamania",
+        "Amroha Bazar",
+        "Mundha Khera",
+        "Gajana",
+        "Papsara",
+        "Telipurmali",
+        "Gulariya",
+        "Nanhera Aliarpur",
+        "Qazi Sarai Urf Kankar Sarai",
+        "Bahadur Pur Khurd"
+      ],
+      "keywords": [
+        "Amroha",
+        "Central",
+        "Bazar"
+      ],
+      "id": "amroha_1"
+    },
+    {
+      "name": "Dhanaura Region",
+      "pincodes": [
+        244231
+      ],
+      "areas": [
+        "Chuchelakalan",
+        "Kapsua",
+        "Ahraula Mafi",
+        "Kauralla",
+        "Phanderi",
+        "SR Dhanaura",
+        "Papsari",
+        "Wasipur",
+        "Dingra",
+        "Dhanaura",
+        "Iqbalpur Urf Kamelpor",
+        "Ladanpur"
+      ],
+      "keywords": [
+        "Dhanaura",
+        "Region"
+      ],
+      "id": "amroha_2"
+    },
+    {
+      "name": "Gajraula Cluster",
+      "pincodes": [
+        244235
+      ],
+      "areas": [
+        "Kankather",
+        "Tigree",
+        "Nagliamev",
+        "Salempurgosai",
+        "Bijaura",
+        "Khadgujar",
+        "Gajraula"
+      ],
+      "keywords": [
+        "Gajraula",
+        "Cluster"
+      ],
+      "id": "amroha_3"
+    },
+    {
+      "name": "Hasanpur Area",
+      "pincodes": [
+        244241
+      ],
+      "areas": [
+        "Yaqubpur",
+        "Burawali",
+        "Gangacholi",
+        "Patai Bhoor",
+        "Sihalijagir",
+        "M B Hasanpur",
+        "Hasanpur SO Jyotiba Phule Nagar",
+        "Gangwar",
+        "Mangraula",
+        "Pipalidaud"
+      ],
+      "keywords": [
+        "Hasanpur",
+        "Area"
+      ],
+      "id": "amroha_4"
+    },
+    {
+      "name": "Joya and Surroundings",
+      "pincodes": [
+        244222
+      ],
+      "areas": [
+        "Didauli",
+        "Palaula",
+        "Joya",
+        "Saghan Machharya",
+        "Sarkara Kamal",
+        "Sarkari Ajij",
+        "Ikonda"
+      ],
+      "keywords": [
+        "Joya",
+        "Surroundings"
+      ],
+      "id": "amroha_5"
+    },
+    {
+      "name": "Bachhraon Zone",
+      "pincodes": [
+        244225
+      ],
+      "areas": [
+        "Chakanwala",
+        "Dhauti",
+        "Bachhraon",
+        "Sherpur",
+        "Tomra"
+      ],
+      "keywords": [
+        "Bachhraon",
+        "Zone"
+      ],
+      "id": "amroha_6"
+    },
+    {
+      "name": "Ujhari and Vicinity",
+      "pincodes": [
+        244242
+      ],
+      "areas": [
+        "Ujhari",
+        "Chakooni",
+        "Kunderki Bhoor",
+        "Osa Mafi",
+        "Said Nagli",
+        "Sohat",
+        "Bijnaura",
+        "Dehpa",
+        "Lohari Bhoor",
+        "Dhakka",
+        "Dhawarsi"
+      ],
+      "keywords": [
+        "Ujhari",
+        "Vicinity"
+      ],
+      "id": "amroha_7"
+    },
+    {
+      "name": "Rehra and Nearby",
+      "pincodes": [
+        244255
+      ],
+      "areas": [
+        "Adampur",
+        "Bartaura",
+        "Chhapna",
+        "Jahtauli",
+        "Rehra",
+        "Gangeshwari",
+        "Daryal Khadar",
+        "Paurara",
+        "Imratpur"
+      ],
+      "keywords": [
+        "Rehra",
+        "Nearby"
+      ],
+      "id": "amroha_8"
+    },
+    {
+      "name": "Nawgawan Block",
+      "pincodes": [
+        244251
+      ],
+      "areas": [
+        "Nawgawan",
+        "Awalpur",
+        "Jajroo",
+        "Kaural",
+        "Makhdoompur",
+        "Gajasthal",
+        "Khera Apraula"
+      ],
+      "keywords": [
+        "Nawgawan",
+        "Block"
+      ],
+      "id": "amroha_9"
+    },
+    {
+      "name": "Rajab Pur Area",
+      "pincodes": [
+        244236
+      ],
+      "areas": [
+        "Chand Nagar",
+        "Atrasikalan",
+        "Karaundi",
+        "Rajab Pur",
+        "Khajuri",
+        "Piplikalan",
+        "Maheshra"
+      ],
+      "keywords": [
+        "Rajab Pur",
+        "Area"
+      ],
+      "id": "amroha_10"
+    },
+    {
+      "name": "Deorhi Cluster",
+      "pincodes": [
+        244102
+      ],
+      "areas": [
+        "Deorhi Urf Hadipur",
+        "Patai Khalsa",
+        "Chaudhar Pur",
+        "Didaura",
+        "Painti Kalan"
+      ],
+      "keywords": [
+        "Deorhi",
+        "Cluster"
+      ],
+      "id": "amroha_11"
+    },
+    {
+      "name": "Bhartiya Gram",
+      "pincodes": [
+        244223
+      ],
+      "areas": [
+        "Bhartiya Gram"
+      ],
+      "keywords": [
+        "Bhartiya",
+        "Gram"
+      ],
+      "id": "amroha_12"
+    },
+    {
+      "name": "Kundan Nagar",
+      "pincodes": [
+        244245
+      ],
+      "areas": [
+        "Kundan Nagar"
+      ],
+      "keywords": [
+        "Kundan",
+        "Nagar"
+      ],
+      "id": "amroha_13"
+    },
+    {
+      "name": "Sadarpur",
+      "pincodes": [
+        244401
+      ],
+      "areas": [
+        "Sadarpur"
+      ],
+      "keywords": [
+        "Sadarpur"
+      ],
+      "id": "amroha_14"
+    },
+    {
+      "name": "Jamna Khas Area",
+      "pincodes": [
+        244501
+      ],
+      "areas": [
+        "Bibra Khurd",
+        "Basera Taga",
+        "Lakarhat",
+        "Jamna Khas"
+      ],
+      "keywords": [
+        "Jamna",
+        "Khas",
+        "Area"
+      ],
+      "id": "amroha_15"
+    }
+  ]
+}

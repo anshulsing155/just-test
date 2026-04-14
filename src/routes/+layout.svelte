@@ -27,6 +27,7 @@
 	];
 
 	const toolLinks = [
+		{ href: '/findbuilder', label: 'Find Builder', description: 'State to zone lookup' },
 		{ href: '/loans', label: 'Loans', description: 'Financing options' },
 		{ href: '/zoneGenerator', label: 'Zone Generator', description: 'Area planning tool' },
 		{ href: '/demo', label: 'Demo', description: 'Assistant showcase' },

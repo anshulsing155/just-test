@@ -1,0 +1,444 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Siddharth Nagar",
+  "city": "Siddharth Nagar",
+  "summary": "",
+  "total_areas": 223,
+  "total_pincodes": 18,
+  "zones": [
+    {
+      "name": "Domariyaganj",
+      "pincodes": [
+        272189,
+        272191
+      ],
+      "areas": [
+        "Quadirabad",
+        "Beerpur",
+        "Bijwar Barhai",
+        "Rasoolpur",
+        "Shahpur",
+        "Dhobha",
+        "Domariyaganj",
+        "Bhandariamanik Ganj",
+        "Bharwatia Bzr",
+        "Bitharia",
+        "Chafa",
+        "Dhaurahara",
+        "Fatehpur",
+        "Gaura Bazar",
+        "Jhahraon",
+        "Malimainha",
+        "Kusumhi",
+        "Penda",
+        "Sehari Khas",
+        "Turkaulia",
+        "Amauna Pandey",
+        "Kathwathia Alam",
+        "Bewa Chauraha",
+        "Manoharpur",
+        "Telgadia Bzg",
+        "Bharatbhari",
+        "Malhwar",
+        "Hallaur"
+      ],
+      "keywords": [
+        "Domariyaganj",
+        "Gaura Bazar",
+        "Sehari Khas"
+      ],
+      "id": "siddharth nagar_1"
+    },
+    {
+      "name": "Bansi",
+      "pincodes": [
+        272153
+      ],
+      "areas": [
+        "Ajgara",
+        "Rudrapurr",
+        "Barao Nansar",
+        "Suparaja",
+        "Karahi",
+        "Asnar",
+        "Kakrapokhar",
+        "Ramwapur Dubey",
+        "Madhukarpur",
+        "Gauri",
+        "Janiajote",
+        "Mithwal Bazaar",
+        "Bankuiya",
+        "Pathara Bzr",
+        "Sekhui",
+        "Basantpur",
+        "Mau",
+        "Harraiya Nankar",
+        "Bhanwari",
+        "Kolhui",
+        "Tilauli",
+        "Bargadwa Khabhri",
+        "Kotiagarori",
+        "Narkataha",
+        "Bansi",
+        "Bihra",
+        "Bidra",
+        "Jeewa",
+        "Bangawa",
+        "Dandwaghat",
+        "Kurthia",
+        "Pachhar",
+        "Khaira",
+        "Asogwa",
+        "Chetia",
+        "Talpurwa",
+        "Khaira Khas B0"
+      ],
+      "keywords": [
+        "Bansi",
+        "Mithwal Bazaar",
+        "Kolhui"
+      ],
+      "id": "siddharth nagar_2"
+    },
+    {
+      "name": "Naugarh",
+      "pincodes": [
+        272203,
+        272204
+      ],
+      "areas": [
+        "Birdpur No13",
+        "Naugarh",
+        "Sekhuiya",
+        "Chilihia",
+        "Santora",
+        "Dhusurai Bzg",
+        "Katehna",
+        "Ahri",
+        "Bhadehargrant",
+        "Harkauli",
+        "Khurhuria",
+        "Udairajganj"
+      ],
+      "keywords": [
+        "Naugarh",
+        "Birdpur",
+        "Udairajganj"
+      ],
+      "id": "siddharth nagar_3"
+    },
+    {
+      "name": "Shoharatgarh",
+      "pincodes": [
+        272205,
+        272206
+      ],
+      "areas": [
+        "Antari Bazar",
+        "Chetra",
+        "Mahatha Bazar",
+        "Ramwapur",
+        "Nakahi",
+        "Pakri",
+        "Dhanaura Mustahkam",
+        "Makraur",
+        "Shoharatgarh",
+        "Cchamapur",
+        "Dabra",
+        "Khaira Bazar",
+        "Bhadanw",
+        "Beltikar",
+        "Khakhara",
+        "Ekdangwa",
+        "Karmaini",
+        "Sainua",
+        "Bagheli",
+        "Dulhanorth",
+        "Madhubani",
+        "Haribanshpur",
+        "Kakrahwa",
+        "Mahthawal",
+        "Sheopatinagar",
+        "Bhitpara",
+        "Lotan",
+        "Mahapaliuttar",
+        "Sikri Bazar"
+      ],
+      "keywords": [
+        "Shoharatgarh",
+        "Lotan",
+        "Khaira Bazar"
+      ],
+      "id": "siddharth nagar_4"
+    },
+    {
+      "name": "Siddharth Nagar",
+      "pincodes": [
+        272207
+      ],
+      "areas": [
+        "Dhensanankar",
+        "Kondragrant",
+        "Jogia Udaipur",
+        "Maharia",
+        "Harraiya",
+        "Madhuharpur",
+        "Civil Line Siddharth Nagar",
+        "Deora Bazar",
+        "Mahulani",
+        "Patni Jungle",
+        "Bheemapar",
+        "SIDDHARTH NAGAR"
+      ],
+      "keywords": [
+        "Siddharth Nagar",
+        "Civil Line",
+        "Jogia Udaipur"
+      ],
+      "id": "siddharth nagar_5"
+    },
+    {
+      "name": "Uska Bazar",
+      "pincodes": [
+        272208
+      ],
+      "areas": [
+        "Tandia Bazar",
+        "Badahara",
+        "Imiliha",
+        "Madanpur",
+        "Semrahna",
+        "Karma",
+        "Bairwanankar",
+        "Sugahi",
+        "Bhelaunji",
+        "Khakhara Khurd",
+        "Nagawa",
+        "Sohas Khas",
+        "Uska Bazar"
+      ],
+      "keywords": [
+        "Uska Bazar",
+        "Tandia Bazar",
+        "Sohas Khas"
+      ],
+      "id": "siddharth nagar_6"
+    },
+    {
+      "name": "Barhni",
+      "pincodes": [
+        272201
+      ],
+      "areas": [
+        "Audahi Kalan",
+        "Dhekhari",
+        "Ramnagar",
+        "Par RS",
+        "Bohli",
+        "Dhebarua",
+        "Mahadev Buzurg",
+        "Mohankola",
+        "Barhni"
+      ],
+      "keywords": [
+        "Barhni",
+        "Ramnagar",
+        "Dhebarua"
+      ],
+      "id": "siddharth nagar_7"
+    },
+    {
+      "name": "Birdpur",
+      "pincodes": [
+        272202
+      ],
+      "areas": [
+        "Alidapur",
+        "Parsa Belhari",
+        "Mudila Khatai",
+        "Piparsan",
+        "Bishunpurwa",
+        "Birdpur",
+        "Narkul",
+        "Pachgawan",
+        "Birdpur No7"
+      ],
+      "keywords": [
+        "Birdpur",
+        "Piparsan",
+        "Bishunpurwa"
+      ],
+      "id": "siddharth nagar_8"
+    },
+    {
+      "name": "Itwa",
+      "pincodes": [
+        272192
+      ],
+      "areas": [
+        "Bhojwar",
+        "Jigina Thakur",
+        "Khuniyawan",
+        "Maina",
+        "Tenuwagrant",
+        "Biskohar",
+        "Govindpur",
+        "Khadsari",
+        "Trilokpur",
+        "Itwa",
+        "Bairwa",
+        "Bhadokhar",
+        "Gagapur",
+        "Karahiagosain",
+        "Mahadeoghurhoo",
+        "Rehra Kalan",
+        "Semari Khan Kot",
+        "Nizamabad",
+        "Bajrabhari",
+        "Dhangarwa",
+        "Kathela",
+        "Mudila Nankar",
+        "Patila",
+        "Buddhi Khas"
+      ],
+      "keywords": [
+        "Itwa",
+        "Trilokpur",
+        "Biskohar"
+      ],
+      "id": "siddharth nagar_9"
+    },
+    {
+      "name": "Bhanwapur",
+      "pincodes": [
+        272193
+      ],
+      "areas": [
+        "Chaukhara",
+        "Sikta",
+        "Ramwapur Jagatram",
+        "Kamsar",
+        "Sohna",
+        "Bhanwapur",
+        "Sukla Jote",
+        "Chitahi",
+        "Mahuwa Bzg",
+        "Ramwapur Raut"
+      ],
+      "keywords": [
+        "Bhanwapur",
+        "Sikta",
+        "Ramwapur Jagatram"
+      ],
+      "id": "siddharth nagar_10"
+    },
+    {
+      "name": "Bhawaniganj",
+      "pincodes": [
+        272195
+      ],
+      "areas": [
+        "Shankarpur",
+        "Wasadargah",
+        "Mailani",
+        "Bhanpurkhas",
+        "Parsa Khurd",
+        "Bayara",
+        "Bhawaniganj",
+        "Piraila"
+      ],
+      "keywords": [
+        "Bhawaniganj",
+        "Bhanpurkhas",
+        "Parsa Khurd"
+      ],
+      "id": "siddharth nagar_11"
+    },
+    {
+      "name": "Chauraha",
+      "pincodes": [
+        272148
+      ],
+      "areas": [
+        "Ghosiyari Bzr",
+        "Chauri Khurd",
+        "Kapiyawa"
+      ],
+      "keywords": [
+        "Chauraha",
+        "Ghosiyari Bzr",
+        "Chauri Khurd"
+      ],
+      "id": "siddharth nagar_12"
+    },
+    {
+      "name": "Masaicha",
+      "pincodes": [
+        272151
+      ],
+      "areas": [
+        "Dindai",
+        "Chharahata",
+        "Katbandh",
+        "Masaicha",
+        "Masina Khas",
+        "Chhitauni",
+        "Semari"
+      ],
+      "keywords": [
+        "Masaicha",
+        "Masina Khas",
+        "Chhitauni"
+      ],
+      "id": "siddharth nagar_13"
+    },
+    {
+      "name": "Rithia Bazar",
+      "pincodes": [
+        272152
+      ],
+      "areas": [
+        "Deokali",
+        "Marwatia Bazar",
+        "Nasirganj",
+        "Rajediha Bazar",
+        "Banethu",
+        "Rithia Bazar",
+        "Tilaura",
+        "Bisunpurwa",
+        "Charthari",
+        "Arji",
+        "Belaukh",
+        "Kadja",
+        "Lahara",
+        "Sishania",
+        "Suhai Kanpurwa",
+        "Daldala",
+        "Bankeygaon",
+        "Gopalpur",
+        "Pachmohani",
+        "Pasai",
+        "Sawadand"
+      ],
+      "keywords": [
+        "Rithia Bazar",
+        "Marwatia Bazar",
+        "Rajediha Bazar"
+      ],
+      "id": "siddharth nagar_14"
+    },
+    {
+      "name": "Sonkhar",
+      "pincodes": [
+        272178
+      ],
+      "areas": [
+        "Sonkhar"
+      ],
+      "keywords": [
+        "Sonkhar"
+      ],
+      "id": "siddharth nagar_15"
+    }
+  ]
+}

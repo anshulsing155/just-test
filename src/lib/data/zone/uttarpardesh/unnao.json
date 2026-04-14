@@ -1,0 +1,545 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Unnao",
+  "city": "Unnao",
+  "summary": "",
+  "total_areas": 269,
+  "total_pincodes": 20,
+  "zones": [
+    {
+      "name": "Unnao Central",
+      "pincodes": [
+        209801,
+        209825
+      ],
+      "areas": [
+        "Jamuka",
+        "Makhi",
+        "Jawaher Nager",
+        "Kesar Ganj",
+        "Thana",
+        "Kanta Guljarpur",
+        "Patari",
+        "Tikargadi",
+        "Takia Nigohi Unnao",
+        "Tikra",
+        "SNC",
+        "Sarosi",
+        "Pidna",
+        "Sainta",
+        "Patiyara",
+        "Rupau",
+        "Dipwal",
+        "Kursath",
+        "Shadipur",
+        "Collectorate Unnao",
+        "Singrosi",
+        "Unnao",
+        "Csa Colony",
+        "Karowan",
+        "Poora N Pansari",
+        "Sikandarpur Sihura",
+        "Ugoo",
+        "Deeh",
+        "Raukarna",
+        "Aterdhani",
+        "Gauraiya Kalan",
+        "Qila",
+        "Nevarna"
+      ],
+      "keywords": [
+        "Unnao",
+        "Central",
+        "City"
+      ],
+      "id": "unnao_1"
+    },
+    {
+      "name": "Maurawan Region",
+      "pincodes": [
+        209821
+      ],
+      "areas": [
+        "Sagoli",
+        "Maurawan",
+        "Musandi",
+        "Kardaha",
+        "Sarwan",
+        "HILAULI",
+        "Ahesa",
+        "Akohari",
+        "Drehata",
+        "Para",
+        "Gujouly",
+        "Gulriha",
+        "Kanchanpur",
+        "Lowa Singhan Khera",
+        "Mawai",
+        "Mouddinpur",
+        "Samadha",
+        "Sandana",
+        "Lotna",
+        "Muktemau",
+        "Bisara"
+      ],
+      "keywords": [
+        "Maurawan",
+        "Hilauli",
+        "Region"
+      ],
+      "id": "unnao_2"
+    },
+    {
+      "name": "Purwa Cluster",
+      "pincodes": [
+        209825
+      ],
+      "areas": [
+        "Banigaon",
+        "Baigaon",
+        "Bhopatpur",
+        "Orhar",
+        "Taura",
+        "Badaurra",
+        "Nevrana",
+        "Targaon",
+        "Dela",
+        "Majhgawa Sadku",
+        "Mohmmedpur",
+        "Nathikhera",
+        "Padri Kalan",
+        "Tripurarpur",
+        "Bhadnag",
+        "Chetra",
+        "DHANNIPUR",
+        "Madarpur Narainpur",
+        "Mirzapur Sumbhari",
+        "Jargaon",
+        "Bichhiya",
+        "Padri Khurd",
+        "Devmai",
+        "Purwa"
+      ],
+      "keywords": [
+        "Purwa",
+        "Cluster"
+      ],
+      "id": "unnao_3"
+    },
+    {
+      "name": "Aon and Surroundings",
+      "pincodes": [
+        209827
+      ],
+      "areas": [
+        "Aon",
+        "Mehramau",
+        "Chamiyani",
+        "Dubeypur",
+        "Magraiyar",
+        "Pasakhera",
+        "Unchgaon Sani"
+      ],
+      "keywords": [
+        "Aon",
+        "Dubeypur"
+      ],
+      "id": "unnao_4"
+    },
+    {
+      "name": "Ajgain Area",
+      "pincodes": [
+        209831
+      ],
+      "areas": [
+        "Chandpur Jhalaei",
+        "Sonik",
+        "Rainapur",
+        "Raipur Garhi",
+        "Makoor",
+        "Ajgain",
+        "Atesuwa",
+        "Jaitipur",
+        "Nawai",
+        "Parenda",
+        "Bhauli",
+        "Chamrauli",
+        "Kodara Sandana"
+      ],
+      "keywords": [
+        "Ajgain",
+        "Area"
+      ],
+      "id": "unnao_5"
+    },
+    {
+      "name": "Hasanganj Zone",
+      "pincodes": [
+        209841
+      ],
+      "areas": [
+        "Hasanganj",
+        "NEOTANI",
+        "Chharihara",
+        "Maula Bankipur"
+      ],
+      "keywords": [
+        "Hasanganj",
+        "Zone"
+      ],
+      "id": "unnao_6"
+    },
+    {
+      "name": "Nawabganj and Vicinity",
+      "pincodes": [
+        209859
+      ],
+      "areas": [
+        "Katehru",
+        "Sahrawa",
+        "Asawar",
+        "Asoha",
+        "Sohramau",
+        "Arjunamau",
+        "Asha Khera",
+        "Chaupai",
+        "Darehata",
+        "Kantha",
+        "Mirrikalan",
+        "Nawabganj SO Unnao",
+        "Kusumbhi"
+      ],
+      "keywords": [
+        "Nawabganj",
+        "Vicinity"
+      ],
+      "id": "unnao_7"
+    },
+    {
+      "name": "Achalganj Belt",
+      "pincodes": [
+        209860
+      ],
+      "areas": [
+        "Badarka",
+        "Band Hamirpur",
+        "Hadha",
+        "Itauli",
+        "Korari Kalan",
+        "Pansariya EUP9189",
+        "Ranipur",
+        "Achalganj",
+        "Rawal Kalan",
+        "Sikandarpur Karan",
+        "Aderuwa",
+        "Wsaina",
+        "Bhadohi",
+        "Bether",
+        "Manjra Bhikhna",
+        "Nibai",
+        "Rithnai"
+      ],
+      "keywords": [
+        "Achalganj",
+        "Belt"
+      ],
+      "id": "unnao_8"
+    },
+    {
+      "name": "Ganga Ghat Area",
+      "pincodes": [
+        209861
+      ],
+      "areas": [
+        "Majra Piper Khera",
+        "Ganga Ghat",
+        "Shankerpur Sarai",
+        "Devra Kalan"
+      ],
+      "keywords": [
+        "Ganga",
+        "Ghat",
+        "Area"
+      ],
+      "id": "unnao_9"
+    },
+    {
+      "name": "Banther Industrial Zone",
+      "pincodes": [
+        209862
+      ],
+      "areas": [
+        "Sahjani",
+        "Maswasi",
+        "Shekh Pur Nari",
+        "Akrampur",
+        "Banther",
+        "Magarwara"
+      ],
+      "keywords": [
+        "Banther",
+        "Industrial",
+        "Zone"
+      ],
+      "id": "unnao_10"
+    },
+    {
+      "name": "Bara and Surroundings",
+      "pincodes": [
+        209863
+      ],
+      "areas": [
+        "Alipur",
+        "Bara SO Unnao",
+        "Majhgawa",
+        "Narain Das Khera",
+        "Jagatpur",
+        "Terha",
+        "Baxer",
+        "Dhankoli",
+        "Daundiya Khera",
+        "Chandan Pur",
+        "Dhanikhera",
+        "Dundpur Jothra",
+        "kodra bakhat khera",
+        "Raipur",
+        "Sagwar"
+      ],
+      "keywords": [
+        "Bara",
+        "Surroundings"
+      ],
+      "id": "unnao_11"
+    },
+    {
+      "name": "Bhagwant Nagar",
+      "pincodes": [
+        209864
+      ],
+      "areas": [
+        "Mahesh Khera",
+        "Panai Kalan",
+        "Sawain",
+        "Bhagwant Nagar"
+      ],
+      "keywords": [
+        "Bhagwant",
+        "Nagar"
+      ],
+      "id": "unnao_12"
+    },
+    {
+      "name": "Bighapur Region",
+      "pincodes": [
+        209865
+      ],
+      "areas": [
+        "Behta Bhawani",
+        "Ghatampur",
+        "Bighapur",
+        "Osia",
+        "Pali",
+        "Kulaha Bagha",
+        "Rujhai",
+        "Bisen Mau",
+        "Garha Kola",
+        "Kharoli",
+        "Raithana"
+      ],
+      "keywords": [
+        "Bighapur",
+        "Region"
+      ],
+      "id": "unnao_13"
+    },
+    {
+      "name": "Sumerpur Cluster",
+      "pincodes": [
+        209866
+      ],
+      "areas": [
+        "Mankapur",
+        "Pokhri",
+        "Zamipur",
+        "Aakampur",
+        "Chainpur",
+        "Gaura",
+        "Kundenpur",
+        "Malona",
+        "Sumerpur",
+        "Pakrakhurd",
+        "Bihar"
+      ],
+      "keywords": [
+        "Sumerpur",
+        "Cluster"
+      ],
+      "id": "unnao_14"
+    },
+    {
+      "name": "Patan and Nearby",
+      "pincodes": [
+        209867
+      ],
+      "areas": [
+        "Dhamni Khera",
+        "Majhgawan Sevak",
+        "Akbarpur",
+        "Wazidpur",
+        "Patan SO Unnao",
+        "Akwabad",
+        "Panhan",
+        "Sijni",
+        "Bardaha",
+        "Indemau",
+        "Shukla Khera",
+        "Parsanda"
+      ],
+      "keywords": [
+        "Patan",
+        "Nearby"
+      ],
+      "id": "unnao_15"
+    },
+    {
+      "name": "Bangermau Area",
+      "pincodes": [
+        209868
+      ],
+      "areas": [
+        "Argoopur",
+        "Atwabaik",
+        "Faridpur Katter",
+        "Rajepur",
+        "Sursaini",
+        "Utmaanpur",
+        "Hafizabad",
+        "Ruri Sadikpur",
+        "Bhikharipur Patsiya",
+        "Jagatnagar",
+        "Jogi Kot",
+        "Sainpur Sagaura",
+        "Bangermau",
+        "Ashayash",
+        "Khambhauli",
+        "Madhapur"
+      ],
+      "keywords": [
+        "Bangermau",
+        "Area"
+      ],
+      "id": "unnao_16"
+    },
+    {
+      "name": "Ganj Moradabad",
+      "pincodes": [
+        209869
+      ],
+      "areas": [
+        "Ganj Moradabad",
+        "Ballapur",
+        "Raghurampur",
+        "Kalwari",
+        "Hariyapur",
+        "Vyoli Islamabad"
+      ],
+      "keywords": [
+        "Ganj",
+        "Moradabad"
+      ],
+      "id": "unnao_17"
+    },
+    {
+      "name": "Miyanganj and Surroundings",
+      "pincodes": [
+        209870
+      ],
+      "areas": [
+        "Kodra",
+        "Miyanganj",
+        "Rampur Gadewa",
+        "Saray Malkaadim",
+        "Asiwan",
+        "Kanigaon",
+        "Auras",
+        "Barithana",
+        "Mirzapur Ajgaon",
+        "Sorauli Khanpur",
+        "Tiyar",
+        "Anikhurd",
+        "Bachhauli",
+        "Mirzapur Kalan",
+        "Baghwa Kola",
+        "Laglesra",
+        "Mawai Dhamiyan",
+        "Birsinghpur",
+        "Hydrabad",
+        "Mustafabad",
+        "Purthiyawa",
+        "Rasulabad SO Unnao"
+      ],
+      "keywords": [
+        "Miyanganj",
+        "Surroundings"
+      ],
+      "id": "unnao_18"
+    },
+    {
+      "name": "Safipur Zone",
+      "pincodes": [
+        209871
+      ],
+      "areas": [
+        "Fatehpur Chaurasi",
+        "Mraunda Majhwara",
+        "Mustafabad Pakhrora",
+        "Sarai Sakhan",
+        "Safipur",
+        "Atwa",
+        "Bandakhera",
+        "Devgaon",
+        "Lawani Kalan",
+        "Munda",
+        "Mudha",
+        "Darauli",
+        "Jajamau",
+        "Pariyar",
+        "Unnwa",
+        "Kanjaura",
+        "Bhadsar Nausahra",
+        "Dabauli",
+        "Gangadas Pur",
+        "jamuniya Kachh",
+        "Udshah",
+        "Bamhna",
+        "Daldalha",
+        "Korari Khurd",
+        "Osiya"
+      ],
+      "keywords": [
+        "Safipur",
+        "Zone"
+      ],
+      "id": "unnao_19"
+    },
+    {
+      "name": "Mohan Area",
+      "pincodes": [
+        209881
+      ],
+      "areas": [
+        "Samadpur Hardas",
+        "Rasulpur Bakiya",
+        "Nevalganj",
+        "Mohan",
+        "Dhaura",
+        "Shahpur Tonda"
+      ],
+      "keywords": [
+        "Mohan",
+        "Area"
+      ],
+      "id": "unnao_20"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Shravasti",
+  "city": "Shravasti",
+  "summary": "",
+  "total_areas": 101,
+  "total_pincodes": 8,
+  "zones": [
+    {
+      "name": "Bhinga and Surroundings",
+      "pincodes": [
+        271831
+      ],
+      "areas": [
+        "Ekgharwa",
+        "Kotwa",
+        "Bhinga",
+        "Akbarapur Semra",
+        "Banthihwa",
+        "Bhangha",
+        "Chahalwa",
+        "Gothwa",
+        "Jogin Bharia",
+        "Naubasta",
+        "Patna Khargaura",
+        "Samari Chak Pihani",
+        "Aggapur",
+        "Amwa",
+        "Bairagijot",
+        "Jokhwa Bazar",
+        "Kishun Pur Chand Bhari",
+        "Laxmanpur Bazar",
+        "Pure Gokul Singh",
+        "Janki Nagar",
+        "Mujehna",
+        "Parsa Deharia",
+        "Ramgarhi",
+        "Dudhwania",
+        "Hariharpur Rani",
+        "Machhrihwa",
+        "Parasrampur"
+      ],
+      "keywords": [
+        "Bhinga",
+        "Shravasti"
+      ],
+      "id": "shravasti_1"
+    },
+    {
+      "name": "Ikauna Region",
+      "pincodes": [
+        271845
+      ],
+      "areas": [
+        "Balapur",
+        "Khargaura Janoob",
+        "Tendwa Mahanth",
+        "Bhutaha",
+        "Madara",
+        "Takiya",
+        "Khajurar",
+        "Manoharapur",
+        "Dhanuhi",
+        "Ganeshpur",
+        "Sonrai",
+        "Ikauna"
+      ],
+      "keywords": [
+        "Ikauna",
+        "Shravasti"
+      ],
+      "id": "shravasti_2"
+    },
+    {
+      "name": "Gilaula and Nearby",
+      "pincodes": [
+        271835
+      ],
+      "areas": [
+        "Jaichandpur",
+        "Siswara",
+        "Semgarha",
+        "Vijaypur Sisawan",
+        "Gilaula",
+        "Chetia Murar",
+        "Dharsawan",
+        "Raideeh",
+        "Shahpur Bara",
+        "Katha",
+        "Rampur Painda"
+      ],
+      "keywords": [
+        "Gilaula",
+        "Shravasti"
+      ],
+      "id": "shravasti_3"
+    },
+    {
+      "name": "Jamunaha Cluster",
+      "pincodes": [
+        271803
+      ],
+      "areas": [
+        "Amrahwa",
+        "Kathara Bazar",
+        "Shikari Chanda",
+        "Bhagwanpur Bhaisahi",
+        "Jamdan",
+        "Jamunaha Heera Singh",
+        "Maharu Murtiha",
+        "Patna Malhipur",
+        "Kalkalwa",
+        "Laxmanpur Kothi",
+        "Gopala Sarai",
+        "Kanibojhi",
+        "Sitkahana"
+      ],
+      "keywords": [
+        "Jamunaha",
+        "Shravasti"
+      ],
+      "id": "shravasti_4"
+    },
+    {
+      "name": "Shravasti Central",
+      "pincodes": [
+        271805
+      ],
+      "areas": [
+        "Mahdeiya",
+        "Puredeen Namgarh",
+        "Shravasti"
+      ],
+      "keywords": [
+        "Shravasti",
+        "Central"
+      ],
+      "id": "shravasti_5"
+    },
+    {
+      "name": "Sonbarsa and Vicinity",
+      "pincodes": [
+        271840
+      ],
+      "areas": [
+        "Bachkahwa",
+        "Bhartha Rosan Garh",
+        "Hempur",
+        "Taal Baghaura",
+        "Babhni",
+        "Motipur",
+        "Shankarpur",
+        "Sonbarsa",
+        "Badal Pur",
+        "Gabbapur",
+        "Gulara",
+        "Jabdi",
+        "Ranipur",
+        "Beerpur",
+        "Katkuiya",
+        "Pure Prasad",
+        "Sirsia",
+        "Madhwapur",
+        "Medikiya",
+        "Pure Wale",
+        "Shahpur Bargadwa",
+        "Titiharia"
+      ],
+      "keywords": [
+        "Sonbarsa",
+        "Shravasti"
+      ],
+      "id": "shravasti_6"
+    },
+    {
+      "name": "Nasirganj and Surroundings",
+      "pincodes": [
+        271804
+      ],
+      "areas": [
+        "Dikuali",
+        "Doobkalan",
+        "Ramnagra",
+        "Bishunapur",
+        "Laxman Nagar Bazar",
+        "Hasnapur",
+        "Shahpur Kathotia",
+        "Laxmanpur Semrahniya",
+        "Sonwan",
+        "Bhausawan",
+        "Nasirganj"
+      ],
+      "keywords": [
+        "Nasirganj",
+        "Shravasti"
+      ],
+      "id": "shravasti_7"
+    },
+    {
+      "name": "Bhatpurwa Kala Area",
+      "pincodes": [
+        271201
+      ],
+      "areas": [
+        "Bhatpurwa Kala",
+        "Beer Pur Khairaniya"
+      ],
+      "keywords": [
+        "Bhatpurwa Kala",
+        "Shravasti"
+      ],
+      "id": "shravasti_8"
+    }
+  ]
+}

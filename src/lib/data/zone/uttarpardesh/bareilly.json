@@ -1,0 +1,600 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Bareilly",
+  "city": "Bareilly",
+  "summary": "",
+  "total_areas": 287,
+  "total_pincodes": 27,
+  "zones": [
+    {
+      "name": "Bareilly Central",
+      "pincodes": [
+        243001,
+        243005
+      ],
+      "areas": [
+        "LAL FATAK",
+        "Bareilly",
+        "Bareilly Kty",
+        "Sadar Bazar SO Bareilly",
+        "Bareilly College",
+        "Marhinath Road",
+        "Municipal Board",
+        "Bareilly RS",
+        "Chaupla",
+        "NDC Bareilly",
+        "SOUTH CITY",
+        "Old City",
+        "Shyam Ganj",
+        "Prem Nagar SO Bareilly",
+        "Shamat Ganj"
+      ],
+      "keywords": [
+        "Central",
+        "City Center",
+        "Sadar Bazar"
+      ],
+      "id": "bareilly_1"
+    },
+    {
+      "name": "Bareilly North",
+      "pincodes": [
+        243003,
+        243006
+      ],
+      "areas": [
+        "Shehdana Colony",
+        "Gulab Nagar",
+        "Bareilly City",
+        "Baljati",
+        "Koharapeer",
+        "RAMGANGA NAGAR COLONY",
+        "NEKPUR",
+        "Kila",
+        "Kunwarpur",
+        "Surkha",
+        "Shubhash Nagar",
+        "KKNiazia",
+        "Malook Pur",
+        "Mahanagar",
+        "RKUniversity"
+      ],
+      "keywords": [
+        "North",
+        "Ramganga Nagar",
+        "Mahanagar"
+      ],
+      "id": "bareilly_2"
+    },
+    {
+      "name": "Izzatnagar and Surroundings",
+      "pincodes": [
+        243122
+      ],
+      "areas": [
+        "CARI",
+        "HARTMAN ROAD",
+        "Izzatnagar",
+        "Ner Workshop",
+        "Rajendra Nagar SO Bareilly",
+        "MUNSHI NAGAR",
+        "Biharman Nagla"
+      ],
+      "keywords": [
+        "Izzatnagar",
+        "Rajendra Nagar"
+      ],
+      "id": "bareilly_3"
+    },
+    {
+      "name": "Bithri Chainpur Area",
+      "pincodes": [
+        243123
+      ],
+      "areas": [
+        "Bithri Chainpur",
+        "Balipur",
+        "Khazuria Sampat",
+        "Mehtarpur",
+        "Padarathpur",
+        "PACDso",
+        "Kunwarpur Banzaria",
+        "Thiria Nizawatkhan",
+        "Mohanpur",
+        "Kesarpur Saidpur",
+        "Rajau Paraspur"
+      ],
+      "keywords": [
+        "Bithri Chainpur",
+        "PACDso"
+      ],
+      "id": "bareilly_4"
+    },
+    {
+      "name": "Rithora and Airforce Station",
+      "pincodes": [
+        243002
+      ],
+      "areas": [
+        "Rithora",
+        "Bhandsar",
+        "Mundia Ahamad Nagar",
+        "Airforce Station"
+      ],
+      "keywords": [
+        "Rithora",
+        "Airforce"
+      ],
+      "id": "bareilly_5"
+    },
+    {
+      "name": "Baheri and Surroundings",
+      "pincodes": [
+        243201,
+        243004,
+        243126
+      ],
+      "areas": [
+        "Dunda Sumali",
+        "Man Pur",
+        "Nadeli",
+        "Rasoolpur",
+        "Yaqoobganj",
+        "Baheri",
+        "Bhura Bahadur Pur",
+        "Pachpera",
+        "Dandia Nagla",
+        "Jasai Nagar",
+        "Nazarganj",
+        "Rath",
+        "Richha",
+        "Sharif Nagar",
+        "NARAYAN NAGLA",
+        "KSW Tulsi Nagar",
+        "Girdharpur",
+        "Itau Dhura",
+        "Jokhanpur",
+        "Mundia Navibux",
+        "Siatheri",
+        "Damkhoda",
+        "Pindari Ashok",
+        "Haraulia",
+        "Akha",
+        "ITBP",
+        "DOHRIYA",
+        "Kareli",
+        "Bhuta",
+        "Chaubari",
+        "Sarai Talfi",
+        "Chanehti",
+        "Kiara",
+        "Simra Boripur",
+        "Umarsia"
+      ],
+      "keywords": [
+        "Baheri",
+        "Richha"
+      ],
+      "id": "bareilly_6"
+    },
+    {
+      "name": "Bhojipura and Nearby",
+      "pincodes": [
+        243202
+      ],
+      "areas": [
+        "Bhairpura",
+        "Atamanda",
+        "Bilwa",
+        "Khanpur",
+        "MODERN VILLAGE",
+        "Bhojipura",
+        "Pachdeora Kalan",
+        "Surla",
+        "Chakdah",
+        "Dhaura"
+      ],
+      "keywords": [
+        "Bhojipura",
+        "Modern Village"
+      ],
+      "id": "bareilly_7"
+    },
+    {
+      "name": "Deorania and Surroundings",
+      "pincodes": [
+        243203
+      ],
+      "areas": [
+        "Mundia Jagir",
+        "Chathia",
+        "Khera Ramnagar",
+        "Kanman",
+        "Gularia Mohammad Hussain",
+        "Basudharan",
+        "Rehpura Ganimat",
+        "Rohili",
+        "Deorania"
+      ],
+      "keywords": [
+        "Deorania",
+        "Gularia"
+      ],
+      "id": "bareilly_8"
+    },
+    {
+      "name": "Aonla Region",
+      "pincodes": [
+        243301
+      ],
+      "areas": [
+        "Digoi",
+        "Guleli",
+        "Katsari",
+        "Manona",
+        "Aonla",
+        "Tehsil Aonla",
+        "Kasumara",
+        "NAGARIA SATAN",
+        "Aonla Katra",
+        "Gotha Khandua",
+        "Mohammadpur Pathra",
+        "Reoti",
+        "Tanda",
+        "Kangaon",
+        "Noorpur",
+        "Phulasi",
+        "Urla"
+      ],
+      "keywords": [
+        "Aonla",
+        "Tehsil Aonla"
+      ],
+      "id": "bareilly_9"
+    },
+    {
+      "name": "Bisharatganj and Surroundings",
+      "pincodes": [
+        243302
+      ],
+      "areas": [
+        "Gaini",
+        "Kalyanpur",
+        "Sahasa",
+        "Anurudhpur",
+        "Atarchhedi",
+        "Khelam",
+        "Naugawan Bramhanan",
+        "Kundaria Faizulapur",
+        "Nisui",
+        "Rajupur Kalan",
+        "Bisharatganj",
+        "Balai Bhagwantpur",
+        "Majhgawan",
+        "Aliganj",
+        "Jitaur",
+        "Mandora",
+        "Sudanpur"
+      ],
+      "keywords": [
+        "Bisharatganj",
+        "Majhgawan"
+      ],
+      "id": "bareilly_10"
+    },
+    {
+      "name": "Sirauli and Nearby",
+      "pincodes": [
+        243303
+      ],
+      "areas": [
+        "Baragoan",
+        "Beodhan Khurd",
+        "Kesarpur",
+        "Shivpuri",
+        "Hardaspur",
+        "Kangawan Shyam",
+        "Sirauli",
+        "Ram Nagar SO Bareilly",
+        "Gurgaon",
+        "Labhari",
+        "Lilaur",
+        "Mau Chandpur",
+        "Barser Sikandarpur",
+        "Basantpur",
+        "Sona"
+      ],
+      "keywords": [
+        "Sirauli",
+        "Ram Nagar"
+      ],
+      "id": "bareilly_11"
+    },
+    {
+      "name": "Bhamora and Surroundings",
+      "pincodes": [
+        243401
+      ],
+      "areas": [
+        "Sirohi",
+        "Kudha",
+        "Bhamora",
+        "Deochara",
+        "Rajupur",
+        "Alampur Jafarabad",
+        "Kusari"
+      ],
+      "keywords": [
+        "Bhamora",
+        "Deochara"
+      ],
+      "id": "bareilly_12"
+    },
+    {
+      "name": "Ballia and Nearby",
+      "pincodes": [
+        243402
+      ],
+      "areas": [
+        "Himmatpur",
+        "Sarau",
+        "Sardar Nagar Ghat",
+        "Ballia",
+        "Kaimua",
+        "Langura",
+        "Naugawan Thakuran",
+        "Naurangpur",
+        "Milak Majhera",
+        "Singha"
+      ],
+      "keywords": [
+        "Ballia",
+        "Sardar Nagar"
+      ],
+      "id": "bareilly_13"
+    },
+    {
+      "name": "Iffco Township Area",
+      "pincodes": [
+        243403
+      ],
+      "areas": [
+        "Iffco Township",
+        "Malgoan"
+      ],
+      "keywords": [
+        "Iffco Township"
+      ],
+      "id": "bareilly_14"
+    },
+    {
+      "name": "Hafizganj and Surroundings",
+      "pincodes": [
+        243407
+      ],
+      "areas": [
+        "Baraur",
+        "Grem",
+        "Senthal",
+        "Barhepura",
+        "Hafizganj",
+        "Harharpur",
+        "Ahemdabad",
+        "Mundia Bhikampur",
+        "Paiga",
+        "Ratna"
+      ],
+      "keywords": [
+        "Hafizganj",
+        "Senthal"
+      ],
+      "id": "bareilly_15"
+    },
+    {
+      "name": "Rafiabad and Nearby",
+      "pincodes": [
+        243501
+      ],
+      "areas": [
+        "Aundh",
+        "Bhitaura",
+        "Agras",
+        "Mohammad Ganj",
+        "B R Factory",
+        "Meerapur Rafiabad",
+        "Sirsa Jagir",
+        "Soraha"
+      ],
+      "keywords": [
+        "Rafiabad",
+        "Agras"
+      ],
+      "id": "bareilly_16"
+    },
+    {
+      "name": "CBGanj and Surroundings",
+      "pincodes": [
+        243502
+      ],
+      "areas": [
+        "Ghunsa",
+        "Khalilpur",
+        "Nandausi",
+        "Teolia",
+        "CBGanj",
+        "Dauli Raghuwar Dayal",
+        "Swale Nagar",
+        "Bohit",
+        "Jogither",
+        "Mandauli",
+        "Tiliapurbo",
+        "Gauntara"
+      ],
+      "keywords": [
+        "CBGanj",
+        "Swale Nagar"
+      ],
+      "id": "bareilly_17"
+    },
+    {
+      "name": "Faridpur and Surroundings",
+      "pincodes": [
+        243503
+      ],
+      "areas": [
+        "Faridpur",
+        "Dhakni Rajpuri",
+        "Kuan Tanda",
+        "Raipur Hans",
+        "Angadpur Khamaria",
+        "Dalpura",
+        "Piperthara",
+        "Qadarganj",
+        "Sarkara",
+        "Laungpur",
+        "Marhi Sukatia",
+        "Pachomi",
+        "Sunha",
+        "Athana",
+        "Faiznagar",
+        "Kakra Kalan",
+        "Khateli",
+        "Nagaria Vikram",
+        "Nawada Bilsandi",
+        "Simra Bahor Nagla",
+        "Budhauuli",
+        "Hazipur Khazuria B",
+        "Rampura Ratan"
+      ],
+      "keywords": [
+        "Faridpur",
+        "Qadarganj"
+      ],
+      "id": "bareilly_18"
+    },
+    {
+      "name": "Meerganj and Surroundings",
+      "pincodes": [
+        243504
+      ],
+      "areas": [
+        "Behroli",
+        "Dhaneta",
+        "Hurhuri",
+        "Meerganj SO Bareilly",
+        "Samaspur",
+        "SINDHAULI",
+        "Simaria",
+        "Dibna",
+        "Gugai",
+        "Gularia",
+        "Goola",
+        "Mandanpur"
+      ],
+      "keywords": [
+        "Meerganj",
+        "Sindhauli"
+      ],
+      "id": "bareilly_19"
+    },
+    {
+      "name": "Shishgarh and Surroundings",
+      "pincodes": [
+        243505
+      ],
+      "areas": [
+        "Balli",
+        "Kulchha",
+        "Nagaria Sobarni",
+        "Sahora",
+        "Shishgarh",
+        "Dhaneli",
+        "Mawai Kazian",
+        "Shergarh",
+        "Bairamnagar",
+        "Gehluiya",
+        "Haldi",
+        "Kanakpuri",
+        "Narkhera",
+        "Mehmoodpur",
+        "Dunka",
+        "Shahi",
+        "Junahi"
+      ],
+      "keywords": [
+        "Shishgarh",
+        "Shergarh"
+      ],
+      "id": "bareilly_20"
+    },
+    {
+      "name": "Fatehganj East and Surroundings",
+      "pincodes": [
+        243506
+      ],
+      "areas": [
+        "Fatehganj East",
+        "Jaraul",
+        "Nagaria Kalan",
+        "Shahpur Baniyan",
+        "Shivpuri Raudhauli",
+        "Tara Khas",
+        "Bargawan",
+        "Tiswa"
+      ],
+      "keywords": [
+        "Fatehganj East",
+        "Nagaria Kalan"
+      ],
+      "id": "bareilly_21"
+    },
+    {
+      "name": "Bhainsori",
+      "pincodes": [
+        244701
+      ],
+      "areas": [
+        "Bhainsori"
+      ],
+      "keywords": [
+        "Bhainsori"
+      ],
+      "id": "bareilly_22"
+    },
+    {
+      "name": "Nawabganj and Surroundings",
+      "pincodes": [
+        262406
+      ],
+      "areas": [
+        "Attangachandpur",
+        "Dalelnagar",
+        "Khajuria Sriram",
+        "Parasrampur",
+        "Abhayrajpur",
+        "Bapu Nagar",
+        "Bhadpura",
+        "Bhauwa Bazar",
+        "Dhaurera",
+        "Rukumpur",
+        "Baboora",
+        "Keolaria",
+        "Sundari Amsah",
+        "Nawabganj SO Bareilly",
+        "Bijamau",
+        "Bilasnagar",
+        "Narharpur Gaurikhera",
+        "Alahiya",
+        "Jeoti Jagir",
+        "Mundia Teli",
+        "Sardarnagar",
+        "Silra"
+      ],
+      "keywords": [
+        "Nawabganj",
+        "Bhadpura"
+      ],
+      "id": "bareilly_23"
+    }
+  ]
+}

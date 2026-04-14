@@ -1,0 +1,293 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kaushambi",
+  "city": "Kaushambi",
+  "summary": "",
+  "total_areas": 122,
+  "total_pincodes": 13,
+  "zones": [
+    {
+      "name": "Bharwari-Kokhraj",
+      "pincodes": [
+        212201
+      ],
+      "areas": [
+        "Bharwari SO Kaushambi",
+        "Balak Mau",
+        "Dariyapur Majhiyawan",
+        "Kakorha",
+        "Bamrauli",
+        "Guwara Gayyabpur",
+        "Kasia Pashchim",
+        "Kasia Purab",
+        "Bisara",
+        "Kokhraj",
+        "Muratganj ED"
+      ],
+      "keywords": [
+        "Bharwari",
+        "Kokhraj"
+      ],
+      "id": "kaushambi_1"
+    },
+    {
+      "name": "Chail",
+      "pincodes": [
+        212202
+      ],
+      "areas": [
+        "Chalauli",
+        "Tilgodi",
+        "Kasenda",
+        "Amirsa",
+        "Boonda",
+        "Bhikhpur Mendwara",
+        "Jalalpur Sana",
+        "Jayantipur",
+        "Chail SO Kaushambi",
+        "Faridpur Salem"
+      ],
+      "keywords": [
+        "Chail"
+      ],
+      "id": "kaushambi_2"
+    },
+    {
+      "name": "Charwa-Badagaon",
+      "pincodes": [
+        212203
+      ],
+      "areas": [
+        "Beruwa",
+        "Gauhani Badi",
+        "Lokipur",
+        "Badagaon",
+        "Kaju",
+        "Charwa",
+        "Balipur Tata",
+        "Khandeora"
+      ],
+      "keywords": [
+        "Charwa",
+        "Badagaon"
+      ],
+      "id": "kaushambi_3"
+    },
+    {
+      "name": "Daranagar",
+      "pincodes": [
+        212204
+      ],
+      "areas": [
+        "Shahjadpur ED",
+        "Sawrai Buzurg",
+        "Jahangirabad",
+        "Nawawan",
+        "Daranagar SO Allahabad"
+      ],
+      "keywords": [
+        "Daranagar"
+      ],
+      "id": "kaushambi_4"
+    },
+    {
+      "name": "Kara",
+      "pincodes": [
+        212205
+      ],
+      "areas": [
+        "Aureni",
+        "Kara",
+        "Afzalpur Saton",
+        "Korion",
+        "Alipur Jeeta",
+        "Paras"
+      ],
+      "keywords": [
+        "Kara"
+      ],
+      "id": "kaushambi_5"
+    },
+    {
+      "name": "Karari",
+      "pincodes": [
+        212206
+      ],
+      "areas": [
+        "Raxwara",
+        "Zafarpur Mahawan",
+        "Karari",
+        "Bidaom",
+        "Vaish Kanti"
+      ],
+      "keywords": [
+        "Karari"
+      ],
+      "id": "kaushambi_6"
+    },
+    {
+      "name": "Manjhanpur",
+      "pincodes": [
+        212207
+      ],
+      "areas": [
+        "Naugira",
+        "Ten Shah Aimabad",
+        "Osa",
+        "Shahpur",
+        "Bhelkha",
+        "Kadipur",
+        "Kumbhiyawan",
+        "Mawai",
+        "Sarswan",
+        "Tewa",
+        "Manjhanpur",
+        "Bandhawa Rajwar",
+        "Hinauta",
+        "Kurron"
+      ],
+      "keywords": [
+        "Manjhanpur"
+      ],
+      "id": "kaushambi_7"
+    },
+    {
+      "name": "Shaikhpur Rasoolpur",
+      "pincodes": [
+        212208
+      ],
+      "areas": [
+        "Shaikhpur Rasoolpur"
+      ],
+      "keywords": [
+        "Shaikhpur Rasoolpur"
+      ],
+      "id": "kaushambi_8"
+    },
+    {
+      "name": "Sikandarpur-Mahgaon",
+      "pincodes": [
+        212213
+      ],
+      "areas": [
+        "Alam Chand",
+        "Baserhi",
+        "Sayed Serawan",
+        "Gauspur",
+        "Sikandarpur Bazha",
+        "Mahgaon"
+      ],
+      "keywords": [
+        "Sikandarpur",
+        "Mahgaon"
+      ],
+      "id": "kaushambi_9"
+    },
+    {
+      "name": "Kaushambi-Sarira",
+      "pincodes": [
+        212214
+      ],
+      "areas": [
+        "Andhawan",
+        "Ranipur",
+        "Katari",
+        "Alwara",
+        "Pashchim Sarira",
+        "Bairampur",
+        "Champaha Bazar",
+        "Goraju",
+        "Kaushambi",
+        "Purab Sarira"
+      ],
+      "keywords": [
+        "Kaushambi",
+        "Sarira"
+      ],
+      "id": "kaushambi_10"
+    },
+    {
+      "name": "Sarai Akil",
+      "pincodes": [
+        212216
+      ],
+      "areas": [
+        "Basuhar",
+        "Harraipur",
+        "Kanaili",
+        "Khonpa",
+        "Mahila",
+        "Hasanpur",
+        "Makdoompur Dhoksaha",
+        "Yugrajpur",
+        "Banthari",
+        "Berauncha",
+        "Bhakanda",
+        "Maohar",
+        "Dharampur",
+        "Hisambad",
+        "Mohiuddinpur",
+        "Arkamahabirpur",
+        "Bandhuri Rasulipur",
+        "Sarai Akil"
+      ],
+      "keywords": [
+        "Sarai Akil"
+      ],
+      "id": "kaushambi_11"
+    },
+    {
+      "name": "Sirathu",
+      "pincodes": [
+        212217
+      ],
+      "areas": [
+        "Bhadehri",
+        "Mohabbatpur Painsa",
+        "Nara",
+        "Shakha",
+        "Nidura",
+        "Rampur Dhamawan",
+        "Govindpur Goriyon",
+        "Kanwar",
+        "Tanda",
+        "Udhinbuzurg",
+        "Afjalpurwari",
+        "Ajhuwa Bazar ED",
+        "Dorma",
+        "Samsabad",
+        "Anetha",
+        "Barat Fariq",
+        "Ganpa",
+        "Selraha",
+        "Siyara Mithepur",
+        "Tulsipur",
+        "Sirathu"
+      ],
+      "keywords": [
+        "Sirathu"
+      ],
+      "id": "kaushambi_12"
+    },
+    {
+      "name": "Tilhapur-Newada",
+      "pincodes": [
+        212218
+      ],
+      "areas": [
+        "Newada",
+        "Noorpur",
+        "Audhan",
+        "Imli Gaon",
+        "Purkhas",
+        "Bigahra Usmanpur",
+        "Tilhapur"
+      ],
+      "keywords": [
+        "Tilhapur",
+        "Newada"
+      ],
+      "id": "kaushambi_13"
+    }
+  ]
+}

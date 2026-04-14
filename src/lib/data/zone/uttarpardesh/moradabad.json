@@ -1,0 +1,335 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Moradabad",
+  "city": "Moradabad",
+  "summary": "",
+  "total_areas": 143,
+  "total_pincodes": 14,
+  "zones": [
+    {
+      "name": "Moradabad City Center",
+      "pincodes": [
+        244001
+      ],
+      "areas": [
+        "Godhi",
+        "Noorpur",
+        "Jahangirpur",
+        "Moradabad City",
+        "Moradabad RS",
+        "PTC Moradabad",
+        "R N Area",
+        "Rajpur Kesaria",
+        "Mukarrabpur",
+        "Tumaria Kalan",
+        "Sikander Patti",
+        "Moradabad",
+        "PAC Moradabad",
+        "Town Hall SO Moradabad",
+        "NDC Moradabad",
+        "Devapur Mustkam Pur",
+        "Faij Ganj Bazar",
+        "Gandhi Nagar Moradabad",
+        "Nai Basti SO Moradabad",
+        "RTS Moradabad",
+        "Uncha Gaon",
+        "Husainpur Hamir",
+        "Sitapuri",
+        "Faredi",
+        "Lakri Fazalpur",
+        "Beejna",
+        "Hasanpur Katia",
+        "Bhensia",
+        "Macharria",
+        "Katghar SO Moradabad",
+        "Mandi Naj",
+        "Moradabad Kutchery",
+        "SPF Mrd",
+        "Stationroad"
+      ],
+      "keywords": [
+        "Moradabad",
+        "City Center",
+        "Downtown"
+      ],
+      "id": "moradabad_1"
+    },
+    {
+      "name": "Pakbara and Surroundings",
+      "pincodes": [
+        244102
+      ],
+      "areas": [
+        "IFTM University",
+        "Ratanpur Kalan",
+        "Yusufpur Naglia",
+        "Pakbara",
+        "Gumsani",
+        "Umri Sabzi Pur"
+      ],
+      "keywords": [
+        "Pakbara",
+        "University Area"
+      ],
+      "id": "moradabad_2"
+    },
+    {
+      "name": "Majhola",
+      "pincodes": [
+        244103
+      ],
+      "areas": [
+        "Majhola SO Moradabad"
+      ],
+      "keywords": [
+        "Majhola"
+      ],
+      "id": "moradabad_3"
+    },
+    {
+      "name": "Kankar Khera Cluster",
+      "pincodes": [
+        244104
+      ],
+      "areas": [
+        "Kankar Khera",
+        "Sardar Nagar",
+        "Sarkara Khas",
+        "Siras Khera",
+        "Beerpur Than",
+        "Deolari",
+        "Ganeshpur",
+        "Akkadilari",
+        "Chandanpur Isapur",
+        "Hiran Khera",
+        "Mundha"
+      ],
+      "keywords": [
+        "Kankar Khera",
+        "Residential Cluster"
+      ],
+      "id": "moradabad_4"
+    },
+    {
+      "name": "Vikas Bhawan Area",
+      "pincodes": [
+        244105
+      ],
+      "areas": [
+        "Vikas Bhawan Moradabad",
+        "Bhatawali",
+        "Mahlakpur Nizampur",
+        "Qazipura"
+      ],
+      "keywords": [
+        "Vikas Bhawan",
+        "Administrative Area"
+      ],
+      "id": "moradabad_5"
+    },
+    {
+      "name": "Dilari and Nearby",
+      "pincodes": [
+        244401
+      ],
+      "areas": [
+        "Sihali Khadar",
+        "Dhakia Jut",
+        "Sahaspuri",
+        "Dilari",
+        "Gakharpur",
+        "Sarkara Bishnoi",
+        "Aliabad",
+        "Malakpursemli",
+        "Rehta Mafi"
+      ],
+      "keywords": [
+        "Dilari",
+        "Rural Cluster"
+      ],
+      "id": "moradabad_6"
+    },
+    {
+      "name": "Bhagatpur Tanda Region",
+      "pincodes": [
+        244402
+      ],
+      "areas": [
+        "Bhagatpur Tanda",
+        "Laloowala",
+        "Padia Nagla",
+        "Pipalsana RS",
+        "Sidhlau Nazarpur",
+        "Burhanpur",
+        "Chandpur",
+        "Devipura",
+        "Pipalsana",
+        "Baheri Brahmnan"
+      ],
+      "keywords": [
+        "Bhagatpur",
+        "Tanda"
+      ],
+      "id": "moradabad_7"
+    },
+    {
+      "name": "Bilari and Surroundings",
+      "pincodes": [
+        244411
+      ],
+      "areas": [
+        "Chandrapur Kalan",
+        "Dharampur Kalan",
+        "Kharsol",
+        "Sanai",
+        "Thaonla",
+        "Chhitauni",
+        "Jargaon",
+        "Khawari Awwal",
+        "Mangoopura",
+        "Syaundara",
+        "Amarpur Kashi",
+        "Gataura",
+        "Jalalpur",
+        "Ronda",
+        "Bilari",
+        "Sagarpur",
+        "Saifni",
+        "Sihali Mala"
+      ],
+      "keywords": [
+        "Bilari",
+        "Rural Area"
+      ],
+      "id": "moradabad_8"
+    },
+    {
+      "name": "Kundarki Region",
+      "pincodes": [
+        244413
+      ],
+      "areas": [
+        "Hathipur Chandoi",
+        "Hathipur Chittu",
+        "Haryana",
+        "Tewar Khas",
+        "Kundarki",
+        "Majholi Khas"
+      ],
+      "keywords": [
+        "Kundarki",
+        "Rural Cluster"
+      ],
+      "id": "moradabad_9"
+    },
+    {
+      "name": "Sahaspur Area",
+      "pincodes": [
+        244415
+      ],
+      "areas": [
+        "Narainpur",
+        "Bahoranpur Narauli",
+        "Guarau",
+        "RN Sahaspur",
+        "Raja Ka Sahaspur"
+      ],
+      "keywords": [
+        "Sahaspur",
+        "Rural"
+      ],
+      "id": "moradabad_10"
+    },
+    {
+      "name": "Kanth and Surroundings",
+      "pincodes": [
+        244501
+      ],
+      "areas": [
+        "Garhi Salempur",
+        "Kothi Khidmatpur",
+        "Matlabpur Sadarpur",
+        "Kuri Rawana",
+        "MohdPur Mafi",
+        "Jahangirpur Chakpheri",
+        "Madhpur",
+        "Mundha Kheri",
+        "Pathangi",
+        "Umari Kalan",
+        "Akbarpur Sihali",
+        "Chhajlet",
+        "Kanth"
+      ],
+      "keywords": [
+        "Kanth",
+        "Rural"
+      ],
+      "id": "moradabad_11"
+    },
+    {
+      "name": "Aghwanpur Cluster",
+      "pincodes": [
+        244504
+      ],
+      "areas": [
+        "Fatehpur Vishnoi",
+        "Modha",
+        "Sarai Khajoor",
+        "Aghwanpur",
+        "Ladawali",
+        "Kafiabad",
+        "Kuchawali"
+      ],
+      "keywords": [
+        "Aghwanpur",
+        "Rural"
+      ],
+      "id": "moradabad_12"
+    },
+    {
+      "name": "Thakurdwara Region",
+      "pincodes": [
+        244601
+      ],
+      "areas": [
+        "Bahadur Nagar",
+        "Fareed Nagar Mustqum",
+        "Longi Kalan",
+        "Sultanpur Dost",
+        "Gopiwala",
+        "Ratupura",
+        "Thakurdwara",
+        "Khawajpur",
+        "Nanhuwala",
+        "Kalajhanda",
+        "Kishanpur Gaonri",
+        "Pasiapura",
+        "Raghowala"
+      ],
+      "keywords": [
+        "Thakurdwara",
+        "Rural"
+      ],
+      "id": "moradabad_13"
+    },
+    {
+      "name": "Tanda Afzal Area",
+      "pincodes": [
+        244602
+      ],
+      "areas": [
+        "Rajupur Kalan",
+        "Sharif Nagar",
+        "Surjan Nagar",
+        "Darapur",
+        "Sherpur Patti",
+        "Tanda Afzal"
+      ],
+      "keywords": [
+        "Tanda Afzal",
+        "Rural"
+      ],
+      "id": "moradabad_14"
+    }
+  ]
+}

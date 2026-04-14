@@ -1,0 +1,591 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Ballia",
+  "city": "Ballia",
+  "summary": "",
+  "total_areas": 348,
+  "total_pincodes": 40,
+  "zones": [
+    {
+      "name": "Chilkahar Area",
+      "pincodes": [
+        221701
+      ],
+      "areas": [
+        "Hajauli",
+        "Kajhari",
+        "Naraon",
+        "Chilkahar",
+        "Kopawan",
+        "Chhibbi",
+        "Tikadeori",
+        "Uchera",
+        "Aundi",
+        "Sanwara",
+        "Sinhachawar",
+        "Asanwar",
+        "Gopalpur"
+      ],
+      "keywords": [
+        "Chilkahar",
+        "Hajauli",
+        "Kajhari"
+      ],
+      "id": "ballia_1"
+    },
+    {
+      "name": "Nagra Cluster",
+      "pincodes": [
+        221711
+      ],
+      "areas": [
+        "Kodai",
+        "Lahasani",
+        "Malapharsenpur",
+        "Chandi",
+        "Dihwa",
+        "Ekail",
+        "Khanwar",
+        "Tadi Bada Gaon",
+        "Triloknanda",
+        "NAGRA",
+        "Sultanpur",
+        "Parasia",
+        "Chachaya",
+        "Gothain",
+        "Nanaura",
+        "Atrauli",
+        "Bachhaipur",
+        "Biharaharpur",
+        "Deoriha",
+        "Inds0",
+        "Nikasi"
+      ],
+      "keywords": [
+        "Nagra",
+        "Kodai",
+        "Lahasani"
+      ],
+      "id": "ballia_2"
+    },
+    {
+      "name": "Rasra Town",
+      "pincodes": [
+        221712,
+        277301,
+        277210,
+        277214,
+        277302,
+        277219,
+        277216,
+        277403,
+        277207,
+        221717,
+        277124,
+        277208,
+        277123,
+        221713,
+        221709,
+        221718,
+        221716,
+        277501,
+        277503,
+        277205,
+        277506,
+        277201,
+        277204,
+        277211,
+        277213
+      ],
+      "areas": [
+        "Bhelai",
+        "Kotwari",
+        "Amahara",
+        "Nagahar",
+        "Kharuaon",
+        "Saraybharti",
+        "Sardaspur",
+        "Chandrawar",
+        "Jam",
+        "Rampur",
+        "Atarsua",
+        "Siswar",
+        "Nawapura",
+        "Nagpur",
+        "Mundera",
+        "Chintamanpur",
+        "RASRA",
+        "Athialapura",
+        "Amaharpatti Uttar",
+        "Baijalpur",
+        "Pradhanpur",
+        "Kurem",
+        "Maharajpur",
+        "Rasoolpur",
+        "Rasra Town",
+        "Kummhaila",
+        "Suryapura",
+        "Kewara",
+        "Laxman Chapra",
+        "Hathaunj",
+        "Jigirasand",
+        "Kirtupur",
+        "Parvatpur",
+        "A. Khiruchapara Nobrar",
+        "Bahuara",
+        "Belahari",
+        "Bahadura",
+        "Thati harpur",
+        "Jajauli",
+        "Ukachhi",
+        "Chakia",
+        "Durjanpur",
+        "Karmanpur",
+        "Janaupur",
+        "Daulatpur",
+        "Karon",
+        "Katharia",
+        "Birpura",
+        "Palia Khas",
+        "Jajauli No2",
+        "Semaria",
+        "Uskar",
+        "Kotwa Narayenpur",
+        "Ramgarh",
+        "Tutuwari",
+        "Singhpur",
+        "Chhata SO Ballia",
+        "Dubey Chhapra",
+        "Lalganj Ballia",
+        "Majhua",
+        "Nawanagar SO Ballia",
+        "RATSAR",
+        "Sagarpali",
+        "Pandey Pur",
+        "Tengarihi",
+        "Dokati",
+        "Kodahara Uparwar",
+        "Ram Nagar",
+        "Sonaki Bhat",
+        "Panicha",
+        "Baghuri",
+        "Dhoridih",
+        "Karsi",
+        "Khathghara",
+        "Rudrawar",
+        "Jagadara",
+        "Bigahi",
+        "Binaha",
+        "Halpur",
+        "Nasirpurkalan",
+        "Isari Salempur",
+        "Takha",
+        "Charauan",
+        "Gauapar",
+        "MALIPUR",
+        "Rampur Kanungoa",
+        "Sikarhata",
+        "Auria Kalan",
+        "Ibrahimpatti",
+        "Kasoundar",
+        "Udharan",
+        "Amaon",
+        "Cherueyan",
+        "Basantpur SO Ballia",
+        "Karanchhapa",
+        "Jagdeva",
+        "Chhotaki Seriya",
+        "Sahodih",
+        "Gangapur",
+        "Shobha Chapra",
+        "Bara Gaon",
+        "Khejuri",
+        "Husainabad",
+        "Bharthaon",
+        "Duhabihra",
+        "Chak Usaraila",
+        "Pakari",
+        "Gopalnagar",
+        "Madhubani",
+        "Narayengarh",
+        "Bisauli",
+        "Chnd Pur",
+        "Dumariya",
+        "Kusaura",
+        "Puras",
+        "Rohuan",
+        "Malhaua Chorkaind",
+        "Rachauli",
+        "Govindpur",
+        "Mahari",
+        "Mohammadpur",
+        "Patoi",
+        "Baghuna",
+        "Thamhanpura",
+        "Kharasara",
+        "Pur SO Ballia",
+        "Raniganj Bazar",
+        "Chitbaragaon",
+        "Nauranga",
+        "Shivpur Datiwar",
+        "Jai Prakash Nagar",
+        "Daya Chhapra",
+        "Kharauni",
+        "Sripalpur",
+        "Dighar",
+        "Dudhaila Kalan",
+        "Kanchanpur",
+        "Piyaraunta",
+        "Kathaura",
+        "Gonhia Chapra",
+        "Ibrahima Bad",
+        "Jamalpur",
+        "Sawan",
+        "Akhtiyarpur",
+        "Barhwalia",
+        "Ratsi Mehmanpur",
+        "Rupwar Bhagwanpur",
+        "Sisyandkala",
+        "Bahorawan",
+        "Barawan Ratipatti",
+        "Bhujaini",
+        "Bharauli",
+        "Bhimpura",
+        "Bisukia",
+        "Middha",
+        "Dallan Chhapra",
+        "Sahatwar",
+        "VBNarayanpur",
+        "GARHMALPUR",
+        "Kidihirapur",
+        "Korantadih",
+        "Phehpana",
+        "Bhagwanpur",
+        "Chandpur",
+        "Murli Chhapra",
+        "Balihar",
+        "Chand Diar",
+        "Ibrahimabad Uprwar",
+        "Asan",
+        "Sawan Chapra",
+        "Suryabhanpur",
+        "Barasari Jageer",
+        "Manikpur",
+        "Muriyari",
+        "Isarpitha Patti",
+        "Jamui",
+        "Koth",
+        "Prasadpur",
+        "Thohilpali",
+        "Usasa",
+        "Sonbarsa",
+        "Suremanpur",
+        "Pachkhora",
+        "Sikariyan Kalan",
+        "Sakarpura",
+        "Khari",
+        "Sarya Bagdaura",
+        "Telma",
+        "Babhanauli",
+        "Barauli",
+        "Bairia SO Ballia",
+        "Kheosar",
+        "Maniar",
+        "Khandwa"
+      ],
+      "keywords": [
+        "Rasra",
+        "Bhelai",
+        "Kotwari"
+      ],
+      "id": "ballia_3"
+    },
+    {
+      "name": "Bilthara Road Area",
+      "pincodes": [
+        221715
+      ],
+      "areas": [
+        "Sarya Dihu Bhagat",
+        "Turtipar",
+        "Bahuta Chak Upadhyay",
+        "Farsatar",
+        "Chainpur Gulaura",
+        "Jiutpura",
+        "Kundail",
+        "Piparauli",
+        "Sonadih",
+        "Ubhaon",
+        "Bilthara Bazar",
+        "Chandadih",
+        "Indauli",
+        "Akhop",
+        "Awayen",
+        "Banspar Bahorwa",
+        "Haldi Rampur",
+        "Pasuhari",
+        "BILTHARA ROAD"
+      ],
+      "keywords": [
+        "Bilthara",
+        "Ubhaon",
+        "Sonadih"
+      ],
+      "id": "ballia_4"
+    },
+    {
+      "name": "Ballia City",
+      "pincodes": [
+        277001
+      ],
+      "areas": [
+        "Hanumanganj",
+        "Basarik Pah",
+        "Raghunath Pur Piparpatti",
+        "Deokali",
+        "CHANDRA SHEKHAR NAGAR",
+        "Sanwaru Bandh",
+        "Zeera Basti",
+        "Saharaspali",
+        "Khoripakar",
+        "Ballia City",
+        "Civillines",
+        "Jagdishpur SO Ballia",
+        "Shahidpark",
+        "TDCollege",
+        "BALLIA",
+        "Takarsand",
+        "Tikhampur",
+        "Bhriguashram"
+      ],
+      "keywords": [
+        "Ballia",
+        "Civillines",
+        "TDCollege"
+      ],
+      "id": "ballia_5"
+    },
+    {
+      "name": "Garwar Region",
+      "pincodes": [
+        277121
+      ],
+      "areas": [
+        "Balesara",
+        "Jigini",
+        "Budhuan",
+        "Kharahatar",
+        "Saraya",
+        "Garwar",
+        "Shahpur",
+        "Kurejee"
+      ],
+      "keywords": [
+        "Garwar",
+        "Balesara",
+        "Jigini"
+      ],
+      "id": "ballia_6"
+    },
+    {
+      "name": "Bansdih Area",
+      "pincodes": [
+        277202,
+        277203
+      ],
+      "areas": [
+        "Deodih",
+        "Mairitar",
+        "Rajpur",
+        "Bakawan",
+        "Kaithauli",
+        "Hardattpur",
+        "Bansdih",
+        "Amghat",
+        "Dawani",
+        "Majhauli",
+        "Salempur",
+        "Dumari",
+        "Sher",
+        "Bansdih Road"
+      ],
+      "keywords": [
+        "Bansdih",
+        "Deodih",
+        "Mairitar"
+      ],
+      "id": "ballia_7"
+    },
+    {
+      "name": "Reoti Cluster",
+      "pincodes": [
+        277209
+      ],
+      "areas": [
+        "Bhojchapra",
+        "Hariahan Kalan",
+        "Moonchapra",
+        "Sri Nagar",
+        "Dalchapra",
+        "Jharkataha",
+        "Kusauri",
+        "REOTI",
+        "Achalgarh",
+        "Chheridih",
+        "Gaighat",
+        "Muradih",
+        "Bhopalpur"
+      ],
+      "keywords": [
+        "Reoti",
+        "Bhojchapra",
+        "Hariahan"
+      ],
+      "id": "ballia_8"
+    },
+    {
+      "name": "Sikanderpur Area",
+      "pincodes": [
+        277303
+      ],
+      "areas": [
+        "Chetankishor",
+        "Pandah",
+        "Sisotar",
+        "Balupur",
+        "Karmauta",
+        "Kazipur",
+        "Sikanderpur Bus Stand",
+        "Lilkar",
+        "Siwankala",
+        "SIKANDERPUR",
+        "Charawan Barwan",
+        "Gosain Pur",
+        "Nanhul",
+        "Bachhapar",
+        "Banahra",
+        "Masoompur"
+      ],
+      "keywords": [
+        "Sikanderpur",
+        "Pandah",
+        "Chetankishor"
+      ],
+      "id": "ballia_9"
+    },
+    {
+      "name": "Sukhpura Region",
+      "pincodes": [
+        277304
+      ],
+      "areas": [
+        "Bharakhara",
+        "Dhanauti",
+        "SUKHPURA",
+        "Apail",
+        "Beruarbari",
+        "Karammar",
+        "Karnai"
+      ],
+      "keywords": [
+        "Sukhpura",
+        "Bharakhara",
+        "Dhanauti"
+      ],
+      "id": "ballia_10"
+    },
+    {
+      "name": "Dubhar Area",
+      "pincodes": [
+        277401
+      ],
+      "areas": [
+        "Repura",
+        "Akhar",
+        "Dubhar",
+        "Hariharpur",
+        "Janari",
+        "Nagwa",
+        "Shivpur Dier",
+        "Bharsar",
+        "Agrauli"
+      ],
+      "keywords": [
+        "Dubhar",
+        "Repura",
+        "Akhar"
+      ],
+      "id": "ballia_11"
+    },
+    {
+      "name": "Haldi Region",
+      "pincodes": [
+        277402
+      ],
+      "areas": [
+        "Babubel",
+        "Baghaunch",
+        "Sonwani",
+        "Haldi SO Ballia",
+        "Rudrapur",
+        "Jawahi Dear",
+        "Sitakund",
+        "Jawahi"
+      ],
+      "keywords": [
+        "Haldi",
+        "Babubel",
+        "Baghaunch"
+      ],
+      "id": "ballia_12"
+    },
+    {
+      "name": "Narhi Cluster",
+      "pincodes": [
+        277502
+      ],
+      "areas": [
+        "Narhi",
+        "Chaura",
+        "Rampur Chit",
+        "Anjorpur"
+      ],
+      "keywords": [
+        "Narhi",
+        "Chaura",
+        "Rampur"
+      ],
+      "id": "ballia_13"
+    },
+    {
+      "name": "Sohaon Area",
+      "pincodes": [
+        277504
+      ],
+      "areas": [
+        "Piprakala",
+        "Surahi",
+        "SOHAON"
+      ],
+      "keywords": [
+        "Sohaon",
+        "Piprakala",
+        "Surahi"
+      ],
+      "id": "ballia_14"
+    },
+    {
+      "name": "Sheopur Diar",
+      "pincodes": [
+        802131
+      ],
+      "areas": [
+        "Sheopur Diar"
+      ],
+      "keywords": [
+        "Sheopur Diar"
+      ],
+      "id": "ballia_15"
+    }
+  ]
+}

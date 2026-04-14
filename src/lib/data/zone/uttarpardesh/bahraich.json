@@ -1,0 +1,513 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Bahraich",
+  "city": "Bahraich",
+  "summary": "",
+  "total_areas": 288,
+  "total_pincodes": 21,
+  "zones": [
+    {
+      "name": "Bahraich City",
+      "pincodes": [
+        271801,
+        271802
+      ],
+      "areas": [
+        "Chhwani Bazar",
+        "Qanoongopura",
+        "Bahraich",
+        "Gudari Bazar",
+        "Bahraich City",
+        "Chaukgoi",
+        "Tulsipur",
+        "Chaukharia",
+        "Turahni Rajjab",
+        "Aliabulbul",
+        "Mohammad Nagar",
+        "Kalpipara",
+        "Dargah",
+        "Jhingha Road",
+        "Katra Bahadurpur",
+        "Metkaha",
+        "Reoli",
+        "Shekhdahir",
+        "Bahraich RS",
+        "Chandarkha Bujurga",
+        "Chittuara",
+        "Diha"
+      ],
+      "keywords": [
+        "city center",
+        "market area"
+      ],
+      "id": "bahraich_1"
+    },
+    {
+      "name": "Bisheswarganj",
+      "pincodes": [
+        271821
+      ],
+      "areas": [
+        "Puraina",
+        "Ganga Jamuni",
+        "Lakkharampur",
+        "Sohariyawan",
+        "Gangwal",
+        "Khanpur Mallah",
+        "Khariha",
+        "Shivpur Bairagi",
+        "Kursaha",
+        "Raniapur Gobrahi",
+        "Bisheswarganj"
+      ],
+      "keywords": [
+        "residential",
+        "local market"
+      ],
+      "id": "bahraich_2"
+    },
+    {
+      "name": "Mahsi",
+      "pincodes": [
+        271824
+      ],
+      "areas": [
+        "Mahsi",
+        "Sikandarpur",
+        "Mahsi Tahsil",
+        "Sadhuwapur",
+        "Kapoorpur",
+        "Rehuwa Mansoor"
+      ],
+      "keywords": [
+        "tehsil",
+        "agricultural"
+      ],
+      "id": "bahraich_3"
+    },
+    {
+      "name": "Nanpara",
+      "pincodes": [
+        271865
+      ],
+      "areas": [
+        "Amwa Pokhar",
+        "Bankashi",
+        "Girdharpur",
+        "Pargahawa",
+        "Tiwari Gaon",
+        "Chamarpurwa",
+        "Dhannigaon",
+        "Lakhai Kalan",
+        "Sarra Maundri",
+        "Nanpara",
+        "Botania",
+        "Gurghutta",
+        "Handa Basehri",
+        "Kakri",
+        "Kotwa",
+        "Nawab Ganj Alia Bad",
+        "Puraina Bhawani Bux",
+        "Rahmatogaon",
+        "Ram Nagar Semara",
+        "Sarraiya",
+        "Gaighat",
+        "Govindpur Pandit",
+        "Jamunaha Bhawania Pur",
+        "Mansoor Nagar",
+        "Manwaria Diwan",
+        "Rajapur Kala",
+        "Umaria",
+        "Argorwa",
+        "Balha",
+        "Chandanpur K Pur",
+        "Raibojha"
+      ],
+      "keywords": [
+        "town",
+        "commercial"
+      ],
+      "id": "bahraich_4"
+    },
+    {
+      "name": "Risia",
+      "pincodes": [
+        271875
+      ],
+      "areas": [
+        "Raipur",
+        "Begampur",
+        "Deorania",
+        "Dihwa",
+        "Soharwa",
+        "Balbhaddrapur",
+        "Dharmanpur",
+        "Hardutt Nagar",
+        "Karanpur",
+        "Patna Ghesiyari",
+        "Shankarpur",
+        "Dandey Kuinya",
+        "Gotutti",
+        "Risia"
+      ],
+      "keywords": [
+        "rural",
+        "village cluster"
+      ],
+      "id": "bahraich_5"
+    },
+    {
+      "name": "Jarwal",
+      "pincodes": [
+        271901,
+        271904
+      ],
+      "areas": [
+        "Bhartha",
+        "Jataura",
+        "Jarwal Road",
+        "Tappe Sipah",
+        "Badhauli",
+        "Kandaila Khas",
+        "Rani Ganj",
+        "Harchanda",
+        "Arai Umari",
+        "Mustafabad",
+        "Mahuri Kala",
+        "Jarwal"
+      ],
+      "keywords": [
+        "road connectivity",
+        "local hub"
+      ],
+      "id": "bahraich_6"
+    },
+    {
+      "name": "Kaiserganj",
+      "pincodes": [
+        271903
+      ],
+      "areas": [
+        "Goraihia",
+        "Katka Bhagatpurwa",
+        "Majhara Taukali",
+        "Kaiserganj",
+        "Devlakha",
+        "Gandara",
+        "Kundasar",
+        "Maholi",
+        "Parsendi",
+        "Babhnanpurwa",
+        "Sutauli",
+        "Badrauli",
+        "Vairi Maheshpur",
+        "Birahimpur",
+        "Naugoiyan",
+        "Payrepur",
+        "Umari",
+        "LALPUR"
+      ],
+      "keywords": [
+        "agricultural",
+        "market"
+      ],
+      "id": "bahraich_7"
+    },
+    {
+      "name": "Payagpur",
+      "pincodes": [
+        271871
+      ],
+      "areas": [
+        "Kashijot",
+        "Payagpur Bus Station",
+        "Semariyawan",
+        "Ailo",
+        "Laukahi",
+        "Shivdaha",
+        "Tallab Baghel",
+        "Kot Bazar",
+        "Mankapur Kala",
+        "Basanera",
+        "Ramnagar Khajuri",
+        "Payagpur",
+        "Dhauli"
+      ],
+      "keywords": [
+        "bus station",
+        "local market"
+      ],
+      "id": "bahraich_8"
+    },
+    {
+      "name": "Fakharpur",
+      "pincodes": [
+        271902
+      ],
+      "areas": [
+        "Bamiyari",
+        "Kaudha",
+        "Khairabazar",
+        "Madhavpur",
+        "Gureharipur",
+        "Shukulpurwa",
+        "Baundi",
+        "Bhilora Basu",
+        "Dahaura",
+        "Gajadharpur",
+        "Jaitapur",
+        "Khapurwa",
+        "Mundki",
+        "Balchandpur",
+        "Kundaspara",
+        "Sarai Jagna",
+        "Babkapur",
+        "Maila Saraiya",
+        "Nandwal",
+        "Raipura",
+        "Ramgarhi",
+        "Tendwa Mahant",
+        "Fakharpur"
+      ],
+      "keywords": [
+        "rural",
+        "village cluster"
+      ],
+      "id": "bahraich_9"
+    },
+    {
+      "name": "Mihinpurwa",
+      "pincodes": [
+        271855,
+        271872,
+        271851,
+        271830,
+        271841
+      ],
+      "areas": [
+        "Dharampur",
+        "Nausurgumtiha",
+        "Parwani Gauri",
+        "Petraha",
+        "Shahpur Kalan",
+        "Belhan",
+        "Lohiya Nagar",
+        "Majhara",
+        "Matehi",
+        "Pratappur Jungal Matera",
+        "Kakraha",
+        "Mangouriha",
+        "Murtiha",
+        "Nidhipurwa",
+        "Saraa Kalan",
+        "Urra Bazar",
+        "Balsinghpur",
+        "Daulatpur",
+        "Dharmapur",
+        "Harkhapur",
+        "Kundwa",
+        "Madhwapur",
+        "Sangwa",
+        "Semari Bazar",
+        "Balai Goan",
+        "Gangapur",
+        "Gaurapipra",
+        "Goorh",
+        "Gopia",
+        "Motipur",
+        "Nainiha",
+        "Nisangora",
+        "Mihinpurwa",
+        "Bhaggarwa",
+        "Patupur",
+        "Kishunpur Meetha",
+        "Baibahi",
+        "Raiganj",
+        "Khanpur",
+        "Newasi",
+        "Narounda",
+        "Chok Sahar",
+        "Churaipurwa",
+        "Khaira Dhaukal",
+        "Matera Kalan",
+        "Pachdevri",
+        "Shankarpur Laxmanpur",
+        "Bhawaniapur",
+        "Khaira Kala",
+        "Manikpur",
+        "Patrahiya",
+        "Rampur Dhobia",
+        "Huzoorpur",
+        "Kharighat",
+        "Shivpur SO Bahraich",
+        "Gujra",
+        "Singhpur",
+        "Garethi Gurudutt Singh",
+        "Basantapur",
+        "Karikot",
+        "Haiveriya",
+        "Kandra",
+        "Meerpur Koniya",
+        "Ambarpur",
+        "Maikupurwa",
+        "Mukeria",
+        "Nautala",
+        "Vanshpurwa",
+        "Boundi",
+        "Sohbatia",
+        "Newada",
+        "Bhangha",
+        "Jagtapur",
+        "Jiganiamahipal",
+        "Bakaina Bazar",
+        "Naruttampur",
+        "Rajapur Kalan",
+        "Baldoopurwa",
+        "Bardaha",
+        "Bitania",
+        "Laluhi"
+      ],
+      "keywords": [
+        "forest area",
+        "wildlife"
+      ],
+      "id": "bahraich_10"
+    },
+    {
+      "name": "Rupaidiha",
+      "pincodes": [
+        271881
+      ],
+      "areas": [
+        "Kewalpur",
+        "Madhavpur Nidaona",
+        "Makanpur",
+        "Prahalad Gaon",
+        "Rupaidiha",
+        "Banjaria",
+        "Jalalpur",
+        "Babaganj",
+        "Charda",
+        "Devra"
+      ],
+      "keywords": [
+        "border town",
+        "trade"
+      ],
+      "id": "bahraich_11"
+    },
+    {
+      "name": "Matera",
+      "pincodes": [
+        271882
+      ],
+      "areas": [
+        "Bulbul Newaj",
+        "Aswa Mohammad Pur",
+        "Matera RS",
+        "Moharba",
+        "Pakara Deoria",
+        "Pandri Tara",
+        "Amwa Molvi",
+        "Bhaukhara",
+        "Bhopatpur",
+        "Intaha",
+        "Maina Newaria"
+      ],
+      "keywords": [
+        "rural",
+        "village cluster"
+      ],
+      "id": "bahraich_12"
+    },
+    {
+      "name": "Chilwaria",
+      "pincodes": [
+        271870
+      ],
+      "areas": [
+        "Hariharpur",
+        "Katghara Kala",
+        "Chakujot",
+        "Imilia",
+        "Piparia Mahipal Singh",
+        "Ailiha",
+        "Parsia",
+        "Chilwaria"
+      ],
+      "keywords": [
+        "agricultural",
+        "village"
+      ],
+      "id": "bahraich_13"
+    },
+    {
+      "name": "Bichhiya",
+      "pincodes": [
+        271841
+      ],
+      "areas": [
+        "Bichhiya",
+        "Chafaria Bazar",
+        "Katraniaghat",
+        "Barkharia",
+        "Fakirpuri",
+        "Karkot",
+        "MATEHI CHAFARIA",
+        "Chahalwa",
+        "Sujauli"
+      ],
+      "keywords": [
+        "forest",
+        "wildlife"
+      ],
+      "id": "bahraich_14"
+    },
+    {
+      "name": "Gadamar Kuurd",
+      "pincodes": [
+        271825
+      ],
+      "areas": [
+        "Gadamar Kuurd",
+        "Hardi",
+        "Murauwa",
+        "Khasha MohdPur",
+        "Barnapur",
+        "Bhabnoti Shankarpur",
+        "Fatehpurwapur",
+        "Rampurwa",
+        "Sablapur",
+        "Sisaiya Chunamani",
+        "Tandwabasantpur",
+        "Gopchandpur",
+        "Lakkha Baundi",
+        "Pipri"
+      ],
+      "keywords": [
+        "rural",
+        "village cluster"
+      ],
+      "id": "bahraich_15"
+    },
+    {
+      "name": "Belwa Padum",
+      "pincodes": [
+        271806
+      ],
+      "areas": [
+        "Belwa Padum",
+        "Sarsa",
+        "Farda Sumerpur",
+        "Khutehna Chauraha",
+        "Lalpur",
+        "Satpediya"
+      ],
+      "keywords": [
+        "rural",
+        "village"
+      ],
+      "id": "bahraich_16"
+    }
+  ]
+}

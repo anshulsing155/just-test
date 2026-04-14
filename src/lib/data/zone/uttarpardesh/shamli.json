@@ -1,0 +1,262 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Shamli",
+  "city": "Shamli",
+  "summary": "",
+  "total_areas": 97,
+  "total_pincodes": 11,
+  "zones": [
+    {
+      "name": "Shamli Central",
+      "pincodes": [
+        247776
+      ],
+      "areas": [
+        "Balwa",
+        "Garhi Pukhta",
+        "Kheri Karmu",
+        "Bahawari",
+        "Jasana Urf Mastgarh",
+        "Lilon",
+        "Malandi",
+        "Taprana",
+        "Titauli",
+        "Dullakheri",
+        "Kudana",
+        "Maharampur",
+        "Bara Bazar Shamli",
+        "Dhimanpura",
+        "Shamli",
+        "Badheo",
+        "Kaserwa Kalan",
+        "Lank",
+        "Silawar",
+        "Ganna Samiti Shamli",
+        "Shamli Sugar Mills",
+        "Banat",
+        "Bhainswal",
+        "Kabarout",
+        "Shamli Mandi"
+      ],
+      "keywords": [
+        "Shamli",
+        "Central",
+        "Market",
+        "Mandi"
+      ],
+      "id": "shamli_1"
+    },
+    {
+      "name": "Kairana Cluster",
+      "pincodes": [
+        247774
+      ],
+      "areas": [
+        "Khurgaon Issopur",
+        "Kairana",
+        "Beenra",
+        "Bhoora",
+        "Kandela",
+        "Titarwara",
+        "Kheri Buchha",
+        "Uncha Gaon"
+      ],
+      "keywords": [
+        "Kairana",
+        "Cluster",
+        "Locality"
+      ],
+      "id": "shamli_2"
+    },
+    {
+      "name": "Jalalabad Region",
+      "pincodes": [
+        247772
+      ],
+      "areas": [
+        "Hasanpur Luhari",
+        "Chandena Mal",
+        "Dakhori",
+        "Jalalabad SO Muzaffarnagar",
+        "Nojjal",
+        "Gandewara"
+      ],
+      "keywords": [
+        "Jalalabad",
+        "Region",
+        "Locality"
+      ],
+      "id": "shamli_3"
+    },
+    {
+      "name": "Thanabhawan Area",
+      "pincodes": [
+        247777
+      ],
+      "areas": [
+        "Hind",
+        "Thanabhawan",
+        "Bhaisani Islampur",
+        "Khanpur",
+        "Nojal",
+        "Bhanera Udda",
+        "Harar Fatehpur",
+        "Kail Shikarpur",
+        "Sonta Rasulpur"
+      ],
+      "keywords": [
+        "Thanabhawan",
+        "Area",
+        "Locality"
+      ],
+      "id": "shamli_4"
+    },
+    {
+      "name": "Kandhla and Surroundings",
+      "pincodes": [
+        247775
+      ],
+      "areas": [
+        "Jasala",
+        "Rasulpur Gujran",
+        "Kandhala",
+        "Isso Pur Teel",
+        "Lisarh",
+        "Makhmoolpur",
+        "Khandrawali",
+        "Kiwana",
+        "Sunna",
+        "Dundu Khera",
+        "Gangeru",
+        "Garhi Daulat",
+        "Tahirpur Bhabisa",
+        "Islampur Ghasauli"
+      ],
+      "keywords": [
+        "Kandhla",
+        "Surroundings",
+        "Locality"
+      ],
+      "id": "shamli_5"
+    },
+    {
+      "name": "Jhinjhana Belt",
+      "pincodes": [
+        247773
+      ],
+      "areas": [
+        "Gogwan",
+        "Kairtoo",
+        "Udpur",
+        "Tana",
+        "Pawati Kalan",
+        "Purmafi",
+        "Jhinjhana"
+      ],
+      "keywords": [
+        "Jhinjhana",
+        "Belt",
+        "Locality"
+      ],
+      "id": "shamli_6"
+    },
+    {
+      "name": "Ailum and Nearby",
+      "pincodes": [
+        247771
+      ],
+      "areas": [
+        "Nala",
+        "Ailum",
+        "Bhanera",
+        "Bharsi"
+      ],
+      "keywords": [
+        "Ailum",
+        "Nearby",
+        "Locality"
+      ],
+      "id": "shamli_7"
+    },
+    {
+      "name": "Babri and Vicinity",
+      "pincodes": [
+        251305
+      ],
+      "areas": [
+        "Gogwan Jalalpur",
+        "Hiranwara",
+        "Kurmali",
+        "Pipal Hera",
+        "Kedi",
+        "Banti Khera",
+        "Butrara",
+        "Choonsa",
+        "Karoda Hathi",
+        "Babri"
+      ],
+      "keywords": [
+        "Babri",
+        "Vicinity",
+        "Locality"
+      ],
+      "id": "shamli_8"
+    },
+    {
+      "name": "Sonta Region",
+      "pincodes": [
+        251301
+      ],
+      "areas": [
+        "Sonta"
+      ],
+      "keywords": [
+        "Sonta",
+        "Region",
+        "Locality"
+      ],
+      "id": "shamli_9"
+    },
+    {
+      "name": "Bhanera Jat Area",
+      "pincodes": [
+        251319
+      ],
+      "areas": [
+        "Bhanera Jat",
+        "Bhajju"
+      ],
+      "keywords": [
+        "Bhanera Jat",
+        "Area",
+        "Locality"
+      ],
+      "id": "shamli_10"
+    },
+    {
+      "name": "Garhi and Surroundings",
+      "pincodes": [
+        247778
+      ],
+      "areas": [
+        "Garhi Abdulha Khan",
+        "Gagaur",
+        "Garhi Hasanpur",
+        "Hath Choya",
+        "Pindora",
+        "Shamli Shamla",
+        "Toda",
+        "Chausana",
+        "Mundet Khadar",
+        "Rangana",
+        "Un SO Muzaffarnagar"
+      ],
+      "keywords": [
+        "Garhi",
+        "Surroundings",
+        "Locality"
+      ],
+      "id": "shamli_11"
+    }
+  ]
+}

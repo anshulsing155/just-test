@@ -1,0 +1,471 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Budaun",
+  "city": "Budaun",
+  "summary": "",
+  "total_areas": 250,
+  "total_pincodes": 17,
+  "zones": [
+    {
+      "name": "Budaun City and Surroundings",
+      "pincodes": [
+        243601,
+        110025,
+        243601
+      ],
+      "areas": [
+        "Sakhanu",
+        "Budaun RS",
+        "Unola",
+        "Fatehpur",
+        "Noorpur",
+        "Chaudhary Sarai",
+        "Civil Lines",
+        "Patiali Sarai",
+        "Nauli Fatuhabad",
+        "Kurau",
+        "Bharkuian",
+        "Kudah Shahpur",
+        "Roop Pur",
+        "Singraura",
+        "Kandela",
+        "Qadarchawk",
+        "Shyam Nagar",
+        "Qazi Mohalla",
+        "Halwai Chawk",
+        "MN Sulra",
+        "Musajhag",
+        "Nizampur",
+        "Sakri Kasimpur",
+        "Asrasi",
+        "Ikri",
+        "Lahi Faridpur",
+        "Jakheli",
+        "Gurgaon",
+        "Lakhanpur",
+        "Kakora",
+        "Baburam Market",
+        "Station Road SO Budaun",
+        "BABA COLONY",
+        "Budaun",
+        "Barachirra",
+        "Mongar",
+        "Sirsa Dabrai",
+        "Naushera",
+        "Jagat",
+        "Jalalpur",
+        "Arifpur Nawada",
+        "Dugraiya",
+        "Gidhaul",
+        "Kumargaon",
+        "Katinna Barchau",
+        "Gauramai",
+        "MACHLAI",
+        "Ram Zanpur",
+        "Asis Berkhin",
+        "Budhwai",
+        "Sheikhupur BO Budaun",
+        "Sotha",
+        "Salarpur",
+        "Brahmpur SO Budaun",
+        "Abul Fazal EnclaveI",
+        "Budaun City"
+      ],
+      "keywords": [
+        "Budaun City",
+        "Civil Lines",
+        "Qadarchawk"
+      ],
+      "id": "budaun_1"
+    },
+    {
+      "name": "Samrer and Nearby",
+      "pincodes": [
+        243630
+      ],
+      "areas": [
+        "Jhuksa",
+        "Mehtabpur",
+        "Sukhaura",
+        "Bhatauli",
+        "Kama",
+        "Mailha",
+        "Sisaiya Gusain",
+        "Gularia",
+        "Gandah",
+        "Khukri",
+        "Sadullaganj",
+        "Samrer"
+      ],
+      "keywords": [
+        "Samrer",
+        "Jhuksa"
+      ],
+      "id": "budaun_2"
+    },
+    {
+      "name": "Allapur and Surroundings",
+      "pincodes": [
+        243631
+      ],
+      "areas": [
+        "Abhigaon",
+        "Miaoo",
+        "Allapur",
+        "Gauntra",
+        "Gura Barala",
+        "Mansanagla",
+        "Maraura",
+        "Chitaura",
+        "Naviganj",
+        "Ushawan"
+      ],
+      "keywords": [
+        "Allapur",
+        "Gauntra"
+      ],
+      "id": "budaun_3"
+    },
+    {
+      "name": "Faizganj Behta Cluster",
+      "pincodes": [
+        243632
+      ],
+      "areas": [
+        "Gangoli",
+        "Sangrampur",
+        "Sikri",
+        "Bhoor Bisauli",
+        "Faizganj Behta",
+        "Laxmipur",
+        "Nizamuddin Purshah",
+        "Manunagar",
+        "Sisaraka",
+        "Asafpur",
+        "Danbri",
+        "Mohkampur"
+      ],
+      "keywords": [
+        "Faizganj Behta",
+        "Asafpur"
+      ],
+      "id": "budaun_4"
+    },
+    {
+      "name": "Bilsi and Nearby",
+      "pincodes": [
+        243633
+      ],
+      "areas": [
+        "Nagarjhoona",
+        "Reonai",
+        "Sarup Pur",
+        "Simarra Bhojpur",
+        "Bans Barolia",
+        "Behta Gusain",
+        "Dudhauni",
+        "Khitaura",
+        "Mirzapura Sohra",
+        "Paharpur",
+        "Sarah Bagholi",
+        "Sirasaul",
+        "Bilsi",
+        "Gudhni",
+        "Sateti",
+        "Haibatpur",
+        "Mushepur",
+        "Parauli",
+        "Pindol",
+        "Sarah Barolia",
+        "Ambiapur",
+        "Bairmai Khurd",
+        "Naithuwa",
+        "Sirtaul"
+      ],
+      "keywords": [
+        "Bilsi",
+        "Ambiapur"
+      ],
+      "id": "budaun_5"
+    },
+    {
+      "name": "Binawar and Surroundings",
+      "pincodes": [
+        243634
+      ],
+      "areas": [
+        "Beor",
+        "Puthi Sarai",
+        "Binawar",
+        "Kartoli",
+        "Deorijeet",
+        "Bilhat",
+        "Rehma",
+        "Sikrauri"
+      ],
+      "keywords": [
+        "Binawar",
+        "Beor"
+      ],
+      "id": "budaun_6"
+    },
+    {
+      "name": "Dataganj and Nearby",
+      "pincodes": [
+        243635
+      ],
+      "areas": [
+        "Ghilaur",
+        "Hazratpur",
+        "Nauni",
+        "Nawada Madhukar",
+        "Karanpur",
+        "Bela Dandi",
+        "Bhau Nagla",
+        "Labhari",
+        "Pipla",
+        "Saijani",
+        "Azampur Bisaria",
+        "Manikapur Kaur",
+        "Dataganj",
+        "Chitri",
+        "Daharpur Kalan",
+        "Majhara",
+        "Palia Gujar",
+        "Papar Hamzapur",
+        "Prasidhpur",
+        "Puraini",
+        "Salempur",
+        "Baksena",
+        "Jamalpur",
+        "Mausampur",
+        "Nagaria Khanu",
+        "Sarai Piparia"
+      ],
+      "keywords": [
+        "Dataganj",
+        "Hazratpur"
+      ],
+      "id": "budaun_7"
+    },
+    {
+      "name": "Kachhla and Surroundings",
+      "pincodes": [
+        243636
+      ],
+      "areas": [
+        "Dehemu",
+        "Palia Pukhta",
+        "Pipraul Pukhta",
+        "Jeora Parwala",
+        "Sikandrabad",
+        "Bondri",
+        "Husainpur Pukhta",
+        "Nana Khera",
+        "Reonaiya",
+        "Bhoora Bhadraul",
+        "Kachhla"
+      ],
+      "keywords": [
+        "Kachhla",
+        "Sikandrabad"
+      ],
+      "id": "budaun_8"
+    },
+    {
+      "name": "Kakrala and Nearby",
+      "pincodes": [
+        243637
+      ],
+      "areas": [
+        "Mohammad Ganj",
+        "Kakrala",
+        "Gudhana",
+        "Katiyan"
+      ],
+      "keywords": [
+        "Kakrala",
+        "Mohammad Ganj"
+      ],
+      "id": "budaun_9"
+    },
+    {
+      "name": "Ujhani and Surroundings",
+      "pincodes": [
+        243639
+      ],
+      "areas": [
+        "Butla Daulat",
+        "Ujhani",
+        "Abdulla Ganj",
+        "Bamnausi",
+        "Barsua",
+        "Chhatuiya",
+        "Hazarat Ganj",
+        "Risauli",
+        "Sakri Jangal",
+        "Shahjadnagar",
+        "Basoma",
+        "Isapur Baheria",
+        "Rasoola",
+        "Sanjarpur Baljeet",
+        "Gathona",
+        "Pusgawan",
+        "Santigarh Ujhani",
+        "Garhi"
+      ],
+      "keywords": [
+        "Ujhani",
+        "Hazarat Ganj"
+      ],
+      "id": "budaun_10"
+    },
+    {
+      "name": "Katra Sadatganj Cluster",
+      "pincodes": [
+        243641
+      ],
+      "areas": [
+        "Bhundi",
+        "Rijola",
+        "Khera Jalalpur",
+        "Lilwan",
+        "Sareli Pukhta",
+        "Usehat",
+        "Katra Sadatganj"
+      ],
+      "keywords": [
+        "Katra Sadatganj",
+        "Usehat"
+      ],
+      "id": "budaun_11"
+    },
+    {
+      "name": "Bisauli and Nearby",
+      "pincodes": [
+        243720
+      ],
+      "areas": [
+        "Hatsa",
+        "Tara Pathakpur",
+        "Jasrathpur",
+        "Bhanpur",
+        "Mudia Dhuroki",
+        "Prithvipur",
+        "Dabtori",
+        "Khajuria",
+        "Parveznagar",
+        "Bisauli",
+        "Mohammad Pur Mai"
+      ],
+      "keywords": [
+        "Bisauli",
+        "Hatsa"
+      ],
+      "id": "budaun_12"
+    },
+    {
+      "name": "Islamnagar and Surroundings",
+      "pincodes": [
+        243723
+      ],
+      "areas": [
+        "Beor Kasimabad",
+        "Bhusaya",
+        "Nadha",
+        "Nagla Barah",
+        "Rajthal",
+        "Sitholi",
+        "Chandoi",
+        "Garikhanpur",
+        "Kotha",
+        "Surahi",
+        "Noorpur Pinoni",
+        "Danpur",
+        "Islamnagar",
+        "Allahpur Samaspur",
+        "Aslaur"
+      ],
+      "keywords": [
+        "Islamnagar",
+        "Danpur"
+      ],
+      "id": "budaun_13"
+    },
+    {
+      "name": "Ughaiti and Nearby",
+      "pincodes": [
+        243724
+      ],
+      "areas": [
+        "Chani",
+        "Mewali",
+        "Bhavipur",
+        "Saraira",
+        "Khandwa",
+        "Ughaiti",
+        "Gandhrauli",
+        "Ikh Khera",
+        "Kangawan gugau",
+        "Kariamai",
+        "Pipri Raghunathpur",
+        "Rudain"
+      ],
+      "keywords": [
+        "Ughaiti",
+        "Khandwa"
+      ],
+      "id": "budaun_14"
+    },
+    {
+      "name": "Saidpur and Surroundings",
+      "pincodes": [
+        243725
+      ],
+      "areas": [
+        "Katgaon",
+        "Khurampur Bhamori",
+        "Pepal",
+        "Agthra",
+        "Atarpura",
+        "Karkheri",
+        "Sigthara",
+        "Makrandpur",
+        "Nauli Harnathpur",
+        "Reharia",
+        "Urena",
+        "Bagrain",
+        "Saidpur SO Budaun"
+      ],
+      "keywords": [
+        "Saidpur",
+        "Katgaon"
+      ],
+      "id": "budaun_15"
+    },
+    {
+      "name": "Wazirganj and Nearby",
+      "pincodes": [
+        243726
+      ],
+      "areas": [
+        "Beoli",
+        "Rota",
+        "Sohi",
+        "Baror Amanullapur",
+        "Jinaura",
+        "Barategdar",
+        "Hatra",
+        "Wazirganj SO Budaun",
+        "Gotha",
+        "Sursena",
+        "Bankota"
+      ],
+      "keywords": [
+        "Wazirganj",
+        "Beoli"
+      ],
+      "id": "budaun_16"
+    }
+  ]
+}

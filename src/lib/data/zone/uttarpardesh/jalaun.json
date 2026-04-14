@@ -1,0 +1,474 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Jalaun",
+  "city": "Jalaun",
+  "summary": "",
+  "total_areas": 241,
+  "total_pincodes": 18,
+  "zones": [
+    {
+      "name": "Orai Town and Surroundings",
+      "pincodes": [
+        285001
+      ],
+      "areas": [
+        "Roora Addu",
+        "Baragaon",
+        "Aeir",
+        "Dhantauli",
+        "Dvc Road Orai",
+        "Orai Town",
+        "Rath Road Orai",
+        "Kukargaon",
+        "Timron",
+        "Kharra",
+        "Hardoi Guzar",
+        "Karmer",
+        "Shahjadpura",
+        "ORAI",
+        "Orai Kutchery",
+        "Dhanaura",
+        "Beerpura",
+        "Sihari Daoodpur",
+        "Mandri",
+        "Garhar",
+        "Imiliya",
+        "Rahiya",
+        "Chilli",
+        "Kharoosa",
+        "Kharka",
+        "Orai Railway Station",
+        "Nunsai"
+      ],
+      "keywords": [
+        "Orai",
+        "Town",
+        "Central"
+      ],
+      "id": "jalaun_1"
+    },
+    {
+      "name": "Rendhar and Nearby Villages",
+      "pincodes": [
+        285121
+      ],
+      "areas": [
+        "Garherna",
+        "Jugrajpura",
+        "Kuthonda",
+        "Parawar",
+        "Rendhar",
+        "Rura Sirsa",
+        "Kudaari",
+        "Sirsa Dogarhi",
+        "Ingui",
+        "Mijhauna",
+        "Sarr",
+        "Bangra",
+        "Naoli",
+        "Atagaon",
+        "Atarehati",
+        "Gopalpura",
+        "Manpura"
+      ],
+      "keywords": [
+        "Rendhar",
+        "Villages"
+      ],
+      "id": "jalaun_2"
+    },
+    {
+      "name": "Dakore and Surroundings",
+      "pincodes": [
+        285122
+      ],
+      "areas": [
+        "Bandhauli",
+        "Gurha",
+        "Jaisari Kalan",
+        "Mohana",
+        "Kusmiliya",
+        "Mohammedabad",
+        "Dakore"
+      ],
+      "keywords": [
+        "Dakore",
+        "Nearby"
+      ],
+      "id": "jalaun_3"
+    },
+    {
+      "name": "Jalaun Town and Vicinity",
+      "pincodes": [
+        285123
+      ],
+      "areas": [
+        "Atra Kalan",
+        "Chhiriya Salempur",
+        "Itahiya",
+        "Keolari",
+        "Khaksis",
+        "Kuthonda Buzurg",
+        "Musmariya",
+        "Sahav",
+        "Urgaon",
+        "Akorhi Dubey",
+        "Garhgawan",
+        "Lahchura",
+        "Salabad",
+        "Sarawan",
+        "Aurekhi",
+        "Jagnewa",
+        "Parwatpura",
+        "Sarsai",
+        "Sikri Raja",
+        "Jalaun Town",
+        "Amkhera",
+        "Atariya",
+        "Babai",
+        "Kusmara",
+        "Nadai",
+        "Pratappura",
+        "Churkhi",
+        "Chaki",
+        "Gadhela",
+        "Hatheri",
+        "Jalaun"
+      ],
+      "keywords": [
+        "Jalaun",
+        "Town"
+      ],
+      "id": "jalaun_4"
+    },
+    {
+      "name": "Jagammanpur and Nearby",
+      "pincodes": [
+        285124
+      ],
+      "areas": [
+        "Bilond",
+        "Lidaupur",
+        "Mai",
+        "Jaigha",
+        "Bahadurpur",
+        "Jagammanpur",
+        "Dhoota",
+        "Patrahi"
+      ],
+      "keywords": [
+        "Jagammanpur",
+        "Nearby"
+      ],
+      "id": "jalaun_5"
+    },
+    {
+      "name": "Rampura and Surroundings",
+      "pincodes": [
+        285125,
+        285127
+      ],
+      "areas": [
+        "Gora Rathor",
+        "Lohai",
+        "Sheikhpur Ahir",
+        "Waoli",
+        "Nahili",
+        "Shankarpur",
+        "Tikri",
+        "Daulatpur",
+        "Rampura Kirwaha",
+        "Romai Mustkil",
+        "Roora Jaitia",
+        "Kuthond",
+        "Pipri Gaharwar",
+        "Bhadeikh",
+        "Pachokhara",
+        "Uncha",
+        "Rudrapura",
+        "Sidhpura",
+        "Teehar",
+        "Naraul",
+        "Ninaoli",
+        "Rampura SO Jalaun"
+      ],
+      "keywords": [
+        "Rampura",
+        "Surroundings"
+      ],
+      "id": "jalaun_6"
+    },
+    {
+      "name": "Madhogarh and Nearby",
+      "pincodes": [
+        285126
+      ],
+      "areas": [
+        "Dhamna",
+        "Kailor",
+        "Madhogarh SO Jalaun",
+        "Chitaura",
+        "Sihari",
+        "Harauli",
+        "Kursenda",
+        "Ramhetpura"
+      ],
+      "keywords": [
+        "Madhogarh",
+        "Nearby"
+      ],
+      "id": "jalaun_7"
+    },
+    {
+      "name": "Madora and Surroundings",
+      "pincodes": [
+        285128
+      ],
+      "areas": [
+        "Gora Bhoopka",
+        "Kartalapur",
+        "Madori",
+        "Hadrukh",
+        "Sheikhpur Buzurg",
+        "Bhaoupura",
+        "Madora"
+      ],
+      "keywords": [
+        "Madora",
+        "Surroundings"
+      ],
+      "id": "jalaun_8"
+    },
+    {
+      "name": "Umri and Nearby",
+      "pincodes": [
+        285129
+      ],
+      "areas": [
+        "Ajeetapur",
+        "Gohan",
+        "Eeton",
+        "Majeeth",
+        "Nawar",
+        "Umri SO Jalaun"
+      ],
+      "keywords": [
+        "Umri",
+        "Nearby"
+      ],
+      "id": "jalaun_9"
+    },
+    {
+      "name": "Sirsa Kalar and Vicinity",
+      "pincodes": [
+        285130
+      ],
+      "areas": [
+        "Abhedepur",
+        "Jakha",
+        "Eekon",
+        "Simhara Kasimpur",
+        "Sirsa Kalar",
+        "Bichauli",
+        "Madaripur",
+        "Damras",
+        "Nipaniya",
+        "Pipri Athgaiyan"
+      ],
+      "keywords": [
+        "Sirsa Kalar",
+        "Vicinity"
+      ],
+      "id": "jalaun_10"
+    },
+    {
+      "name": "Ait and Surroundings",
+      "pincodes": [
+        285201
+      ],
+      "areas": [
+        "Bharsoonda",
+        "Bilayan",
+        "Birguwan Buzurg",
+        "Birguwan Khurd",
+        "Jamrohi Khurd",
+        "Pindari",
+        "Pirona",
+        "Somai",
+        "Chandurra",
+        "Ait",
+        "Akorhi",
+        "Basob",
+        "Dhagwan Kalan",
+        "Jakhauli",
+        "Birasni",
+        "Dhurat",
+        "Satoh"
+      ],
+      "keywords": [
+        "Ait",
+        "Surroundings"
+      ],
+      "id": "jalaun_11"
+    },
+    {
+      "name": "Itaura and Nearby",
+      "pincodes": [
+        285202
+      ],
+      "areas": [
+        "Itaura",
+        "Bhadreikhi",
+        "Chhonk",
+        "Piprayan",
+        "Shahjahanpur",
+        "Ata",
+        "Karamchandpur",
+        "Kurahna Alamgir",
+        "Parasan",
+        "Rirua",
+        "Sarsela",
+        "Chamari",
+        "Imiliya Buzurg",
+        "Sandhi",
+        "Masgaon",
+        "Usargaon"
+      ],
+      "keywords": [
+        "Itaura",
+        "Nearby"
+      ],
+      "id": "jalaun_12"
+    },
+    {
+      "name": "Baoni Estate and Surroundings",
+      "pincodes": [
+        285203
+      ],
+      "areas": [
+        "Babina",
+        "Harchandpur",
+        "Margayan",
+        "Alipur",
+        "Barkhera",
+        "Matra",
+        "Chatela",
+        "Lamsar",
+        "Baoni Estate",
+        "Bagi",
+        "Garrehi",
+        "Mawai Ahir",
+        "Udanpur",
+        "Bhendi"
+      ],
+      "keywords": [
+        "Baoni Estate",
+        "Surroundings"
+      ],
+      "id": "jalaun_13"
+    },
+    {
+      "name": "Kalpi and Vicinity",
+      "pincodes": [
+        285204
+      ],
+      "areas": [
+        "Mainupur",
+        "Nibahna",
+        "Mahewa",
+        "Gulaoli",
+        "Kalpi RS",
+        "Magraul",
+        "Bairai",
+        "Kashirampur",
+        "Kalpi"
+      ],
+      "keywords": [
+        "Kalpi",
+        "Vicinity"
+      ],
+      "id": "jalaun_14"
+    },
+    {
+      "name": "Konch and Surroundings",
+      "pincodes": [
+        285205
+      ],
+      "areas": [
+        "Bhend",
+        "Deogaon",
+        "Guraoti",
+        "Titra Khalilpur",
+        "Toomra",
+        "Kailiya",
+        "Diraoti",
+        "Kainth",
+        "Paniyara",
+        "Salaiyya Buzurg",
+        "Navin Mandi Konch",
+        "Baroda Kalan",
+        "Chamend",
+        "Jaganpura",
+        "Khutaila",
+        "Sadupura",
+        "Sunaya",
+        "Khanua",
+        "Kishunpura",
+        "Pachipuri",
+        "Konch SO Jalaun",
+        "Aknewa",
+        "Anda",
+        "Bhadari",
+        "Chhani",
+        "Jaitpura",
+        "Kanasi",
+        "Khairi",
+        "Sami",
+        "Konch Bazariya"
+      ],
+      "keywords": [
+        "Konch",
+        "Surroundings"
+      ],
+      "id": "jalaun_15"
+    },
+    {
+      "name": "Nadigaon and Nearby",
+      "pincodes": [
+        285206
+      ],
+      "areas": [
+        "Nadigaon",
+        "Gaindoli",
+        "Sajera",
+        "Baseeth",
+        "Ghillaur"
+      ],
+      "keywords": [
+        "Nadigaon",
+        "Nearby"
+      ],
+      "id": "jalaun_16"
+    },
+    {
+      "name": "Kotra and Surroundings",
+      "pincodes": [
+        285223
+      ],
+      "areas": [
+        "Binaura",
+        "Kurkuru",
+        "Said Nagar",
+        "Aindha",
+        "Kotra SO Jalaun",
+        "Barsar",
+        "Sikri Vyas"
+      ],
+      "keywords": [
+        "Kotra",
+        "Surroundings"
+      ],
+      "id": "jalaun_17"
+    }
+  ]
+}

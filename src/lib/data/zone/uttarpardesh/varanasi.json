@@ -1,0 +1,748 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Varanasi",
+  "city": "Varanasi",
+  "summary": "",
+  "total_areas": 262,
+  "total_pincodes": 37,
+  "zones": [
+    {
+      "name": "Chetganj and Surroundings",
+      "pincodes": [
+        221001
+      ],
+      "areas": [
+        "Chetganj",
+        "Kasi RS",
+        "Sarva Seva Sangh",
+        "Bengalitola",
+        "Hanumanghat",
+        "Mahamandal",
+        "Bunker Market",
+        "Jaitpura",
+        "Ramapura",
+        "Varanasi",
+        "Dasaswmedh",
+        "Gaighat",
+        "Hanuman Phathak",
+        "Shivala",
+        "Varanasi City",
+        "Iswargangi",
+        "Kabirchaura",
+        "Kashi Viswnath Mandir",
+        "Kedarghat",
+        "Madanpura",
+        "Rani Bhawani Katra",
+        "Vijay Sirohi Nagar"
+      ],
+      "keywords": [
+        "Chetganj",
+        "Kashi",
+        "Varanasi City"
+      ],
+      "id": "varanasi_1"
+    },
+    {
+      "name": "Varanasi Cantt and Ardely Bazar",
+      "pincodes": [
+        221002
+      ],
+      "areas": [
+        "Ardely Bazar",
+        "Drmo",
+        "Varanasi Cantt",
+        "Khajuri SO Varanasi",
+        "Telibagh",
+        "UP Collage",
+        "Jawahar Nagar SO Varanasi",
+        "Kashi Vidhya Pith",
+        "SVV",
+        "Vsi Kutchhery",
+        "39 Gtd"
+      ],
+      "keywords": [
+        "Cantt",
+        "Ardely Bazar"
+      ],
+      "id": "varanasi_2"
+    },
+    {
+      "name": "Shivpur and Chamaon",
+      "pincodes": [
+        221003
+      ],
+      "areas": [
+        "Chamaon",
+        "Pisaur",
+        "Sarsawan",
+        "Christ Nagar",
+        "VARANASI SHIVPUR",
+        "Chandmari"
+      ],
+      "keywords": [
+        "Shivpur",
+        "Chamaon"
+      ],
+      "id": "varanasi_3"
+    },
+    {
+      "name": "DLW and West Colony",
+      "pincodes": [
+        221004
+      ],
+      "areas": [
+        "DLW",
+        "West Colony"
+      ],
+      "keywords": [
+        "DLW",
+        "West Colony"
+      ],
+      "id": "varanasi_4"
+    },
+    {
+      "name": "BHU and Assi",
+      "pincodes": [
+        221005
+      ],
+      "areas": [
+        "Durgakund",
+        "Hindu Vishwa Vidhyalaya",
+        "Sunderpur",
+        "Assi",
+        "Bhagwanpur",
+        "Garwasi Toal",
+        "Bhu H",
+        "Lanka",
+        "Malviya Nagar"
+      ],
+      "keywords": [
+        "BHU",
+        "Assi",
+        "Lanka"
+      ],
+      "id": "varanasi_5"
+    },
+    {
+      "name": "Babatpur and Surroundings",
+      "pincodes": [
+        221006
+      ],
+      "areas": [
+        "Pure Raghunathpur",
+        "Babatpur Ad",
+        "Kaithauli"
+      ],
+      "keywords": [
+        "Babatpur"
+      ],
+      "id": "varanasi_6"
+    },
+    {
+      "name": "Sarnath and Pahariya",
+      "pincodes": [
+        221007
+      ],
+      "areas": [
+        "Konia",
+        "Rasoolgarh",
+        "Ashapur",
+        "Sathwa",
+        "Sultanpur",
+        "Tapowanashram",
+        "Pahariya Mandi",
+        "Sarnath",
+        "Ledhupur",
+        "Lamahi"
+      ],
+      "keywords": [
+        "Sarnath",
+        "Pahariya"
+      ],
+      "id": "varanasi_7"
+    },
+    {
+      "name": "Ramnagar and Kateshar",
+      "pincodes": [
+        221008
+      ],
+      "areas": [
+        "Ram Nagar Pac",
+        "Kateshar",
+        "Ramnagar SO Varanasi"
+      ],
+      "keywords": [
+        "Ramnagar",
+        "Kateshar"
+      ],
+      "id": "varanasi_8"
+    },
+    {
+      "name": "Sigra and Mahmoorganj",
+      "pincodes": [
+        221010
+      ],
+      "areas": [
+        "Aurangabad SO Varanasi",
+        "Bhelupura",
+        "Mahmoorganj",
+        "Gdk",
+        "Luxa",
+        "Kamachha",
+        "Khojwa Bazar",
+        "Nagar Maha Palika",
+        "Belpco",
+        "HPS",
+        "Sigra"
+      ],
+      "keywords": [
+        "Sigra",
+        "Mahmoorganj"
+      ],
+      "id": "varanasi_9"
+    },
+    {
+      "name": "Susuwahi and Ramna",
+      "pincodes": [
+        221011
+      ],
+      "areas": [
+        "Kurahuwan",
+        "Seergoverdhan",
+        "Naipurakhurd",
+        "Susuwahi",
+        "Bachhaon",
+        "Ramna",
+        "Tikari",
+        "AKHARI",
+        "Dafi"
+      ],
+      "keywords": [
+        "Susuwahi",
+        "Ramna"
+      ],
+      "id": "varanasi_10"
+    },
+    {
+      "name": "Awadhoot Bhagwan Ram Kusth Seva Ashram",
+      "pincodes": [
+        221012
+      ],
+      "areas": [
+        "Awadhoot Bhagwan Ram Kusth Seva Ashram"
+      ],
+      "keywords": [
+        "Awadhoot Ashram"
+      ],
+      "id": "varanasi_11"
+    },
+    {
+      "name": "Chaubepur and Surroundings",
+      "pincodes": [
+        221101
+      ],
+      "areas": [
+        "Amarpatti",
+        "Chaubepurkhurd",
+        "Hathiyarkalan",
+        "Katari",
+        "Rajapur",
+        "Saraiya No1",
+        "Kaithaur",
+        "Kohashi",
+        "Lakhanpur",
+        "Udaipur",
+        "Ajgara",
+        "Bhadawan",
+        "Jaimohini Posta",
+        "Gosaipurmohawn",
+        "Sultanipur",
+        "Tewar",
+        "Cholapur",
+        "Babiaon",
+        "Bela",
+        "Niyar",
+        "Singhpur",
+        "Bathauli",
+        "Laskarpur"
+      ],
+      "keywords": [
+        "Chaubepur",
+        "Ajgara"
+      ],
+      "id": "varanasi_12"
+    },
+    {
+      "name": "Manduadih",
+      "pincodes": [
+        221103
+      ],
+      "areas": [
+        "Manduadih"
+      ],
+      "keywords": [
+        "Manduadih"
+      ],
+      "id": "varanasi_13"
+    },
+    {
+      "name": "Tiwaripur and Narainpur",
+      "pincodes": [
+        221104
+      ],
+      "areas": [
+        "Luthakalan",
+        "Tiwaripur",
+        "Barthara Khurd",
+        "Jalhupur",
+        "Khetalpur",
+        "Narainpur",
+        "Gobraha",
+        "Moonari",
+        "Chaubeypur",
+        "Chhitauni",
+        "Dhaurahara",
+        "Ramchandipur",
+        "Shivdasa",
+        "Amauli",
+        "Ambba",
+        "Bartharakalan",
+        "Hariadih",
+        "Mustafabad",
+        "Pachraon",
+        "Piyari",
+        "Ukathi"
+      ],
+      "keywords": [
+        "Tiwaripur",
+        "Narainpur"
+      ],
+      "id": "varanasi_14"
+    },
+    {
+      "name": "Harhua and Jamalpur",
+      "pincodes": [
+        221105
+      ],
+      "areas": [
+        "Birapatti",
+        "Ghamahapur",
+        "Jamalpur",
+        "Kotwa Koraut",
+        "Harhua",
+        "Kajisarai"
+      ],
+      "keywords": [
+        "Harhua",
+        "Jamalpur"
+      ],
+      "id": "varanasi_15"
+    },
+    {
+      "name": "Industrial Estate and Bazardiha",
+      "pincodes": [
+        221106
+      ],
+      "areas": [
+        "Kandawa",
+        "Bazardiha",
+        "Phulawaria",
+        "Industrial Estate Varanasi"
+      ],
+      "keywords": [
+        "Industrial Estate",
+        "Bazardiha"
+      ],
+      "id": "varanasi_16"
+    },
+    {
+      "name": "Lohta and Koruta Bazar",
+      "pincodes": [
+        221107
+      ],
+      "areas": [
+        "Koruta Bazar",
+        "Mangalpur",
+        "Lohta"
+      ],
+      "keywords": [
+        "Lohta",
+        "Koruta Bazar"
+      ],
+      "id": "varanasi_17"
+    },
+    {
+      "name": "Bhulanpur and Rohana",
+      "pincodes": [
+        221108
+      ],
+      "areas": [
+        "Bhulanpur Pac",
+        "Rohana"
+      ],
+      "keywords": [
+        "Bhulanpur",
+        "Rohana"
+      ],
+      "id": "varanasi_18"
+    },
+    {
+      "name": "Jayapur",
+      "pincodes": [
+        221109
+      ],
+      "areas": [
+        "Jayapur SO Varanasi"
+      ],
+      "keywords": [
+        "Jayapur"
+      ],
+      "id": "varanasi_19"
+    },
+    {
+      "name": "Danganj Bazar",
+      "pincodes": [
+        221111
+      ],
+      "areas": [
+        "Danganj Bazar"
+      ],
+      "keywords": [
+        "Danganj Bazar"
+      ],
+      "id": "varanasi_20"
+    },
+    {
+      "name": "Chiraigaon and Bariyasanpur",
+      "pincodes": [
+        221112
+      ],
+      "areas": [
+        "Bariyasanpur",
+        "Shankerpur",
+        "Kamauli",
+        "Barain",
+        "Saraimohana",
+        "Umrahan",
+        "CHIRAIGAON"
+      ],
+      "keywords": [
+        "Chiraigaon",
+        "Bariyasanpur"
+      ],
+      "id": "varanasi_21"
+    },
+    {
+      "name": "Kaithi and Rajwari",
+      "pincodes": [
+        221116
+      ],
+      "areas": [
+        "Kaithi",
+        "Srikanthpur",
+        "Tekuri",
+        "Rajwari",
+        "Chandrawati"
+      ],
+      "keywords": [
+        "Kaithi",
+        "Rajwari"
+      ],
+      "id": "varanasi_22"
+    },
+    {
+      "name": "Akorha and Balua Gajapur",
+      "pincodes": [
+        221201
+      ],
+      "areas": [
+        "Akorha",
+        "Balua Gajapur",
+        "Sisawan",
+        "Kharawan",
+        "Kuru",
+        "Anai",
+        "Bhonda",
+        "Danupur",
+        "Hasanpur Biraon",
+        "Madhumakhiya"
+      ],
+      "keywords": [
+        "Akorha",
+        "Balua Gajapur"
+      ],
+      "id": "varanasi_23"
+    },
+    {
+      "name": "Shivrampur and Mangari",
+      "pincodes": [
+        221202
+      ],
+      "areas": [
+        "Shivrampur",
+        "Mangari",
+        "Jagdishpur",
+        "Bhopapur",
+        "Murdaha Bazar",
+        "Ayar",
+        "Nahiyan",
+        "Puarikalan",
+        "Odar",
+        "Rajpur"
+      ],
+      "keywords": [
+        "Shivrampur",
+        "Mangari"
+      ],
+      "id": "varanasi_24"
+    },
+    {
+      "name": "Baragaon and Basani",
+      "pincodes": [
+        221204
+      ],
+      "areas": [
+        "Basani",
+        "Chiurapur",
+        "Ramapur Hathiwar",
+        "Kuar",
+        "Kundi",
+        "Rasoolpur",
+        "Baragaon SO Varanasi",
+        "Deochandpur",
+        "Kaniyar",
+        "Khataura"
+      ],
+      "keywords": [
+        "Baragaon",
+        "Basani"
+      ],
+      "id": "varanasi_25"
+    },
+    {
+      "name": "Pindra and Khalispur",
+      "pincodes": [
+        221206
+      ],
+      "areas": [
+        "Jhanjhaur",
+        "Kanakpur",
+        "Khalispur",
+        "Surahi",
+        "Pindarai",
+        "Belwan",
+        "Karkhiaon",
+        "Phoolpur",
+        "Parsara",
+        "Pindra"
+      ],
+      "keywords": [
+        "Pindra",
+        "Khalispur"
+      ],
+      "id": "varanasi_26"
+    },
+    {
+      "name": "Kathiraon and Nayepur",
+      "pincodes": [
+        221207
+      ],
+      "areas": [
+        "Nayepur Chaumuhani",
+        "Tari",
+        "Thaney Rampur",
+        "Kathiraon",
+        "Dabethuwa",
+        "Barahi Newada"
+      ],
+      "keywords": [
+        "Kathiraon",
+        "Nayepur"
+      ],
+      "id": "varanasi_27"
+    },
+    {
+      "name": "Sindhora and Garkhara",
+      "pincodes": [
+        221208
+      ],
+      "areas": [
+        "Sindhora",
+        "Garkhara",
+        "Hiramanpur",
+        "Palahipatti",
+        "Rupchandpur",
+        "Sehamalpur",
+        "Garthama",
+        "Katuna"
+      ],
+      "keywords": [
+        "Sindhora",
+        "Garkhara"
+      ],
+      "id": "varanasi_28"
+    },
+    {
+      "name": "Gangapur and Jagatpur",
+      "pincodes": [
+        221302
+      ],
+      "areas": [
+        "Gangapur Varanasi",
+        "Harshosh",
+        "Jagatpur",
+        "Sajoi",
+        "Sarauni"
+      ],
+      "keywords": [
+        "Gangapur",
+        "Jagatpur"
+      ],
+      "id": "varanasi_29"
+    },
+    {
+      "name": "Shahanshahpur and Marui",
+      "pincodes": [
+        221305
+      ],
+      "areas": [
+        "Marui",
+        "Paniyara",
+        "Shahanshahpur",
+        "Dhandhorpur",
+        "Jakhini"
+      ],
+      "keywords": [
+        "Shahanshahpur",
+        "Marui"
+      ],
+      "id": "varanasi_30"
+    },
+    {
+      "name": "Mirzamurad and Kardhana",
+      "pincodes": [
+        221307
+      ],
+      "areas": [
+        "Mankaiya",
+        "Kardhana",
+        "Mirzamurad",
+        "Benipur Kundariya",
+        "Gorai"
+      ],
+      "keywords": [
+        "Mirzamurad",
+        "Kardhana"
+      ],
+      "id": "varanasi_31"
+    },
+    {
+      "name": "Rajatalab and Mohansarai",
+      "pincodes": [
+        221311
+      ],
+      "areas": [
+        "Birbhanpur",
+        "Kashipur",
+        "Mahgaon",
+        "Mehandiganj",
+        "Mohansarai",
+        "Babhaniaon",
+        "Rajatalab"
+      ],
+      "keywords": [
+        "Rajatalab",
+        "Mohansarai"
+      ],
+      "id": "varanasi_32"
+    },
+    {
+      "name": "Kachhwa Road and Khochawan",
+      "pincodes": [
+        221313
+      ],
+      "areas": [
+        "Khochawan",
+        "Domaila",
+        "Thathara",
+        "Kachhwa Road"
+      ],
+      "keywords": [
+        "Kachhwa Road",
+        "Khochawan"
+      ],
+      "id": "varanasi_33"
+    },
+    {
+      "name": "Sewapuri and Kapsethi",
+      "pincodes": [
+        221403
+      ],
+      "areas": [
+        "Banakat",
+        "Bhikhampur",
+        "Kapsethi",
+        "Sakalpur",
+        "Ramdih",
+        "Sewapuri",
+        "Bhitkuri",
+        "Kalikabara",
+        "Barki",
+        "Raghupur",
+        "Sikhari Barki"
+      ],
+      "keywords": [
+        "Sewapuri",
+        "Kapsethi"
+      ],
+      "id": "varanasi_34"
+    },
+    {
+      "name": "Jansa Bazar and Hariharpur",
+      "pincodes": [
+        221405
+      ],
+      "areas": [
+        "Hariharpur",
+        "Rameswar",
+        "Khewali",
+        "Daipur",
+        "Raisipur",
+        "Hathi Bazar",
+        "Basantpur",
+        "Jansa Bazar"
+      ],
+      "keywords": [
+        "Jansa Bazar",
+        "Hariharpur"
+      ],
+      "id": "varanasi_35"
+    },
+    {
+      "name": "NDC Varanasi",
+      "pincodes": [
+        221407
+      ],
+      "areas": [
+        "NDC Varanasi"
+      ],
+      "keywords": [
+        "NDC Varanasi"
+      ],
+      "id": "varanasi_36"
+    },
+    {
+      "name": "Chahania",
+      "pincodes": [
+        232114
+      ],
+      "areas": [
+        "Chahania"
+      ],
+      "keywords": [
+        "Chahania"
+      ],
+      "id": "varanasi_37"
+    }
+  ]
+}

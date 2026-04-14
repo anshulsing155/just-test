@@ -1,0 +1,536 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Fatehpur",
+  "city": "Fatehpur",
+  "summary": "",
+  "total_areas": 256,
+  "total_pincodes": 23,
+  "zones": [
+    {
+      "name": "Fatehpur City",
+      "pincodes": [
+        212601,
+        212650
+      ],
+      "areas": [
+        "Hariharganj",
+        "Dhakauli",
+        "Beragarhiwa",
+        "Banarsi",
+        "Bilandpur",
+        "Damapur",
+        "Sangaon",
+        "Korai",
+        "Baranpur",
+        "Ramwan",
+        "Ayah",
+        "Fatehpur",
+        "Shah",
+        "Churiyani",
+        "Umari",
+        "Fatehpur Court",
+        "Meoli",
+        "BHITAURA",
+        "Teliyani",
+        "Kandhi",
+        "Chandiyana",
+        "Fatehpur City",
+        "Fatehpur Town",
+        "Nizamuddinpur",
+        "Yauhan",
+        "Karmon",
+        "Amilihapal",
+        "Hasaupur",
+        "Salempur",
+        "Gaura Bujurg",
+        "Chheolaha"
+      ],
+      "keywords": [
+        "Fatehpur",
+        "City Center",
+        "Court"
+      ],
+      "id": "fatehpur_1"
+    },
+    {
+      "name": "Bindki",
+      "pincodes": [
+        212635
+      ],
+      "areas": [
+        "Mandraon",
+        "Alamganj",
+        "Chhichha",
+        "Deegh",
+        "Jafrabad",
+        "Jonihan",
+        "Bindki",
+        "Purani Bindki",
+        "Lalpur",
+        "Khunta",
+        "Mahraha"
+      ],
+      "keywords": [
+        "Bindki",
+        "Purani Bindki"
+      ],
+      "id": "fatehpur_2"
+    },
+    {
+      "name": "Khaga",
+      "pincodes": [
+        212655
+      ],
+      "areas": [
+        "Budwan",
+        "Chitauli",
+        "Kumbhipur",
+        "Tyonja",
+        "Khaga",
+        "Khaga Town",
+        "Alampur Giriya",
+        "Baswa",
+        "Kharai",
+        "Pauli",
+        "Ukathu",
+        "Ailai",
+        "Amaon",
+        "Hardon",
+        "Kasba Sohan",
+        "Purain",
+        "Tesahi Bujurg",
+        "Vijaeepur",
+        "Bhakharana",
+        "Fatehpur Tekari",
+        "Katoghan",
+        "Silmi",
+        "Teni"
+      ],
+      "keywords": [
+        "Khaga",
+        "Town"
+      ],
+      "id": "fatehpur_3"
+    },
+    {
+      "name": "Malwan",
+      "pincodes": [
+        212664
+      ],
+      "areas": [
+        "Chakhendi",
+        "Bhadba",
+        "Dawatpur",
+        "Rari Bujurg",
+        "Sarai Shahjada",
+        "Ashok Nagar Bharsawan",
+        "Guneer",
+        "Kotiya",
+        "Tarapur",
+        "Malwan RS",
+        "Malwan Town",
+        "Kalyanpur",
+        "Rewari Bujurg"
+      ],
+      "keywords": [
+        "Malwan",
+        "Town"
+      ],
+      "id": "fatehpur_4"
+    },
+    {
+      "name": "Husainganj",
+      "pincodes": [
+        212651
+      ],
+      "areas": [
+        "Chitishapur",
+        "Mawai",
+        "Asani",
+        "Farshi",
+        "Husainganj SO Fatehpur",
+        "Ahewa",
+        "Maujmabad"
+      ],
+      "keywords": [
+        "Husainganj"
+      ],
+      "id": "fatehpur_5"
+    },
+    {
+      "name": "Kishanpur",
+      "pincodes": [
+        212658
+      ],
+      "areas": [
+        "Ekdala",
+        "Kishanpur SO Fatehpur",
+        "Paharpur",
+        "Narauli",
+        "Sarauli",
+        "Beonti",
+        "Chandapur",
+        "Garha",
+        "Malookbari",
+        "Raipur Bhasraul",
+        "Rari",
+        "Sarkandi",
+        "Anjana Bhairaon"
+      ],
+      "keywords": [
+        "Kishanpur"
+      ],
+      "id": "fatehpur_6"
+    },
+    {
+      "name": "Lalauli",
+      "pincodes": [
+        212661
+      ],
+      "areas": [
+        "Gauri",
+        "Ajamatpur",
+        "Lalauli",
+        "Korra Kanak",
+        "Mahana",
+        "Arhawal",
+        "Mahakhera"
+      ],
+      "keywords": [
+        "Lalauli"
+      ],
+      "id": "fatehpur_7"
+    },
+    {
+      "name": "Bahua",
+      "pincodes": [
+        212663
+      ],
+      "areas": [
+        "Datauli",
+        "Sidhaon",
+        "Chakas Karan",
+        "Tapani",
+        "Baragaon",
+        "Saibasi",
+        "Bahua",
+        "Muttaur",
+        "Dugrai",
+        "Ladigaon"
+      ],
+      "keywords": [
+        "Bahua"
+      ],
+      "id": "fatehpur_8"
+    },
+    {
+      "name": "Aung",
+      "pincodes": [
+        212665
+      ],
+      "areas": [
+        "Korsam",
+        "Mirai",
+        "Sheorajpur",
+        "Aung",
+        "Padhara",
+        "Shadipur",
+        "Mauhar",
+        "Abhaipur",
+        "Gugauli",
+        "Khadra",
+        "Madokipur"
+      ],
+      "keywords": [
+        "Aung"
+      ],
+      "id": "fatehpur_9"
+    },
+    {
+      "name": "Dhata",
+      "pincodes": [
+        212641
+      ],
+      "areas": [
+        "Belain",
+        "Arhauli",
+        "Bamharauli",
+        "Devrar",
+        "Jam",
+        "Kalyanpur Kachrauli",
+        "Dampur",
+        "Kharsendwa",
+        "Narsinghpur Kabraha",
+        "Ahmadpur Kusumbha",
+        "Pallawan",
+        "Dhata"
+      ],
+      "keywords": [
+        "Dhata"
+      ],
+      "id": "fatehpur_10"
+    },
+    {
+      "name": "Asother",
+      "pincodes": [
+        212620
+      ],
+      "areas": [
+        "Ainjhi",
+        "Andipur",
+        "Berui",
+        "Kandhiya",
+        "Berraon",
+        "Jarauli",
+        "Kaundar",
+        "Manawan",
+        "Ram Nagar Kauhan",
+        "Tikar",
+        "Rithwan Bhairwan",
+        "Asother"
+      ],
+      "keywords": [
+        "Asother"
+      ],
+      "id": "fatehpur_11"
+    },
+    {
+      "name": "Ghazipur",
+      "pincodes": [
+        212621
+      ],
+      "areas": [
+        "Budhramau",
+        "Chhichhni",
+        "Gambhari",
+        "Mawaiya",
+        "Pamrauli",
+        "Suketi",
+        "Ghazipur SO Fatehpur",
+        "Paina Khurd",
+        "Shankha",
+        "Deolan",
+        "Khesahan",
+        "Kusumbhi",
+        "Lamehata",
+        "Sewramau",
+        "Laugaon",
+        "Sarkee"
+      ],
+      "keywords": [
+        "Ghazipur"
+      ],
+      "id": "fatehpur_12"
+    },
+    {
+      "name": "Thariyaon",
+      "pincodes": [
+        212622
+      ],
+      "areas": [
+        "Manda Sarai",
+        "Muraon",
+        "Bahrampur",
+        "Chak Korra Sadat",
+        "Khas Mau",
+        "Naraini",
+        "Thariyaon",
+        "Dharmpur Saton",
+        "Sahjahanpur Selraha",
+        "Sawant",
+        "Aurai",
+        "Ghoori Bujurg",
+        "Malaon"
+      ],
+      "keywords": [
+        "Thariyaon"
+      ],
+      "id": "fatehpur_13"
+    },
+    {
+      "name": "Amauli",
+      "pincodes": [
+        212631
+      ],
+      "areas": [
+        "Kaunh",
+        "Makarandpur",
+        "Dayalnagar",
+        "Dapsaura",
+        "Dhamina Khurd",
+        "Gaura",
+        "Gauri Aura",
+        "Rithwa Awajipur",
+        "Burhwan",
+        "Chandpur",
+        "Badanpur",
+        "Amauli",
+        "Gohrari",
+        "Salhepur"
+      ],
+      "keywords": [
+        "Amauli"
+      ],
+      "id": "fatehpur_14"
+    },
+    {
+      "name": "Hathgaon",
+      "pincodes": [
+        212652
+      ],
+      "areas": [
+        "Kaseruwa",
+        "Mohamdabad",
+        "Saraisaba",
+        "Hathgaon",
+        "Itaily",
+        "Paigamberpur",
+        "Raipur Muwari",
+        "Shahpur",
+        "Patti",
+        "Semramanapur",
+        "Sithaura",
+        "Bandipur",
+        "KKasimpur"
+      ],
+      "keywords": [
+        "Hathgaon"
+      ],
+      "id": "fatehpur_15"
+    },
+    {
+      "name": "Sultanpur Ghosh",
+      "pincodes": [
+        212653
+      ],
+      "areas": [
+        "MPGaunti",
+        "Ijura Bujurg",
+        "Sultanpurghosh",
+        "Afoi",
+        "Allipur",
+        "Baigaon",
+        "Mandwan",
+        "Erayan"
+      ],
+      "keywords": [
+        "Sultanpur Ghosh"
+      ],
+      "id": "fatehpur_16"
+    },
+    {
+      "name": "Kishandaspur",
+      "pincodes": [
+        212654
+      ],
+      "areas": [
+        "Kishandaspur",
+        "Jamraon",
+        "Naugaon"
+      ],
+      "keywords": [
+        "Kishandaspur"
+      ],
+      "id": "fatehpur_17"
+    },
+    {
+      "name": "Khakhreru",
+      "pincodes": [
+        212656
+      ],
+      "areas": [
+        "Baraipur",
+        "Jahangirnagar Gahura",
+        "Saidpur Pachmai",
+        "Dendasai",
+        "Gharwasipur",
+        "Kulli",
+        "Khakhreru",
+        "Arhaiya",
+        "Jairampur",
+        "Kot",
+        "Sothrapur"
+      ],
+      "keywords": [
+        "Khakhreru"
+      ],
+      "id": "fatehpur_18"
+    },
+    {
+      "name": "Bakewar",
+      "pincodes": [
+        212657
+      ],
+      "areas": [
+        "Basant Khera",
+        "Deori Bujurg",
+        "Missi",
+        "Bakewar Sarai",
+        "Naraicha",
+        "Bara",
+        "Barigawan",
+        "Bijauli",
+        "Deomai",
+        "Digharua",
+        "Jafarganj",
+        "Sultangarh",
+        "Bhaisauli",
+        "Bijuri",
+        "Khotila Sijauli",
+        "Musafa",
+        "Selawan",
+        "Khajuha"
+      ],
+      "keywords": [
+        "Bakewar"
+      ],
+      "id": "fatehpur_19"
+    },
+    {
+      "name": "Kora Jahanabad",
+      "pincodes": [
+        212659
+      ],
+      "areas": [
+        "Alampur",
+        "Kalana",
+        "Kapil Kalan",
+        "Kora Jahanabad",
+        "Banthara"
+      ],
+      "keywords": [
+        "Kora Jahanabad"
+      ],
+      "id": "fatehpur_20"
+    },
+    {
+      "name": "Haswa",
+      "pincodes": [
+        212645
+      ],
+      "areas": [
+        "Bilanda",
+        "Lateefpur",
+        "Mahoi",
+        "Haswa"
+      ],
+      "keywords": [
+        "Haswa"
+      ],
+      "id": "fatehpur_21"
+    },
+    {
+      "name": "Kanpur",
+      "pincodes": [
+        208001
+      ],
+      "areas": [
+        "Kanpur"
+      ],
+      "keywords": [
+        "Kanpur"
+      ],
+      "id": "fatehpur_22"
+    }
+  ]
+}

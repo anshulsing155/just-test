@@ -1,0 +1,774 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Gorakhpur",
+  "city": "Gorakhpur",
+  "summary": "",
+  "total_areas": 406,
+  "total_pincodes": 43,
+  "zones": [
+    {
+      "name": "Gorakhpur Central",
+      "pincodes": [
+        273001,
+        273003,
+        273004,
+        273005,
+        273006,
+        273009,
+        273011
+      ],
+      "areas": [
+        "Jafra Bazar",
+        "Civil Court SO Gorakhpur",
+        "Gorakhpur",
+        "Alinagar",
+        "Betia Hata",
+        "Daudpur",
+        "Ilahibagh",
+        "Allahadadpur",
+        "Golghar",
+        "Gorakhpur Kutchery",
+        "Bank Road SO Gorakhpur",
+        "Buxipur",
+        "Dharamshala",
+        "Kazipur Kalan",
+        "Labour Camp",
+        "NDC Gorakhpur",
+        "Arogyamandir",
+        "Basharatpur",
+        "Ashok Nagar SO Gorakhpur",
+        "Rajghat",
+        "Urdu Bazar",
+        "Gita Press",
+        "Turkmanpur",
+        "Gita Vatika",
+        "Gorakhpur University",
+        "NDC GORAKHPUR"
+      ],
+      "keywords": [
+        "Central",
+        "Downtown",
+        "Main City"
+      ],
+      "id": "gorakhpur_1"
+    },
+    {
+      "name": "Jungle Area",
+      "pincodes": [
+        273007,
+        273010,
+        273013,
+        273014
+      ],
+      "areas": [
+        "Lachchipur",
+        "Fertilizer Factory",
+        "Jangle Beni Madho",
+        "Balapar",
+        "Jungle Kauria",
+        "Parmeshwar Pur",
+        "Maina Bhagar",
+        "Maniram",
+        "Mirpur",
+        "Rampurgopalpur",
+        "Sihorwa",
+        "Jungle Chauri",
+        "M.M.M.E.College",
+        "Raiganj",
+        "Khorabar",
+        "Chargawan",
+        "Jungle Ayodhya Prasad",
+        "Jungle Aurahi",
+        "Jhungia Bazar",
+        "Gulhariya",
+        "BRD Medical College",
+        "Pac Camp",
+        "Jungle Laxmipur",
+        "Jungle Saligram",
+        "Jungle Dhushar",
+        "Jungle Tulshiram"
+      ],
+      "keywords": [
+        "Jungle",
+        "Outskirts",
+        "Suburban"
+      ],
+      "id": "gorakhpur_2"
+    },
+    {
+      "name": "Gorakhnath Area",
+      "pincodes": [
+        273015,
+        273008
+      ],
+      "areas": [
+        "Gorakhnath Mandir",
+        "Dohariya Bazar",
+        "Jatepur North",
+        "Jagatbela",
+        "Manjharia",
+        "SURAJKUND COLONY",
+        "Kunraghat",
+        "Mohaddipur S.O Gorakhpur"
+      ],
+      "keywords": [
+        "Gorakhnath",
+        "Temple Area"
+      ],
+      "id": "gorakhpur_3"
+    },
+    {
+      "name": "Northern Gorakhpur",
+      "pincodes": [
+        273002,
+        273012,
+        273016
+      ],
+      "areas": [
+        "Baraipur",
+        "Jagdishpur",
+        "Kusumhi Bazar",
+        "A.P.Station",
+        "Rajahi Camp",
+        "Sihoria",
+        "Jungle Ramgarh",
+        "Gopalpur",
+        "Sonbarsa Bazar",
+        "GR Railway Station",
+        "Loco Workshop LSG",
+        "Railway Colony SO Gorakhpur",
+        "Chapiya",
+        "Lahsari",
+        "Lalpur Tikar",
+        "Nauwa Awal",
+        "Shivpurinewcolony",
+        "Davarpar",
+        "Bahrampur",
+        "Bargo",
+        "Mirzapur Bazar",
+        "Nausar",
+        "Rampur"
+      ],
+      "keywords": [
+        "Northern",
+        "Railway",
+        "Industrial"
+      ],
+      "id": "gorakhpur_4"
+    },
+    {
+      "name": "Siddharth Enclave",
+      "pincodes": [
+        273017
+      ],
+      "areas": [
+        "Siddharth Enclave"
+      ],
+      "keywords": [
+        "Enclave",
+        "Residential"
+      ],
+      "id": "gorakhpur_5"
+    },
+    {
+      "name": "Pipraich Region",
+      "pincodes": [
+        273152,
+        273155
+      ],
+      "areas": [
+        "Parasurampur",
+        "Hemdhapur",
+        "Unaula",
+        "Pipraich",
+        "Luhasi",
+        "Belakanta",
+        "Naiyapar Khurd",
+        "Patra Bazar",
+        "Karimnagar",
+        "Bankata",
+        "Indrapur",
+        "Mohammadpur Hagana",
+        "Sarpataha",
+        "Machhaligaon"
+      ],
+      "keywords": [
+        "Pipraich",
+        "Rural"
+      ],
+      "id": "gorakhpur_6"
+    },
+    {
+      "name": "Campierganj Area",
+      "pincodes": [
+        273158,
+        273161
+      ],
+      "areas": [
+        "Bhaurabari",
+        "Khajurgawan",
+        "Rigouli",
+        "Campierganj",
+        "Netwar Bazar",
+        "Baluwa",
+        "Basantpur",
+        "Loharpurwa",
+        "Rajpur",
+        "Sonoura Bujurg",
+        "Thakurnagar",
+        "Dhrampur",
+        "Ramchaura",
+        "Suras",
+        "Kunwar",
+        "Bandoh",
+        "Marhatha"
+      ],
+      "keywords": [
+        "Campierganj",
+        "Northern"
+      ],
+      "id": "gorakhpur_7"
+    },
+    {
+      "name": "Pepeeganj Area",
+      "pincodes": [
+        273165
+      ],
+      "areas": [
+        "Kalyanpur",
+        "Kataharimahurasar",
+        "Rajabari",
+        "Rakhore",
+        "Rawatganj",
+        "Majhauna",
+        "Sarhari",
+        "Thawaipar",
+        "Turkwalia",
+        "Mahawan Khore",
+        "Ban",
+        "Barhyachowk",
+        "Makhanaha",
+        "Tighara",
+        "Tikaria",
+        "Pepeeganj",
+        "Fardahani",
+        "Jangle Agahi",
+        "Nawapar"
+      ],
+      "keywords": [
+        "Pepeeganj",
+        "Rural"
+      ],
+      "id": "gorakhpur_8"
+    },
+    {
+      "name": "Chauri Chaura Region",
+      "pincodes": [
+        273201,
+        273202
+      ],
+      "areas": [
+        "Bishwanathpur",
+        "Mehia",
+        "Phulwaria",
+        "Baghar",
+        "Mundera Bazar",
+        "Satahwa Purvi",
+        "Sonbarsa",
+        "Chauri Chaura",
+        "Gaunar",
+        "Parsauni",
+        "Rampur Rakba",
+        "Amahia",
+        "Jhangha",
+        "Jungle Gauri",
+        "Bhaisaha",
+        "Gahira",
+        "Dumri Khas",
+        "Awadhpur",
+        "Sardar Nagar",
+        "Basdila",
+        "Belwa Babu",
+        "Bhauwapar Bazar",
+        "Phutahwa Inar",
+        "Rajdhani"
+      ],
+      "keywords": [
+        "Chauri Chaura",
+        "Historical"
+      ],
+      "id": "gorakhpur_9"
+    },
+    {
+      "name": "Brahmpur Area",
+      "pincodes": [
+        273203
+      ],
+      "areas": [
+        "Jungle Rasoolpur",
+        "Mithabel",
+        "Nauwabari",
+        "Haraiya",
+        "Brahmpur S.O Gorakhpur"
+      ],
+      "keywords": [
+        "Brahmpur",
+        "Rural"
+      ],
+      "id": "gorakhpur_10"
+    },
+    {
+      "name": "Sahajanwa Region",
+      "pincodes": [
+        273209
+      ],
+      "areas": [
+        "Dhuriapar",
+        "Harpur Budhat",
+        "Baraipar",
+        "Sahajanwa",
+        "Bharpahi",
+        "Lakhanapar",
+        "Mahaita",
+        "Rautapur",
+        "Minwa",
+        "Parmeshwarpur",
+        "Rithuwakhor",
+        "Bhaishlar",
+        "Ghaghsara",
+        "Kodari",
+        "Sidhauli",
+        "Bharsad",
+        "Bhitirawat",
+        "Chadraon",
+        "Dumarinivas",
+        "Gadhashand",
+        "Randauli"
+      ],
+      "keywords": [
+        "Sahajanwa",
+        "Industrial"
+      ],
+      "id": "gorakhpur_11"
+    },
+    {
+      "name": "Khajani Area",
+      "pincodes": [
+        273211,
+        273212
+      ],
+      "areas": [
+        "Badhyapar",
+        "Barigaon",
+        "Murdewa",
+        "Karamdeva",
+        "Bheunsa",
+        "Israuli",
+        "Dhakhwa Bazar",
+        "Bargahan",
+        "Bharohiya",
+        "Gadar",
+        "Hariharpur",
+        "Jhuriya",
+        "Khajani Tehsil",
+        "Madanpura",
+        "Jaitpur",
+        "Mahuraon",
+        "Semar Dadi",
+        "Sonbarsa Babu",
+        "Khajuri",
+        "Piprouli",
+        "Khajni",
+        "Amtaura",
+        "Basiakhor",
+        "Bhaisa Bazar",
+        "Bihari Bujurg",
+        "Dewrartula",
+        "Karanpura",
+        "Pachauri",
+        "Tenua",
+        "Bigahi",
+        "Chhatai",
+        "Dhobouli",
+        "Jakahi",
+        "Katai Tikar",
+        "Pagar",
+        "Rampur Pandey"
+      ],
+      "keywords": [
+        "Khajani",
+        "Tehsil"
+      ],
+      "id": "gorakhpur_12"
+    },
+    {
+      "name": "Sikriganj Area",
+      "pincodes": [
+        273213
+      ],
+      "areas": [
+        "Patakhuli",
+        "Trilokpur",
+        "Ahirauli Bujurg",
+        "Baripur",
+        "Deharatikar",
+        "Sukrauli",
+        "Alawalpur",
+        "Asauji Bazar",
+        "Badago",
+        "Baraw",
+        "Brahmasari",
+        "Sikriganj"
+      ],
+      "keywords": [
+        "Sikriganj",
+        "Rural"
+      ],
+      "id": "gorakhpur_13"
+    },
+    {
+      "name": "Bhathat Area",
+      "pincodes": [
+        273306
+      ],
+      "areas": [
+        "Jungle Dumri No1",
+        "Jainpur",
+        "Junjle Dumri No2",
+        "Chiutahan",
+        "Khutahan Khas",
+        "Sumergarh",
+        "Bhathat",
+        "Samdar Khurd"
+      ],
+      "keywords": [
+        "Bhathat",
+        "Rural"
+      ],
+      "id": "gorakhpur_14"
+    },
+    {
+      "name": "Barhalganj Area",
+      "pincodes": [
+        273401,
+        273402
+      ],
+      "areas": [
+        "Bagaghadha",
+        "Khoratha",
+        "Kusmaul",
+        "Misraulia",
+        "Pichaura",
+        "Cheriya",
+        "Kakrakhore",
+        "Bhagawanpur",
+        "Bhowapar",
+        "Jungle Rani Sohas",
+        "Bimuti",
+        "Farsand",
+        "Mahuapar",
+        "Tiha Mohammadpur",
+        "Bhrauli",
+        "Derwa",
+        "Madria",
+        "Nibidubey",
+        "Pirahani",
+        "Bhatpar",
+        "Tanda",
+        "Barhalganj",
+        "Baria Khas",
+        "Barpar",
+        "Newaijpar",
+        "Sukulpuri",
+        "Belwa Dakhli",
+        "Khandaesari",
+        "Parsia",
+        "Patna",
+        "Siddhegaur"
+      ],
+      "keywords": [
+        "Barhalganj",
+        "Rural"
+      ],
+      "id": "gorakhpur_15"
+    },
+    {
+      "name": "Bansgaon Area",
+      "pincodes": [
+        273403
+      ],
+      "areas": [
+        "Bhita",
+        "Bisaunpur",
+        "Hata Buzurg",
+        "Pandeypura",
+        "Kanapar",
+        "Bansgaon SO Gorakhpur",
+        "Baghrain",
+        "Jigina Bhion",
+        "Malahanpar",
+        "Siswa Urf Siuwa",
+        "Pali",
+        "Bhuswal",
+        "Sahuapar"
+      ],
+      "keywords": [
+        "Bansgaon",
+        "Rural"
+      ],
+      "id": "gorakhpur_16"
+    },
+    {
+      "name": "Belghat Area",
+      "pincodes": [
+        273404
+      ],
+      "areas": [
+        "Mokarimpur",
+        "Babhnauli",
+        "Kuri Bazar",
+        "Lakhuapakar",
+        "Gaighat",
+        "Shankarpur",
+        "Siswa Babu",
+        "Basahi",
+        "Belghat",
+        "Piparshandi"
+      ],
+      "keywords": [
+        "Belghat",
+        "Rural"
+      ],
+      "id": "gorakhpur_17"
+    },
+    {
+      "name": "Barhi Area",
+      "pincodes": [
+        273405
+      ],
+      "areas": [
+        "Kuin Bazar",
+        "Bautha",
+        "Dumraila",
+        "Barhi S.O Gorakhpur",
+        "Bishunpura",
+        "Dihghat",
+        "Sadhana"
+      ],
+      "keywords": [
+        "Barhi",
+        "Rural"
+      ],
+      "id": "gorakhpur_18"
+    },
+    {
+      "name": "Unwal Area",
+      "pincodes": [
+        273406
+      ],
+      "areas": [
+        "Barni Gopalpur",
+        "Hardi Chak",
+        "Ropnari",
+        "Gaursaira",
+        "Baraipurwa",
+        "KOTHA",
+        "Bhatauli",
+        "Saraya Tiwari",
+        "Unwal"
+      ],
+      "keywords": [
+        "Unwal",
+        "Rural"
+      ],
+      "id": "gorakhpur_19"
+    },
+    {
+      "name": "Uruwa Bazar Area",
+      "pincodes": [
+        273407
+      ],
+      "areas": [
+        "Biraikhurd",
+        "Pachperwa",
+        "Sidhawana",
+        "Bela Khurd",
+        "Mahubujurg",
+        "Marwatiya",
+        "Uruwa Bazar",
+        "Gajpur",
+        "Dhuriyapar",
+        "Newas",
+        "Dhudhara",
+        "Gaurkhas",
+        "Gigani Bujurg",
+        "Keshawapar",
+        "Purwa Bazar",
+        "Raujadargah",
+        "Rohari",
+        "Shahpur",
+        "Araw jagdish",
+        "Kotwa"
+      ],
+      "keywords": [
+        "Uruwa Bazar",
+        "Rural"
+      ],
+      "id": "gorakhpur_20"
+    },
+    {
+      "name": "Gola Area",
+      "pincodes": [
+        273408
+      ],
+      "areas": [
+        "Chilwa",
+        "Deepgarh",
+        "Niaon",
+        "Samayathanbhiti",
+        "Kohra Buzurg",
+        "Bharroh",
+        "Kodri",
+        "Dewalapar",
+        "Kakrahi",
+        "Patauha",
+        "Gola SO Gorakhpur",
+        "Mannipursahdauli"
+      ],
+      "keywords": [
+        "Gola",
+        "Rural"
+      ],
+      "id": "gorakhpur_21"
+    },
+    {
+      "name": "Dhuriyapar Area",
+      "pincodes": [
+        273409
+      ],
+      "areas": [
+        "Deidiha",
+        "Harpur",
+        "Jharkata",
+        "Tarayapar",
+        "Uchagaon",
+        "Dhuriyapar Chini mil",
+        "Baranagar",
+        "Barpar Mafi",
+        "Bishunpur Raja",
+        "Murarpur"
+      ],
+      "keywords": [
+        "Dhuriyapar",
+        "Rural"
+      ],
+      "id": "gorakhpur_22"
+    },
+    {
+      "name": "Gagaha Area",
+      "pincodes": [
+        273411
+      ],
+      "areas": [
+        "Rajgarh",
+        "Khajuri Baboo",
+        "Basudiha",
+        "Gagaha",
+        "Gharsaon",
+        "Karwal Majhgawa",
+        "Salarpur",
+        "Belabirbhan",
+        "Belkur",
+        "Kotha",
+        "Rakhat",
+        "Dharsi",
+        "Jagdishpur Bhaluwan"
+      ],
+      "keywords": [
+        "Gagaha",
+        "Rural"
+      ],
+      "id": "gorakhpur_23"
+    },
+    {
+      "name": "Shivpur Area",
+      "pincodes": [
+        273412
+      ],
+      "areas": [
+        "Khakhaichkhor",
+        "Kodarpandey",
+        "Sahuwakol",
+        "Bhiti",
+        "Dadri",
+        "Semra Khurd",
+        "Sihaijpar",
+        "Newada",
+        "Ujjarpar",
+        "Chhapra",
+        "Gangapar",
+        "Khirkitadubey",
+        "Mathia",
+        "Mohaljalkar",
+        "Shivpur SO Gorakhpur",
+        "Rampur Bhaghaura",
+        "Riaon"
+      ],
+      "keywords": [
+        "Shivpur",
+        "Rural"
+      ],
+      "id": "gorakhpur_24"
+    },
+    {
+      "name": "Kauriram Area",
+      "pincodes": [
+        273413
+      ],
+      "areas": [
+        "Belipar",
+        "Chawaria Buzurg",
+        "Mahuarkol",
+        "Girdharpur",
+        "Mahuja",
+        "Thunni Mahadev Chak",
+        "Dandi",
+        "Baksuri",
+        "Malaon",
+        "Sohgaura",
+        "Tiyar",
+        "Baswanpur",
+        "Dhanauda Buzurg",
+        "Kanail",
+        "Munderathakurai",
+        "Pakdidubey",
+        "Kauriram",
+        "Boopgarh",
+        "Dubauli",
+        "Janipur",
+        "Kanaicha",
+        "Karjhi",
+        "Shingaha"
+      ],
+      "keywords": [
+        "Kauriram",
+        "Rural"
+      ],
+      "id": "gorakhpur_25"
+    },
+    {
+      "name": "Gonghat Area",
+      "pincodes": [
+        276306
+      ],
+      "areas": [
+        "Gonghat"
+      ],
+      "keywords": [
+        "Gonghat",
+        "Isolated"
+      ],
+      "id": "gorakhpur_26"
+    }
+  ]
+}

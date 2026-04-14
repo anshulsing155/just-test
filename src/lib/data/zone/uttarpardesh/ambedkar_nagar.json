@@ -1,0 +1,768 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Ambedkar Nagar",
+  "city": "Ambedkar Nagar",
+  "summary": "",
+  "total_areas": 328,
+  "total_pincodes": 33,
+  "zones": [
+    {
+      "name": "Akbarpur",
+      "pincodes": [
+        224122
+      ],
+      "areas": [
+        "Mungari Samaisa",
+        "Mubarakpur Daiyadeeh",
+        "Muslim Jagdishpur",
+        "Tajpur",
+        "Sahzadpur",
+        "Kotwa Mohamadpur",
+        "Bus Station Akbarpur",
+        "Kurcha",
+        "Kalhuwa Kaura",
+        "Songaon",
+        "Bhupatipur",
+        "Seehmaikarirat",
+        "Akbarpur",
+        "Katariya Yaqubpur",
+        "Bangaondihwa",
+        "Rampursakarwari",
+        "Rampur Jaisingh",
+        "Bewana"
+      ],
+      "keywords": [
+        "Akbarpur",
+        "Bus Station",
+        "Rampur"
+      ],
+      "id": "ambedkar nagar_1"
+    },
+    {
+      "name": "Baskhari",
+      "pincodes": [
+        224129
+      ],
+      "areas": [
+        "Kaurahi",
+        "Sukul Bazar",
+        "Garha",
+        "Lakhanpur",
+        "Majhgawan",
+        "Achhati",
+        "Bukia",
+        "Makoiya",
+        "Mujahidpur",
+        "Sultanpur Kabirpur",
+        "Baskhari",
+        "Baniyani",
+        "Bela Parsa",
+        "Sheotara"
+      ],
+      "keywords": [
+        "Baskhari",
+        "Sultanpur",
+        "Sukul Bazar"
+      ],
+      "id": "ambedkar nagar_2"
+    },
+    {
+      "name": "Bhiti",
+      "pincodes": [
+        224132
+      ],
+      "areas": [
+        "Bangaon",
+        "Bhadar",
+        "Kahi",
+        "Karnaipur",
+        "Kela Lal Khan",
+        "Pariyawan",
+        "Parwar Bhari",
+        "Malawan",
+        "Madarbhari",
+        "Umrawan",
+        "Bhiti",
+        "Bathua"
+      ],
+      "keywords": [
+        "Bhiti",
+        "Bangaon",
+        "Pariyawan"
+      ],
+      "id": "ambedkar nagar_3"
+    },
+    {
+      "name": "Hanswar",
+      "pincodes": [
+        224143
+      ],
+      "areas": [
+        "Makrahi",
+        "Sabukpur",
+        "Tarauli Mubarakpur",
+        "Hanswar",
+        "Aribpur",
+        "Manikpur",
+        "Semra Nasirpur",
+        "Haridaspur",
+        "Musepur",
+        "Naurahni Rampur",
+        "Saidpur Lurvadih",
+        "Zainuddinpur",
+        "Dhenkara",
+        "Gohila",
+        "Rasoolpur Mundera",
+        "Semaur"
+      ],
+      "keywords": [
+        "Hanswar",
+        "Makrahi",
+        "Tarauli"
+      ],
+      "id": "ambedkar nagar_4"
+    },
+    {
+      "name": "Jalalpur",
+      "pincodes": [
+        224149,
+        224141,
+        224232
+      ],
+      "areas": [
+        "Arai",
+        "Nathu Pur Laudhana",
+        "Rukunpur Kasimpur",
+        "Ashrafpur Majhagawan",
+        "Bhujgi",
+        "Kannoopur",
+        "Rajepur Kopa",
+        "Bhaukuwan",
+        "Daulatabad",
+        "Pethia",
+        "Tighara",
+        "Ismailpur Tahepur",
+        "Mainpur",
+        "Mathia",
+        "Nagpur",
+        "Udaipur",
+        "Jalalpur SO Ambedkar Nagar",
+        "Ambarpur",
+        "Baragaon Sheikhpur",
+        "Begikol",
+        "Fatehpur",
+        "Paekauli Bazar",
+        "Sheopal",
+        "Asgawan",
+        "Hakeem Pur"
+      ],
+      "keywords": [
+        "Jalalpur",
+        "Arai",
+        "Nagpur"
+      ],
+      "id": "ambedkar nagar_5"
+    },
+    {
+      "name": "Tanda",
+      "pincodes": [
+        224190
+      ],
+      "areas": [
+        "Asopur",
+        "Nandapur",
+        "Tanda Tehseel",
+        "Brahimpur Kusma",
+        "Chhajapur",
+        "Mubarakpur",
+        "Balaiya Jagdishpur",
+        "Hajlapur",
+        "Makhdoom Nagar",
+        "Rampur Kalan",
+        "Tanda SO Ambedkar Nagar",
+        "Arsawan",
+        "Husainpur Girant",
+        "Pirthivipur",
+        "Tanda City",
+        "Ajmeri Badshahpur",
+        "Debipur",
+        "Husainpur Sudnaha",
+        "Khaspur"
+      ],
+      "keywords": [
+        "Tanda",
+        "Rampur",
+        "Mubarakpur"
+      ],
+      "id": "ambedkar nagar_6"
+    },
+    {
+      "name": "Rajesultanpur",
+      "pincodes": [
+        224176
+      ],
+      "areas": [
+        "Bankata Bujurg",
+        "Mundiyari",
+        "Chak Bhadaya",
+        "Mubarakpurpikar",
+        "Sirsiya Jamunipur",
+        "Tandwa Bharatpur",
+        "Rajesultanpur",
+        "Bijli Tihayatpur",
+        "Lalmanpur"
+      ],
+      "keywords": [
+        "Rajesultanpur",
+        "Mubarakpur",
+        "Sirsiya"
+      ],
+      "id": "ambedkar nagar_7"
+    },
+    {
+      "name": "Malipur",
+      "pincodes": [
+        224159
+      ],
+      "areas": [
+        "Dhaurua",
+        "Paruiya Ashram",
+        "Setha Kalan",
+        "Malipur",
+        "Khalispur",
+        "Khajuri",
+        "Bhadohi",
+        "Makhdoom Baramadpur",
+        "Surhurpur",
+        "Itauri",
+        "Kalepur Mahuwal",
+        "Kar Misripur"
+      ],
+      "keywords": [
+        "Malipur",
+        "Bhadohi",
+        "Khalispur"
+      ],
+      "id": "ambedkar nagar_8"
+    },
+    {
+      "name": "Katehari",
+      "pincodes": [
+        224151
+      ],
+      "areas": [
+        "Khajawan",
+        "Pyare Pur",
+        "Karampur",
+        "Marthua Saraiya",
+        "Pratappur Chamurkha",
+        "Ashrafpur Barwa",
+        "Bhari Diha",
+        "Khewar",
+        "Yarkee",
+        "Katehari"
+      ],
+      "keywords": [
+        "Katehari",
+        "Khajawan",
+        "Karampur"
+      ],
+      "id": "ambedkar nagar_9"
+    },
+    {
+      "name": "Kichhauccha",
+      "pincodes": [
+        224155
+      ],
+      "areas": [
+        "Tandwa Maulai",
+        "Gaura Mohammadpur",
+        "Jeewat",
+        "Dargah Rasoolpur",
+        "Paras Katui",
+        "Bhidur",
+        "Gayaspur Samsuddinpur",
+        "Kichhauccha"
+      ],
+      "keywords": [
+        "Kichhauccha",
+        "Dargah",
+        "Gaura"
+      ],
+      "id": "ambedkar nagar_10"
+    },
+    {
+      "name": "Jahangirganj",
+      "pincodes": [
+        224147
+      ],
+      "areas": [
+        "Akhtara Narainpur",
+        "Jainti",
+        "Jamaloopur",
+        "Nariyawa",
+        "Umari Jalal",
+        "Asnara",
+        "Chandipur Khurd",
+        "Jogipur Dhanikpur",
+        "Khamariyanghat",
+        "Madainiya",
+        "Rambag Baragaon",
+        "Admapur",
+        "Jahangirganj",
+        "Alaupur",
+        "Kalyanpur",
+        "Bairi Buzurg",
+        "Hariharpur",
+        "Madarmau",
+        "Narwa Pitambarpur",
+        "Tikoria Buzurg"
+      ],
+      "keywords": [
+        "Jahangirganj",
+        "Akhtara",
+        "Umari"
+      ],
+      "id": "ambedkar nagar_11"
+    },
+    {
+      "name": "Bhiyaon",
+      "pincodes": [
+        224139
+      ],
+      "areas": [
+        "Deeh Bhilon",
+        "Marahara",
+        "Neori",
+        "Noorpur Kalan",
+        "Pindoria",
+        "Rakba Amola",
+        "Bhiyaon",
+        "Mathura Rasoolpur",
+        "Amari",
+        "Dulahoopur",
+        "Ahirauli Govind Sahab",
+        "Ajmalpur",
+        "Bishambharpur"
+      ],
+      "keywords": [
+        "Bhiyaon",
+        "Mathura",
+        "Neori"
+      ],
+      "id": "ambedkar nagar_12"
+    },
+    {
+      "name": "Sikandarpur",
+      "pincodes": [
+        224186
+      ],
+      "areas": [
+        "Larpur",
+        "Sultangarh",
+        "Barepur",
+        "Katgharmusa",
+        "Sulhantara",
+        "Amartal",
+        "Hajpura",
+        "Rukunuddinpur",
+        "Sikandarpur SO Ambedkar Nagar",
+        "Gomunpur",
+        "Katui",
+        "Machhiligaon"
+      ],
+      "keywords": [
+        "Sikandarpur",
+        "Larpur",
+        "Barepur"
+      ],
+      "id": "ambedkar nagar_13"
+    },
+    {
+      "name": "Ram Nagar",
+      "pincodes": [
+        224181
+      ],
+      "areas": [
+        "Amadarveshpur",
+        "Yadavpur",
+        "Bidhar",
+        "Bsaiya Ganga Sagar",
+        "Shahpur Bangawan",
+        "Bemaval",
+        "Hisamuddinpur Pipra",
+        "Lakhnipatti",
+        "Sarawan",
+        "Chahoraghat",
+        "Lakhandih",
+        "Lakhmipur",
+        "Neeba",
+        "Shajana Hamjapur",
+        "Ram Nagar SO Ambedkar Nagar",
+        "Annapur",
+        "Aribpur Ramnagar",
+        "Kawahianjanpur",
+        "Sutharpara"
+      ],
+      "keywords": [
+        "Ram Nagar",
+        "Yadavpur",
+        "Lakhnipatti"
+      ],
+      "id": "ambedkar nagar_14"
+    },
+    {
+      "name": "Baskhari Rural",
+      "pincodes": [
+        224125
+      ],
+      "areas": [
+        "Mundehra",
+        "Madhupur",
+        "Mirzapur",
+        "Pakhanpurbichaila",
+        "Ashapur",
+        "Chakiya",
+        "Purebadalhi",
+        "Ratna",
+        "Bandipur"
+      ],
+      "keywords": [
+        "Baskhari",
+        "Mundehra",
+        "Mirzapur"
+      ],
+      "id": "ambedkar nagar_15"
+    },
+    {
+      "name": "Ahirauli",
+      "pincodes": [
+        224137
+      ],
+      "areas": [
+        "Ahirauli Ranimau",
+        "Alauddinur",
+        "Gharwal",
+        "Samdih",
+        "Sikraura Kanchanpur",
+        "Tendwai Kalan",
+        "Deoria SO Ambedkar Nagar",
+        "Kharuwaon",
+        "Nikaspur",
+        "Persanpur",
+        "Tandwa Jalal"
+      ],
+      "keywords": [
+        "Ahirauli",
+        "Deoria",
+        "Gharwal"
+      ],
+      "id": "ambedkar nagar_16"
+    },
+    {
+      "name": "Fatehpur",
+      "pincodes": [
+        224157
+      ],
+      "areas": [
+        "Ahirauli",
+        "Fatehpur Belabagh",
+        "Sonawan",
+        "Atwari",
+        "Hath Pakar",
+        "Khemapur",
+        "Ramdas Patti"
+      ],
+      "keywords": [
+        "Fatehpur",
+        "Ahirauli",
+        "Sonawan"
+      ],
+      "id": "ambedkar nagar_17"
+    },
+    {
+      "name": "Kadipur",
+      "pincodes": [
+        224168
+      ],
+      "areas": [
+        "Baramadpur Jariyari",
+        "Meerpur Sheikhpur",
+        "Pahitipur",
+        "Adampur Tiloni",
+        "Bandan Deeh",
+        "Chanaipur",
+        "Bhikharipur",
+        "Dandupur",
+        "Kadipur Khas",
+        "Nasirpur",
+        "Kudia Chitauna",
+        "Mansapur",
+        "Bahorikpur",
+        "Baramadpur Lohra",
+        "Semari",
+        "Subhakarpur"
+      ],
+      "keywords": [
+        "Kadipur",
+        "Baramadpur",
+        "Meerpur"
+      ],
+      "id": "ambedkar nagar_18"
+    },
+    {
+      "name": "Rudauli",
+      "pincodes": [
+        224152
+      ],
+      "areas": [
+        "Benipur",
+        "Dharamganj",
+        "Lohjhara",
+        "Rudaupur",
+        "Arjunpur",
+        "Basohari",
+        "Samar Singhpur",
+        "Saya",
+        "Mustafabad",
+        "Tewaripur Sabna",
+        "Mijhaura",
+        "Rambaba"
+      ],
+      "keywords": [
+        "Rudauli",
+        "Benipur",
+        "Dharamganj"
+      ],
+      "id": "ambedkar nagar_19"
+    },
+    {
+      "name": "Iltifatganj",
+      "pincodes": [
+        224145
+      ],
+      "areas": [
+        "Bharsari",
+        "Khukhutara",
+        "Ainawa",
+        "Chitoi",
+        "Naipura",
+        "Avsanpur",
+        "Faridpur Kalan",
+        "Iltifatganj"
+      ],
+      "keywords": [
+        "Iltifatganj",
+        "Bharsari",
+        "Khukhutara"
+      ],
+      "id": "ambedkar nagar_20"
+    },
+    {
+      "name": "Jafarganj",
+      "pincodes": [
+        224146
+      ],
+      "areas": [
+        "Husainpur",
+        "Tara Khurd",
+        "Kakardilla",
+        "Kartora",
+        "Saidapur",
+        "Shikrohar",
+        "Saidpur Bhitari",
+        "Jafarganj"
+      ],
+      "keywords": [
+        "Jafarganj",
+        "Husainpur",
+        "Tara Khurd"
+      ],
+      "id": "ambedkar nagar_21"
+    },
+    {
+      "name": "Maharajganj",
+      "pincodes": [
+        224227
+      ],
+      "areas": [
+        "Surapur",
+        "Maharajganj",
+        "Baraura",
+        "Makhdumsarai",
+        "Lodipur",
+        "Mumrejpur",
+        "Rampur Mungradilla"
+      ],
+      "keywords": [
+        "Maharajganj",
+        "Surapur",
+        "Baraura"
+      ],
+      "id": "ambedkar nagar_22"
+    },
+    {
+      "name": "Bariyawan",
+      "pincodes": [
+        224210
+      ],
+      "areas": [
+        "Daudpur",
+        "Bhaupur",
+        "Tendwa Paharpur",
+        "Deohat",
+        "Kurki Bazar",
+        "Rampur Rampatti",
+        "Bariyawan"
+      ],
+      "keywords": [
+        "Bariyawan",
+        "Daudpur",
+        "Bhaupur"
+      ],
+      "id": "ambedkar nagar_23"
+    },
+    {
+      "name": "Jaitoopur",
+      "pincodes": [
+        224231
+      ],
+      "areas": [
+        "Jaitoopur",
+        "Mathani",
+        "Chapra",
+        "Chiotipara",
+        "Daridiha",
+        "Bela",
+        "Jamu Kalan",
+        "Keotahi",
+        "Hiri Pakaria",
+        "Narharpur",
+        "Ram Nagar Karri",
+        "Sehra Jalalpur",
+        "Maharuwa Gola"
+      ],
+      "keywords": [
+        "Jaitoopur",
+        "Mathani",
+        "Chapra"
+      ],
+      "id": "ambedkar nagar_24"
+    },
+    {
+      "name": "Kedarnagar",
+      "pincodes": [
+        224230
+      ],
+      "areas": [
+        "Baragaon Brahimpur",
+        "Shadipur",
+        "Dhiwa Daulatpur",
+        "Kedarnagar",
+        "Chandpur",
+        "Jamunipur"
+      ],
+      "keywords": [
+        "Kedarnagar",
+        "Baragaon",
+        "Shadipur"
+      ],
+      "id": "ambedkar nagar_25"
+    },
+    {
+      "name": "Basohari",
+      "pincodes": [
+        224234
+      ],
+      "areas": [
+        "Mahuwari",
+        "Atraura",
+        "Karampur Barsawan",
+        "Utrethu"
+      ],
+      "keywords": [
+        "Basohari",
+        "Mahuwari",
+        "Atraura"
+      ],
+      "id": "ambedkar nagar_26"
+    },
+    {
+      "name": "Lorpur",
+      "pincodes": [
+        224235
+      ],
+      "areas": [
+        "UPSS Mill",
+        "Lorpur",
+        "Naugaon",
+        "Sijhauli"
+      ],
+      "keywords": [
+        "Lorpur",
+        "UPSS Mill",
+        "Naugaon"
+      ],
+      "id": "ambedkar nagar_27"
+    },
+    {
+      "name": "Vidhut Nagar",
+      "pincodes": [
+        224238
+      ],
+      "areas": [
+        "Vidhut Nagar"
+      ],
+      "keywords": [
+        "Vidhut Nagar"
+      ],
+      "id": "ambedkar nagar_28"
+    },
+    {
+      "name": "Indaipur",
+      "pincodes": [
+        224239
+      ],
+      "areas": [
+        "Indaipur"
+      ],
+      "keywords": [
+        "Indaipur"
+      ],
+      "id": "ambedkar nagar_29"
+    },
+    {
+      "name": "Basantpur",
+      "pincodes": [
+        224206
+      ],
+      "areas": [
+        "Basantpur"
+      ],
+      "keywords": [
+        "Basantpur"
+      ],
+      "id": "ambedkar nagar_30"
+    },
+    {
+      "name": "Lawaiya Pratappur",
+      "pincodes": [
+        224183
+      ],
+      "areas": [
+        "Lawaiya Pratappur",
+        "Sarjupur",
+        "Mahulia",
+        "Majgaon",
+        "Masorha",
+        "Saidahi"
+      ],
+      "keywords": [
+        "Lawaiya",
+        "Sarjupur",
+        "Mahulia"
+      ],
+      "id": "ambedkar nagar_31"
+    }
+  ]
+}

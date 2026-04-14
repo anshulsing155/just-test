@@ -1,0 +1,321 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Pilibhit",
+  "city": "Pilibhit",
+  "summary": "",
+  "total_areas": 167,
+  "total_pincodes": 11,
+  "zones": [
+    {
+      "name": "Pilibhit City",
+      "pincodes": [
+        262001
+      ],
+      "areas": [
+        "Bithora Kalan",
+        "Bahanpur",
+        "Dang",
+        "Suhas",
+        "Richhaula",
+        "Gahluia",
+        "Lalpur",
+        "Khakra",
+        "Pilibhit",
+        "Jahanabad",
+        "Dalelganj",
+        "Mala Colony",
+        "Roopur Kamaloo",
+        "Gajraula Kalan",
+        "Nizamdandi",
+        "Bhikaripur",
+        "Khundara",
+        "Shahi",
+        "Chandoi",
+        "Kanakore",
+        "Kalyanpur Khas",
+        "Khamaria Pull",
+        "Maktul",
+        "Sakhaula",
+        "Baratbhoj",
+        "Jaitpur",
+        "Lalauri Khera",
+        "Piparia Agroo",
+        "Sardar Nagar",
+        "Sarauri",
+        "Pilibhit City",
+        "Pilibhit Kutchery",
+        "Station Road Pilibhit"
+      ],
+      "keywords": [
+        "Pilibhit",
+        "City Center",
+        "Urban"
+      ],
+      "id": "pilibhit_1"
+    },
+    {
+      "name": "Amaria Region",
+      "pincodes": [
+        262121
+      ],
+      "areas": [
+        "Banskhera",
+        "Kargaina",
+        "Mundalia",
+        "Parewa Vaish",
+        "Pipalia",
+        "Amaria",
+        "Barehpura",
+        "Bhadsara",
+        "Harraipur",
+        "Tirkunia",
+        "Chathiya"
+      ],
+      "keywords": [
+        "Amaria",
+        "Rural"
+      ],
+      "id": "pilibhit_2"
+    },
+    {
+      "name": "Pooranpur Area",
+      "pincodes": [
+        262122
+      ],
+      "areas": [
+        "Abhaipur",
+        "Bhairo Kalan",
+        "Gobhia Sarai",
+        "Gulabtanda",
+        "Madhotanda",
+        "Singhara Urf Tatarganj",
+        "Bailaha",
+        "Sabalpur",
+        "Shivnagar",
+        "Udaikaranpur",
+        "Dhuria Palia",
+        "Roodpur",
+        "Shahgarh",
+        "Sherpur",
+        "Pachpeda Taluke Maharajpur",
+        "Guladiya Bhoopsingh",
+        "Jatpura",
+        "Jitauriya",
+        "Chandia Hazara",
+        "Ghatampur",
+        "Ghungchai",
+        "Karnapur",
+        "Piperia Dulai",
+        "Rampura Fakire",
+        "Musepur",
+        "Mandanpur Khurd",
+        "Pooranpur",
+        "Bhagwantapur",
+        "Dudhia Khurd",
+        "Kadherchaura",
+        "Kasganja",
+        "Naujalia Nakatia",
+        "Ramnagra Colony",
+        "Barua Kuthara"
+      ],
+      "keywords": [
+        "Pooranpur",
+        "Rural"
+      ],
+      "id": "pilibhit_3"
+    },
+    {
+      "name": "Seramau North",
+      "pincodes": [
+        262123
+      ],
+      "areas": [
+        "Goradhanenega",
+        "Haripur",
+        "Sultanpur",
+        "Mahuagundey",
+        "Seramau North",
+        "Sondha",
+        "Kajriniranjanpur",
+        "Jograjpur"
+      ],
+      "keywords": [
+        "Seramau",
+        "North"
+      ],
+      "id": "pilibhit_4"
+    },
+    {
+      "name": "Kali Nagar",
+      "pincodes": [
+        262124
+      ],
+      "areas": [
+        "Jamunia",
+        "Kali Nagar",
+        "Piperia Santosh",
+        "Chandupur",
+        "MATHANA JAPTI"
+      ],
+      "keywords": [
+        "Kali Nagar",
+        "Rural"
+      ],
+      "id": "pilibhit_5"
+    },
+    {
+      "name": "Bisalpur Region",
+      "pincodes": [
+        262201
+      ],
+      "areas": [
+        "Amrita",
+        "Bauni",
+        "Deohana",
+        "Ghajhera",
+        "Rohania",
+        "Ahirwara",
+        "Intgoan",
+        "Kumirkha",
+        "Madhopur",
+        "Mohammadpur Bhanja",
+        "Harrai",
+        "Amra Karoor",
+        "Churra",
+        "Luhicha",
+        "Naugawan Santosh",
+        "Paharganj",
+        "Bisalpur",
+        "Azampur Barkhera",
+        "Badhera",
+        "Chandpura",
+        "Dhakia Ranjeet",
+        "Imalia Gangi",
+        "Jallapur",
+        "Kishni",
+        "Meerpur Bahanpur",
+        "Rasiayankhanpur",
+        "Katra Bazar SO Pilibhit",
+        "Barkhera Chaturaha",
+        "Deoria Kalan",
+        "Karrkhera",
+        "Khandepur",
+        "Biharipur Hira"
+      ],
+      "keywords": [
+        "Bisalpur",
+        "Region"
+      ],
+      "id": "pilibhit_6"
+    },
+    {
+      "name": "Bilsanda Area",
+      "pincodes": [
+        262202
+      ],
+      "areas": [
+        "Bhaden Kanja",
+        "Behti",
+        "Meerpur Hamupura",
+        "Ranth",
+        "SINDHAURA KHARAGPUR",
+        "Bakania",
+        "Bamrauli",
+        "Kareli",
+        "Bilsanda"
+      ],
+      "keywords": [
+        "Bilsanda",
+        "Rural"
+      ],
+      "id": "pilibhit_7"
+    },
+    {
+      "name": "Barkhera Region",
+      "pincodes": [
+        262203
+      ],
+      "areas": [
+        "Khajuria Pachpera",
+        "Narainpur",
+        "Piperia Mundan",
+        "Simra Akbar Ganj",
+        "Barkhera",
+        "Amkhera",
+        "Daulatpur",
+        "Jeorah Kalyanpur",
+        "Madhupuri",
+        "Pania Ramkishan",
+        "Parasi Ramkishan",
+        "Sehpura",
+        "Bahadurpur",
+        "Karunapur Karoor",
+        "Aliyapur",
+        "Jogither",
+        "Ram Nagar Jagatpur",
+        "Bhopatpura",
+        "Mudia Hulas",
+        "Parsia",
+        "Pauta Kalan"
+      ],
+      "keywords": [
+        "Barkhera",
+        "Region"
+      ],
+      "id": "pilibhit_8"
+    },
+    {
+      "name": "Majhola Area",
+      "pincodes": [
+        262302
+      ],
+      "areas": [
+        "Hardaspur",
+        "Majhola SO Bareilly",
+        "Sunpahar",
+        "Dunidam"
+      ],
+      "keywords": [
+        "Majhola",
+        "Area"
+      ],
+      "id": "pilibhit_9"
+    },
+    {
+      "name": "Neoria Region",
+      "pincodes": [
+        262305
+      ],
+      "areas": [
+        "Pandari",
+        "Neoria",
+        "Neoria Mobile",
+        "BITHRA"
+      ],
+      "keywords": [
+        "Neoria",
+        "Region"
+      ],
+      "id": "pilibhit_10"
+    },
+    {
+      "name": "Shardapuri Area",
+      "pincodes": [
+        262904
+      ],
+      "areas": [
+        "Chandia Hajara",
+        "Shardapuri",
+        "Kabir Ganj",
+        "Morania Gandhi Nagar",
+        "Ashok Nagar",
+        "Ram Nagar"
+      ],
+      "keywords": [
+        "Shardapuri",
+        "Area"
+      ],
+      "id": "pilibhit_11"
+    }
+  ]
+}

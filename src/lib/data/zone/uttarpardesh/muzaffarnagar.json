@@ -1,0 +1,478 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Muzaffarnagar",
+  "city": "Muzaffarnagar",
+  "summary": "",
+  "total_areas": 228,
+  "total_pincodes": 24,
+  "zones": [
+    {
+      "name": "Muzaffarnagar City",
+      "pincodes": [
+        251001,
+        251002
+      ],
+      "areas": [
+        "Brahmpuri",
+        "Kutchery Mzn",
+        "Mussa Bilaspur",
+        "Bhopa Road",
+        "Sikhera",
+        "South Civil Lines",
+        "Muzaffarnagar",
+        "Ganga Ram Pura",
+        "Anandpuri SO Muzaffarnagar",
+        "Gandhi Colony",
+        "Navin Mandi Sthal",
+        "Rampuram",
+        "NDC MUZAFFAR NAGAR",
+        "Ratheri",
+        "Bagowali",
+        "Datiyana",
+        "Laddhawala",
+        "Muzaffar Nagar City",
+        "Prempuri",
+        "Makhiyali",
+        "Shamli Road",
+        "Meghakheri",
+        "A P Mill",
+        "Pachenda Kalan",
+        "Sarwat",
+        "Khala Par"
+      ],
+      "keywords": [
+        "city center",
+        "urban"
+      ],
+      "id": "muzaffarnagar_1"
+    },
+    {
+      "name": "Khatauli Region",
+      "pincodes": [
+        251201,
+        251202,
+        251003,
+        251310
+      ],
+      "areas": [
+        "Chand Samad",
+        "Dayalpuri",
+        "Incholi",
+        "Kheri Rangdhang",
+        "Titoda",
+        "Khatauli",
+        "Barsoo",
+        "Chand Seena",
+        "Pamnawali",
+        "Sarai Rasulpur",
+        "Satguru Nagar",
+        "Falawda Road Khatauli",
+        "Bhainsi",
+        "Fahimpur Khurd",
+        "Jasaula",
+        "Bhangela",
+        "Khanjapur",
+        "Phulat",
+        "Pipalhera",
+        "Antwara",
+        "Galibpur",
+        "Kailwara Kalan",
+        "Nawla",
+        "Satheri",
+        "Khatauli Bazar",
+        "Rampur",
+        "Maleera",
+        "Barkali",
+        "Kachauli",
+        "Badhai Khurd",
+        "Rohana Mills",
+        "Badhai Kalan",
+        "Baheri",
+        "Rohana Khurd",
+        "Jaroda",
+        "Lachera",
+        "Gadhla",
+        "Khaikheri",
+        "Sujroo",
+        "Basera",
+        "Kukra",
+        "Industrial Estate SO Muzaffarnagar",
+        "Tejalhera",
+        "Vehlana",
+        "Shernagar",
+        "Tuglakpur"
+      ],
+      "keywords": [
+        "Khatauli",
+        "suburban"
+      ],
+      "id": "muzaffarnagar_2"
+    },
+    {
+      "name": "Budhana Area",
+      "pincodes": [
+        251309
+      ],
+      "areas": [
+        "Dabheri Rasulpur",
+        "Jaula",
+        "Kamruddin Nagar",
+        "Budhana",
+        "Barkata",
+        "Garhi Sakhawatpur",
+        "Kuralsi",
+        "Loi Sarai",
+        "Raipur Aterna",
+        "Toda",
+        "Nai Abadi Budhana",
+        "Alipur Aterna",
+        "Hussainabad Bhanwara",
+        "Kurthal",
+        "Mohmand Pur Rai Singh",
+        "Baroda",
+        "Bitawada",
+        "Hussainpur Kalan",
+        "Kurawa",
+        "Luhsana",
+        "Nagwa",
+        "Reoli Nagla",
+        "Tanda Majara",
+        "Grahi Noabad",
+        "Itawa"
+      ],
+      "keywords": [
+        "Budhana",
+        "rural"
+      ],
+      "id": "muzaffarnagar_3"
+    },
+    {
+      "name": "Jansath and Surroundings",
+      "pincodes": [
+        251314,
+        251315
+      ],
+      "areas": [
+        "Dhansari",
+        "Kawal",
+        "Behra Assa",
+        "Jandheri",
+        "Salarpur",
+        "Jansath",
+        "Bajidpur Kawali",
+        "Nagla Madore College",
+        "Rajpur Kalan",
+        "Tehsil Jansath",
+        "Chittora",
+        "Ghatayan",
+        "Kujhera",
+        "Sambhal Hera",
+        "Tissang",
+        "Kutubpur",
+        "Katiya",
+        "Kasampur Khola",
+        "Miranpur",
+        "Bhooma",
+        "Kithora"
+      ],
+      "keywords": [
+        "Jansath",
+        "semi-urban"
+      ],
+      "id": "muzaffarnagar_4"
+    },
+    {
+      "name": "Phugana and Nearby",
+      "pincodes": [
+        247776
+      ],
+      "areas": [
+        "Karoda",
+        "Kharar",
+        "Phugana",
+        "Khera Mastan"
+      ],
+      "keywords": [
+        "Phugana",
+        "rural"
+      ],
+      "id": "muzaffarnagar_5"
+    },
+    {
+      "name": "Baghra and Vicinity",
+      "pincodes": [
+        251306
+      ],
+      "areas": [
+        "Budina Khurd",
+        "Amir Nagar",
+        "Kazi Khera",
+        "Mandi",
+        "Baghra SO Muzaffarnagar",
+        "Kinoni",
+        "Mukandpur",
+        "Pinna",
+        "Karwara",
+        "Nasir Pur"
+      ],
+      "keywords": [
+        "Baghra",
+        "rural"
+      ],
+      "id": "muzaffarnagar_6"
+    },
+    {
+      "name": "Chhapar Region",
+      "pincodes": [
+        251307
+      ],
+      "areas": [
+        "Chhapar",
+        "Kasampur Patheri",
+        "Rai",
+        "Khudda",
+        "Badheri",
+        "Phalauda",
+        "Barla"
+      ],
+      "keywords": [
+        "Chhapar",
+        "rural"
+      ],
+      "id": "muzaffarnagar_7"
+    },
+    {
+      "name": "Morna and Surroundings",
+      "pincodes": [
+        251316
+      ],
+      "areas": [
+        "Behupura",
+        "Chorawala",
+        "Shukartal",
+        "Bhokarheri",
+        "Tewra",
+        "Shukartal Khadar",
+        "Morna",
+        "Kakrauli",
+        "Khokani",
+        "Tendhera"
+      ],
+      "keywords": [
+        "Morna",
+        "rural"
+      ],
+      "id": "muzaffarnagar_8"
+    },
+    {
+      "name": "Shahpur Cluster",
+      "pincodes": [
+        251318
+      ],
+      "areas": [
+        "Dhindawali",
+        "Kakra",
+        "Harsauli",
+        "Nirmana",
+        "Dhanayan",
+        "Umarpur",
+        "Goela",
+        "Taoli",
+        "Kutba",
+        "Mubarikpur",
+        "Shahpur Muzaffarnagar",
+        "Sohanjani Tagan",
+        "Barwala",
+        "Dinkarpur",
+        "Kaserwa",
+        "Palri",
+        "Shoram"
+      ],
+      "keywords": [
+        "Shahpur",
+        "rural"
+      ],
+      "id": "muzaffarnagar_9"
+    },
+    {
+      "name": "Sisauli and Nearby",
+      "pincodes": [
+        251319
+      ],
+      "areas": [
+        "Bhoora Khurd",
+        "Mundbhar",
+        "Sisauli",
+        "Sawtoo",
+        "Shikarpur",
+        "Bhora Kalan"
+      ],
+      "keywords": [
+        "Sisauli",
+        "rural"
+      ],
+      "id": "muzaffarnagar_10"
+    },
+    {
+      "name": "Purkazi Area",
+      "pincodes": [
+        251327
+      ],
+      "areas": [
+        "Hari Nagar",
+        "Almawala",
+        "Kelanpur",
+        "Purkazi",
+        "Badiwala",
+        "Sherpur"
+      ],
+      "keywords": [
+        "Purkazi",
+        "rural"
+      ],
+      "id": "muzaffarnagar_11"
+    },
+    {
+      "name": "Biral and Surroundings",
+      "pincodes": [
+        247771,
+        247772
+      ],
+      "areas": [
+        "Biral",
+        "Balwa Kheri",
+        "Budha Khera",
+        "Niamu",
+        "Pipal Shah",
+        "Biralasi",
+        "Doodhli"
+      ],
+      "keywords": [
+        "Biral",
+        "rural"
+      ],
+      "id": "muzaffarnagar_12"
+    },
+    {
+      "name": "Rajpur Chhajpur Area",
+      "pincodes": [
+        247775
+      ],
+      "areas": [
+        "Rajpur Chhajpur",
+        "Parasauli"
+      ],
+      "keywords": [
+        "Rajpur Chhajpur",
+        "rural"
+      ],
+      "id": "muzaffarnagar_13"
+    },
+    {
+      "name": "Titawi and Surroundings",
+      "pincodes": [
+        251301
+      ],
+      "areas": [
+        "Jasoi",
+        "Budina Kalan",
+        "Roni Hazipur",
+        "Titawi",
+        "Alipur Kheri",
+        "Nagala Pithora",
+        "Mohamad Pur Madan"
+      ],
+      "keywords": [
+        "Titawi",
+        "rural"
+      ],
+      "id": "muzaffarnagar_14"
+    },
+    {
+      "name": "Bhopa and Nearby",
+      "pincodes": [
+        251308
+      ],
+      "areas": [
+        "Jat Mujhera",
+        "Malpura",
+        "Rahakada",
+        "Bhopa",
+        "Belra",
+        "Jhal Nirgajani",
+        "Rahamatpur Garwara",
+        "Jauli",
+        "Nagla Bujurg",
+        "Behra Thru",
+        "Sikkri",
+        "Tissa"
+      ],
+      "keywords": [
+        "Bhopa",
+        "rural"
+      ],
+      "id": "muzaffarnagar_15"
+    },
+    {
+      "name": "Charthawal Region",
+      "pincodes": [
+        251311
+      ],
+      "areas": [
+        "Dadherukalan",
+        "Chokra",
+        "Luhari Khurd",
+        "Paoti",
+        "Charthawal",
+        "Khusropur",
+        "Kutesra",
+        "Kulheri"
+      ],
+      "keywords": [
+        "Charthawal",
+        "rural"
+      ],
+      "id": "muzaffarnagar_16"
+    },
+    {
+      "name": "Ramraj and Surroundings",
+      "pincodes": [
+        251320
+      ],
+      "areas": [
+        "Siali",
+        "Ramraj",
+        "Hassanpur",
+        "Husainpur"
+      ],
+      "keywords": [
+        "Ramraj",
+        "rural"
+      ],
+      "id": "muzaffarnagar_17"
+    },
+    {
+      "name": "Mansurpur Area",
+      "pincodes": [
+        251203
+      ],
+      "areas": [
+        "Jeewana",
+        "Pura",
+        "Beghrajpur",
+        "Bhikki",
+        "Dudha Heri",
+        "Hussainpur Bhopara",
+        "Mansurpur",
+        "Bihari",
+        "Mansurpur Village",
+        "Purbaliyan"
+      ],
+      "keywords": [
+        "Mansurpur",
+        "semi-urban"
+      ],
+      "id": "muzaffarnagar_18"
+    }
+  ]
+}

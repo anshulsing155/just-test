@@ -1,0 +1,334 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Hathras",
+  "city": "Hathras",
+  "summary": "",
+  "total_areas": 152,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Sasni Area",
+      "pincodes": [
+        202139,
+        204216
+      ],
+      "areas": [
+        "Chandaiya",
+        "Sikur",
+        "Lutsan",
+        "Komari",
+        "K G W Sasni",
+        "Rudayan",
+        "Sasni",
+        "Basgoi",
+        "Chhonda",
+        "Jiroli",
+        "G C Sasni",
+        "Kanya Gurukul",
+        "Parhil",
+        "Tilothi",
+        "Dwarikapur",
+        "Mohariya",
+        "Susayat Kalan"
+      ],
+      "keywords": [
+        "Sasni",
+        "Chandaiya",
+        "Rudayan"
+      ],
+      "id": "hathras_1"
+    },
+    {
+      "name": "Hathras City",
+      "pincodes": [
+        204101,
+        204102
+      ],
+      "areas": [
+        "Ahen",
+        "Kunwarpur",
+        "Luheta Khurd",
+        "Ahabaranpur",
+        "Jogia",
+        "Karas",
+        "Meetai",
+        "Parsara",
+        "Tehra",
+        "Tuksan",
+        "Hathras",
+        "Arjunpur",
+        "Garhi Balna",
+        "Lakhnu",
+        "Ruheri",
+        "Nayaganj Hathras",
+        "Allehpur",
+        "Bisana",
+        "Hatisa Bhagwantpur",
+        "Ladpur",
+        "Veernagar",
+        "M M Hathras",
+        "Gangcholi",
+        "Koka",
+        "L C Hathras",
+        "Sokhana",
+        "Tochhigarh",
+        "Hathras City",
+        "I A Hathras",
+        "Dhatroi",
+        "Kailora",
+        "Thulai",
+        "Akhaipur",
+        "Baghraya",
+        "Punner",
+        "Hathras Jn RS",
+        "Khera Tikari"
+      ],
+      "keywords": [
+        "Hathras",
+        "City",
+        "Junction"
+      ],
+      "id": "hathras_2"
+    },
+    {
+      "name": "Sikandra Rao Region",
+      "pincodes": [
+        204215
+      ],
+      "areas": [
+        "Bamnoi",
+        "Naj Mandi S Rao",
+        "Basai Babas",
+        "Ratanpur Hussainpur",
+        "Tati Dadia",
+        "Barai Shahpur",
+        "Bastoi",
+        "Kapasiya",
+        "Ama Madapur",
+        "Arnot",
+        "Gopi",
+        "Gudmai Misripur",
+        "Jiroli Kalan",
+        "Sikandra Rao",
+        "Chandpur Mirza",
+        "Ginoli Kishanpur",
+        "Mau Chirayal"
+      ],
+      "keywords": [
+        "Sikandra Rao",
+        "Naj Mandi"
+      ],
+      "id": "hathras_3"
+    },
+    {
+      "name": "Hasayan Cluster",
+      "pincodes": [
+        204212
+      ],
+      "areas": [
+        "Band Abdulhamipur",
+        "Guarau Kalan",
+        "Kanau",
+        "Siktara",
+        "Bonai Mohabbatpur",
+        "Maho",
+        "Bwarwana",
+        "Shankerpur",
+        "Gadola",
+        "Gangapur",
+        "Bapandai",
+        "Nagla Danda",
+        "Rati Ka Nagla",
+        "Srinagar",
+        "Hasayan"
+      ],
+      "keywords": [
+        "Hasayan",
+        "Srinagar"
+      ],
+      "id": "hathras_4"
+    },
+    {
+      "name": "Mursan Area",
+      "pincodes": [
+        204213
+      ],
+      "areas": [
+        "Asroi",
+        "Jawar",
+        "Pata Khas",
+        "Penth Gaon",
+        "Mursan",
+        "Bardwari",
+        "Jatoi",
+        "Kota",
+        "Pateni"
+      ],
+      "keywords": [
+        "Mursan",
+        "Asroi"
+      ],
+      "id": "hathras_5"
+    },
+    {
+      "name": "Sadabad Region",
+      "pincodes": [
+        281306
+      ],
+      "areas": [
+        "Edalpur",
+        "Kajrauthi",
+        "Samadpur",
+        "Bedai",
+        "Sadabad",
+        "Salempur",
+        "Jarau",
+        "Basamaroo",
+        "Kursanda",
+        "Naugaon"
+      ],
+      "keywords": [
+        "Sadabad",
+        "Edalpur"
+      ],
+      "id": "hathras_6"
+    },
+    {
+      "name": "Sahpau Cluster",
+      "pincodes": [
+        281307
+      ],
+      "areas": [
+        "Khonda",
+        "Dhadau",
+        "Gutehara",
+        "Sahpau",
+        "Nagla Beru",
+        "Karkauli",
+        "Arti",
+        "Hasanpur Baru",
+        "Madaka Bhoj",
+        "Sikhra"
+      ],
+      "keywords": [
+        "Sahpau",
+        "Khonda"
+      ],
+      "id": "hathras_7"
+    },
+    {
+      "name": "Jalesar Region",
+      "pincodes": [
+        281104
+      ],
+      "areas": [
+        "Rasgaon",
+        "Mahrara",
+        "Jalesar RS"
+      ],
+      "keywords": [
+        "Jalesar",
+        "Rasgaon"
+      ],
+      "id": "hathras_8"
+    },
+    {
+      "name": "Bisawar Area",
+      "pincodes": [
+        281302
+      ],
+      "areas": [
+        "Baramai",
+        "Mai",
+        "Tasinga",
+        "Midhawali",
+        "Bisawar",
+        "Bharatia",
+        "Garhumrao"
+      ],
+      "keywords": [
+        "Bisawar",
+        "Baramai"
+      ],
+      "id": "hathras_9"
+    },
+    {
+      "name": "Dariyapur",
+      "pincodes": [
+        203001
+      ],
+      "areas": [
+        "Dariyapur"
+      ],
+      "keywords": [
+        "Dariyapur"
+      ],
+      "id": "hathras_10"
+    },
+    {
+      "name": "Purdilpur Cluster",
+      "pincodes": [
+        204214
+      ],
+      "areas": [
+        "Mendamai",
+        "Pora",
+        "Bhenkuri",
+        "Bhuraka",
+        "Purdilpur",
+        "Barsauli",
+        "Jansoi",
+        "Nagaria Patti",
+        "Nagla Veer Sahai"
+      ],
+      "keywords": [
+        "Purdilpur",
+        "Mendamai"
+      ],
+      "id": "hathras_11"
+    },
+    {
+      "name": "Tatarpur Area",
+      "pincodes": [
+        202150
+      ],
+      "areas": [
+        "Dedamai",
+        "Basai Kazi",
+        "Tatarpur"
+      ],
+      "keywords": [
+        "Tatarpur",
+        "Dedamai"
+      ],
+      "id": "hathras_12"
+    },
+    {
+      "name": "Agsauli Cluster",
+      "pincodes": [
+        204211
+      ],
+      "areas": [
+        "Ganthri Shahpur",
+        "Kachaura",
+        "Garhi Hirasingh",
+        "Pipalgaon",
+        "Sujawalpur",
+        "Dandesari",
+        "Pachaun",
+        "Tikari Kalan",
+        "Bhatikara",
+        "Northa Isepur",
+        "Agrana",
+        "Agsauli",
+        "Bartar khas",
+        "Bhisi Mirjapur"
+      ],
+      "keywords": [
+        "Agsauli",
+        "Ganthri Shahpur"
+      ],
+      "id": "hathras_13"
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Amethi",
+  "city": "Amethi",
+  "summary": "",
+  "total_areas": 245,
+  "total_pincodes": 29,
+  "zones": [
+    {
+      "name": "Amethi Central",
+      "pincodes": [
+        227405
+      ],
+      "areas": [
+        "Darkha",
+        "Benipur",
+        "Kohra",
+        "Naraini",
+        "Ram Nagar",
+        "Amethi",
+        "Mahmadpur",
+        "Thengaha",
+        "Gaderi",
+        "Rebha",
+        "Pindoria",
+        "Umapur Gana Patti",
+        "Jangal Ramnagar",
+        "Agahar",
+        "Kakwa",
+        "Korari Gidhar Shah",
+        "Pandri",
+        "Paharganj"
+      ],
+      "keywords": [
+        "Amethi",
+        "Central"
+      ],
+      "id": "amethi_1"
+    },
+    {
+      "name": "Bhadar Region",
+      "pincodes": [
+        227406
+      ],
+      "areas": [
+        "Bhawapur",
+        "Ratapur",
+        "Sawangi",
+        "Amtahi",
+        "Dahiyawan",
+        "Bhadar"
+      ],
+      "keywords": [
+        "Bhadar",
+        "Region"
+      ],
+      "id": "amethi_2"
+    },
+    {
+      "name": "Misrauli Cluster",
+      "pincodes": [
+        227407
+      ],
+      "areas": [
+        "Misrauli",
+        "Bargaon",
+        "Ramgarh",
+        "Dhanapur",
+        "Bisesarganj"
+      ],
+      "keywords": [
+        "Misrauli",
+        "Cluster"
+      ],
+      "id": "amethi_3"
+    },
+    {
+      "name": "Sanaha Area",
+      "pincodes": [
+        227408
+      ],
+      "areas": [
+        "Sanaha",
+        "Saruawan",
+        "Tikari",
+        "Mai Ghatkaur"
+      ],
+      "keywords": [
+        "Sanaha",
+        "Area"
+      ],
+      "id": "amethi_4"
+    },
+    {
+      "name": "Gauriganj Zone",
+      "pincodes": [
+        227409
+      ],
+      "areas": [
+        "Arjunpur",
+        "Bisundaspur",
+        "Mau",
+        "Basti Dei",
+        "Dhani Jalalpur",
+        "Juthipur",
+        "Tikaria",
+        "Aindhi",
+        "Hardon",
+        "Saintha",
+        "Anapur",
+        "Raghipur",
+        "Gauriganj",
+        "Asura",
+        "Barna Tikar",
+        "Purabgaon",
+        "Guwawan"
+      ],
+      "keywords": [
+        "Gauriganj",
+        "Zone"
+      ],
+      "id": "amethi_5"
+    },
+    {
+      "name": "Shahgarh Area",
+      "pincodes": [
+        227411
+      ],
+      "areas": [
+        "Kauhar",
+        "Kunda",
+        "Manapur",
+        "Kitiyawan",
+        "Tandwa",
+        "Shahgarh SO Sultanpur",
+        "Korari Hir Shah",
+        "Sevain",
+        "Tarsara"
+      ],
+      "keywords": [
+        "Shahgarh",
+        "Area"
+      ],
+      "id": "amethi_6"
+    },
+    {
+      "name": "Korwa Industrial Zone",
+      "pincodes": [
+        227412
+      ],
+      "areas": [
+        "Pashchim Duara",
+        "H A L Korwa",
+        "Dharai Mafi",
+        "Darpipur"
+      ],
+      "keywords": [
+        "Korwa",
+        "Industrial"
+      ],
+      "id": "amethi_7"
+    },
+    {
+      "name": "Shivgarh Region",
+      "pincodes": [
+        227413
+      ],
+      "areas": [
+        "Deoraha",
+        "Bhimi Pachchhim",
+        "Kasara",
+        "Chandheria",
+        "Karaundi",
+        "Karnaipur",
+        "Shivgarh Jalalpur",
+        "Tikarmafi"
+      ],
+      "keywords": [
+        "Shivgarh",
+        "Region"
+      ],
+      "id": "amethi_8"
+    },
+    {
+      "name": "Gaura Jamon Cluster",
+      "pincodes": [
+        227801
+      ],
+      "areas": [
+        "Balbhadrapur",
+        "Nimi",
+        "Ram Bax Garh",
+        "Parbatpur",
+        "Bhatgawan",
+        "Katari",
+        "Gaura Jamon",
+        "Baraulia",
+        "Bhoen",
+        "Gaura Katari",
+        "Hargaon",
+        "Angrawan",
+        "Mawai",
+        "Resi",
+        "Sukhi Bajgarh",
+        "Achalpur",
+        "Sambhai",
+        "Sarme",
+        "Umra Dih"
+      ],
+      "keywords": [
+        "Gaura",
+        "Jamon"
+      ],
+      "id": "amethi_9"
+    },
+    {
+      "name": "Kasthuni Area",
+      "pincodes": [
+        227805
+      ],
+      "areas": [
+        "Purab Kasthuni"
+      ],
+      "keywords": [
+        "Kasthuni",
+        "Area"
+      ],
+      "id": "amethi_10"
+    },
+    {
+      "name": "Bisara Pashchim Zone",
+      "pincodes": [
+        227807
+      ],
+      "areas": [
+        "Bisara Pashchim",
+        "Bhikhipur",
+        "Harkaranpur",
+        "Mayas",
+        "Nayakot Dharauli",
+        "Pindara",
+        "Barehti",
+        "Hardoia",
+        "Gunnaur"
+      ],
+      "keywords": [
+        "Bisara",
+        "Pashchim"
+      ],
+      "id": "amethi_11"
+    },
+    {
+      "name": "Maharajganj Area",
+      "pincodes": [
+        227808
+      ],
+      "areas": [
+        "Mahrajganj"
+      ],
+      "keywords": [
+        "Maharajganj",
+        "Area"
+      ],
+      "id": "amethi_12"
+    },
+    {
+      "name": "Jagdishpur Zone",
+      "pincodes": [
+        227809
+      ],
+      "areas": [
+        "Saresar",
+        "Domadih",
+        "Jagesarganj",
+        "Kamrauli",
+        "Naudand",
+        "Hari Mau",
+        "Muhammadpur",
+        "Rasulpur",
+        "Jagdishpur SO Sultanpur",
+        "Gai Mau",
+        "Goriabad",
+        "Rajkheta",
+        "Dulari Nagar",
+        "Mangauli",
+        "Sidhiawan",
+        "Sindurwa"
+      ],
+      "keywords": [
+        "Jagdishpur",
+        "Zone"
+      ],
+      "id": "amethi_13"
+    },
+    {
+      "name": "Sukul Ka Bazar Cluster",
+      "pincodes": [
+        227811
+      ],
+      "areas": [
+        "Mardanpur",
+        "Teosi",
+        "Harkhumau",
+        "Seora",
+        "Sukul Ka Bazar",
+        "Kisni",
+        "Pali",
+        "Sansarpur",
+        "Unchgaon",
+        "Mahona",
+        "Phatefpur",
+        "Dakkhingaon"
+      ],
+      "keywords": [
+        "Sukul",
+        "Bazar"
+      ],
+      "id": "amethi_14"
+    },
+    {
+      "name": "Musafirkhana Region",
+      "pincodes": [
+        227813
+      ],
+      "areas": [
+        "Sadipur",
+        "Adhanpur",
+        "Purab Bisara",
+        "Asarfpur",
+        "Dadra",
+        "Gajanpur Duaria",
+        "Pichhaura",
+        "Musafirkhana",
+        "Aurangabad",
+        "Bhanauli",
+        "Chanauki",
+        "Imligaon Chupi",
+        "Rasulabad",
+        "Rudauli",
+        "Isauli"
+      ],
+      "keywords": [
+        "Musafirkhana",
+        "Region"
+      ],
+      "id": "amethi_15"
+    },
+    {
+      "name": "Thauri Area",
+      "pincodes": [
+        227815
+      ],
+      "areas": [
+        "Pichhuti",
+        "Purab Gaon",
+        "Thauri"
+      ],
+      "keywords": [
+        "Thauri",
+        "Area"
+      ],
+      "id": "amethi_16"
+    },
+    {
+      "name": "Raniganj Zone",
+      "pincodes": [
+        227816
+      ],
+      "areas": [
+        "Kankupur",
+        "Makhdoompur",
+        "Raniganj SO Sultanpur",
+        "Baharpur",
+        "Deokali",
+        "Sathyain",
+        "Hussainganj Kala",
+        "Mangrauli",
+        "Tanda",
+        "Barsanda",
+        "Durgapur",
+        "Kalyanpur",
+        "Mahemau",
+        "Mau Atwara",
+        "Sonari"
+      ],
+      "keywords": [
+        "Raniganj",
+        "Zone"
+      ],
+      "id": "amethi_17"
+    },
+    {
+      "name": "Jagdishpur Industrial Area",
+      "pincodes": [
+        227817
+      ],
+      "areas": [
+        "Jagdishpur Industrial Area"
+      ],
+      "keywords": [
+        "Jagdishpur",
+        "Industrial"
+      ],
+      "id": "amethi_18"
+    },
+    {
+      "name": "Trisundi Region",
+      "pincodes": [
+        228159
+      ],
+      "areas": [
+        "Mangra",
+        "CRPF CAMP TRISUNDI",
+        "Ramganj SO Sultanpur",
+        "Mochwa",
+        "Trisuli",
+        "Bhewain",
+        "Piparpur",
+        "Dhema"
+      ],
+      "keywords": [
+        "Trisundi",
+        "Region"
+      ],
+      "id": "amethi_19"
+    },
+    {
+      "name": "Akbarpur Pharsi Cluster",
+      "pincodes": [
+        229126
+      ],
+      "areas": [
+        "Khekharua",
+        "Rampur Pawara",
+        "Akbarpur Pharsi",
+        "Semrauta"
+      ],
+      "keywords": [
+        "Akbarpur",
+        "Pharsi"
+      ],
+      "id": "amethi_20"
+    },
+    {
+      "name": "Aharwabhawani Area",
+      "pincodes": [
+        229135
+      ],
+      "areas": [
+        "Panhauna",
+        "Satanpurwa",
+        "Khara",
+        "Rukunpur",
+        "Aharwabhawani"
+      ],
+      "keywords": [
+        "Aharwabhawani",
+        "Area"
+      ],
+      "id": "amethi_21"
+    },
+    {
+      "name": "Fursatganj Zone",
+      "pincodes": [
+        229302
+      ],
+      "areas": [
+        "Pure Wade Singh",
+        "Sarwan",
+        "Tenduwa",
+        "Fursatganj",
+        "Samrahda",
+        "Kotwarmau",
+        "Pirhi",
+        "Nigoha",
+        "Tinera"
+      ],
+      "keywords": [
+        "Fursatganj",
+        "Zone"
+      ],
+      "id": "amethi_22"
+    },
+    {
+      "name": "Singhpur Region",
+      "pincodes": [
+        229304
+      ],
+      "areas": [
+        "Sarain Mahesha",
+        "Shahmau",
+        "Singhpur",
+        "Harbansganj",
+        "Mohna",
+        "Udwa Hemrajpur",
+        "Kura",
+        "Odari",
+        "Tama Mau"
+      ],
+      "keywords": [
+        "Singhpur",
+        "Region"
+      ],
+      "id": "amethi_23"
+    },
+    {
+      "name": "Jais City Cluster",
+      "pincodes": [
+        229305
+      ],
+      "areas": [
+        "Jais",
+        "Kasimpur",
+        "Jais City",
+        "Wahabganj"
+      ],
+      "keywords": [
+        "Jais",
+        "City"
+      ],
+      "id": "amethi_24"
+    },
+    {
+      "name": "Bhadsana Area",
+      "pincodes": [
+        229306
+      ],
+      "areas": [
+        "Bhadsana",
+        "Ondeeh"
+      ],
+      "keywords": [
+        "Bhadsana",
+        "Area"
+      ],
+      "id": "amethi_25"
+    },
+    {
+      "name": "Mohanganj Zone",
+      "pincodes": [
+        229309
+      ],
+      "areas": [
+        "Ahuri",
+        "Chetra Bujurg",
+        "Gardehri",
+        "Jai Nagra",
+        "Kamai",
+        "Mohanganj",
+        "Pakargaon",
+        "Phoola",
+        "Rajamau",
+        "Barkot",
+        "Chiluli",
+        "Fatehpur",
+        "Haswa",
+        "Jamurwa",
+        "Khanapur Chapra",
+        "Kutumra",
+        "Rastamau",
+        "Shankarganj",
+        "Tiloi",
+        "Bhawani Nagar",
+        "Khanaipur Karangaon",
+        "Mattepur",
+        "Bahua",
+        "Gokula",
+        "Merdhauna",
+        "Saimbasi"
+      ],
+      "keywords": [
+        "Mohanganj",
+        "Zone"
+      ],
+      "id": "amethi_26"
+    },
+    {
+      "name": "Inhauna Cluster",
+      "pincodes": [
+        229801
+      ],
+      "areas": [
+        "Banbharia",
+        "Jijauli",
+        "Inhauna",
+        "Kathaura",
+        "Chilauli",
+        "Kotwa"
+      ],
+      "keywords": [
+        "Inhauna",
+        "Cluster"
+      ],
+      "id": "amethi_27"
+    },
+    {
+      "name": "Sheoratanganj Region",
+      "pincodes": [
+        229802
+      ],
+      "areas": [
+        "Lauli",
+        "Sheoratanganj",
+        "Basantpur",
+        "Kharwan",
+        "Kusumbhi",
+        "Kukha Rampur",
+        "Jagatpur",
+        "Mahia Senduria"
+      ],
+      "keywords": [
+        "Sheoratanganj",
+        "Region"
+      ],
+      "id": "amethi_28"
+    },
+    {
+      "name": "Sangrampur Area",
+      "pincodes": [
+        230501
+      ],
+      "areas": [
+        "Sangrampur"
+      ],
+      "keywords": [
+        "Sangrampur",
+        "Area"
+      ],
+      "id": "amethi_29"
+    }
+  ]
+}

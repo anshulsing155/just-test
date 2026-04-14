@@ -1,0 +1,480 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Mirzapur",
+  "city": "Mirzapur",
+  "summary": "",
+  "total_areas": 263,
+  "total_pincodes": 16,
+  "zones": [
+    {
+      "name": "Mirzapur City",
+      "pincodes": [
+        231001
+      ],
+      "areas": [
+        "Mirzapur Chowk",
+        "Mirzapur Kutchery",
+        "Industrial Estate SO Mirzapur",
+        "Laldiggi",
+        "Wellesly Ganj",
+        "Mirzapur City",
+        "Mirzapur",
+        "Ganesh Ganj SO Mirzapur"
+      ],
+      "keywords": [
+        "City Center",
+        "Commercial Hub"
+      ],
+      "id": "mirzapur_1"
+    },
+    {
+      "name": "Marihan Region",
+      "pincodes": [
+        231210
+      ],
+      "areas": [
+        "Baghaura",
+        "Devpura",
+        "Rampur 38",
+        "Haran Khudi",
+        "Kalwari Mafi",
+        "Semara Baraho",
+        "Phulwari",
+        "Murtiya",
+        "Vardiya",
+        "Gopalpur",
+        "Paide",
+        "Bimauri",
+        "Korat",
+        "Dhauraha",
+        "Marihan",
+        "Khad Deur",
+        "Jethi Sirsiya",
+        "Magardaha",
+        "Hinauta",
+        "Jamui",
+        "Lalpur Naudiha",
+        "Patehara Khurd",
+        "Raikara",
+        "Guruwal",
+        "Mungehari",
+        "Dhurkar",
+        "Dhansiriya",
+        "Rajgarh",
+        "Mukkha",
+        "Deogarh",
+        "Lusa"
+      ],
+      "keywords": [
+        "Rural Cluster",
+        "Agricultural Area"
+      ],
+      "id": "mirzapur_2"
+    },
+    {
+      "name": "Lalganj and Surroundings",
+      "pincodes": [
+        231211
+      ],
+      "areas": [
+        "Babura Kala",
+        "Bhaisod Balay Pahad",
+        "Hallia",
+        "Hardi Gulalpur",
+        "Lahangpur",
+        "Navgawan",
+        "Gurgi",
+        "Majhiyar",
+        "Lalapur",
+        "Nandana",
+        "Banjari Kala",
+        "Kharihat Kalan",
+        "Bedaur",
+        "Bilra Patehara",
+        "Dubarkala",
+        "Harra",
+        "Karodhiya",
+        "Aura",
+        "Rampur Madwa",
+        "Naidi Mod",
+        "Kolkam",
+        "Semariya",
+        "Lalganj Mirzapur",
+        "Ahungi Kala",
+        "Barbasa Gaharwar",
+        "Kanokhar",
+        "Pipra",
+        "Usari Khamaria",
+        "Songada",
+        "Rani Bari",
+        "Bardiha",
+        "Madhugadh",
+        "Baraudha Belan",
+        "Bardiha Kala",
+        "Dramandganj",
+        "Nadaulikaraundi",
+        "Patulki",
+        "Tilaon",
+        "Tita",
+        "Barkachh",
+        "Kathwar",
+        "Beerpur",
+        "Amaha Mafi",
+        "Kota Shiv Pratap Singh",
+        "Matwar",
+        "Pavari Kala",
+        "Rehi",
+        "Chitrang",
+        "Jaikar",
+        "Chak - Kotar",
+        "Cheruiram Jailal"
+      ],
+      "keywords": [
+        "Rural Cluster",
+        "Lalganj"
+      ],
+      "id": "mirzapur_3"
+    },
+    {
+      "name": "Ahraura and Vicinity",
+      "pincodes": [
+        231301
+      ],
+      "areas": [
+        "Ekali",
+        "Ghatampur",
+        "Hussainpur",
+        "Kudaran",
+        "Sariya",
+        "Adhwar",
+        "Ahraura"
+      ],
+      "keywords": [
+        "Ahraura",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_4"
+    },
+    {
+      "name": "Adalhat Region",
+      "pincodes": [
+        231302
+      ],
+      "areas": [
+        "Gothaura",
+        "Bahuar",
+        "Chaturipur",
+        "Derhauna",
+        "Khadehara",
+        "Surahan",
+        "Bhaipur Kala",
+        "Pidkhir",
+        "Ori",
+        "Adalhat",
+        "Bhuelikhas",
+        "Ghanshyampur",
+        "Jamalpur",
+        "Manaur",
+        "Pachegada",
+        "Pathraura",
+        "Sherwa"
+      ],
+      "keywords": [
+        "Adalhat",
+        "Rural Cluster"
+      ],
+      "id": "mirzapur_5"
+    },
+    {
+      "name": "Bijaipur and Surroundings",
+      "pincodes": [
+        231303
+      ],
+      "areas": [
+        "Nadini",
+        "Nibi Gaharwar",
+        "Supantha",
+        "Bijaipur SO Mirzapur",
+        "Kushhan",
+        "Bihsada",
+        "Birohi",
+        "Kalna",
+        "Kamapur",
+        "Biraura",
+        "Dadwan Pakseda"
+      ],
+      "keywords": [
+        "Bijaipur",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_6"
+    },
+    {
+      "name": "Chunar and Vicinity",
+      "pincodes": [
+        231304
+      ],
+      "areas": [
+        "Bharehata",
+        "Darhiram",
+        "Lahaura",
+        "Pahadi",
+        "Rudauli",
+        "Sarson Gram",
+        "Shakteshgarh",
+        "Samaspur",
+        "Bakiyabad",
+        "Van Imiliya",
+        "Rampur",
+        "Bagahi",
+        "Jalalpur Mafi",
+        "Kolna",
+        "Media",
+        "Mohanpur Bhavrakh",
+        "Nakati Mishrauli",
+        "Patihata",
+        "Sindhora",
+        "Thiresapur",
+        "Manoharpur",
+        "Matihani",
+        "Chunar",
+        "Bharpura",
+        "Chunar Rly Station",
+        "Gangpur",
+        "Kandawa",
+        "Khanjadipur",
+        "Raipuria",
+        "Belwan",
+        "Bahera",
+        "Pachokhar",
+        "Basaratpur",
+        "Hinauti",
+        "Kusumhi",
+        "Padari",
+        "Tendua Kala",
+        "Chhitampur",
+        "Gaura Raja",
+        "Maalpur",
+        "Bhawanipur",
+        "Bhudkuda",
+        "Jamuhar",
+        "Kathinai",
+        "Noonauti",
+        "Dhauha",
+        "Chunar Tehsil"
+      ],
+      "keywords": [
+        "Chunar",
+        "Historical Area"
+      ],
+      "id": "mirzapur_7"
+    },
+    {
+      "name": "Narainpur and Surroundings",
+      "pincodes": [
+        231305
+      ],
+      "areas": [
+        "Devaria",
+        "Rupaudha",
+        "Narainpur SO Mirzapur",
+        "Bangla Devaria",
+        "Chhota Mirzapur",
+        "Hariharpur",
+        "Jaipatti Kala",
+        "Kamalpur",
+        "Khajuraul",
+        "Kailhat Bazar",
+        "Agarsand",
+        "Domari",
+        "Purusottam Pur",
+        "Sher Pur",
+        "Pachevara",
+        "Shahpur"
+      ],
+      "keywords": [
+        "Narainpur",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_8"
+    },
+    {
+      "name": "Sikhar and Vicinity",
+      "pincodes": [
+        231306
+      ],
+      "areas": [
+        "Domanpur",
+        "Hansipur",
+        "Magarahan",
+        "Sikhar",
+        "Bagahan",
+        "Ramgarh Kiriyat",
+        "Khanpur"
+      ],
+      "keywords": [
+        "Sikhar",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_9"
+    },
+    {
+      "name": "Vindhyachal and Surroundings",
+      "pincodes": [
+        231307
+      ],
+      "areas": [
+        "Amoi",
+        "Chhatahan",
+        "Hariharpur Bedauli",
+        "Rajapur",
+        "Aksauli",
+        "Samogara",
+        "Vindhyachal",
+        "Mahuari Kala",
+        "BHU Campus",
+        "Akodhi",
+        "Babura",
+        "Dewari",
+        "Nakahara",
+        "Raipur Pokhta",
+        "Barkachha",
+        "Paidapur",
+        "Rajpur Amghat"
+      ],
+      "keywords": [
+        "Vindhyachal",
+        "Religious Site"
+      ],
+      "id": "mirzapur_10"
+    },
+    {
+      "name": "Sant Nagar and Surroundings",
+      "pincodes": [
+        231309
+      ],
+      "areas": [
+        "Padaria Kala",
+        "Dhori",
+        "Bahuti",
+        "Belahara",
+        "Kotwa",
+        "Sant Nagar",
+        "Gadwa",
+        "Rampur Atari",
+        "Deepnagar",
+        "Leduki",
+        "Kubari Patehara",
+        "Kakarad",
+        "Kanhaipur",
+        "Patharaul",
+        "Sirsi",
+        "Newadiya Kala"
+      ],
+      "keywords": [
+        "Sant Nagar",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_11"
+    },
+    {
+      "name": "Chunar Cement Factory",
+      "pincodes": [
+        231311
+      ],
+      "areas": [
+        "Chunar Cement Factory"
+      ],
+      "keywords": [
+        "Industrial Area"
+      ],
+      "id": "mirzapur_12"
+    },
+    {
+      "name": "Chilh and Surroundings",
+      "pincodes": [
+        231312
+      ],
+      "areas": [
+        "Balliparwa",
+        "Kholua",
+        "Mawaiya",
+        "Mujehara",
+        "Chilh",
+        "Tilthi",
+        "Kamasin"
+      ],
+      "keywords": [
+        "Chilh",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_13"
+    },
+    {
+      "name": "Jigna and Surroundings",
+      "pincodes": [
+        231313
+      ],
+      "areas": [
+        "Gogaon",
+        "Hargarh Bazar",
+        "Bajta",
+        "Gaura",
+        "Khaira",
+        "Dugauli",
+        "Jigna RS",
+        "Sri Niwas Dham"
+      ],
+      "keywords": [
+        "Jigna",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_14"
+    },
+    {
+      "name": "Jamua and Surroundings",
+      "pincodes": [
+        231314
+      ],
+      "areas": [
+        "Jamua SO Mirzapur",
+        "Nigatpur",
+        "Aahi"
+      ],
+      "keywords": [
+        "Jamua",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_15"
+    },
+    {
+      "name": "Kachhwa and Surroundings",
+      "pincodes": [
+        231501
+      ],
+      "areas": [
+        "Jalalpur",
+        "Sandwa",
+        "Baraini",
+        "Bhatauli",
+        "Gadauli",
+        "Gursandi",
+        "Mahamalpur",
+        "Meoli",
+        "Kachhwa SO Mirzapur",
+        "Bhainsa",
+        "Bidapur",
+        "Majhawan",
+        "Semari Khas",
+        "Birshahpur",
+        "Neorhia Ghat",
+        "Godhana"
+      ],
+      "keywords": [
+        "Kachhwa",
+        "Nearby Villages"
+      ],
+      "id": "mirzapur_16"
+    }
+  ]
+}

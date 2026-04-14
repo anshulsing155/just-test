@@ -1,0 +1,405 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Sant Kabeer Nagar",
+  "city": "Sant Kabeer Nagar",
+  "summary": "",
+  "total_areas": 187,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Dudhara Cluster",
+      "pincodes": [
+        272125
+      ],
+      "areas": [
+        "Burhi Belhar",
+        "Khatiyawan",
+        "Kusuru Khurd",
+        "Melan Khurd",
+        "Pakari Araji",
+        "Parsa Jhakaria",
+        "Hatwa",
+        "Dudhara",
+        "Bhivra",
+        "Chhagulia Bagulia",
+        "Mahani",
+        "Pachpokhari",
+        "Lauki Lala",
+        "Mudadeehabeg",
+        "Sangath",
+        "Bajahara",
+        "Jeodhara",
+        "Joorie",
+        "Sumha",
+        "Chhata",
+        "Pachawa"
+      ],
+      "keywords": [
+        "Dudhara",
+        "Burhi Belhar",
+        "Khatiyawan"
+      ],
+      "id": "sant kabeer nagar_1"
+    },
+    {
+      "name": "Semariyawan Cluster",
+      "pincodes": [
+        272126
+      ],
+      "areas": [
+        "Tilja",
+        "Banskhor Kalan",
+        "Danokuiya",
+        "Gunakhor",
+        "Babhni Misra",
+        "Bhagausa",
+        "Bhitiya",
+        "Dandwakala",
+        "Tinharimafi",
+        "Kohriyawan",
+        "Semariyawan"
+      ],
+      "keywords": [
+        "Semariyawan",
+        "Banskhor Kalan",
+        "Gunakhor"
+      ],
+      "id": "sant kabeer nagar_2"
+    },
+    {
+      "name": "Chiraiha Cluster",
+      "pincodes": [
+        272148
+      ],
+      "areas": [
+        "Kaitholia",
+        "Manaitapur",
+        "Pipra Pratham",
+        "Chiraiha"
+      ],
+      "keywords": [
+        "Chiraiha",
+        "Kaitholia",
+        "Manaitapur"
+      ],
+      "id": "sant kabeer nagar_3"
+    },
+    {
+      "name": "Agiyauna",
+      "pincodes": [
+        272152
+      ],
+      "areas": [
+        "Agiyauna"
+      ],
+      "keywords": [
+        "Agiyauna"
+      ],
+      "id": "sant kabeer nagar_4"
+    },
+    {
+      "name": "Mahui Nankar Cluster",
+      "pincodes": [
+        272154
+      ],
+      "areas": [
+        "Banauli",
+        "Belrai",
+        "Mahui Nankar",
+        "Menhdupar",
+        "Tikur",
+        "Baur Byas",
+        "Dharamsinghwa",
+        "Khajuri",
+        "Kudja",
+        "Mushahara",
+        "Pendari Buzurg",
+        "Dumaria Buzurg",
+        "Kalnakhor",
+        "Sakarpar"
+      ],
+      "keywords": [
+        "Mahui Nankar",
+        "Banauli",
+        "Belrai"
+      ],
+      "id": "sant kabeer nagar_5"
+    },
+    {
+      "name": "Dhanghata Cluster",
+      "pincodes": [
+        272162
+      ],
+      "areas": [
+        "Chaparaghat",
+        "Pauli",
+        "Sanichara Bazar",
+        "Semardadi",
+        "Dhanghata",
+        "Chapra Magarvi",
+        "Dihwa",
+        "Govind Ganj",
+        "Rampur Barakoni",
+        "Madhopur",
+        "Takiya",
+        "Umariya Bazar",
+        "Umariya Pandey",
+        "Ashraf Pur",
+        "Marpauna",
+        "Rosaya Bazar"
+      ],
+      "keywords": [
+        "Dhanghata",
+        "Chaparaghat",
+        "Pauli"
+      ],
+      "id": "sant kabeer nagar_6"
+    },
+    {
+      "name": "Hariharpur Cluster",
+      "pincodes": [
+        272164
+      ],
+      "areas": [
+        "Tumpar",
+        "Bhagata",
+        "Devapar",
+        "Tamakhas",
+        "Taraini",
+        "Hariharpur",
+        "Dhanjwsal",
+        "Govindpur",
+        "Popaya",
+        "Vishwanathpur",
+        "Belduha",
+        "Chandrahar",
+        "Molnapur"
+      ],
+      "keywords": [
+        "Hariharpur",
+        "Tumpar",
+        "Devapar"
+      ],
+      "id": "sant kabeer nagar_7"
+    },
+    {
+      "name": "Hainsar Bazar Cluster",
+      "pincodes": [
+        272165
+      ],
+      "areas": [
+        "Bhainsa Khoont",
+        "Bharwal Parvata",
+        "Ghorang",
+        "Katarsoyam",
+        "Tanda",
+        "Tighra",
+        "Tama",
+        "Hainsar Bazar",
+        "Auradand",
+        "Babhnauli",
+        "Baridiha",
+        "Barparwa",
+        "Rajnauli",
+        "Bakainia",
+        "Devri",
+        "Jigina",
+        "Malauli",
+        "Baijnathpur",
+        "Mundera Shukul",
+        "Sirsi"
+      ],
+      "keywords": [
+        "Hainsar Bazar",
+        "Bhainsa Khoont",
+        "Bharwal Parvata"
+      ],
+      "id": "sant kabeer nagar_8"
+    },
+    {
+      "name": "Mahuli Cluster",
+      "pincodes": [
+        272172
+      ],
+      "areas": [
+        "Lutuhi",
+        "Siktaha",
+        "Siswania",
+        "Taryapar",
+        "Chhitahi",
+        "Mahuli"
+      ],
+      "keywords": [
+        "Mahuli",
+        "Lutuhi",
+        "Siktaha"
+      ],
+      "id": "sant kabeer nagar_9"
+    },
+    {
+      "name": "Maghar Cluster",
+      "pincodes": [
+        272173
+      ],
+      "areas": [
+        "Asharfa Bad",
+        "Padaria",
+        "Rasula Bad",
+        "Maghar",
+        "Girdhar Pur"
+      ],
+      "keywords": [
+        "Maghar",
+        "Asharfa Bad",
+        "Padaria"
+      ],
+      "id": "sant kabeer nagar_10"
+    },
+    {
+      "name": "Khalilabad Cluster",
+      "pincodes": [
+        272175
+      ],
+      "areas": [
+        "Chakdahi",
+        "Gangauli",
+        "Koni",
+        "Jagdishpur Urf Lahuradeva",
+        "TNDeoria",
+        "Umari Kalan",
+        "Khalilabad",
+        "Shivapar",
+        "Baghauli",
+        "Bania Bari",
+        "Ekma",
+        "Gandhigram",
+        "Meerganj",
+        "Sikari",
+        "Bargo",
+        "Bhujaini",
+        "Gorhi",
+        "Misraulia",
+        "Pakhuwapar",
+        "Utrawal",
+        "Atraura",
+        "Deegha",
+        "Dhamaicha",
+        "Ghatramha",
+        "Samdaha",
+        "Sugapankhi",
+        "Khalilabad Bus Stand"
+      ],
+      "keywords": [
+        "Khalilabad",
+        "Chakdahi",
+        "Gangauli"
+      ],
+      "id": "sant kabeer nagar_11"
+    },
+    {
+      "name": "Ganpatganj Cluster",
+      "pincodes": [
+        272176
+      ],
+      "areas": [
+        "Kali Jagdishpur",
+        "Dhaurepar",
+        "Ganpatganj",
+        "Gaighat",
+        "Nukta",
+        "Deokali Kala",
+        "Dhobbhara",
+        "Revta",
+        "Bhainsahi",
+        "Mahobara",
+        "Mukhlishpur",
+        "Onia",
+        "Pindia Bazar"
+      ],
+      "keywords": [
+        "Ganpatganj",
+        "Kali Jagdishpur",
+        "Dhaurepar"
+      ],
+      "id": "sant kabeer nagar_12"
+    },
+    {
+      "name": "Bakhira Cluster",
+      "pincodes": [
+        272199
+      ],
+      "areas": [
+        "Kopia",
+        "Bhagwanpur",
+        "Ghenchuwa",
+        "Santoshpur",
+        "Belhasa",
+        "Nandaur",
+        "Pakaria",
+        "Ramwapur",
+        "Sitikar",
+        "Sai Buzurg",
+        "Bakhira"
+      ],
+      "keywords": [
+        "Bakhira",
+        "Kopia",
+        "Bhagwanpur"
+      ],
+      "id": "sant kabeer nagar_13"
+    },
+    {
+      "name": "Santha Cluster",
+      "pincodes": [
+        272270
+      ],
+      "areas": [
+        "Kotia Urf Sekhui",
+        "Loharsan",
+        "Bhainsamafi",
+        "Karma Kalan",
+        "Bhataura",
+        "Narayanpur",
+        "Santha",
+        "Belhar Kala"
+      ],
+      "keywords": [
+        "Santha",
+        "Kotia Urf Sekhui",
+        "Loharsan"
+      ],
+      "id": "sant kabeer nagar_14"
+    },
+    {
+      "name": "Menhdawal Cluster",
+      "pincodes": [
+        272271
+      ],
+      "areas": [
+        "Bisauwa",
+        "Karmaini",
+        "Sxande Khurd",
+        "Gagnai Rao",
+        "Gulariha",
+        "Kauwathore",
+        "Naugo",
+        "Pachneori",
+        "Bhatauli",
+        "Bhitia Kala",
+        "Ghurapali",
+        "Jamohara",
+        "Menhdawal",
+        "Barhya",
+        "Belauli",
+        "Jaswal",
+        "Kudwa"
+      ],
+      "keywords": [
+        "Menhdawal",
+        "Bisauwa",
+        "Karmaini"
+      ],
+      "id": "sant kabeer nagar_15"
+    }
+  ]
+}

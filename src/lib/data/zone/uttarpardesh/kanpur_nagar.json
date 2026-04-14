@@ -1,0 +1,599 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kanpur Nagar",
+  "city": "Kanpur Nagar",
+  "summary": "",
+  "total_areas": 281,
+  "total_pincodes": 43,
+  "zones": [
+    {
+      "name": "Kanpur Central",
+      "pincodes": [
+        208001,
+        208002
+      ],
+      "areas": [
+        "Cotton Mill",
+        "Gwaltoli",
+        "Kanpur West",
+        "Maholi",
+        "Birhana Raod",
+        "Colonelganj SO Kanpur Nagar",
+        "Fahimabad",
+        "Farrashkhana",
+        "Hatia SO Kanpur Nagar",
+        "Kanpur Court",
+        "Nayaganj",
+        "K M Street",
+        "Naveen Market",
+        "B N Shukla Sons",
+        "Dhankutti",
+        "Oe Factory",
+        "Philkhana",
+        "Elgin Mills",
+        "Hbti",
+        "Swarup Nagar",
+        "Nawabganj",
+        "Gsvm Medical College",
+        "Motijheel SO Kanpur Nagar",
+        "Agriculture College",
+        "Arya Nagar SO Kanpur Nagar",
+        "N C Line",
+        "Purana Kanpur",
+        "Employeement Exchange"
+      ],
+      "keywords": [
+        "Central",
+        "Downtown",
+        "Commercial Hub"
+      ],
+      "id": "kanpur nagar_1"
+    },
+    {
+      "name": "Govind Nagar",
+      "pincodes": [
+        208005,
+        208006
+      ],
+      "areas": [
+        "Hns Nagar",
+        "Sarvodaya Nagar",
+        "Shivaji Nagar SO Kanpur Nagar",
+        "Vijai Nagar SO Kanpur Nagar",
+        "Govind Nagar West",
+        "Govind Nagar SO Kanpur Nagar"
+      ],
+      "keywords": [
+        "Residential",
+        "Govind Nagar"
+      ],
+      "id": "kanpur nagar_2"
+    },
+    {
+      "name": "Kanpur Cantt",
+      "pincodes": [
+        208003,
+        208004
+      ],
+      "areas": [
+        "Chauki Jarib",
+        "Anwarganj",
+        "Khapra Mohal",
+        "Meerpur Cantt",
+        "Napier Road",
+        "Railganj",
+        "Kanpur Cantt",
+        "Narona Exchange"
+      ],
+      "keywords": [
+        "Cantonment",
+        "Military Area"
+      ],
+      "id": "kanpur nagar_3"
+    },
+    {
+      "name": "Krishna Nagar",
+      "pincodes": [
+        208007,
+        208008
+      ],
+      "areas": [
+        "Krishna Nagar SO Kanpur Nagar",
+        "Gandhi Grame",
+        "Hal Colony",
+        "Harjinder Nagar",
+        "Cambridge Road",
+        "Chakeri Aerodrum",
+        "CAT"
+      ],
+      "keywords": [
+        "Residential",
+        "Krishna Nagar"
+      ],
+      "id": "kanpur nagar_4"
+    },
+    {
+      "name": "Armapore Estate",
+      "pincodes": [
+        208009,
+        208010
+      ],
+      "areas": [
+        "Armapore",
+        "Armapore Estate",
+        "J K Puri",
+        "Shiwans Tanney"
+      ],
+      "keywords": [
+        "Industrial",
+        "Armapore"
+      ],
+      "id": "kanpur nagar_5"
+    },
+    {
+      "name": "Kidwai Nagar",
+      "pincodes": [
+        208011,
+        208012
+      ],
+      "areas": [
+        "Anand Nagar SO Kanpur Nagar",
+        "Yashoda Nagar",
+        "RBI Colony",
+        "Kidwai Nagar SO Kanpur Nagar",
+        "D O Oil Mill",
+        "Industrial Estate SO Kanpur Nagar",
+        "Jawahar Nagar SO Kanpur Nagar",
+        "Kaushalpuri",
+        "Sisamau",
+        "R K Nagar SO Kanpur Nagar",
+        "Rambagh SO Kanpur Nagar"
+      ],
+      "keywords": [
+        "Residential",
+        "Kidwai Nagar"
+      ],
+      "id": "kanpur nagar_6"
+    },
+    {
+      "name": "Shyam Nagar",
+      "pincodes": [
+        208013,
+        208014
+      ],
+      "areas": [
+        "Shyam Nagar SO Kanpur Nagar",
+        "COD SO Kanpur Nagar",
+        "Dmsrde",
+        "Juhi Colony",
+        "Nirala Nagar"
+      ],
+      "keywords": [
+        "Residential",
+        "Shyam Nagar"
+      ],
+      "id": "kanpur nagar_7"
+    },
+    {
+      "name": "IIT Kanpur",
+      "pincodes": [
+        208015,
+        208016
+      ],
+      "areas": [
+        "New Pac Lines",
+        "Iit"
+      ],
+      "keywords": [
+        "Educational",
+        "IIT"
+      ],
+      "id": "kanpur nagar_8"
+    },
+    {
+      "name": "Kalyanpur",
+      "pincodes": [
+        208017,
+        208019
+      ],
+      "areas": [
+        "Avas Vikas Yojna No 3",
+        "Nsi",
+        "Kalyanpur SO Kanpur Nagar",
+        "Keshav Puram SO Kanpur Nagar",
+        "Kheora",
+        "Bairi Akbarpur",
+        "Rawatpur",
+        "Syyed Nagar Post Office"
+      ],
+      "keywords": [
+        "Residential",
+        "Kalyanpur"
+      ],
+      "id": "kanpur nagar_9"
+    },
+    {
+      "name": "Panki",
+      "pincodes": [
+        208020,
+        208022
+      ],
+      "areas": [
+        "Panki SO Kanpur Nagar",
+        "Panki Ganga Ganj",
+        "Ratan Lal Nagar",
+        "Udyog Nagar SO Kanpur Nagar"
+      ],
+      "keywords": [
+        "Industrial",
+        "Panki"
+      ],
+      "id": "kanpur nagar_10"
+    },
+    {
+      "name": "Naubasta",
+      "pincodes": [
+        208021,
+        208023
+      ],
+      "areas": [
+        "Sanigawan",
+        "Taudhakpur",
+        "Kasigaon",
+        "Kathongar",
+        "Naubasta",
+        "Pipergaon",
+        "N H Road",
+        "T P Nagar",
+        "Munshipurwa"
+      ],
+      "keywords": [
+        "Residential",
+        "Naubasta"
+      ],
+      "id": "kanpur nagar_11"
+    },
+    {
+      "name": "Kalyanpur University",
+      "pincodes": [
+        208024,
+        208025
+      ],
+      "areas": [
+        "Bima Vihar",
+        "K P University",
+        "Saketpuri",
+        "Naveen Nagar"
+      ],
+      "keywords": [
+        "Educational",
+        "University"
+      ],
+      "id": "kanpur nagar_12"
+    },
+    {
+      "name": "Barra",
+      "pincodes": [
+        208026,
+        208027
+      ],
+      "areas": [
+        "Indira Nagar SO Kanpur Nagar",
+        "Barra",
+        "Barra Vishwa Bank SectorA"
+      ],
+      "keywords": [
+        "Residential",
+        "Barra"
+      ],
+      "id": "kanpur nagar_13"
+    },
+    {
+      "name": "NDC Kanpur",
+      "pincodes": [
+        208028
+      ],
+      "areas": [
+        "NDC Kanpur"
+      ],
+      "keywords": [
+        "Industrial",
+        "NDC"
+      ],
+      "id": "kanpur nagar_14"
+    },
+    {
+      "name": "Bilhaur",
+      "pincodes": [
+        209121,
+        209202
+      ],
+      "areas": [
+        "Durooli",
+        "Aurotahar Pur",
+        "Makanpur",
+        "Aakeen",
+        "Araul",
+        "Baranda",
+        "Pihani Majbootnagar",
+        "Tisti",
+        "Oriya",
+        "Maujampur",
+        "Nanamau",
+        "BILHAUR",
+        "Devha",
+        "Kakwan",
+        "Nashirapur",
+        "Anaie",
+        "Anta",
+        "Aurangpur Gahdeva",
+        "Bachhna",
+        "Bedi Alipur",
+        "Gajna",
+        "Kamsaan",
+        "Khera Kurshi",
+        "Uttha",
+        "Bakothi",
+        "Rahimpur Bisdhan"
+      ],
+      "keywords": [
+        "Rural",
+        "Bilhaur"
+      ],
+      "id": "kanpur nagar_15"
+    },
+    {
+      "name": "Chaubepur",
+      "pincodes": [
+        209203,
+        209205
+      ],
+      "areas": [
+        "Gabdaha",
+        "Rautapur Kalan",
+        "Tari Pathakpur",
+        "Gauri Bhagwantpur",
+        "Ghanshyampur",
+        "Sarai Gadewa",
+        "Chaubepur",
+        "Malon",
+        "Chhatarpur",
+        "Bhausana",
+        "Sambhalpur",
+        "Sheorajpur",
+        "Bhaisau",
+        "Kakoopur"
+      ],
+      "keywords": [
+        "Rural",
+        "Chaubepur"
+      ],
+      "id": "kanpur nagar_16"
+    },
+    {
+      "name": "Ghatampur",
+      "pincodes": [
+        209206,
+        209209
+      ],
+      "areas": [
+        "Gujela",
+        "Jajpur",
+        "Korea",
+        "Nauranga",
+        "Rar",
+        "Kotra Makrandpur",
+        "Anupur",
+        "Baripal",
+        "Dharmangadpur",
+        "Bara Daulatpur",
+        "Bhadras",
+        "Itrra",
+        "Parachand",
+        "Srinagar",
+        "Ratanpur",
+        "Bibipur",
+        "Chanwar",
+        "Kuwankhera",
+        "Pras",
+        "Rawaipur",
+        "Roop Nagar",
+        "Sadar Bazar Ghatampur",
+        "Shambuhi",
+        "Bari Mahtaen",
+        "Bhadwara",
+        "Dhamna Bujurg",
+        "Kohara",
+        "Revna",
+        "Gucchupur",
+        "Ghatampur",
+        "Akbarpur Birbal",
+        "Asdhna",
+        "Harbansh Pur",
+        "Kaitha",
+        "Patrsa",
+        "Sajeti",
+        "Pasikhera",
+        "Behta Bujurg",
+        "Birhar",
+        "Pahewa",
+        "BBGaon",
+        "Umri",
+        "Bauhar",
+        "Rawatpur Chaudhriyan",
+        "Virsinghpur"
+      ],
+      "keywords": [
+        "Rural",
+        "Ghatampur"
+      ],
+      "id": "kanpur nagar_17"
+    },
+    {
+      "name": "Ramaipur",
+      "pincodes": [
+        209210,
+        209214
+      ],
+      "areas": [
+        "Radhan EUP5857",
+        "Dudwa",
+        "Sugarardeva EUP 9346",
+        "Uttaripura",
+        "Saibasu",
+        "Beeramau",
+        "Nadiha",
+        "Jamu",
+        "Katherua",
+        "Ramaipur",
+        "Bharu",
+        "Chaurai",
+        "Dehli Ujagar",
+        "Kathara",
+        "Sapai",
+        "Sirhi Itra",
+        "Majhawan",
+        "Gayatri Seedh Peeth Khadeshar",
+        "Kadari Champatpur",
+        "Kaindha",
+        "Bidhnoo",
+        "Udaipur",
+        "Deosarh",
+        "Hardauli"
+      ],
+      "keywords": [
+        "Rural",
+        "Ramaipur"
+      ],
+      "id": "kanpur nagar_18"
+    },
+    {
+      "name": "Bithoor",
+      "pincodes": [
+        209217,
+        209304
+      ],
+      "areas": [
+        "Pem",
+        "Tikra",
+        "Itra",
+        "Mandhana",
+        "Naramau",
+        "Bithoor",
+        "Baikunthpur",
+        "Pachor",
+        "Tatya Ganj",
+        "Fatehpur Roshnai",
+        "Sachendi",
+        "Bisayakpur",
+        "Binour",
+        "Jugrajpur",
+        "Parsauli",
+        "Raipur Kukhat",
+        "Rania"
+      ],
+      "keywords": [
+        "Rural",
+        "Bithoor"
+      ],
+      "id": "kanpur nagar_19"
+    },
+    {
+      "name": "Bhimsen",
+      "pincodes": [
+        209305,
+        209307
+      ],
+      "areas": [
+        "Bhimsen",
+        "Bhairampur",
+        "Mardanpur",
+        "Chakarpur",
+        "Bhauti Pratappur",
+        "Senpara Paschim",
+        "Bhool",
+        "Maitha RS",
+        "Maitha",
+        "Surar"
+      ],
+      "keywords": [
+        "Rural",
+        "Bhimsen"
+      ],
+      "id": "kanpur nagar_20"
+    },
+    {
+      "name": "Patara",
+      "pincodes": [
+        209308,
+        209311
+      ],
+      "areas": [
+        "Raipur",
+        "Barnaow",
+        "Shambhuaa",
+        "Tilsada",
+        "Tejpur",
+        "Patara",
+        "Jahangirabad",
+        "Padari Lalpur",
+        "Targaonw",
+        "Girsi"
+      ],
+      "keywords": [
+        "Rural",
+        "Patara"
+      ],
+      "id": "kanpur nagar_21"
+    },
+    {
+      "name": "Narwal",
+      "pincodes": [
+        209401,
+        209402
+      ],
+      "areas": [
+        "Amour",
+        "Aranjhami",
+        "Harchandkhera",
+        "Sawaijpur",
+        "Semarjhal",
+        "Gazipur",
+        "Kudani",
+        "Nasra",
+        "Pali Bhogipur",
+        "Narwal",
+        "Bausar",
+        "Gopalpur",
+        "Baraigarh",
+        "Sarh",
+        "Behta Gambhirpur",
+        "Palhepur",
+        "Rasulpur Umra",
+        "Bhadrsa",
+        "Kamalpur",
+        "Prempur Badagaon",
+        "Mahua Gaon",
+        "Rooma",
+        "Hathigaon",
+        "Phuphuwar",
+        "Subhauli",
+        "Karbigvan",
+        "Maharajpur",
+        "Salempur",
+        "Tilsahari",
+        "Kulgaon",
+        "Bheoli",
+        "Sarsaul",
+        "Jarkala",
+        "Purwameer",
+        "Parasadepur"
+      ],
+      "keywords": [
+        "Rural",
+        "Narwal"
+      ],
+      "id": "kanpur nagar_22"
+    }
+  ]
+}

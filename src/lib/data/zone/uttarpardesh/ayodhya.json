@@ -1,0 +1,873 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Ayodhya",
+  "city": "Ayodhya",
+  "summary": "",
+  "total_areas": 365,
+  "total_pincodes": 36,
+  "zones": [
+    {
+      "name": "Faizabad City",
+      "pincodes": [
+        224001,
+        224133
+      ],
+      "areas": [
+        "Manapur",
+        "Faizabad City",
+        "Faizabad Kutchery",
+        "Kandhari Bazar",
+        "Lalbagh",
+        "Motibagah",
+        "Gadopur Majhwa",
+        "Mau Yaduwanshpur",
+        "Sariyawan",
+        "Dharamarg",
+        "Fatehganj",
+        "Mandi Samiti",
+        "Naka Muzzafra",
+        "Acharya Nagar",
+        "Janpad Chikitsalaya",
+        "Niywan",
+        "Sadar Bazar",
+        "Chirra Mohammad Pur",
+        "Deokali",
+        "Water Works",
+        "Sahadatganj",
+        "Faizabad Cantt",
+        "Faizabad RS",
+        "Ramnagar Colony",
+        "Mumtaj Nagar",
+        "Haripur Jalalabad",
+        "Kot Sarai",
+        "Gopalpur",
+        "Faizabad",
+        "Sahebganj",
+        "Jyoti Sadan",
+        "Dabha Samer"
+      ],
+      "keywords": [
+        "Faizabad",
+        "City Center",
+        "Market"
+      ],
+      "id": "ayodhya_1"
+    },
+    {
+      "name": "Rudauli",
+      "pincodes": [
+        224120,
+        224119
+      ],
+      "areas": [
+        "Rudauli",
+        "Aihar",
+        "Bari",
+        "Ferozpur Makhdoomi",
+        "Rudauli City",
+        "Tanda Sufi",
+        "Station Road Rudauli",
+        "Hariharpur Kayasthan",
+        "Neoti",
+        "Shahpur",
+        "Jakhauli",
+        "Rani Mau Bhatthi",
+        "Sithauli",
+        "Pure Kamgar",
+        "Giraunda",
+        "Hunhuna",
+        "Patranga RS"
+      ],
+      "keywords": [
+        "Rudauli",
+        "Market",
+        "Station"
+      ],
+      "id": "ayodhya_2"
+    },
+    {
+      "name": "Ayodhya",
+      "pincodes": [
+        224123
+      ],
+      "areas": [
+        "Gurukul",
+        "Raiganj",
+        "Ayodhya RS",
+        "Ayodhya",
+        "Swarg Dwar",
+        "Golaghat",
+        "Narain Ashram",
+        "Ranopali",
+        "Ramkot",
+        "Terhi Bazar"
+      ],
+      "keywords": [
+        "Ayodhya",
+        "Temple",
+        "Pilgrimage"
+      ],
+      "id": "ayodhya_3"
+    },
+    {
+      "name": "Bikapur",
+      "pincodes": [
+        224204
+      ],
+      "areas": [
+        "Ballipur",
+        "Saraibhanauli",
+        "Sohawal Saloni",
+        "Khapraila Bazar",
+        "Pohpi",
+        "Ruroo",
+        "Sherpur Para",
+        "Chwardhar",
+        "Gaura",
+        "Malethukanak",
+        "Toron Darab Ganj",
+        "Bikapur",
+        "Banket",
+        "Dashrathpur",
+        "Dharehata Dashrathpur",
+        "Gayaspur",
+        "Bhawapur",
+        "Gundhaur",
+        "Kurha"
+      ],
+      "keywords": [
+        "Bikapur",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_4"
+    },
+    {
+      "name": "Goshainganj",
+      "pincodes": [
+        224141
+      ],
+      "areas": [
+        "Bandanpur",
+        "Rajapur Sraiya",
+        "Ramapur",
+        "Teliagarh",
+        "Chandrikaganj",
+        "Amsin",
+        "Fatehpur Kamasin",
+        "Jaitpur Nidhiyawan",
+        "Bala Paikauli",
+        "Samda",
+        "Goshaiganj",
+        "Ankaripur",
+        "Chachikpur",
+        "Raniwan"
+      ],
+      "keywords": [
+        "Goshainganj",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_5"
+    },
+    {
+      "name": "Milkipur",
+      "pincodes": [
+        224164
+      ],
+      "areas": [
+        "Tendha Khurd",
+        "Upadhyapur",
+        "Ghatauli",
+        "Ranapur",
+        "Chitaura",
+        "Dhanaicha",
+        "Gokula",
+        "Manjhanpur",
+        "Nimari",
+        "Milkipur",
+        "Anjrauli",
+        "Bhimatali",
+        "Marui Ganeshpur",
+        "Parsawan Khurd"
+      ],
+      "keywords": [
+        "Milkipur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_6"
+    },
+    {
+      "name": "Sohawal",
+      "pincodes": [
+        224188,
+        224204
+      ],
+      "areas": [
+        "Bhitaura",
+        "Khirauni",
+        "Magalsi",
+        "Jaganpur",
+        "Majnawa",
+        "Meerpur",
+        "Sohawal RS",
+        "Arthar",
+        "Moiyabegumganj",
+        "Panditpur",
+        "Ballipur",
+        "Saraibhanauli",
+        "Sohawal Saloni",
+        "Khapraila Bazar",
+        "Pohpi",
+        "Ruroo",
+        "Sherpur Para",
+        "Chwardhar",
+        "Gaura",
+        "Malethukanak",
+        "Toron Darab Ganj",
+        "Bikapur",
+        "Banket",
+        "Dashrathpur",
+        "Dharehata Dashrathpur",
+        "Gayaspur",
+        "Bhawapur",
+        "Gundhaur",
+        "Kurha"
+      ],
+      "keywords": [
+        "Sohawal",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_7"
+    },
+    {
+      "name": "Tanda",
+      "pincodes": [
+        224161
+      ],
+      "areas": [
+        "Benawa",
+        "Rauwa Lohangpur",
+        "Alnabhari",
+        "Baihari",
+        "Dalpatpur",
+        "Bakarganj",
+        "Balrampur",
+        "Beraspur",
+        "JKIC Arwat",
+        "Jarhi",
+        "Maya",
+        "Babuapur",
+        "Dilasiganj",
+        "Sarai Sagar",
+        "Tandauli",
+        "Bhoya"
+      ],
+      "keywords": [
+        "Tanda",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_8"
+    },
+    {
+      "name": "Gauriganj",
+      "pincodes": [
+        224209
+      ],
+      "areas": [
+        "Hathigo",
+        "Janjwara",
+        "Rauhari",
+        "Bainti",
+        "Kannawan",
+        "Sulhepur",
+        "Arsath",
+        "Benipur Chandauli",
+        "Bhitergaon",
+        "Paroma",
+        "Tharia Kalan",
+        "Chaurebazar",
+        "Ninhiyawan Bazar"
+      ],
+      "keywords": [
+        "Gauriganj",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_9"
+    },
+    {
+      "name": "Rauzagaon",
+      "pincodes": [
+        224116
+      ],
+      "areas": [
+        "Jarail Kalan",
+        "Rauzagaon",
+        "Bhilsar",
+        "Akhtiyarpur",
+        "Karaundi",
+        "Abboopur",
+        "Khairi",
+        "Saraitha",
+        "Shujaganj"
+      ],
+      "keywords": [
+        "Rauzagaon",
+        "Market",
+        "Locality"
+      ],
+      "id": "ayodhya_10"
+    },
+    {
+      "name": "Mawai",
+      "pincodes": [
+        224117
+      ],
+      "areas": [
+        "Manjanpur",
+        "Narauli",
+        "Neora",
+        "Sandawa",
+        "Seonrahara",
+        "Mawai"
+      ],
+      "keywords": [
+        "Mawai",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_11"
+    },
+    {
+      "name": "Sherpur",
+      "pincodes": [
+        224118
+      ],
+      "areas": [
+        "Bihara",
+        "Sherpur",
+        "Sunba",
+        "Talgaon",
+        "Amraigaon",
+        "Kasari",
+        "Mathanewada",
+        "Paharpur",
+        "Rampur Janak",
+        "Saidpur",
+        "Saimsi",
+        "Chandramau",
+        "Dewait",
+        "Hansrajpur",
+        "Umapur",
+        "Lodhaura",
+        "Meermau"
+      ],
+      "keywords": [
+        "Sherpur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_12"
+    },
+    {
+      "name": "Gaddopur",
+      "pincodes": [
+        224121
+      ],
+      "areas": [
+        "Gaddopur",
+        "Ramnagar Amawan Sufi",
+        "Sarauli",
+        "Chandaura",
+        "Manudiha",
+        "Nandauli",
+        "Mahuwa",
+        "Bakauli",
+        "Dharauli",
+        "Mahmedpur",
+        "Taldholi",
+        "Amaniganj",
+        "Gauhania",
+        "Harakhpur",
+        "Raipatti"
+      ],
+      "keywords": [
+        "Gaddopur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_13"
+    },
+    {
+      "name": "Gondwa",
+      "pincodes": [
+        224126
+      ],
+      "areas": [
+        "Gondwa",
+        "Maholi Uprahar",
+        "Sarangpur",
+        "Baragaon RS",
+        "Hajipur",
+        "Kareru",
+        "Pirkhauli",
+        "Ramnagar Dhaurahra",
+        "Seewar"
+      ],
+      "keywords": [
+        "Gondwa",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_14"
+    },
+    {
+      "name": "Kadipur",
+      "pincodes": [
+        224127
+      ],
+      "areas": [
+        "Gothwara",
+        "Sirhir",
+        "Sohkhawan",
+        "Sondhiyawan",
+        "Barun SO Ambedkar Nagar",
+        "Gauhanna Qanoongo",
+        "Sari",
+        "Kadipur",
+        "Rani Bazar",
+        "Mehnauna"
+      ],
+      "keywords": [
+        "Kadipur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_15"
+    },
+    {
+      "name": "Darshan Nagar",
+      "pincodes": [
+        224135
+      ],
+      "areas": [
+        "Darshan Nagar",
+        "Dadera",
+        "Dhrampur",
+        "Shahnawan",
+        "Alwalpur",
+        "Sanethu"
+      ],
+      "keywords": [
+        "Darshan Nagar",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_16"
+    },
+    {
+      "name": "Palpur",
+      "pincodes": [
+        224153
+      ],
+      "areas": [
+        "Palpur",
+        "Rasoolpur Lilha",
+        "Rautawan",
+        "Bakchuna",
+        "Bhakhauli",
+        "Mewapur",
+        "Barauli",
+        "Khandasa",
+        "Deogaon",
+        "Ghorwal",
+        "Kotiya",
+        "Sidhari Bazar"
+      ],
+      "keywords": [
+        "Palpur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_17"
+    },
+    {
+      "name": "Palia Jagmohan Singh",
+      "pincodes": [
+        224158
+      ],
+      "areas": [
+        "Palia Jagmohan Singh",
+        "Kotdeeh",
+        "Kumbhi",
+        "Seora",
+        "Khanpur",
+        "Kurawan",
+        "Tarauli",
+        "Kinhupur",
+        "Shekhanpur",
+        "Majnai",
+        "Uchhahpali",
+        "Kuchera"
+      ],
+      "keywords": [
+        "Palia Jagmohan Singh",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_18"
+    },
+    {
+      "name": "Deogarh",
+      "pincodes": [
+        224171
+      ],
+      "areas": [
+        "Deogarh",
+        "Srai Rasi",
+        "Purah",
+        "Janapur",
+        "Madna",
+        "Gyanpur"
+      ],
+      "keywords": [
+        "Deogarh",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_19"
+    },
+    {
+      "name": "Barwa",
+      "pincodes": [
+        224182
+      ],
+      "areas": [
+        "Barwa",
+        "Nawada",
+        "Sanaha",
+        "Lakhauri",
+        "Raunahi"
+      ],
+      "keywords": [
+        "Barwa",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_20"
+    },
+    {
+      "name": "Ismail Nagar",
+      "pincodes": [
+        224189
+      ],
+      "areas": [
+        "Ismail Nagar Singra",
+        "Pilkhawan",
+        "Kandai Kalan",
+        "Kundurkha Khurd",
+        "Tandwa",
+        "Dillisaraiya",
+        "Mubarakganj",
+        "Deorhi",
+        "Baidarapur",
+        "Surwari"
+      ],
+      "keywords": [
+        "Ismail Nagar",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_21"
+    },
+    {
+      "name": "Ghuritikar",
+      "pincodes": [
+        224195
+      ],
+      "areas": [
+        "Ghuritikar",
+        "Paliachalpur",
+        "Khamipurnidhiywan",
+        "Sonaura Gaupur",
+        "Barehta",
+        "Jaishingmau",
+        "Kakauli",
+        "Tikari"
+      ],
+      "keywords": [
+        "Ghuritikar",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_22"
+    },
+    {
+      "name": "Kondri",
+      "pincodes": [
+        224201
+      ],
+      "areas": [
+        "Kondri",
+        "Itaura",
+        "Pora",
+        "Rampur Sardha",
+        "Motinagar",
+        "Bankegaon",
+        "Narainpur",
+        "Dasauli"
+      ],
+      "keywords": [
+        "Kondri",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_23"
+    },
+    {
+      "name": "Bharatkund",
+      "pincodes": [
+        224202
+      ],
+      "areas": [
+        "Bharatkund",
+        "Raithua",
+        "Naipura",
+        "Kailkeshopur"
+      ],
+      "keywords": [
+        "Bharatkund",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_24"
+    },
+    {
+      "name": "Beni Gaddopur",
+      "pincodes": [
+        224203
+      ],
+      "areas": [
+        "Beni Gaddopur",
+        "Parsawan",
+        "Taarun Blgara",
+        "Kodaila",
+        "Netwari Chaturpur",
+        "Rampur Bhagan",
+        "Baraon",
+        "Kesharuabujurg"
+      ],
+      "keywords": [
+        "Beni Gaddopur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_25"
+    },
+    {
+      "name": "Banghusara",
+      "pincodes": [
+        224205
+      ],
+      "areas": [
+        "Banghusara",
+        "Pachgawan",
+        "Pachiyana",
+        "Udharna",
+        "Belarambagh",
+        "Sihipur",
+        "Teria",
+        "Khapradih",
+        "Dahema",
+        "Haiderganj",
+        "Janabazar"
+      ],
+      "keywords": [
+        "Banghusara",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_26"
+    },
+    {
+      "name": "Bodahari",
+      "pincodes": [
+        224206
+      ],
+      "areas": [
+        "Bodahari",
+        "Koro Raghopur",
+        "Mahawan",
+        "Khajurahat",
+        "Nuawan Baidara",
+        "Bhaironpur Tikari",
+        "Bhav Nathpur",
+        "Mangari",
+        "Katari",
+        "Marui Sahai Singh",
+        "Ramnagar Chaukia"
+      ],
+      "keywords": [
+        "Bodahari",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_27"
+    },
+    {
+      "name": "Jalapur Bhaggoo",
+      "pincodes": [
+        224207
+      ],
+      "areas": [
+        "Jalapur Bhaggoo",
+        "Konchha",
+        "Asrewa",
+        "Mumrej Nagar",
+        "Gayasuddinpur",
+        "Sarai Khargi",
+        "Majurddinpur",
+        "Dehriyawan"
+      ],
+      "keywords": [
+        "Jalapur Bhaggoo",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_28"
+    },
+    {
+      "name": "Adilpur",
+      "pincodes": [
+        224208
+      ],
+      "areas": [
+        "Adilpur",
+        "Banswar Kalan",
+        "Paraspur Sathra",
+        "Chamela",
+        "Malethu Buzurg",
+        "Para Tajpur",
+        "Urwa Vaish",
+        "Mian Ganj",
+        "Sagar Pati Pandhula",
+        "Singhora",
+        "Sonbarsa",
+        "Harringtonganj"
+      ],
+      "keywords": [
+        "Adilpur",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_29"
+    },
+    {
+      "name": "Hardoiya",
+      "pincodes": [
+        224225
+      ],
+      "areas": [
+        "Hardoiya",
+        "Kalyanpur Keotani",
+        "Mawai Kalan",
+        "Paliya Pratapshah",
+        "Reona",
+        "Achhora",
+        "Ahiran Subansh"
+      ],
+      "keywords": [
+        "Hardoiya",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_30"
+    },
+    {
+      "name": "Kahuwa",
+      "pincodes": [
+        224228
+      ],
+      "areas": [
+        "Kahuwa",
+        "Basawan",
+        "Chirauli",
+        "Kinauli",
+        "Aghiyari",
+        "Kadanpur",
+        "Inayatnagar"
+      ],
+      "keywords": [
+        "Kahuwa",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_31"
+    },
+    {
+      "name": "Birauli",
+      "pincodes": [
+        224229
+      ],
+      "areas": [
+        "Birauli",
+        "Sidhauna",
+        "Bawan",
+        "Kumarganj",
+        "Jorium",
+        "Pithila",
+        "Tindauli"
+      ],
+      "keywords": [
+        "Birauli",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_32"
+    },
+    {
+      "name": "Pausara",
+      "pincodes": [
+        224234
+      ],
+      "areas": [
+        "Pausara",
+        "Basantpur",
+        "Lalpur",
+        "Rohiyawan",
+        "Sherawa Ghat",
+        "Mahboobganj"
+      ],
+      "keywords": [
+        "Pausara",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_33"
+    },
+    {
+      "name": "Astikaan",
+      "pincodes": [
+        224284
+      ],
+      "areas": [
+        "Astikaan",
+        "Taksara",
+        "Ghurehta",
+        "Mubarakpur Umarni",
+        "Dhema Vaish",
+        "Shahganj"
+      ],
+      "keywords": [
+        "Astikaan",
+        "Locality",
+        "Cluster"
+      ],
+      "id": "ayodhya_34"
+    }
+  ]
+}

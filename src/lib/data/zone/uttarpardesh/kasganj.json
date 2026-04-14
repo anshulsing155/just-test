@@ -1,0 +1,261 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kasganj",
+  "city": "Kasganj",
+  "summary": "",
+  "total_areas": 109,
+  "total_pincodes": 11,
+  "zones": [
+    {
+      "name": "Kasganj Central",
+      "pincodes": [
+        207123
+      ],
+      "areas": [
+        "Mahdava",
+        "Mihari",
+        "Tilsai",
+        "Barahdwari",
+        "Kasganj",
+        "Nawab Ganj",
+        "Kayampur Baheria",
+        "Salai",
+        "Nadrai",
+        "Behta",
+        "Pathreki",
+        "Nagla Katila",
+        "Rekhpur",
+        "Wazirpur",
+        "Gorha",
+        "Kasganj RS"
+      ],
+      "keywords": [
+        "Kasganj",
+        "Central"
+      ],
+      "id": "kasganj_1"
+    },
+    {
+      "name": "Bilram Cluster",
+      "pincodes": [
+        207124
+      ],
+      "areas": [
+        "Kinawa",
+        "Harsena",
+        "Kudhar",
+        "Mahawar",
+        "Bilram",
+        "Jakhera",
+        "Kisarauli",
+        "Mubarik Pur Mafi",
+        "Kumraua",
+        "Dholna",
+        "Nameni",
+        "Pachgain"
+      ],
+      "keywords": [
+        "Bilram",
+        "Cluster"
+      ],
+      "id": "kasganj_2"
+    },
+    {
+      "name": "Sarsai Narau Region",
+      "pincodes": [
+        207241
+      ],
+      "areas": [
+        "Karsana",
+        "Sarsai Narau",
+        "Abhaipura",
+        "Arjunpur Nauabad",
+        "Sujrai",
+        "Nadarmai",
+        "Tharachithara"
+      ],
+      "keywords": [
+        "Sarsai Narau",
+        "Region"
+      ],
+      "id": "kasganj_3"
+    },
+    {
+      "name": "Gunjdundwara Area",
+      "pincodes": [
+        207242
+      ],
+      "areas": [
+        "Karampur",
+        "Rikera",
+        "Samaspur",
+        "Gathaura",
+        "Bahrojpur",
+        "Bastarmau",
+        "Chirola",
+        "Mohanpur",
+        "Garka",
+        "Sikehara",
+        "Sunngarhi",
+        "Gunjdundwara",
+        "Kadarganj",
+        "Midhola Bujurg",
+        "Nagla Bhimsen",
+        "Singpur"
+      ],
+      "keywords": [
+        "Gunjdundwara",
+        "Area"
+      ],
+      "id": "kasganj_4"
+    },
+    {
+      "name": "Patiali Zone",
+      "pincodes": [
+        207243
+      ],
+      "areas": [
+        "Aurangabad",
+        "Hathodaban",
+        "Nardoli",
+        "Patiali",
+        "Bahdola",
+        "Khaduya",
+        "Myau",
+        "Rajepur Kurra",
+        "Ashokpur",
+        "Bahora",
+        "Ballia",
+        "Sanauri Khas",
+        "Thana Darioganj",
+        "Jagpura",
+        "Narthar",
+        "Raja Rijola",
+        "Sahori"
+      ],
+      "keywords": [
+        "Patiali",
+        "Zone"
+      ],
+      "id": "kasganj_5"
+    },
+    {
+      "name": "Bhargain",
+      "pincodes": [
+        207244
+      ],
+      "areas": [
+        "Bhargain"
+      ],
+      "keywords": [
+        "Bhargain"
+      ],
+      "id": "kasganj_6"
+    },
+    {
+      "name": "Sahawar Cluster",
+      "pincodes": [
+        207245
+      ],
+      "areas": [
+        "Amirasa",
+        "Yakootganj",
+        "Myasur",
+        "Sahawar",
+        "Jahangirpur",
+        "Kachhela",
+        "Khojpur",
+        "Faroli"
+      ],
+      "keywords": [
+        "Sahawar",
+        "Cluster"
+      ],
+      "id": "kasganj_7"
+    },
+    {
+      "name": "Fatehpur Region",
+      "pincodes": [
+        207246
+      ],
+      "areas": [
+        "Aun",
+        "Fatehpur",
+        "Pilkhuni",
+        "Pithanpur",
+        "Sultanpur",
+        "Dhondhara",
+        "Dhansinghpur",
+        "Kamalpur",
+        "Bhensrasi",
+        "Naugaon",
+        "Khiriya Patti",
+        "Magthara",
+        "Sirhpura",
+        "Bhujpura"
+      ],
+      "keywords": [
+        "Fatehpur",
+        "Region"
+      ],
+      "id": "kasganj_8"
+    },
+    {
+      "name": "Jasmai-Sarawal",
+      "pincodes": [
+        207248
+      ],
+      "areas": [
+        "Jasmai",
+        "Sarawal"
+      ],
+      "keywords": [
+        "Jasmai",
+        "Sarawal"
+      ],
+      "id": "kasganj_9"
+    },
+    {
+      "name": "Baznagar Area",
+      "pincodes": [
+        207402
+      ],
+      "areas": [
+        "Baznagar",
+        "Roshan Nagar",
+        "Gaupura",
+        "Neoli"
+      ],
+      "keywords": [
+        "Baznagar",
+        "Area"
+      ],
+      "id": "kasganj_10"
+    },
+    {
+      "name": "Soron Zone",
+      "pincodes": [
+        207403
+      ],
+      "areas": [
+        "Salempur Bebe",
+        "Soron",
+        "Ganga Garh",
+        "Malikpur",
+        "Sirawali",
+        "Devri Prahlad Pur",
+        "Goyati",
+        "Virahampuri",
+        "Badria",
+        "Kadarwadi",
+        "Khairpur",
+        "Mehmood Pur Pukhata"
+      ],
+      "keywords": [
+        "Soron",
+        "Zone"
+      ],
+      "id": "kasganj_11"
+    }
+  ]
+}
