@@ -15,7 +15,17 @@
 	$:console.log(result,"result")
 
 	// ── state ──────────────────────────────────────────────────────────────────
-	let companies = data.companies.map((c) => ({ ...c }));
+	function normalizeCompanyProjects(company) {
+		return {
+			...company,
+			projects: (company.projects ?? []).map((project) => ({
+				...project,
+				builderId: company._id
+			}))
+		};
+	}
+
+	let companies = data.companies.map(normalizeCompanyProjects);
 	let zonesLibrary = data.zonesLibrary ?? {}; // { stateName → { districtName → { zones[] } } }
 	let searchTerm = '';
 	let currentPage = 1;
@@ -95,7 +105,18 @@
 	let projectsOpen = false;
 	let projectsTarget = null;
 	let addProjectOpen = false;
-	let newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
+	const createEmptyProject = (builderId = '') => ({
+		reraRegNo: '',
+		name: '',
+		district: '',
+		area: '',
+		pinCode: '',
+		projectType: '',
+		constructionStatus: '',
+		builderId
+	});
+	const withFixedBuilderId = (project, builderId) => ({ ...project, builderId });
+	let newProject = createEmptyProject();
 
 	// project inline-edit state
 	let editingProjectIdx = null;
@@ -271,7 +292,10 @@
 
 	function openProjectEdit(idx, project) {
 		editingProjectIdx = idx;
-		editingProject = { ...project, lenderName: normalizeLenderNames(project.lenderName) };
+		editingProject = {
+			...withFixedBuilderId(project, projectsTarget?._id ?? project.builderId ?? ''),
+			lenderName: normalizeLenderNames(project.lenderName)
+		};
 		lenderBankSelection = '';
 		addProjectOpen = false;
 	}
@@ -296,9 +320,10 @@
 	}
 
 	function saveProjectEdit() {
+		const fixedProject = withFixedBuilderId(editingProject, projectsTarget?._id ?? editingProject.builderId ?? '');
 		companies = companies.map((c) =>
 			c._id === projectsTarget._id
-				? { ...c, projects: c.projects.map((p, i) => (i === editingProjectIdx ? { ...editingProject } : p)) }
+				? normalizeCompanyProjects({ ...c, projects: c.projects.map((p, i) => (i === editingProjectIdx ? fixedProject : p)) })
 				: c
 		);
 		projectsTarget = companies.find((c) => c._id === projectsTarget._id);
@@ -315,18 +340,22 @@
 		editingProjectIdx = null;
 		editingProject = {};
 		removeConfirmIdx = null;
-		newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
+		newProject = createEmptyProject(company._id);
 	}
 
 	function addProject() {
 		if (!newProject.name.trim()) return;
+		const projectToAdd = withFixedBuilderId(
+			{ ...newProject, _id: Date.now().toString() },
+			projectsTarget?._id ?? newProject.builderId ?? ''
+		);
 		companies = companies.map((c) =>
 			c._id === projectsTarget._id
-				? { ...c, projects: [...(c.projects ?? []), { ...newProject, _id: Date.now().toString() }] }
+				? normalizeCompanyProjects({ ...c, projects: [...(c.projects ?? []), projectToAdd] })
 				: c
 		);
 		projectsTarget = companies.find((c) => c._id === projectsTarget._id);
-		newProject = { reraRegNo: '', name: '', district: '', area: '', pinCode: '', projectType: '', constructionStatus: '' };
+		newProject = createEmptyProject(projectsTarget?._id ?? '');
 		addProjectOpen = false;
 		saveMsg = 'Project added locally. Click "Save to file" to persist.';
 	}
@@ -402,7 +431,7 @@
 	}
 
 	function saveEdit() {
-		companies = companies.map((c) => (c._id === editor._id ? { ...editor } : c));
+		companies = companies.map((c) => (c._id === editor._id ? normalizeCompanyProjects({ ...editor }) : c));
 		editOpen = false;
 		saveMsg = 'Edited locally. Click "Save to file" to persist.';
 	}
@@ -436,10 +465,15 @@
 		saving = true;
 		saveMsg = '';
 		try {
+			const normalizedCompanies = companies.map(normalizeCompanyProjects);
+			companies = normalizedCompanies;
+			if (projectsTarget?._id) {
+				projectsTarget = normalizedCompanies.find((c) => c._id === projectsTarget._id) ?? null;
+			}
 			const res = await fetch('/dashboard/save', {
 				method: 'POST',
 				headers: { 'content-type': 'application/json' },
-				body: JSON.stringify({ companies })
+				body: JSON.stringify({ companies: normalizedCompanies })
 			});
 			if (!res.ok) throw new Error(await res.text());
 			saveMsg = 'File saved successfully!';
@@ -860,6 +894,12 @@
 								class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 outline-none" />
 						</div>
 						<div>
+							<label for="new-builder-id" class="block text-xs font-semibold text-slate-500 mb-1">Builder ID</label>
+							<input id="new-builder-id" type="text" value={newProject.builderId ?? projectsTarget._id}
+								readonly
+								class="w-full cursor-not-allowed rounded-xl border border-slate-200 bg-slate-100 px-3 py-2 text-sm text-slate-600 outline-none" />
+						</div>
+						<div>
 							<label for="new-rera" class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>
 							<input id="new-rera" type="text" bind:value={newProject.reraRegNo}
 								placeholder="e.g. UPRERAPRJ12345"
@@ -946,6 +986,12 @@
 												<label for="edit-proj-name" class="block text-xs font-semibold text-slate-500 mb-1">Project Name <span class="text-red-500">*</span></label>
 												<input id="edit-proj-name" type="text" bind:value={editingProject.name}
 													class="w-full rounded-xl border border-slate-200 px-3 py-2 text-sm text-slate-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-100 outline-none" />
+											</div>
+											<div>
+												<label for="edit-proj-builder-id" class="block text-xs font-semibold text-slate-500 mb-1">Builder ID</label>
+												<input id="edit-proj-builder-id" type="text" value={editingProject.builderId ?? projectsTarget._id}
+													readonly
+													class="w-full cursor-not-allowed rounded-xl border border-slate-200 bg-slate-100 px-3 py-2 text-sm text-slate-600 outline-none" />
 											</div>
 											<div>
 												<label for="edit-proj-rera" class="block text-xs font-semibold text-slate-500 mb-1">RERA Reg No.</label>

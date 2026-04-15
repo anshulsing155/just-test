@@ -163,12 +163,11 @@ function handleDownload() {
 <script>
 import rawData from '../../lib/data/companies_with_projects_2026-04-06T06-27-43-033Z.json';
 
-let companiesData = rawData; // 👈 ab yeh mutable hai
-
+let companiesData = rawData;
 
 function handleProjects() {
   const updated = companiesData.map((data) => {
-    if (!data.projects || data.projects.length === 0) return data;
+    if (!data.projects?.length) return data;
 
     return {
       ...data,
@@ -179,15 +178,29 @@ function handleProjects() {
     };
   });
 
-  console.log(updated);
-
-  // 👉 yeh line must hai for reactivity
   companiesData = updated;
+
+  // 👇 download call
+  downloadJSON(updated);
 }
 
+function downloadJSON(data) {
+  const blob = new Blob(
+    [JSON.stringify(data, null, 2)],
+    { type: "application/json" }
+  );
 
+  const url = URL.createObjectURL(blob);
 
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "updated-companies.json"; // 👈 file name
+  a.click();
 
+  URL.revokeObjectURL(url);
+}
 </script>
 
-<button onclick={handleProjects}> Add project ids</button>
+<button on:click={handleProjects}>
+  Add project ids & Download
+</button>
