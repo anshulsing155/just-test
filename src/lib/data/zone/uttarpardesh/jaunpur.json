@@ -1,0 +1,966 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Jaunpur",
+  "city": "Jaunpur",
+  "summary": "",
+  "total_areas": 423,
+  "total_pincodes": 46,
+  "zones": [
+    {
+      "name": "Jaunpur City Center",
+      "pincodes": [
+        222001,
+        222002,
+        212401
+      ],
+      "areas": [
+        "SIPAH",
+        "Jaunpur",
+        "Shakarmandi",
+        "Shastri Marg",
+        "Sutahatti Bazar",
+        "Dharmapur",
+        "Harbaspur",
+        "Jagdishpur",
+        "Shitla Chaukiya",
+        "Jaunpur Kty",
+        "Pukhta Sarai",
+        "Umarpur",
+        "Kirtapur",
+        "Kalichabad",
+        "Muradganj",
+        "Premapur",
+        "Purani Bazar",
+        "Shivapar",
+        "Civil Court SO Jaunpur",
+        "TD College",
+        "Collectrate Compound",
+        "College Colony",
+        "Kishundaspur",
+        "Bhatewra Kathar",
+        "Koraur"
+      ],
+      "keywords": [
+        "city center",
+        "commercial hub"
+      ],
+      "id": "jaunpur_1"
+    },
+    {
+      "name": "Siddikpur and Surroundings",
+      "pincodes": [
+        222003
+      ],
+      "areas": [
+        "Basaratpur",
+        "Garaila",
+        "Purvanchal Vishwa Vidyalaya",
+        "ITISiddikpur",
+        "Jamuhai",
+        "Rampur Baijapur",
+        "Kanja",
+        "Khalilpur",
+        "Pathana",
+        "Saidpur Garaur",
+        "Sonikpur",
+        "Aurahi",
+        "Jangipur Khurd",
+        "NDC Jamuhai",
+        "Saraikhwaja",
+        "CHAMBAL TARA BAZAR",
+        "Bhakura",
+        "Hindi Baghaila"
+      ],
+      "keywords": [
+        "educational zone",
+        "residential"
+      ],
+      "id": "jaunpur_2"
+    },
+    {
+      "name": "Malhani Bazar",
+      "pincodes": [
+        222004
+      ],
+      "areas": [
+        "MALHANI BAZAR"
+      ],
+      "keywords": [
+        "market area"
+      ],
+      "id": "jaunpur_3"
+    },
+    {
+      "name": "Bhelara and Vicinity",
+      "pincodes": [
+        222101
+      ],
+      "areas": [
+        "Bangaondih",
+        "Bhelara",
+        "Rupaipur",
+        "Kalan",
+        "Belwai",
+        "Harpur"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_4"
+    },
+    {
+      "name": "Poly and Surroundings",
+      "pincodes": [
+        222105
+      ],
+      "areas": [
+        "Poly",
+        "Kailawar",
+        "Auraila",
+        "Madarpur",
+        "Kuddupur",
+        "Ramdayalganj",
+        "Rampur Naddi"
+      ],
+      "keywords": [
+        "residential",
+        "semi-urban"
+      ],
+      "id": "jaunpur_5"
+    },
+    {
+      "name": "Barpur Cluster",
+      "pincodes": [
+        222109
+      ],
+      "areas": [
+        "Barpur",
+        "Belawan",
+        "Birbhanpur",
+        "Dariaoganj",
+        "Garhabaghrai",
+        "Saderi",
+        "Dakkhinpatti Ranno",
+        "Buxa",
+        "Sadanpur",
+        "Leduka",
+        "Naupedwa"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_6"
+    },
+    {
+      "name": "Badlapur Region",
+      "pincodes": [
+        222125
+      ],
+      "areas": [
+        "Kuhi Kalan",
+        "Mirsahdpur",
+        "Shahpur",
+        "Bangaonpatti",
+        "Badlapur",
+        "Medha",
+        "Muradpur",
+        "Tiara",
+        "Dhema",
+        "Jamaupatti",
+        "Newada Mukhalispur",
+        "Udpur Ghelhawa"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_7"
+    },
+    {
+      "name": "Raja Bazar Area",
+      "pincodes": [
+        222126
+      ],
+      "areas": [
+        "Meerapur Kewal",
+        "Gaddopur",
+        "RAJA BAZAR SO JAUNPUR",
+        "Pyareypur Bijhawat",
+        "Sarai Durgadas"
+      ],
+      "keywords": [
+        "market area"
+      ],
+      "id": "jaunpur_8"
+    },
+    {
+      "name": "Kanhabanshipur and Surroundings",
+      "pincodes": [
+        222127
+      ],
+      "areas": [
+        "Kanhabanshipur",
+        "Mujar",
+        "Nizamuddinpur",
+        "Gokha",
+        "Shahopatti",
+        "Jamua",
+        "Baderi"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_9"
+    },
+    {
+      "name": "Nonari Cluster",
+      "pincodes": [
+        222128
+      ],
+      "areas": [
+        "Nonari",
+        "Baneora",
+        "Bhawaniganj",
+        "Bazar Neorhia",
+        "Budhhipur",
+        "Dhanethu",
+        "Lagdharpur",
+        "Tarati",
+        "Khetapur"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_10"
+    },
+    {
+      "name": "Chandwak and Surroundings",
+      "pincodes": [
+        222129
+      ],
+      "areas": [
+        "Bhaisa",
+        "Madhi",
+        "Chandepur",
+        "Chitako",
+        "Gobara",
+        "Balrampur",
+        "Biri",
+        "Patrahi",
+        "Hisampur",
+        "Chandwak"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_11"
+    },
+    {
+      "name": "Sikrara Region",
+      "pincodes": [
+        222131
+      ],
+      "areas": [
+        "Sherawan",
+        "Sikrara",
+        "Khapraha",
+        "Rithi"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_12"
+    },
+    {
+      "name": "Fatehganj and Surroundings",
+      "pincodes": [
+        222132
+      ],
+      "areas": [
+        "Masida",
+        "Kohara Sultanpur",
+        "Dhirajpur",
+        "Kuwarda",
+        "Fatehganj SO Jaunpur",
+        "Shambhuganj"
+      ],
+      "keywords": [
+        "semi-urban"
+      ],
+      "id": "jaunpur_13"
+    },
+    {
+      "name": "Gaurabadshahpur Cluster",
+      "pincodes": [
+        222133
+      ],
+      "areas": [
+        "Aara",
+        "Nayansand",
+        "Pilikhini",
+        "Umari",
+        "Chorsand",
+        "Gaurabadshahpur",
+        "Baghendra",
+        "Bhadeora",
+        "Kukuhan"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_14"
+    },
+    {
+      "name": "Gulzarganj and Surroundings",
+      "pincodes": [
+        222135
+      ],
+      "areas": [
+        "Gulzarganj",
+        "Samadhganj",
+        "Sieura",
+        "Damarua",
+        "Mehandi"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_15"
+    },
+    {
+      "name": "Jalalpur Region",
+      "pincodes": [
+        222136
+      ],
+      "areas": [
+        "Asbaranpur",
+        "Bidauri",
+        "Sehmalpur",
+        "Sirkoni",
+        "Trilochan Badagaon",
+        "Bakarabad",
+        "Dharaon",
+        "Kusia",
+        "Lalpur",
+        "Newada",
+        "Pasiahi Khurd",
+        "Bhaupur",
+        "Gutwan",
+        "Lahangpur",
+        "Nahora",
+        "Rajepur",
+        "Jalalpur SO Jaunpur",
+        "Bishunpur Majhwara",
+        "Dewapar",
+        "Dubepur",
+        "Purev"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_16"
+    },
+    {
+      "name": "Jamalapur and Surroundings",
+      "pincodes": [
+        222137
+      ],
+      "areas": [
+        "Damodara",
+        "Chhangapur",
+        "Jamalapur",
+        "Kumbhapur",
+        "Sukhlalganj",
+        "Tejgarh",
+        "Aura"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_17"
+    },
+    {
+      "name": "Kajgaon Area",
+      "pincodes": [
+        222138
+      ],
+      "areas": [
+        "Gopipur",
+        "Kajgaon SO Jaunpur",
+        "Pariyawan"
+      ],
+      "keywords": [
+        "market area"
+      ],
+      "id": "jaunpur_18"
+    },
+    {
+      "name": "Khetasarai Region",
+      "pincodes": [
+        222139
+      ],
+      "areas": [
+        "Arand",
+        "Japtapur",
+        "Ranimau",
+        "Ayurved Vishwavidyalay",
+        "Jaigahan",
+        "Jamdahan",
+        "Lapari",
+        "Parakamal",
+        "Songar",
+        "Khodauli",
+        "Potaria",
+        "Kalapur",
+        "Manikala",
+        "Gulalpur",
+        "Guraini",
+        "Khetasarai"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_19"
+    },
+    {
+      "name": "Badalapur Cluster",
+      "pincodes": [
+        222141
+      ],
+      "areas": [
+        "Saraiharakhu",
+        "Agraura",
+        "Kandhikala",
+        "Khunsapur",
+        "Badalapur Khurd",
+        "Tezi Bazar",
+        "Khalishpur"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_20"
+    },
+    {
+      "name": "Kerakat and Surroundings",
+      "pincodes": [
+        222142
+      ],
+      "areas": [
+        "Belhari",
+        "Dilla Ka Pura",
+        "Dehari",
+        "Deokali",
+        "Pesara",
+        "Kusaila",
+        "Murki",
+        "Sarauni",
+        "Kerakat",
+        "Amahit",
+        "Jaigopalganj",
+        "Pasewa",
+        "Deduana"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_21"
+    },
+    {
+      "name": "Machhali Shahar Region",
+      "pincodes": [
+        222143
+      ],
+      "areas": [
+        "Karaura",
+        "Kotwa",
+        "Barawan",
+        "Bhikhpur Kala",
+        "Ghagharia",
+        "Mathura",
+        "Mustafabad",
+        "Bami",
+        "Belasin",
+        "Khajurahat",
+        "Tilora",
+        "Machhali Shahar"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_22"
+    },
+    {
+      "name": "Sonahita and Surroundings",
+      "pincodes": [
+        222144
+      ],
+      "areas": [
+        "Gonapar",
+        "Itaha",
+        "Baraipar",
+        "Barhata",
+        "Sonahita",
+        "Katahit"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_23"
+    },
+    {
+      "name": "Maharaj Ganj Cluster",
+      "pincodes": [
+        222145
+      ],
+      "areas": [
+        "Barji",
+        "Bhagwanpur",
+        "Asaropur",
+        "Gareriha",
+        "Kolhua",
+        "Rajapur",
+        "Shekhpur Khutahani",
+        "Shankarganj",
+        "Mahraj Ganj",
+        "Bhatauli",
+        "Lohinda",
+        "Mitawa"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_24"
+    },
+    {
+      "name": "Kutir Chakkey and Surroundings",
+      "pincodes": [
+        222146
+      ],
+      "areas": [
+        "Kutir Chakkey",
+        "Kanuani",
+        "Haripur",
+        "Mai",
+        "Kheosipur",
+        "Majhgawan",
+        "Oina"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_25"
+    },
+    {
+      "name": "Koilari Cluster",
+      "pincodes": [
+        222148
+      ],
+      "areas": [
+        "Koilari",
+        "Senapur",
+        "Verdiha",
+        "Brahmanpur",
+        "Leorua"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_26"
+    },
+    {
+      "name": "Kachhawan and Surroundings",
+      "pincodes": [
+        222149
+      ],
+      "areas": [
+        "Kachhawan",
+        "Taraon",
+        "Pokhara",
+        "Sgrd College Dobhi",
+        "Kusarana",
+        "Chakara",
+        "Bodari"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_27"
+    },
+    {
+      "name": "Mariahun Region",
+      "pincodes": [
+        222161
+      ],
+      "areas": [
+        "Belgahan",
+        "Khajurahawa",
+        "Kishunpur",
+        "Ramnagar Vidhmauwa",
+        "Bujurga",
+        "Jiaramau",
+        "Mithepar",
+        "Mokalpur",
+        "Sudanipur",
+        "Barigaon Newada",
+        "Belawa Bazar",
+        "Chorari",
+        "Itaye",
+        "Ajoshi",
+        "Jagarnathpur",
+        "Kuttupur",
+        "Seur",
+        "Mariahun",
+        "Daudi",
+        "Mainpur",
+        "Shitalganj"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_28"
+    },
+    {
+      "name": "Barsathi and Surroundings",
+      "pincodes": [
+        222162
+      ],
+      "areas": [
+        "Alamganj",
+        "Manapur",
+        "Belaunakala",
+        "Gothaon",
+        "Paltupur",
+        "Pilkathua",
+        "Barsathi",
+        "Mangara",
+        "Pariyat",
+        "Sotipur",
+        "Kusa",
+        "Malai",
+        "Nigoh",
+        "Bhannaur",
+        "Gaurapatti",
+        "Sarsara"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_29"
+    },
+    {
+      "name": "Meerganj Region",
+      "pincodes": [
+        222165
+      ],
+      "areas": [
+        "Bhiduna",
+        "Babhaniyaw",
+        "Karobankat",
+        "Mahuari",
+        "Manikapur",
+        "Bhathar",
+        "Katwar",
+        "Amai",
+        "Kaserawa",
+        "Meerganj SO Jaunpur",
+        "Barigaondih",
+        "Sirauli"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_30"
+    },
+    {
+      "name": "Muftiganj and Surroundings",
+      "pincodes": [
+        222170
+      ],
+      "areas": [
+        "Beerampur",
+        "Belaon",
+        "Murara",
+        "Amara",
+        "Kudda",
+        "Vijayeepur",
+        "Muftiganj"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_31"
+    },
+    {
+      "name": "Singramau Cluster",
+      "pincodes": [
+        222175
+      ],
+      "areas": [
+        "Nakahara",
+        "Kumarpatti",
+        "Thakurganj",
+        "Baharipur",
+        "Gonauli",
+        "Pahetiapur",
+        "Sirkina",
+        "Singramau"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_32"
+    },
+    {
+      "name": "Zafarabad and Surroundings",
+      "pincodes": [
+        222180
+      ],
+      "areas": [
+        "Zamaitha",
+        "Zafarabad",
+        "Bibipur",
+        "Kabulpur",
+        "Ahmadpur",
+        "Hauz",
+        "Imalo",
+        "Maharupur"
+      ],
+      "keywords": [
+        "semi-urban"
+      ],
+      "id": "jaunpur_33"
+    },
+    {
+      "name": "Thanagaddi Region",
+      "pincodes": [
+        222181
+      ],
+      "areas": [
+        "Sohani",
+        "Barain",
+        "Ratnupur",
+        "Behra",
+        "Thanagaddi",
+        "Udaichandpur",
+        "Khargsenpur"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_34"
+    },
+    {
+      "name": "Sultanpur and Surroundings",
+      "pincodes": [
+        222201
+      ],
+      "areas": [
+        "Bhilampur",
+        "Premkapura",
+        "Alaiya",
+        "Khujhidih",
+        "Saraibhogi",
+        "Neoraha",
+        "Rampur Kundaha",
+        "Sultanpur",
+        "Belwar",
+        "Ghuripur",
+        "Balwarganj",
+        "Kushmaul"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_35"
+    },
+    {
+      "name": "Mungra Badshahpur Region",
+      "pincodes": [
+        222202
+      ],
+      "areas": [
+        "Bhikhpur",
+        "Satahariya",
+        "Madhupur",
+        "Raipur",
+        "Mungra Badshahpur",
+        "Dan",
+        "Kunwarpur",
+        "Batnahit",
+        "Pawara",
+        "Saraibika",
+        "Ukani"
+      ],
+      "keywords": [
+        "rural cluster"
+      ],
+      "id": "jaunpur_36"
+    },
+    {
+      "name": "Rampur and Surroundings",
+      "pincodes": [
+        222203
+      ],
+      "areas": [
+        "Rampur SO Jaunpur",
+        "BHadkin",
+        "Bharathipur",
+        "Bhiura",
+        "Pachawal",
+        "Prithvipur",
+        "Sureri",
+        "Ashapur",
+        "Ashawan",
+        "Wazidpur",
+        "Hariharpur",
+        "Adiar",
+        "Gandhauna",
+        "Banidih",
+        "Bhanpur",
+        "Marikpur"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_37"
+    },
+    {
+      "name": "Nibhapur Cluster",
+      "pincodes": [
+        222204
+      ],
+      "areas": [
+        "Tikara",
+        "Sohansa",
+        "Gariaon",
+        "Kilhapur",
+        "Unchdih",
+        "Nibhapur"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_38"
+    },
+    {
+      "name": "Sultanpur",
+      "pincodes": [
+        222205
+      ],
+      "areas": [
+        "SULTANPUR"
+      ],
+      "keywords": [
+        "standalone locality"
+      ],
+      "id": "jaunpur_39"
+    },
+    {
+      "name": "Shahganj Region",
+      "pincodes": [
+        223101
+      ],
+      "areas": [
+        "Chhatai Kala",
+        "Sabarhad",
+        "Suris",
+        "Shahganj SO Jaunpur",
+        "Shahganj Tehseel Parisar",
+        "Takha",
+        "Bakuchi"
+      ],
+      "keywords": [
+        "semi-urban"
+      ],
+      "id": "jaunpur_40"
+    },
+    {
+      "name": "Samodhpur and Surroundings",
+      "pincodes": [
+        223102
+      ],
+      "areas": [
+        "Unchgaon",
+        "Pataila",
+        "Samodhpur",
+        "Patti Narendra",
+        "Bhagasa",
+        "Rasulpur",
+        "Adhanpur",
+        "Ishapur",
+        "Basauli"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_41"
+    },
+    {
+      "name": "Latifpur Cluster",
+      "pincodes": [
+        223103
+      ],
+      "areas": [
+        "Latifpur",
+        "Argupur Kala",
+        "Gurbari",
+        "Patti Chakesar",
+        "Bishunpur",
+        "Jamunia",
+        "Saraimohiddin",
+        "Bazar Arasia",
+        "Gairwah",
+        "Sultanpur Ghughuri"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_42"
+    },
+    {
+      "name": "Khuthan and Surroundings",
+      "pincodes": [
+        223104
+      ],
+      "areas": [
+        "Gopalapur",
+        "Dihiya",
+        "Marhat",
+        "Narauli",
+        "Sauraia",
+        "Gajendrapur",
+        "Gauspur",
+        "Anguli",
+        "Bhagmalpur",
+        "Pilkichha",
+        "Khuthan",
+        "Panauli",
+        "Ranipur",
+        "Ghanshyampur Jaunpur"
+      ],
+      "keywords": [
+        "village cluster"
+      ],
+      "id": "jaunpur_43"
+    },
+    {
+      "name": "Soithakalan Region",
+      "pincodes": [
+        223105
+      ],
+      "areas": [
+        "Ramnagar",
+        "Soithakalan",
+        "Gangauli",
+        "Kammarpur",
+        "Dukhaipur Sambalshah",
+        "Sarijahangirpatti",
+        "Sarpataha"
+      ],
+      "keywords": [
+        "rural area"
+      ],
+      "id": "jaunpur_44"
+    }
+  ]
+}

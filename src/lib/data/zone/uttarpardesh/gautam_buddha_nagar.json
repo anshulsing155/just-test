@@ -1,0 +1,376 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Gautam Buddha Nagar",
+  "city": "Gautam Buddha Nagar",
+  "summary": "",
+  "total_areas": 125,
+  "total_pincodes": 30,
+  "zones": [
+    {
+      "name": "Noida Central",
+      "pincodes": [
+        201301,
+        201303,
+        201307
+      ],
+      "areas": [
+        "Noida",
+        "Sec 16 Noida",
+        "Sec 27 Noida",
+        "Sec41 Noida",
+        "Sector 30 Noida",
+        "Sec37 Noida",
+        "Sec45 Noida",
+        "Sec55 Noida",
+        "Sarfabad",
+        "Sec 12 Noida",
+        "Sec34 Noida"
+      ],
+      "keywords": [
+        "Noida",
+        "Sector"
+      ],
+      "id": "gautam buddha nagar_1"
+    },
+    {
+      "name": "Greater Noida",
+      "pincodes": [
+        201310,
+        201311,
+        201312
+      ],
+      "areas": [
+        "Sakipur",
+        "Alpha Greater Noida",
+        "Ghori",
+        "Knowledge ParkI",
+        "Pali",
+        "Container Depot",
+        "Tilapta Karanwas",
+        "Kheri Bhanota",
+        "Kasna",
+        "Gautam Budh University",
+        "Maicha"
+      ],
+      "keywords": [
+        "Greater Noida",
+        "Knowledge Park"
+      ],
+      "id": "gautam buddha nagar_2"
+    },
+    {
+      "name": "Noida Extension",
+      "pincodes": [
+        201304,
+        201305
+      ],
+      "areas": [
+        "Gejha",
+        "Maharshi Nagar",
+        "Chhaprauli Bengar",
+        "Baraula",
+        "Nagla Charandas",
+        "NEPZ"
+      ],
+      "keywords": [
+        "Noida Extension",
+        "NEPZ"
+      ],
+      "id": "gautam buddha nagar_3"
+    },
+    {
+      "name": "Surajpur Industrial Area",
+      "pincodes": [
+        201306
+      ],
+      "areas": [
+        "Kulesra",
+        "IA Surajpur",
+        "CRPF Greater Noida"
+      ],
+      "keywords": [
+        "Surajpur",
+        "Industrial"
+      ],
+      "id": "gautam buddha nagar_4"
+    },
+    {
+      "name": "Jewar Region",
+      "pincodes": [
+        203135
+      ],
+      "areas": [
+        "Jewar",
+        "Kanigarhi",
+        "Mangrauli",
+        "Dayanatpur",
+        "Faleda",
+        "Kureb",
+        "Sabota Zafrabad"
+      ],
+      "keywords": [
+        "Jewar"
+      ],
+      "id": "gautam buddha nagar_5"
+    },
+    {
+      "name": "Dadri and Surroundings",
+      "pincodes": [
+        203207
+      ],
+      "areas": [
+        "Achheja",
+        "Dhoom",
+        "Dujana",
+        "Kalaunda",
+        "Khatana",
+        "Dadri",
+        "Bambawar",
+        "Kachera Versabad",
+        "Jarcha",
+        "Bedpura"
+      ],
+      "keywords": [
+        "Dadri"
+      ],
+      "id": "gautam buddha nagar_6"
+    },
+    {
+      "name": "Chhapraula and Nearby",
+      "pincodes": [
+        201009,
+        201008
+      ],
+      "areas": [
+        "Chhapraula",
+        "Salarpur Kalan",
+        "Vidyut Nagar",
+        "Bisara",
+        "Piaoli"
+      ],
+      "keywords": [
+        "Chhapraula"
+      ],
+      "id": "gautam buddha nagar_7"
+    },
+    {
+      "name": "Yamuna Expressway",
+      "pincodes": [
+        203201,
+        203202
+      ],
+      "areas": [
+        "Parsol",
+        "Dhanouri Kalan",
+        "Mirzapur Niloni",
+        "Dankaur",
+        "Nawada",
+        "Astauly",
+        "Rasool pur Rithaury",
+        "Gurukul Sikandrabad",
+        "Chiti",
+        "Wair",
+        "Baroda",
+        "Deota",
+        "Bilaspur",
+        "Salempur Gujar"
+      ],
+      "keywords": [
+        "Yamuna Expressway"
+      ],
+      "id": "gautam buddha nagar_8"
+    },
+    {
+      "name": "Rural Cluster",
+      "pincodes": [
+        203203,
+        203209
+      ],
+      "areas": [
+        "Biraundi Tajpur",
+        "Bichhat Sujanpur",
+        "Chola",
+        "Jhajhar",
+        "Wailana",
+        "Salempur Jat",
+        "Kakore",
+        "Banchaoli",
+        "Dhanaura",
+        "Khabra Khanpur",
+        "Mahmoodpur Jadon",
+        "Sunpera",
+        "Tirthaly",
+        "Rabupura",
+        "Bhaipur Brahmanan",
+        "Ronija",
+        "Karauli Banger"
+      ],
+      "keywords": [
+        "Rural"
+      ],
+      "id": "gautam buddha nagar_9"
+    },
+    {
+      "name": "Sector 62 Noida",
+      "pincodes": [
+        201309
+      ],
+      "areas": [
+        "Chhajarsi",
+        "Sec62 Noida"
+      ],
+      "keywords": [
+        "Sector 62"
+      ],
+      "id": "gautam buddha nagar_10"
+    },
+    {
+      "name": "University Zone",
+      "pincodes": [
+        201313,
+        201314
+      ],
+      "areas": [
+        "Amity university",
+        "Kot",
+        "Sainthli",
+        "Khandera",
+        "Chholas",
+        "Chainsa",
+        "Chithera",
+        "Luharli",
+        "Shiv Nadar University",
+        "Behrampur"
+      ],
+      "keywords": [
+        "University"
+      ],
+      "id": "gautam buddha nagar_11"
+    },
+    {
+      "name": "Sector 122 Noida",
+      "pincodes": [
+        201316
+      ],
+      "areas": [
+        "Sec 122 Noida"
+      ],
+      "keywords": [
+        "Sector 122"
+      ],
+      "id": "gautam buddha nagar_12"
+    },
+    {
+      "name": "Sector 128 Noida",
+      "pincodes": [
+        201317
+      ],
+      "areas": [
+        "Sec 128 Noida"
+      ],
+      "keywords": [
+        "Sector 128"
+      ],
+      "id": "gautam buddha nagar_13"
+    },
+    {
+      "name": "Greater Noida Sector 1",
+      "pincodes": [
+        201318,
+        201320
+      ],
+      "areas": [
+        "Sec 01 Greater Noida",
+        "NDC Sec-1 Greater Noida"
+      ],
+      "keywords": [
+        "Sector 1"
+      ],
+      "id": "gautam buddha nagar_14"
+    },
+    {
+      "name": "NEPZ Area",
+      "pincodes": [
+        201319
+      ],
+      "areas": [
+        "NDC NEPZ"
+      ],
+      "keywords": [
+        "NEPZ"
+      ],
+      "id": "gautam buddha nagar_15"
+    },
+    {
+      "name": "Jahangirpur and Surroundings",
+      "pincodes": [
+        203141
+      ],
+      "areas": [
+        "Bhaipur",
+        "Gotheny",
+        "Shahpur Kala",
+        "Chhapana",
+        "Hasanpur",
+        "Jahangirpur",
+        "Bhunna Jattan",
+        "Chingrawly",
+        "Firoujpur",
+        "Lodana",
+        "Narmohamadpur",
+        "Jawan",
+        "Ram Garhi"
+      ],
+      "keywords": [
+        "Jahangirpur"
+      ],
+      "id": "gautam buddha nagar_16"
+    },
+    {
+      "name": "Chaurasi",
+      "pincodes": [
+        203155
+      ],
+      "areas": [
+        "Neemka",
+        "Ahamedpur Chauroli",
+        "Bankapur",
+        "Chanchali",
+        "Kishore Pur",
+        "Manchad",
+        "Runhera",
+        "Thora"
+      ],
+      "keywords": [
+        "Chaurasi"
+      ],
+      "id": "gautam buddha nagar_17"
+    },
+    {
+      "name": "Akbarpur Churai",
+      "pincodes": [
+        212652
+      ],
+      "areas": [
+        "Akbarpur Churai"
+      ],
+      "keywords": [
+        "Akbarpur"
+      ],
+      "id": "gautam buddha nagar_18"
+    },
+    {
+      "name": "Gurjinder Vihar",
+      "pincodes": [
+        201315
+      ],
+      "areas": [
+        "Gurjinder Vihar"
+      ],
+      "keywords": [
+        "Gurjinder Vihar"
+      ],
+      "id": "gautam buddha nagar_19"
+    }
+  ]
+}

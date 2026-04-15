@@ -1,0 +1,394 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Etawah",
+  "city": "Etawah",
+  "summary": "",
+  "total_areas": 175,
+  "total_pincodes": 16,
+  "zones": [
+    {
+      "name": "Etawah City",
+      "pincodes": [
+        206001
+      ],
+      "areas": [
+        "Etawah Kutchery",
+        "Lalpura Etawah",
+        "Etawah",
+        "Distt Board Etawah",
+        "Bajaria",
+        "Etawah City",
+        "Etawah New City",
+        "K K D C Etawah",
+        "Ashok Nagar SO Etawah",
+        "Satyawadi Etawah"
+      ],
+      "keywords": [
+        "Etawah",
+        "City Center",
+        "Urban"
+      ],
+      "id": "etawah_1"
+    },
+    {
+      "name": "Adhiyapur and Surroundings",
+      "pincodes": [
+        206002
+      ],
+      "areas": [
+        "Adhiyapur",
+        "Pratapner",
+        "Vaidpura",
+        "I T I Etawah",
+        "Datawali",
+        "Sarangpura"
+      ],
+      "keywords": [
+        "Adhiyapur",
+        "Suburban"
+      ],
+      "id": "etawah_2"
+    },
+    {
+      "name": "Manikpur Bissu Area",
+      "pincodes": [
+        206003
+      ],
+      "areas": [
+        "Manikpur Bissu",
+        "Ram Lila Road",
+        "Chitbhawan",
+        "Musaoli",
+        "Pilkhar"
+      ],
+      "keywords": [
+        "Manikpur",
+        "Residential"
+      ],
+      "id": "etawah_3"
+    },
+    {
+      "name": "Bojha and Nearby Villages",
+      "pincodes": [
+        206120
+      ],
+      "areas": [
+        "Bojha",
+        "Ureng",
+        "Niwarikalan",
+        "Pilkhana",
+        "Aheripur",
+        "Indrawakhi"
+      ],
+      "keywords": [
+        "Bojha",
+        "Rural"
+      ],
+      "id": "etawah_4"
+    },
+    {
+      "name": "Bhareh Cluster",
+      "pincodes": [
+        206121
+      ],
+      "areas": [
+        "Bhareh",
+        "Garha Kasda",
+        "Kariyawali"
+      ],
+      "keywords": [
+        "Bhareh",
+        "Village"
+      ],
+      "id": "etawah_5"
+    },
+    {
+      "name": "Usrahar and Surroundings",
+      "pincodes": [
+        206123
+      ],
+      "areas": [
+        "Beena",
+        "Usrahar",
+        "Parasana",
+        "Sarsai Helu",
+        "Sarsai Nawar",
+        "Punja",
+        "Chaubia",
+        "Kauwa",
+        "Moonj",
+        "Purela",
+        "Bakauli",
+        "Kadampur",
+        "Karri",
+        "Kharagpur Saraiya",
+        "Baralokpur"
+      ],
+      "keywords": [
+        "Usrahar",
+        "Rural Cluster"
+      ],
+      "id": "etawah_6"
+    },
+    {
+      "name": "Bakewar Region",
+      "pincodes": [
+        206124
+      ],
+      "areas": [
+        "Gulabpura",
+        "Prithvirampur",
+        "Bijauli",
+        "Ludhiani",
+        "Sherpur",
+        "Fatehpura",
+        "Ghughsina",
+        "Kunetha",
+        "Ingurri",
+        "Bakewar"
+      ],
+      "keywords": [
+        "Bakewar",
+        "Rural"
+      ],
+      "id": "etawah_7"
+    },
+    {
+      "name": "Chakar Nagar and Surroundings",
+      "pincodes": [
+        206125
+      ],
+      "areas": [
+        "Bindwa Kalan",
+        "Bithauli",
+        "Chaurela",
+        "Kandheshi Ghar",
+        "Piprauli Gadhia",
+        "Sahson",
+        "Sindaus",
+        "Bansari",
+        "Gauhani",
+        "Chakar Nagar",
+        "Bidauri",
+        "Bindwa Khurd",
+        "Bachheri",
+        "Rajpur",
+        "Barechha",
+        "Jagtauli",
+        "Titawali"
+      ],
+      "keywords": [
+        "Chakar Nagar",
+        "Rural"
+      ],
+      "id": "etawah_8"
+    },
+    {
+      "name": "Ekdil and Nearby",
+      "pincodes": [
+        206126
+      ],
+      "areas": [
+        "Baisolighat",
+        "Karwa Bujurg",
+        "Birari",
+        "Ekdil",
+        "Dadora",
+        "Maniamau",
+        "Prithvipur",
+        "Chandanpur",
+        "Mugalpur Naraini",
+        "Ritaur"
+      ],
+      "keywords": [
+        "Ekdil",
+        "Suburban"
+      ],
+      "id": "etawah_9"
+    },
+    {
+      "name": "Lavedi and Surroundings",
+      "pincodes": [
+        206127
+      ],
+      "areas": [
+        "Chandpura",
+        "Paharpur",
+        "Lakhana",
+        "Ekari",
+        "Eknaur",
+        "Lavedi",
+        "Bahadurpurghar",
+        "Bidhipura",
+        "Nandgawan",
+        "Takrupur",
+        "Chindauli",
+        "Durgapura"
+      ],
+      "keywords": [
+        "Lavedi",
+        "Rural"
+      ],
+      "id": "etawah_10"
+    },
+    {
+      "name": "Mahewa Cluster",
+      "pincodes": [
+        206128
+      ],
+      "areas": [
+        "Puraoli",
+        "Ujhiani",
+        "Andawa",
+        "Mandir Mahewa"
+      ],
+      "keywords": [
+        "Mahewa",
+        "Village"
+      ],
+      "id": "etawah_11"
+    },
+    {
+      "name": "Saifai and Surroundings",
+      "pincodes": [
+        206130
+      ],
+      "areas": [
+        "Larkhaur",
+        "Kuiya",
+        "Heonra",
+        "Saifai",
+        "Ginja"
+      ],
+      "keywords": [
+        "Saifai",
+        "Suburban"
+      ],
+      "id": "etawah_12"
+    },
+    {
+      "name": "Barhpura and Nearby",
+      "pincodes": [
+        206131
+      ],
+      "areas": [
+        "Bahuri",
+        "Udi",
+        "Ajabpur",
+        "Barhpura",
+        "Garhaita",
+        "Jaitpura Par",
+        "Kamet",
+        "Gati",
+        "Jarhauli",
+        "Pachhayagaon",
+        "Barauli Jamunapar",
+        "Murong"
+      ],
+      "keywords": [
+        "Barhpura",
+        "Rural"
+      ],
+      "id": "etawah_13"
+    },
+    {
+      "name": "Bharthana and Surroundings",
+      "pincodes": [
+        206242
+      ],
+      "areas": [
+        "Merhi Dudhi",
+        "Sarai Chauri",
+        "Takha",
+        "Umarsenda",
+        "Purana Bharthana",
+        "Garhwana",
+        "Kushna",
+        "Maman",
+        "Samthar",
+        "Bharthana",
+        "Baharpur",
+        "Girdharipura",
+        "Kudrail",
+        "Nagaria Yadwan",
+        "Pali Khurd",
+        "Ber",
+        "Ramain",
+        "Samhon",
+        "Sarawa",
+        "College Road Bharthana",
+        "Birondhi",
+        "Kakrahi",
+        "Kandheshi Pachar",
+        "Kunwara",
+        "Malhausi",
+        "Sainfi"
+      ],
+      "keywords": [
+        "Bharthana",
+        "Rural Cluster"
+      ],
+      "id": "etawah_14"
+    },
+    {
+      "name": "Jaswant Nagar and Surroundings",
+      "pincodes": [
+        206245
+      ],
+      "areas": [
+        "Bibamau",
+        "Malajani",
+        "Nagla Ram Sunder",
+        "Vijaypura",
+        "Balrai",
+        "Jasohan",
+        "Jhabrapura",
+        "Kaisth",
+        "Sirhaul",
+        "Jaswant Nagar Bazar",
+        "Bauth",
+        "Garhi Ram Dhan",
+        "Jagsora",
+        "Sishat",
+        "Jaswant Nagar",
+        "Dharwar",
+        "Kokawali",
+        "Kursena",
+        "Nagla Taur",
+        "Niloi",
+        "Dhanua"
+      ],
+      "keywords": [
+        "Jaswant Nagar",
+        "Suburban"
+      ],
+      "id": "etawah_15"
+    },
+    {
+      "name": "Basrehar and Surroundings",
+      "pincodes": [
+        206253
+      ],
+      "areas": [
+        "Chakwa Bujurg",
+        "Hardoi",
+        "Kumahwar",
+        "Kathua",
+        "Kharkauli",
+        "Sirsa",
+        "Abhinaypur Pathakpur",
+        "Baroli Khurd",
+        "Kheda Helu",
+        "Basrehar",
+        "Kharduli",
+        "Rahin",
+        "Santoshpur Ghat"
+      ],
+      "keywords": [
+        "Basrehar",
+        "Rural"
+      ],
+      "id": "etawah_16"
+    }
+  ]
+}

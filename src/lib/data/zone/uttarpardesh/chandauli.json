@@ -1,0 +1,431 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Chandauli",
+  "city": "Chandauli",
+  "summary": "",
+  "total_areas": 202,
+  "total_pincodes": 17,
+  "zones": [
+    {
+      "name": "Sahupuri",
+      "pincodes": [
+        221009
+      ],
+      "areas": [
+        "Sahupuri"
+      ],
+      "keywords": [
+        "Sahupuri"
+      ],
+      "id": "chandauli_1"
+    },
+    {
+      "name": "Basant Nagar",
+      "pincodes": [
+        221110
+      ],
+      "areas": [
+        "Basant Nagar"
+      ],
+      "keywords": [
+        "Basant Nagar"
+      ],
+      "id": "chandauli_2"
+    },
+    {
+      "name": "Tanda Kalan Cluster",
+      "pincodes": [
+        221115
+      ],
+      "areas": [
+        "Tanda Kalan",
+        "Marufpur",
+        "Patti",
+        "Mahuwarkalan",
+        "Samudpur",
+        "Targaonajgara",
+        "Chhapara",
+        "Jurahardhan"
+      ],
+      "keywords": [
+        "Tanda Kalan",
+        "Marufpur",
+        "Patti"
+      ],
+      "id": "chandauli_3"
+    },
+    {
+      "name": "Pandit Deendayal Upadhyay Nagar",
+      "pincodes": [
+        232101
+      ],
+      "areas": [
+        "MAVAIKALA",
+        "Pandit Deendayal Upadhyay",
+        "Patelnagar",
+        "Bharchha",
+        "Derwakalan",
+        "Kurahana",
+        "Alinagar",
+        "Jalilpur",
+        "Pachokhar",
+        "Alampur",
+        "Chandasi",
+        "Dandi",
+        "Dulhipur",
+        "Niyamatabad"
+      ],
+      "keywords": [
+        "Pandit Deendayal Upadhyay",
+        "Patelnagar",
+        "Niyamatabad"
+      ],
+      "id": "chandauli_4"
+    },
+    {
+      "name": "Baburi Cluster",
+      "pincodes": [
+        232102
+      ],
+      "areas": [
+        "Dharde",
+        "Pasahi",
+        "Shivpur",
+        "Dhaneja",
+        "Gauri",
+        "Mavaiya",
+        "Sikari",
+        "Akorha",
+        "Bhadauliya",
+        "Jarkhor",
+        "Baburi"
+      ],
+      "keywords": [
+        "Baburi",
+        "Shivpur",
+        "Sikari"
+      ],
+      "id": "chandauli_5"
+    },
+    {
+      "name": "Chakia Region",
+      "pincodes": [
+        232103
+      ],
+      "areas": [
+        "Bentairi",
+        "Bhabhaura",
+        "Sikarganj",
+        "Pandi",
+        "Bhikhampur",
+        "Chakia",
+        "Bhatraul",
+        "Gaighat",
+        "Rampurkala",
+        "Bhaisahi",
+        "Musakhan",
+        "Saidupur",
+        "Tiyari",
+        "Kharaujha",
+        "Pachwania",
+        "Piparia",
+        "Sikanderpur",
+        "Utraut",
+        "Kolharia",
+        "Jamsoti"
+      ],
+      "keywords": [
+        "Chakia",
+        "Sikarganj",
+        "Rampurkala"
+      ],
+      "id": "chandauli_6"
+    },
+    {
+      "name": "Chandauli Town",
+      "pincodes": [
+        232104
+      ],
+      "areas": [
+        "Barthara Kalan",
+        "Basila",
+        "Jagdish Sarai",
+        "Majhwarkhas",
+        "Jamunipur",
+        "Khagwal",
+        "Khurja",
+        "Parasikalan",
+        "Chandauli",
+        "Bisauri",
+        "Dharauli",
+        "Kanta",
+        "Launda",
+        "Hathiyani",
+        "Sultanpur",
+        "Marhi",
+        "Vishunpura"
+      ],
+      "keywords": [
+        "Chandauli",
+        "Jagdish Sarai",
+        "Khagwal"
+      ],
+      "id": "chandauli_7"
+    },
+    {
+      "name": "Dhanapur Area",
+      "pincodes": [
+        232105
+      ],
+      "areas": [
+        "Torwan",
+        "Amara",
+        "Dhanapur",
+        "Sakrari",
+        "Babhniyaon Raipur",
+        "Dabaria",
+        "Dharaon",
+        "Hingutarjagdishpur",
+        "Shaheedgaon",
+        "Negura"
+      ],
+      "keywords": [
+        "Dhanapur",
+        "Sakrari",
+        "Babhniyaon Raipur"
+      ],
+      "id": "chandauli_8"
+    },
+    {
+      "name": "Kamalpur Cluster",
+      "pincodes": [
+        232106
+      ],
+      "areas": [
+        "Kadirabad",
+        "Kamharia",
+        "Kamalpur",
+        "Derhawan",
+        "Dighghi",
+        "Hetampur",
+        "Meerasarai",
+        "Noori",
+        "Arkaura",
+        "Baghari",
+        "Chilabali",
+        "Kawaipaharpur",
+        "Kharan",
+        "Merahan",
+        "Raiytha",
+        "Dheena",
+        "Jalalpur",
+        "Awati",
+        "Barahan",
+        "Pipari",
+        "Sishaurakalan"
+      ],
+      "keywords": [
+        "Kamalpur",
+        "Dheena",
+        "Kadirabad"
+      ],
+      "id": "chandauli_9"
+    },
+    {
+      "name": "Ramgarh Region",
+      "pincodes": [
+        232107
+      ],
+      "areas": [
+        "Ballipur",
+        "Saifpur",
+        "Nadi Nidhaura",
+        "Ramgarh SO Chandauli",
+        "Nairhi",
+        "Laxmangarh",
+        "Raiya"
+      ],
+      "keywords": [
+        "Ramgarh",
+        "Saifpur",
+        "Nadi Nidhaura"
+      ],
+      "id": "chandauli_10"
+    },
+    {
+      "name": "Sakaldiha Area",
+      "pincodes": [
+        232108,
+        232109
+      ],
+      "areas": [
+        "Dighwat",
+        "Sakaldiha",
+        "Bhojapur",
+        "Naraina",
+        "Tulsiashram Nonar",
+        "Maniyarpur",
+        "Paura",
+        "Kavarua",
+        "Bardisanda",
+        "Awajapur",
+        "Darahara",
+        "Mahesua Nai Bazar",
+        "Ranepur",
+        "Amilai",
+        "Gurera",
+        "Papaura",
+        "Bathawar",
+        "Khajara",
+        "Kawanr",
+        "Kharehara",
+        "Prabhupur",
+        "Mahuwarikhas",
+        "Naikot",
+        "Sewari",
+        "Sakaldiha Bazar",
+        "Balua",
+        "Mathela"
+      ],
+      "keywords": [
+        "Sakaldiha",
+        "Bhojapur",
+        "Sakaldiha Bazar"
+      ],
+      "id": "chandauli_11"
+    },
+    {
+      "name": "Saiyadraja Region",
+      "pincodes": [
+        232110
+      ],
+      "areas": [
+        "Adsand",
+        "Bhujana",
+        "Fesuda",
+        "Tahirpur",
+        "Bhatiza",
+        "Chiraigaon",
+        "Jeori",
+        "Rampur",
+        "Sogai",
+        "Barahani",
+        "Ghosawa",
+        "Naubatpur",
+        "Oyarchak",
+        "Seruka",
+        "Arangi",
+        "Asana",
+        "Rewasa",
+        "Bagahikumbhapur",
+        "Imilia",
+        "Tejopur",
+        "Saiyadraja"
+      ],
+      "keywords": [
+        "Saiyadraja",
+        "Barahani",
+        "Rampur"
+      ],
+      "id": "chandauli_12"
+    },
+    {
+      "name": "Naugarh Cluster",
+      "pincodes": [
+        232111
+      ],
+      "areas": [
+        "Jhumaria",
+        "Lerhaka",
+        "Deori Kalan",
+        "Aurwatand",
+        "Naugarh",
+        "Devdattpur",
+        "Barbaspur",
+        "Amdaha",
+        "Devara",
+        "Jarhar",
+        "Jamsot",
+        "Chakarghatta",
+        "Majhghain",
+        "Keshar Gaon",
+        "Chamerbhandh",
+        "Lauaarikala",
+        "Horila",
+        "Shamsherpur",
+        "Narvadapur",
+        "Gadhva",
+        "Semariya"
+      ],
+      "keywords": [
+        "Naugarh",
+        "Deori Kalan",
+        "Chakarghatta"
+      ],
+      "id": "chandauli_13"
+    },
+    {
+      "name": "Majidaha",
+      "pincodes": [
+        232115
+      ],
+      "areas": [
+        "Majidaha"
+      ],
+      "keywords": [
+        "Majidaha"
+      ],
+      "id": "chandauli_14"
+    },
+    {
+      "name": "Sahabganj Area",
+      "pincodes": [
+        232118
+      ],
+      "areas": [
+        "Karnaul",
+        "Amilia",
+        "Illia",
+        "Bhurkura",
+        "Sahabganj SO Chandauli",
+        "Baraura",
+        "Bhorsar",
+        "Keraigaon",
+        "Khakhara",
+        "Amaon",
+        "Dhunnoo",
+        "Katwamafi",
+        "Khilchi",
+        "Tiyara"
+      ],
+      "keywords": [
+        "Sahabganj",
+        "Karnaul",
+        "Amilia"
+      ],
+      "id": "chandauli_15"
+    },
+    {
+      "name": "Sadalpura Cluster",
+      "pincodes": [
+        232120
+      ],
+      "areas": [
+        "Janso Ki Marai",
+        "Pharsand Mohanpur",
+        "Sanghati",
+        "Rupetha",
+        "Kori",
+        "Maharkha",
+        "Keshavpur",
+        "Sadalpura"
+      ],
+      "keywords": [
+        "Sadalpura",
+        "Pharsand Mohanpur",
+        "Rupetha"
+      ],
+      "id": "chandauli_16"
+    }
+  ]
+}

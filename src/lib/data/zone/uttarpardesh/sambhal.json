@@ -1,0 +1,391 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Sambhal",
+  "city": "Sambhal",
+  "summary": "",
+  "total_areas": 185,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Babrala Region",
+      "pincodes": [
+        242021,
+        243751
+      ],
+      "areas": [
+        "IA Babrala",
+        "Mehua Hasanganj",
+        "Dinaura",
+        "Ikona",
+        "Dhanari",
+        "Babrala",
+        "Kail",
+        "KHALILPUR",
+        "Mehmoodpur",
+        "Bhakrauli",
+        "Bhirawati",
+        "Chhapra",
+        "Dupta Kalan",
+        "Harphari",
+        "Hirauni",
+        "Saitua",
+        "Shahjanabad"
+      ],
+      "keywords": [
+        "Babrala",
+        "Dhanari",
+        "Kail"
+      ],
+      "id": "sambhal_1"
+    },
+    {
+      "name": "Sahaswan Cluster",
+      "pincodes": [
+        243638
+      ],
+      "areas": [
+        "Mithanpur",
+        "Sagrai",
+        "Tigra",
+        "Zarifnagar",
+        "Bhawanipur Khairu",
+        "Bhagta Nagla",
+        "Malpurtatera",
+        "Nadail",
+        "Samspurmalik Fatta",
+        "Sirsa Khurd",
+        "KHARAGWARI MANPUR PUKHTA",
+        "Sahaswan",
+        "Dehgawan",
+        "Kariyaban",
+        "Mustafabad Jaretha",
+        "Tehra",
+        "Aurangabad Bhoorh",
+        "Afjalpur Chhaganpur",
+        "Baksar",
+        "Dakarapukhta",
+        "Dharampur Tappa Vaish",
+        "Narsena",
+        "Qadrabad",
+        "Silhari",
+        "Bhamori",
+        "Kolhai",
+        "Rasoolpur Bela",
+        "Rasoolpur Kalan",
+        "Shahnagar Patparaganj",
+        "Sujawali",
+        "Sukrullapur",
+        "Usmanpur"
+      ],
+      "keywords": [
+        "Sahaswan",
+        "Bhawanipur",
+        "Aurangabad"
+      ],
+      "id": "sambhal_2"
+    },
+    {
+      "name": "Gunnaur Area",
+      "pincodes": [
+        243722
+      ],
+      "areas": [
+        "Bandarai",
+        "Kashipur",
+        "Lahara Nagla Shyam",
+        "Bairpur Maharaji",
+        "Nagla Ajmeri",
+        "Asadpur",
+        "Dabthara Harlal",
+        "Ghosali Bahan",
+        "Rewara",
+        "JUNAWAI",
+        "Gunnaur",
+        "Madkawali",
+        "Pataria",
+        "Pusawali",
+        "Dhandwara",
+        "Isampur Danda",
+        "Nadrauli"
+      ],
+      "keywords": [
+        "Gunnaur",
+        "Junawai",
+        "Dabthara"
+      ],
+      "id": "sambhal_3"
+    },
+    {
+      "name": "Rajpura and Surroundings",
+      "pincodes": [
+        243727
+      ],
+      "areas": [
+        "Gawan",
+        "Singhaula Daulatsingh",
+        "Jijonda",
+        "Singhauli Kalloo",
+        "Rajpura SO Budaun",
+        "Neora"
+      ],
+      "keywords": [
+        "Rajpura",
+        "Gawan",
+        "Singhaula"
+      ],
+      "id": "sambhal_4"
+    },
+    {
+      "name": "Madhan and Vicinity",
+      "pincodes": [
+        244102
+      ],
+      "areas": [
+        "Madhan",
+        "Obri",
+        "Shahbaj Pur Kalan",
+        "Harthala",
+        "Ratupura",
+        "Khaspur"
+      ],
+      "keywords": [
+        "Madhan",
+        "Shahbaj Pur",
+        "Harthala"
+      ],
+      "id": "sambhal_5"
+    },
+    {
+      "name": "Sirsi and Nearby",
+      "pincodes": [
+        244301
+      ],
+      "areas": [
+        "Sirsi SO Moradabad",
+        "Gurer",
+        "Hajratnagar Garhi",
+        "Mainather",
+        "Barahi",
+        "Baripur Bhamrowa",
+        "Bharthal Madapur",
+        "Mahmoodpur",
+        "Niyamatpur",
+        "Qasimpur",
+        "Rehtaul",
+        "Azamnagar Chopra",
+        "Dingarpur",
+        "Fatehpur Malakpur",
+        "Ummedpur"
+      ],
+      "keywords": [
+        "Sirsi",
+        "Mainather",
+        "Dingarpur"
+      ],
+      "id": "sambhal_6"
+    },
+    {
+      "name": "Sambhal City",
+      "pincodes": [
+        244302
+      ],
+      "areas": [
+        "Bhawanipur",
+        "Chandankati",
+        "RP Niyaoli",
+        "Ruknuddin Sarai",
+        "Singhpur Sani",
+        "Chamroa",
+        "Dilgaura",
+        "Isapur Sunwari",
+        "Mohd Pur Tanda",
+        "Salarpur",
+        "Akhtiarpur Thillupura",
+        "Bhatola",
+        "Senjana",
+        "Thati",
+        "Sambhal",
+        "Kasauli",
+        "Mian Sarai",
+        "Pawasa",
+        "Deepa Sarai",
+        "Hasanpur Manjapta",
+        "Lakhauri Jalalpur",
+        "Mohra Lakhupura",
+        "Nuria Sarai"
+      ],
+      "keywords": [
+        "Sambhal",
+        "Pawasa",
+        "Deepa Sarai"
+      ],
+      "id": "sambhal_7"
+    },
+    {
+      "name": "Sarai Tarin Area",
+      "pincodes": [
+        244303
+      ],
+      "areas": [
+        "Amawati Qutubpur",
+        "Gauhat",
+        "Sarai Tarin",
+        "Hayatnagar",
+        "Rudayan",
+        "Sherpur",
+        "Datauli",
+        "Sondhan Mohdpur"
+      ],
+      "keywords": [
+        "Sarai Tarin",
+        "Hayatnagar",
+        "Rudayan"
+      ],
+      "id": "sambhal_8"
+    },
+    {
+      "name": "Asmoli and Surroundings",
+      "pincodes": [
+        244304
+      ],
+      "areas": [
+        "Dulapur Urf Darapur",
+        "Madala Fatehpur",
+        "Satupura",
+        "Dugawar",
+        "Saidpur Gangu",
+        "Asmoli",
+        "Manota",
+        "Rampur Urf Yarpur",
+        "Anchora Kamboh"
+      ],
+      "keywords": [
+        "Asmoli",
+        "Dugawar",
+        "Rampur"
+      ],
+      "id": "sambhal_9"
+    },
+    {
+      "name": "Bahjoi Region",
+      "pincodes": [
+        244410
+      ],
+      "areas": [
+        "Alpur Maithra",
+        "Faridpur Khushal",
+        "Jarai Hayat Nagar",
+        "Pathakpur",
+        "Rajpur Kalan",
+        "Sadatwari",
+        "Chatan",
+        "Majhola",
+        "Nadhos",
+        "Rampura",
+        "Fatehpur Samsoi",
+        "Raipur Kalan",
+        "Bahjoi",
+        "Sheoraj Pur",
+        "Bahroli Taharpur",
+        "Mau Ka Ther",
+        "Muletha"
+      ],
+      "keywords": [
+        "Bahjoi",
+        "Majhola",
+        "Rajpur"
+      ],
+      "id": "sambhal_10"
+    },
+    {
+      "name": "Chandausi Area",
+      "pincodes": [
+        244412
+      ],
+      "areas": [
+        "Chandausi RS",
+        "Gumthal",
+        "Maulagarh",
+        "Raholi",
+        "Behta Khas",
+        "Budh Nagar Khandwa",
+        "Janeta",
+        "Mai",
+        "Chandausi Bara Bazar",
+        "Chandausi",
+        "Braham Bazar Chandausi",
+        "Railway Colony Chandausi",
+        "Asalatpur Jarai",
+        "Bania Khera",
+        "Barauli Rustampur",
+        "Kaithal",
+        "Mohd Ganj",
+        "Nagla Purvi"
+      ],
+      "keywords": [
+        "Chandausi",
+        "Bara Bazar",
+        "Railway Colony"
+      ],
+      "id": "sambhal_11"
+    },
+    {
+      "name": "Narauli and Nearby",
+      "pincodes": [
+        244414
+      ],
+      "areas": [
+        "Afjalpur Darauli",
+        "Ancholi",
+        "Sarthal",
+        "Bajhawli",
+        "Tharesa Jai Singh",
+        "Modhpur Wabai",
+        "Mohd Sadikpur",
+        "Alipur Buzurg",
+        "Narauli"
+      ],
+      "keywords": [
+        "Narauli",
+        "Ancholi",
+        "Sarthal"
+      ],
+      "id": "sambhal_12"
+    },
+    {
+      "name": "Jarwar and Gari Bichola",
+      "pincodes": [
+        243723
+      ],
+      "areas": [
+        "Jarwar",
+        "Gari Bichola"
+      ],
+      "keywords": [
+        "Jarwar",
+        "Gari Bichola"
+      ],
+      "id": "sambhal_13"
+    },
+    {
+      "name": "Akrauli and Surroundings",
+      "pincodes": [
+        244411
+      ],
+      "areas": [
+        "Akrauli",
+        "Chhawara",
+        "Sarai Jawalapuri",
+        "Kurh Fatehgarh",
+        "Berni",
+        "Dharampur Ratta"
+      ],
+      "keywords": [
+        "Akrauli",
+        "Sarai Jawalapuri",
+        "Kurh Fatehgarh"
+      ],
+      "id": "sambhal_14"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Sonbhadra",
+  "city": "Sonbhadra",
+  "summary": "",
+  "total_areas": 283,
+  "total_pincodes": 21,
+  "zones": [
+    {
+      "name": "Chopan Area",
+      "pincodes": [
+        231205
+      ],
+      "areas": [
+        "Jugail",
+        "Kharhara",
+        "Salkhan",
+        "Aghori Khas",
+        "Gosari",
+        "Gothani",
+        "Badgaon",
+        "Chopan",
+        "Sinduria",
+        "Semiyan",
+        "Ghatihata",
+        "Kanachh",
+        "Kudari",
+        "Patwadh",
+        "Bhabhaecha",
+        "Adalganj",
+        "Bharahari",
+        "Chatarvar",
+        "Kargara",
+        "Gurdah"
+      ],
+      "keywords": [
+        "Chopan",
+        "Jugail",
+        "Kharhara"
+      ],
+      "id": "sonbhadra_1"
+    },
+    {
+      "name": "Churk Region",
+      "pincodes": [
+        231206
+      ],
+      "areas": [
+        "Churk",
+        "Cherui",
+        "Makari Bari",
+        "Markudi"
+      ],
+      "keywords": [
+        "Churk",
+        "Cherui"
+      ],
+      "id": "sonbhadra_2"
+    },
+    {
+      "name": "Dalla and Surroundings",
+      "pincodes": [
+        231207
+      ],
+      "areas": [
+        "Gurmura",
+        "Telgudwa",
+        "Maloghat",
+        "Kota",
+        "Basudha",
+        "Bhaksihwa",
+        "Padarachh",
+        "Bahera",
+        "Harra",
+        "Dalla"
+      ],
+      "keywords": [
+        "Dalla",
+        "Gurmura"
+      ],
+      "id": "sonbhadra_3"
+    },
+    {
+      "name": "Dudhi Block",
+      "pincodes": [
+        231208
+      ],
+      "areas": [
+        "Hathwani",
+        "Asandih",
+        "Dadihara",
+        "Dumardih",
+        "Shishwa",
+        "Supachua",
+        "Babhani",
+        "Jharo Khurd",
+        "Khokha Karahia",
+        "Gardarwa",
+        "Ekdari",
+        "Gadia",
+        "Rajkhad",
+        "Baliyari",
+        "Chanaga",
+        "Dhanaura",
+        "Jatajuaa",
+        "Majhauli",
+        "Parani",
+        "Dudhi",
+        "Chainpur",
+        "Satbahani",
+        "Bhalu Kudar",
+        "Dumhan",
+        "Arangpani",
+        "Karahia",
+        "Kirbil",
+        "Myorpur",
+        "Pakari",
+        "Birar",
+        "Dhanwar",
+        "Dumra",
+        "Katauli",
+        "Khoto Mahua",
+        "Machbandhwa"
+      ],
+      "keywords": [
+        "Dudhi",
+        "Myorpur"
+      ],
+      "id": "sonbhadra_4"
+    },
+    {
+      "name": "Gurma Markundi",
+      "pincodes": [
+        231209
+      ],
+      "areas": [
+        "Gurma Markundi"
+      ],
+      "keywords": [
+        "Gurma Markundi"
+      ],
+      "id": "sonbhadra_5"
+    },
+    {
+      "name": "Ghorawal Area",
+      "pincodes": [
+        231210
+      ],
+      "areas": [
+        "Baidand",
+        "Tilaulikala",
+        "Lohadi",
+        "Padwania",
+        "Shivdwar",
+        "Ghorawal",
+        "Kanethi",
+        "Rizul",
+        "Amilaudha",
+        "Parsona",
+        "Sabha Lilwahi"
+      ],
+      "keywords": [
+        "Ghorawal",
+        "Shivdwar"
+      ],
+      "id": "sonbhadra_6"
+    },
+    {
+      "name": "Amwar Region",
+      "pincodes": [
+        231212
+      ],
+      "areas": [
+        "Ghaghara",
+        "Pokhara",
+        "Randah Tola",
+        "Sundari",
+        "Baina",
+        "Gohada",
+        "Kudri",
+        "Lilasikala",
+        "Mahuaria",
+        "Sagobandh",
+        "Jamapani",
+        "Chauna",
+        "Korachi",
+        "Bagharu",
+        "Konga",
+        "Nagawa",
+        "Rannu",
+        "Terha",
+        "Amwar"
+      ],
+      "keywords": [
+        "Amwar",
+        "Ghaghara"
+      ],
+      "id": "sonbhadra_7"
+    },
+    {
+      "name": "Pannuganj and Vicinity",
+      "pincodes": [
+        231213
+      ],
+      "areas": [
+        "Newari",
+        "Banki",
+        "Pannuganj",
+        "Retikala",
+        "Dhosara",
+        "Jagdishpur",
+        "Majhui",
+        "Pithauri",
+        "Semariya",
+        "Suarsot Khurd",
+        "Mahuli",
+        "Pauni",
+        "Raipur",
+        "Siltham",
+        "Aamdih",
+        "Chatara",
+        "Kajiyari",
+        "Palhari",
+        "Panaura",
+        "Purana Kalan",
+        "Tenua",
+        "Nandana",
+        "Pakarhat",
+        "Darev",
+        "Patana",
+        "Van Vahuar",
+        "Ram Garh",
+        "Naudiha",
+        "Majhidand",
+        "Padarikala",
+        "Sandi",
+        "Baijnath",
+        "Belgaain",
+        "Saraigarh",
+        "Maachi",
+        "Shivpur",
+        "Bhikhampur",
+        "Gotibandh",
+        "Gullidand",
+        "Karaundiya",
+        "Kirhuliya",
+        "Shohdaul",
+        "Sodha"
+      ],
+      "keywords": [
+        "Pannuganj",
+        "Raipur"
+      ],
+      "id": "sonbhadra_8"
+    },
+    {
+      "name": "Shahganj Area",
+      "pincodes": [
+        231215
+      ],
+      "areas": [
+        "Shahganj",
+        "Rajpur SO Sonbhadra",
+        "Mudiladeeh",
+        "Sarvat",
+        "Dohari",
+        "Jamgaon",
+        "Pakauli",
+        "Panauli",
+        "Obradeeh",
+        "Bandha",
+        "Baldeeh"
+      ],
+      "keywords": [
+        "Shahganj",
+        "Rajpur"
+      ],
+      "id": "sonbhadra_9"
+    },
+    {
+      "name": "Robertsganj and Surroundings",
+      "pincodes": [
+        231216
+      ],
+      "areas": [
+        "Akchhor",
+        "Bahuar",
+        "Khairahi",
+        "Mokarsim",
+        "Oeni Mishra",
+        "Tarawan",
+        "Barhada",
+        "Kamhaari",
+        "Khoradeeh",
+        "Gadaigadh",
+        "Virathi",
+        "War",
+        "Rampur",
+        "Dharnipur",
+        "Khairpur",
+        "Nai Bazar",
+        "Narokhar",
+        "Siddhi Kala",
+        "Amauli",
+        "Lorhi",
+        "Mau Kala",
+        "Umari Kala",
+        "Bichchhi",
+        "Kaithi",
+        "Sahijankala",
+        "Sukrut",
+        "Hinauti",
+        "Kamoji",
+        "Lohara",
+        "Naagnar Haraiya",
+        "Padari Khurd",
+        "Raunp",
+        "Robertsganj Hydle Colony",
+        "Robertsganj",
+        "Bahuara",
+        "Hinauta",
+        "Karma",
+        "Kasyakala",
+        "Tendu",
+        "Banaura",
+        "Kusumha",
+        "Kakarahi",
+        "Madhupur",
+        "Parasi Dubey",
+        "Sarauli"
+      ],
+      "keywords": [
+        "Robertsganj",
+        "Nai Bazar"
+      ],
+      "id": "sonbhadra_10"
+    },
+    {
+      "name": "Renukoot Area",
+      "pincodes": [
+        231217
+      ],
+      "areas": [
+        "Belhatthi",
+        "Sukhdevanand Ashram",
+        "Dala Pipar",
+        "Jagideeh",
+        "Renukoot"
+      ],
+      "keywords": [
+        "Renukoot",
+        "Belhatthi"
+      ],
+      "id": "sonbhadra_11"
+    },
+    {
+      "name": "Renusagar Region",
+      "pincodes": [
+        231218
+      ],
+      "areas": [
+        "Renusagar",
+        "Khajura",
+        "Pati"
+      ],
+      "keywords": [
+        "Renusagar",
+        "Khajura"
+      ],
+      "id": "sonbhadra_12"
+    },
+    {
+      "name": "Obra and Vicinity",
+      "pincodes": [
+        231219
+      ],
+      "areas": [
+        "Parsoi",
+        "Obra SO Sonbhadra",
+        "Obra Thermal",
+        "Billi Markundi",
+        "Panari",
+        "Khadar",
+        "Nawa Tola"
+      ],
+      "keywords": [
+        "Obra",
+        "Billi Markundi"
+      ],
+      "id": "sonbhadra_13"
+    },
+    {
+      "name": "Beena Project",
+      "pincodes": [
+        231220
+      ],
+      "areas": [
+        "Beena Project"
+      ],
+      "keywords": [
+        "Beena Project"
+      ],
+      "id": "sonbhadra_14"
+    },
+    {
+      "name": "Banvasi Seva Ashram Area",
+      "pincodes": [
+        231221
+      ],
+      "areas": [
+        "Banvasi Seva Ashram",
+        "Turra",
+        "Raspahari"
+      ],
+      "keywords": [
+        "Banvasi Seva Ashram",
+        "Turra"
+      ],
+      "id": "sonbhadra_15"
+    },
+    {
+      "name": "Shaktinagar Region",
+      "pincodes": [
+        231222
+      ],
+      "areas": [
+        "Dharsari",
+        "Yogichaura",
+        "Khadia Project",
+        "Shaktinagar Thermal Power Stat",
+        "Shaktinagar SO Sonbhadra",
+        "Chilka Dand"
+      ],
+      "keywords": [
+        "Shaktinagar",
+        "Khadia Project"
+      ],
+      "id": "sonbhadra_16"
+    },
+    {
+      "name": "Beej Pur and Surroundings",
+      "pincodes": [
+        231223
+      ],
+      "areas": [
+        "Sirsoti",
+        "Asanahar",
+        "Chapki",
+        "Nadhira",
+        "Pindari",
+        "Bhanwar",
+        "Dubha",
+        "Jarhan",
+        "Dumarhar",
+        "Hathiyar",
+        "Leela Deva",
+        "Shish Tola",
+        "Beej Pur",
+        "Bachara",
+        "Dharti Dand",
+        "Ghaghari",
+        "Nemana",
+        "Sindoor",
+        "Bhalpahari",
+        "Raj Milan"
+      ],
+      "keywords": [
+        "Beej Pur",
+        "Sirsoti"
+      ],
+      "id": "sonbhadra_17"
+    },
+    {
+      "name": "Kakari Project",
+      "pincodes": [
+        231224
+      ],
+      "areas": [
+        "Rehta",
+        "Kakari Project"
+      ],
+      "keywords": [
+        "Kakari Project",
+        "Rehta"
+      ],
+      "id": "sonbhadra_18"
+    },
+    {
+      "name": "Anpara Tps Area",
+      "pincodes": [
+        231225
+      ],
+      "areas": [
+        "Radhore",
+        "Belwadah",
+        "Bairpan",
+        "Kandhaura",
+        "Bairpur",
+        "Dibulgani",
+        "Anpara Tps"
+      ],
+      "keywords": [
+        "Anpara Tps",
+        "Radhore"
+      ],
+      "id": "sonbhadra_19"
+    },
+    {
+      "name": "Wyndhamganj and Surroundings",
+      "pincodes": [
+        231226
+      ],
+      "areas": [
+        "Kachnarwa",
+        "Mishri",
+        "Doomar",
+        "Karail",
+        "Kharaundhi",
+        "Bagesoti",
+        "Chachikalan",
+        "Dhuma",
+        "Kewal",
+        "Kone",
+        "Rorwan",
+        "Harana Kachhaar",
+        "Jorukhad",
+        "Khempur",
+        "Nigai",
+        "Naudiha Ramgarh",
+        "Bairkhad",
+        "Mitihiniya",
+        "Ranidih",
+        "Ghiwahi",
+        "Kudwan",
+        "Chanani",
+        "Kishunpurwa",
+        "Wyndhamganj",
+        "Dhorpa",
+        "Devatan",
+        "Gidhiya"
+      ],
+      "keywords": [
+        "Wyndhamganj",
+        "Kachnarwa"
+      ],
+      "id": "sonbhadra_20"
+    },
+    {
+      "name": "Barji Mukundpur Area",
+      "pincodes": [
+        231307
+      ],
+      "areas": [
+        "Barji Mukundpur",
+        "Arjunpur",
+        "Amrawati"
+      ],
+      "keywords": [
+        "Barji Mukundpur",
+        "Arjunpur"
+      ],
+      "id": "sonbhadra_21"
+    }
+  ]
+}

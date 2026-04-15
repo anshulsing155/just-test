@@ -1,0 +1,478 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kushi Nagar",
+  "city": "Kushi Nagar",
+  "summary": "",
+  "total_areas": 216,
+  "total_pincodes": 22,
+  "zones": [
+    {
+      "name": "Ahirauli Bazar Area",
+      "pincodes": [
+        274149,
+        274402,
+        274149,
+        274309,
+        274402
+      ],
+      "areas": [
+        "Ahirauli Bazar",
+        "Somali",
+        "Bankata Bharpurawa",
+        "Bhaluhi",
+        "Chiurapali",
+        "Mahuwa Buzurg",
+        "Mujdiha",
+        "Turkdiha",
+        "Kundur",
+        "Mansoorganj",
+        "Rohuwa Machhargawa",
+        "Dhuria Khas",
+        "JIC Sohasa Mathia",
+        "Natwalia",
+        "Parsauni Khurd",
+        "Sakhopar",
+        "Sapaha",
+        "Karmaini Premwalia",
+        "Kurmauta Manjharia",
+        "Mainpur",
+        "Sekhwania",
+        "Mahuawa Karkhana",
+        "Mathia Naraipur",
+        "Kasia S O",
+        "Dilip Nagar",
+        "Lehani",
+        "Bodarwar",
+        "Sarya",
+        "Kuber Sthan",
+        "Deoria Pandey",
+        "Parsauni",
+        "Pakari Buzurg",
+        "Sidhuwa Bangar",
+        "Asana",
+        "Jagdishpur Dharmdani",
+        "Ahirauli bazar",
+        "Dumarbhar",
+        "Padrauna Chhavani"
+      ],
+      "keywords": [
+        "Ahirauli Bazar",
+        "Somali",
+        "Kasia"
+      ],
+      "id": "kushi nagar_1"
+    },
+    {
+      "name": "Hata Region",
+      "pincodes": [
+        274203
+      ],
+      "areas": [
+        "Bhaisahi Bazar",
+        "Langari",
+        "Pipara",
+        "Rampur Sohrauna",
+        "HATA",
+        "Bikram Bhisunpur",
+        "Arjun Dumari",
+        "Dharmpur",
+        "Narainpur",
+        "Paikauli",
+        "Rampur Buzurug",
+        "Bhuri Pakar",
+        "Pipraicha",
+        "Jhanga",
+        "Sakrauli",
+        "Samogar",
+        "Sirsia"
+      ],
+      "keywords": [
+        "Hata",
+        "Rampur"
+      ],
+      "id": "kushi nagar_2"
+    },
+    {
+      "name": "Captainganj Area",
+      "pincodes": [
+        274301
+      ],
+      "areas": [
+        "Baulia",
+        "Bharsar Khas",
+        "Captainganj",
+        "Karitin",
+        "Malukahi",
+        "Pipara Brahaman",
+        "Singari",
+        "Atharaha",
+        "Fardaha",
+        "Gaunaria",
+        "Khabhara Bhar",
+        "Mathauli",
+        "Mundera",
+        "Rampur Chaubey"
+      ],
+      "keywords": [
+        "Captainganj",
+        "Rampur"
+      ],
+      "id": "kushi nagar_3"
+    },
+    {
+      "name": "Padrauna City",
+      "pincodes": [
+        274304,
+        274308
+      ],
+      "areas": [
+        "Padrauna",
+        "Khesiya",
+        "Nahar Chhapara",
+        "Dharampur",
+        "Padrauna City",
+        "Dandopur",
+        "Belwa Jungle",
+        "Balkuriya",
+        "Sarpatahi"
+      ],
+      "keywords": [
+        "Padrauna",
+        "City"
+      ],
+      "id": "kushi nagar_4"
+    },
+    {
+      "name": "Ramkola and Surroundings",
+      "pincodes": [
+        274305
+      ],
+      "areas": [
+        "Pakariyar Bazar",
+        "Amwa Bazar",
+        "Kotwa Bazar",
+        "Naurangia",
+        "Morban",
+        "Rambar Buzurg",
+        "Singaha",
+        "Khajuri Bazar",
+        "Kushumhi",
+        "Parwarpar",
+        "Ruari",
+        "Ramkola",
+        "Barwa Bazar",
+        "Pipra Bazar",
+        "Sidhawey",
+        "Tekuatar"
+      ],
+      "keywords": [
+        "Ramkola",
+        "Bazar"
+      ],
+      "id": "kushi nagar_5"
+    },
+    {
+      "name": "Fazilnagar Region",
+      "pincodes": [
+        274401
+      ],
+      "areas": [
+        "Pipra Kanak",
+        "Sohang",
+        "Sumahi Khurd",
+        "Gurwalia",
+        "Banbira",
+        "Belwa Karkhana",
+        "Bhatahi Khurd",
+        "Farendaha",
+        "Laxmipur Mishra",
+        "Bihar Buzurg",
+        "Kishundeopur",
+        "Lachhia",
+        "Nadawa Bishunpur",
+        "Nakataha Misir",
+        "Sariya Mahanth Patti",
+        "Shankar Pat Khauli",
+        "Fazilnagar",
+        "Chandrauta",
+        "Jaura Man Rakhan",
+        "Koilasawa",
+        "Pataherawa",
+        "Semara Hardo Patti"
+      ],
+      "keywords": [
+        "Fazilnagar",
+        "Region"
+      ],
+      "id": "kushi nagar_6"
+    },
+    {
+      "name": "Tamkuhi Raj Area",
+      "pincodes": [
+        274407
+      ],
+      "areas": [
+        "Bagahi",
+        "Laxmipur Baboo",
+        "Parsauni Buzurg",
+        "Barwa Raja Pakar",
+        "Tamkuhi",
+        "Dhuria Imilia",
+        "Pagara Prsad Giri"
+      ],
+      "keywords": [
+        "Tamkuhi",
+        "Raj"
+      ],
+      "id": "kushi nagar_7"
+    },
+    {
+      "name": "Kushinagar Town",
+      "pincodes": [
+        274403
+      ],
+      "areas": [
+        "KUSHINAGAR"
+      ],
+      "keywords": [
+        "Kushinagar",
+        "Town"
+      ],
+      "id": "kushi nagar_8"
+    },
+    {
+      "name": "Seorahi and Nearby",
+      "pincodes": [
+        274406
+      ],
+      "areas": [
+        "Piparaghat",
+        "Rakaba Junglepatti",
+        "Gauri Ibrahim",
+        "Madhopur Buzurg",
+        "Seorahi",
+        "Gauri Jagdish"
+      ],
+      "keywords": [
+        "Seorahi",
+        "Gauri"
+      ],
+      "id": "kushi nagar_9"
+    },
+    {
+      "name": "Salemgarh Area",
+      "pincodes": [
+        274409
+      ],
+      "areas": [
+        "Ahiraulidan",
+        "Bahadur Pur",
+        "Pipara Agarwa",
+        "Jabahi Dayal",
+        "Mathia Sriram",
+        "Vedupar",
+        "Tarya Sujan",
+        "Baghachaur",
+        "Salemgarh",
+        "Tarya Lachhiram"
+      ],
+      "keywords": [
+        "Salemgarh",
+        "Area"
+      ],
+      "id": "kushi nagar_10"
+    },
+    {
+      "name": "Khadda and Surroundings",
+      "pincodes": [
+        274802
+      ],
+      "areas": [
+        "Bhaisaha",
+        "Gethihawa",
+        "Khairi",
+        "Sohrauna",
+        "Raja Bazar Khadda",
+        "Bali",
+        "Barwa Ratanpur",
+        "Bhujauli Buzurg",
+        "Mathia Buzurg",
+        "Nebua Raiganj",
+        "Belwaghat",
+        "Siswa Maniraj",
+        "Kohargaddi",
+        "Madanpur Bherihari"
+      ],
+      "keywords": [
+        "Khadda",
+        "Bazar"
+      ],
+      "id": "kushi nagar_11"
+    },
+    {
+      "name": "Chhitauni and Rampur Jungle",
+      "pincodes": [
+        274801
+      ],
+      "areas": [
+        "Chhitauni",
+        "Rampur Jungle"
+      ],
+      "keywords": [
+        "Chhitauni",
+        "Rampur"
+      ],
+      "id": "kushi nagar_12"
+    },
+    {
+      "name": "Dumari and Nearby",
+      "pincodes": [
+        274206
+      ],
+      "areas": [
+        "Dumari Swangi Patti",
+        "Sahbajpur",
+        "Naika Chhapar"
+      ],
+      "keywords": [
+        "Dumari",
+        "Swangi"
+      ],
+      "id": "kushi nagar_13"
+    },
+    {
+      "name": "Chilua and Surroundings",
+      "pincodes": [
+        274207
+      ],
+      "areas": [
+        "Chilua",
+        "Pakari",
+        "Vijaikaf",
+        "Naumunda",
+        "Dhadha Buzurg",
+        "Sukrauli",
+        "Barsaina",
+        "Padari",
+        "Pindara"
+      ],
+      "keywords": [
+        "Chilua",
+        "Sukrauli"
+      ],
+      "id": "kushi nagar_14"
+    },
+    {
+      "name": "Bansgaon and Nearby",
+      "pincodes": [
+        274302
+      ],
+      "areas": [
+        "Amawa Digar",
+        "Dharampur Parbat",
+        "Tirma Sahun",
+        "Bansgaon",
+        "Barwa Patti",
+        "Rampur Barhan",
+        "Dudhai",
+        "Mahuawa Buzurg",
+        "Bishunpura",
+        "Chaf",
+        "Dashahawa",
+        "Gauri Sriram"
+      ],
+      "keywords": [
+        "Bansgaon",
+        "Rampur"
+      ],
+      "id": "kushi nagar_15"
+    },
+    {
+      "name": "Basdila Pandey Area",
+      "pincodes": [
+        274303
+      ],
+      "areas": [
+        "Basdila Pandey",
+        "Goraria",
+        "Jhankaul",
+        "Laxmipur",
+        "Horlapur",
+        "Pachrukhia",
+        "Sikata",
+        "Pipra Jatampur",
+        "Batrauli Bazar",
+        "Kathkuiyan"
+      ],
+      "keywords": [
+        "Basdila",
+        "Pandey"
+      ],
+      "id": "kushi nagar_16"
+    },
+    {
+      "name": "Katai Bharpurwa and Surroundings",
+      "pincodes": [
+        274307
+      ],
+      "areas": [
+        "Katai Bharpurwa",
+        "Babuiya Harpur",
+        "Kinnarpatti",
+        "Padrauna Sugar Factory",
+        "Maghi Kotilwa",
+        "Siawa Goiti",
+        "Jataha Bazar",
+        "Padari Pipar patti",
+        "Singha Patti",
+        "Bettiah"
+      ],
+      "keywords": [
+        "Katai",
+        "Bharpurwa"
+      ],
+      "id": "kushi nagar_17"
+    },
+    {
+      "name": "Chakhani and Nearby",
+      "pincodes": [
+        274306
+      ],
+      "areas": [
+        "Chakhani Bhumihari Patti",
+        "Khutahi",
+        "Pagar",
+        "Rampur Bagaha",
+        "Ragarganj",
+        "Deoria Baboo",
+        "Harpur Mafi",
+        "Kusumha",
+        "Puraini",
+        "Chandarpur",
+        "Khanu Chhapara",
+        "Lala Chhapara",
+        "Mania Chhapar",
+        "Marar Bindwalia",
+        "Laxmiganj"
+      ],
+      "keywords": [
+        "Chakhani",
+        "Rampur"
+      ],
+      "id": "kushi nagar_18"
+    },
+    {
+      "name": "1CBPO Area",
+      "pincodes": [
+        900056
+      ],
+      "areas": [
+        "1CBPO"
+      ],
+      "keywords": [
+        "1CBPO"
+      ],
+      "id": "kushi nagar_19"
+    }
+  ]
+}

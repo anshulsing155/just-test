@@ -1,0 +1,194 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Chitrakoot",
+  "city": "Chitrakoot",
+  "summary": "",
+  "total_areas": 92,
+  "total_pincodes": 7,
+  "zones": [
+    {
+      "name": "Karwi and Surroundings",
+      "pincodes": [
+        210205
+      ],
+      "areas": [
+        "Ragauli",
+        "Semaria Charandasi",
+        "Karwi RS",
+        "Ainchwara",
+        "Bharatkoop",
+        "Itwan",
+        "Purwa Tarauha",
+        "Sheorampur",
+        "Sidhpur",
+        "Bhauri",
+        "Chandramara",
+        "Nai Bazar Karwi",
+        "Raipura",
+        "Rukma khurd",
+        "Basila",
+        "Chakla",
+        "Semardaha",
+        "Agarahunda",
+        "Lodhwara",
+        "Karwi MDG"
+      ],
+      "keywords": [
+        "Karwi",
+        "Bharatkoop",
+        "Nai Bazar"
+      ],
+      "id": "chitrakoot_1"
+    },
+    {
+      "name": "Rajapur and Vicinity",
+      "pincodes": [
+        210207
+      ],
+      "areas": [
+        "Bardwara",
+        "Bhadedu",
+        "Biharwan",
+        "Chillimal",
+        "Karaundi Kalan",
+        "Sardhuwa",
+        "Nandin Kurmiyan",
+        "Kalwalia",
+        "Khatwara",
+        "Mamsi Bujurg",
+        "kuin",
+        "Rajapur SO Chitrakoot"
+      ],
+      "keywords": [
+        "Rajapur",
+        "Karaundi Kalan"
+      ],
+      "id": "chitrakoot_2"
+    },
+    {
+      "name": "Manikpur Region",
+      "pincodes": [
+        210208
+      ],
+      "areas": [
+        "Garchappa",
+        "Markundi",
+        "Chit Ghati",
+        "Bargarh",
+        "Kaubra",
+        "Manka",
+        "sakrouha",
+        "Goiya Kalan",
+        "Murka",
+        "Saraiya",
+        "Sigwan",
+        "chheriha Bujurg",
+        "Mangawan",
+        "Ranipur Kalyan Garh",
+        "Itwan Dundela",
+        "Unchadih",
+        "Choolhi",
+        "Manikpur SO Chitrakoot"
+      ],
+      "keywords": [
+        "Manikpur",
+        "Markundi"
+      ],
+      "id": "chitrakoot_3"
+    },
+    {
+      "name": "Ram Nagar and Surroundings",
+      "pincodes": [
+        210209
+      ],
+      "areas": [
+        "Baria",
+        "Chhibon",
+        "Nibi",
+        "Mandaur",
+        "Purab Patai",
+        "Ram Nagar",
+        "Mauchhibu",
+        "Barua",
+        "Khaptiha",
+        "Lauri",
+        "Sirwawal",
+        "Barha Kotra",
+        "Biyawal",
+        "Hanna Vinaika",
+        "Hatwa",
+        "Khandeho",
+        "Pardawan"
+      ],
+      "keywords": [
+        "Ram Nagar",
+        "Baria"
+      ],
+      "id": "chitrakoot_4"
+    },
+    {
+      "name": "Pahari and Nearby",
+      "pincodes": [
+        210206
+      ],
+      "areas": [
+        "Beohara",
+        "Chaura",
+        "Darsenda",
+        "Ganiwa Parsidhpur",
+        "Lohda",
+        "Ora",
+        "Bachharan",
+        "Kapna Itaura",
+        "Baramafi",
+        "Asoh",
+        "Audaha",
+        "Karwara Bujurg",
+        "Hardoli",
+        "Nadintaura",
+        "Parsaunja",
+        "Pahari SO Chitrakoot"
+      ],
+      "keywords": [
+        "Pahari",
+        "Beohara"
+      ],
+      "id": "chitrakoot_5"
+    },
+    {
+      "name": "Chitrakoot Dham",
+      "pincodes": [
+        210204
+      ],
+      "areas": [
+        "Jankikund",
+        "Semaria Jagannath basi",
+        "Khohi",
+        "Bhaisaundha",
+        "Chitrakot"
+      ],
+      "keywords": [
+        "Chitrakoot",
+        "Jankikund"
+      ],
+      "id": "chitrakoot_6"
+    },
+    {
+      "name": "Rasin Cluster",
+      "pincodes": [
+        210202
+      ],
+      "areas": [
+        "Rasin",
+        "Ghuretanpur",
+        "Rauli Kalyanpur",
+        "Titihara"
+      ],
+      "keywords": [
+        "Rasin",
+        "Rauli Kalyanpur"
+      ],
+      "id": "chitrakoot_7"
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Bulandshahr",
+  "city": "Bulandshahr",
+  "summary": "",
+  "total_areas": 311,
+  "total_pincodes": 29,
+  "zones": [
+    {
+      "name": "Bulandshahr Central",
+      "pincodes": [
+        203001
+      ],
+      "areas": [
+        "Kahira",
+        "Ghunghraoli Banwaripur",
+        "Malagarh",
+        "Dav College Bulandshahr",
+        "Ipdc Bulandshahr",
+        "Lalkuan",
+        "Sarai Ghashi",
+        "Surjawaly",
+        "Rangpur",
+        "Dariyapur",
+        "Chitson",
+        "Aulina",
+        "Guthaoli",
+        "Naya Gaon",
+        "Chanderu",
+        "Hattmabad",
+        "Luharaly Ludhiyana",
+        "Bulandshahr Kutchery",
+        "Bulandshahr Tehsil",
+        "Krishananagar",
+        "Bulandshahr",
+        "Dhamera Keerat",
+        "Salempur",
+        "Bhoor",
+        "Panni Nagar",
+        "Mirjapur",
+        "Mukeempur",
+        "Jauli Garh",
+        "Akabarpur",
+        "Dhatori",
+        "Deputy Ganj Bulandshahr"
+      ],
+      "keywords": [
+        "Bulandshahr",
+        "Central"
+      ],
+      "id": "bulandshahr_1"
+    },
+    {
+      "name": "Khurja",
+      "pincodes": [
+        203131,
+        203132
+      ],
+      "areas": [
+        "Dinoul",
+        "Kehroula",
+        "Muni",
+        "Meerpur",
+        "Agaura Hameerpur",
+        "Bagrai Khurd",
+        "Bada Gaon",
+        "Dashhera Kherli",
+        "Kirra",
+        "Khurja MDG",
+        "Khurja Chowk",
+        "Bhatwara",
+        "Bichoula",
+        "Kalena",
+        "Raniaoli",
+        "Gt Road Khurja",
+        "Seekri",
+        "Roop Wash Pachgain",
+        "Jawal",
+        "Subhash Road Khurja",
+        "Jarara",
+        "Dharpa Chuhar Pur",
+        "Munda Khera",
+        "Shahbaz Pur",
+        "Arniya",
+        "Nagla Mahiuddinpur",
+        "Senda Faridpur",
+        "Bhadaura Kamalpur",
+        "Dabar",
+        "Sarangpur",
+        "Asgarpur",
+        "Samashpur",
+        "Sonda Habibpur",
+        "Khurja Jn RS"
+      ],
+      "keywords": [
+        "Khurja"
+      ],
+      "id": "bulandshahr_2"
+    },
+    {
+      "name": "Sikandrabad",
+      "pincodes": [
+        203205,
+        203206
+      ],
+      "areas": [
+        "Prangarh",
+        "Kayasthwara Sikandrabad",
+        "Sikandrabad SO Bulandshahr",
+        "Aurangabad Aheer",
+        "Geshupur",
+        "Bilsoory",
+        "Kanwra",
+        "Sanota",
+        "Bharana",
+        "Gajipur",
+        "Ishmail Pur",
+        "Mahepa",
+        "Til BegumPur",
+        "Industrial Estate Sikandrabad"
+      ],
+      "keywords": [
+        "Sikandrabad"
+      ],
+      "id": "bulandshahr_3"
+    },
+    {
+      "name": "Anupshahr",
+      "pincodes": [
+        203390,
+        203391
+      ],
+      "areas": [
+        "Bhargava Pharmecy",
+        "Birauli",
+        "Jirauli",
+        "Siraura Bangar",
+        "Bhopatpur",
+        "Anupshahr",
+        "Bagsara",
+        "Bibiyana",
+        "Parly",
+        "Surajpur Makhena",
+        "Roopwas",
+        "Malakpur",
+        "Andhiyar",
+        "Katiyawali",
+        "Khelia Kalyanpur",
+        "Riwada",
+        "KSC Mill Anupshahr",
+        "Bhaipur"
+      ],
+      "keywords": [
+        "Anupshahr"
+      ],
+      "id": "bulandshahr_4"
+    },
+    {
+      "name": "Debai",
+      "pincodes": [
+        203393
+      ],
+      "areas": [
+        "Karanbash",
+        "Kaser Kalan",
+        "Talwar",
+        "Debai Bazar",
+        "Debai",
+        "Daurau",
+        "Dogawan",
+        "Kharikbari",
+        "Satoha",
+        "Dharmpur",
+        "Khushalabad",
+        "Uamrara",
+        "Asadpur Gher",
+        "Rahim Kot",
+        "Kaser Khurd",
+        "Pilkhana",
+        "Raj Ghat"
+      ],
+      "keywords": [
+        "Debai"
+      ],
+      "id": "bulandshahr_5"
+    },
+    {
+      "name": "Jahangirabad",
+      "pincodes": [
+        203394
+      ],
+      "areas": [
+        "Chandauk",
+        "Darora",
+        "Khadana",
+        "Navi Nagar",
+        "Bansuri",
+        "Charora",
+        "Khalor",
+        "Titauta Veer",
+        "Jahangirabad SO Bulandshahr",
+        "Khanauda",
+        "Sankhani",
+        "Tauli",
+        "Dhalana",
+        "Guraoli",
+        "Jakheta",
+        "JaleelPur",
+        "Jatpura",
+        "Kakrai",
+        "Jahangirabad Mandi"
+      ],
+      "keywords": [
+        "Jahangirabad"
+      ],
+      "id": "bulandshahr_6"
+    },
+    {
+      "name": "Shikarpur",
+      "pincodes": [
+        203395
+      ],
+      "areas": [
+        "Kailawan",
+        "Shikarpur SO Bulandshahr",
+        "Anchrookalan",
+        "Daduwa Mutafabad",
+        "Sarawa",
+        "Bohich",
+        "Utrawaly"
+      ],
+      "keywords": [
+        "Shikarpur"
+      ],
+      "id": "bulandshahr_7"
+    },
+    {
+      "name": "Pahasu",
+      "pincodes": [
+        203396
+      ],
+      "areas": [
+        "Lalner",
+        "Banel",
+        "Dighi",
+        "Kunwarpur",
+        "Soi",
+        "Fazalpur",
+        "GangaGarhi",
+        "Pahasu"
+      ],
+      "keywords": [
+        "Pahasu"
+      ],
+      "id": "bulandshahr_8"
+    },
+    {
+      "name": "Sahar",
+      "pincodes": [
+        203397
+      ],
+      "areas": [
+        "Biroura",
+        "Narau",
+        "Chhatary",
+        "Pindrawal",
+        "Tyore Buzurg",
+        "Behlolpur",
+        "Kamona",
+        "Sahar"
+      ],
+      "keywords": [
+        "Sahar"
+      ],
+      "id": "bulandshahr_9"
+    },
+    {
+      "name": "Gulaothi",
+      "pincodes": [
+        203408
+      ],
+      "areas": [
+        "Banboai",
+        "Bhatauna",
+        "Ginora Shekh",
+        "Harchana",
+        "Gulaothi",
+        "Isapur",
+        "Mohana",
+        "Senta",
+        "Asawar",
+        "Khushhalpur",
+        "Kisauli",
+        "Obs Gulaothi",
+        "Baghwala",
+        "Baral",
+        "Chaprawat",
+        "Kota",
+        "Kurli",
+        "Asfabad Chandpura",
+        "Garhiya Manpur",
+        "Oledha",
+        "Pitubash"
+      ],
+      "keywords": [
+        "Gulaothi"
+      ],
+      "id": "bulandshahr_10"
+    },
+    {
+      "name": "Siyana",
+      "pincodes": [
+        203412
+      ],
+      "areas": [
+        "Baddha Bazidpur",
+        "Bhainsaura",
+        "Siyana",
+        "Mahav",
+        "Bigraou",
+        "Waira Firozpur",
+        "Barouli Basdev Pur",
+        "Khad Mohan Nagar"
+      ],
+      "keywords": [
+        "Siyana"
+      ],
+      "id": "bulandshahr_11"
+    },
+    {
+      "name": "Aurangabad",
+      "pincodes": [
+        203401
+      ],
+      "areas": [
+        "Aurangabad SO Bulandshahr",
+        "Paswasara",
+        "Visundhara"
+      ],
+      "keywords": [
+        "Aurangabad"
+      ],
+      "id": "bulandshahr_12"
+    },
+    {
+      "name": "Khanpur",
+      "pincodes": [
+        203405
+      ],
+      "areas": [
+        "Chathera",
+        "Giraura",
+        "Pali Partapur",
+        "Khanpur SO Bulandshahr",
+        "Kamalpur",
+        "Kanauna",
+        "Raghunathpur",
+        "Amarpur",
+        "Ginaura Nangali",
+        "Sonjhana Jhaya"
+      ],
+      "keywords": [
+        "Khanpur"
+      ],
+      "id": "bulandshahr_13"
+    },
+    {
+      "name": "Ramghat",
+      "pincodes": [
+        203399
+      ],
+      "areas": [
+        "Dharakpur",
+        "Ramghat SO Bulandshahr",
+        "Chiroury",
+        "Jargawan"
+      ],
+      "keywords": [
+        "Ramghat"
+      ],
+      "id": "bulandshahr_14"
+    },
+    {
+      "name": "Kuchesar",
+      "pincodes": [
+        203402
+      ],
+      "areas": [
+        "Benipur",
+        "Kuchesar",
+        "Lad Pur",
+        "Banhpur",
+        "Sathala",
+        "Bb Nagar",
+        "Bihta",
+        "Hingwara",
+        "Chitsona Ali Pur",
+        "Madona Jafara Bad"
+      ],
+      "keywords": [
+        "Kuchesar"
+      ],
+      "id": "bulandshahr_15"
+    },
+    {
+      "name": "Bugrasi",
+      "pincodes": [
+        203403
+      ],
+      "areas": [
+        "Bharkau",
+        "Hazipur",
+        "Buklana",
+        "Dhaniya Wali",
+        "Kisola",
+        "Mankari",
+        "Bugrasi",
+        "Barhana",
+        "Chandiyana",
+        "Jalalpur",
+        "Gesupur Barwala"
+      ],
+      "keywords": [
+        "Bugrasi"
+      ],
+      "id": "bulandshahr_16"
+    },
+    {
+      "name": "Lakhaoti",
+      "pincodes": [
+        203407
+      ],
+      "areas": [
+        "Shekhpur Gadwa",
+        "Bihra",
+        "Parwana",
+        "Sega Jagatpur",
+        "Mundi Bakapur",
+        "Nimchana",
+        "Lakhaoti"
+      ],
+      "keywords": [
+        "Lakhaoti"
+      ],
+      "id": "bulandshahr_17"
+    },
+    {
+      "name": "Saidpur",
+      "pincodes": [
+        203411
+      ],
+      "areas": [
+        "Barkatpur",
+        "Partapur",
+        "Nisurkha",
+        "Sihi",
+        "AkapurTiyana",
+        "Sehra",
+        "Saidpur SO Bulandshahr",
+        "Ahmadanagar",
+        "Bhainsakhur",
+        "Bhainsrauli",
+        "Tajpur"
+      ],
+      "keywords": [
+        "Saidpur"
+      ],
+      "id": "bulandshahr_18"
+    },
+    {
+      "name": "Agauta",
+      "pincodes": [
+        203413
+      ],
+      "areas": [
+        "Agauta"
+      ],
+      "keywords": [
+        "Agauta"
+      ],
+      "id": "bulandshahr_19"
+    },
+    {
+      "name": "Narora",
+      "pincodes": [
+        203389
+      ],
+      "areas": [
+        "Belon",
+        "NAPP",
+        "Narora",
+        "Rampur",
+        "Vijay Nagliya"
+      ],
+      "keywords": [
+        "Narora"
+      ],
+      "id": "bulandshahr_20"
+    },
+    {
+      "name": "Danpur",
+      "pincodes": [
+        203392
+      ],
+      "areas": [
+        "Chehla",
+        "Indoure Khera",
+        "Keeratpur",
+        "Shekhpur",
+        "Danpur SO Bulandshahr",
+        "Dangarh",
+        "Donka",
+        "Satwara",
+        "Ahmadgarh",
+        "Khakhunda",
+        "Muradpur",
+        "Poothery Kalan",
+        "Bhikampur",
+        "Choundhera",
+        "DaoulatpurKhurd",
+        "Runsi"
+      ],
+      "keywords": [
+        "Danpur"
+      ],
+      "id": "bulandshahr_21"
+    },
+    {
+      "name": "Ahar",
+      "pincodes": [
+        203398
+      ],
+      "areas": [
+        "Ahar",
+        "Auranga Bad Taherpur",
+        "Darawer",
+        "Uncha Gaon",
+        "Amargarh",
+        "Mawai",
+        "Mohersha",
+        "Narsena",
+        "Shikoi",
+        "Barhpura",
+        "Ghungharwaly",
+        "Khandoi",
+        "Mauwa Khera",
+        "Thana Gajraula",
+        "Doulatpur Kala"
+      ],
+      "keywords": [
+        "Ahar"
+      ],
+      "id": "bulandshahr_22"
+    },
+    {
+      "name": "Balka",
+      "pincodes": [
+        203409
+      ],
+      "areas": [
+        "Birouli",
+        "Balka",
+        "Jadoul",
+        "Utrouly",
+        "Sarai Chhabila",
+        "Maithna Jagatpur"
+      ],
+      "keywords": [
+        "Balka"
+      ],
+      "id": "bulandshahr_23"
+    },
+    {
+      "name": "Manglore",
+      "pincodes": [
+        203150
+      ],
+      "areas": [
+        "Manglore",
+        "Shiwaly",
+        "Shahkarinagar",
+        "Ajnara",
+        "Bhudhana",
+        "Jugsana Kalan",
+        "Pondhery",
+        "Raura",
+        "Rehamapur Siyawali",
+        "Ronda",
+        "Ashwari"
+      ],
+      "keywords": [
+        "Manglore"
+      ],
+      "id": "bulandshahr_24"
+    },
+    {
+      "name": "Naithala",
+      "pincodes": [
+        203002
+      ],
+      "areas": [
+        "Dhamraoli",
+        "Jhal Khera",
+        "Naithala Hasanpur",
+        "Shikhera",
+        "AgSchool"
+      ],
+      "keywords": [
+        "Naithala"
+      ],
+      "id": "bulandshahr_25"
+    },
+    {
+      "name": "Sabitgarh",
+      "pincodes": [
+        203129
+      ],
+      "areas": [
+        "Gangawaly",
+        "Gwarauly",
+        "Sabitgarh",
+        "Raipur Palda",
+        "Rampur Manpur",
+        "Badshahpur Pachgain",
+        "Devrala",
+        "Farkana Gangagarhi",
+        "Aterna",
+        "Nagliya Udaibhan",
+        "Karora"
+      ],
+      "keywords": [
+        "Sabitgarh"
+      ],
+      "id": "bulandshahr_26"
+    }
+  ]
+}

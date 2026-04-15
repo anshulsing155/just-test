@@ -1,0 +1,225 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Mahoba",
+  "city": "Mahoba",
+  "summary": "",
+  "total_areas": 97,
+  "total_pincodes": 9,
+  "zones": [
+    {
+      "name": "Charkhari Region",
+      "pincodes": [
+        210421
+      ],
+      "areas": [
+        "Anghaura",
+        "Dayalpura",
+        "Bamhauri Kalan",
+        "Bamrara",
+        "Rewai",
+        "Charkhari State",
+        "Aktaunhan",
+        "Chandauli",
+        "Supa",
+        "Rainpura",
+        "Channi Khurd"
+      ],
+      "keywords": [
+        "Charkhari",
+        "State",
+        "Region"
+      ],
+      "id": "mahoba_1"
+    },
+    {
+      "name": "Jaitpur and Surroundings",
+      "pincodes": [
+        210423
+      ],
+      "areas": [
+        "Beri",
+        "Akona",
+        "Pachara",
+        "Budhi",
+        "Jaitpur SO Mahoba",
+        "Ajnar",
+        "Ari",
+        "Budhwara",
+        "Nagradang",
+        "Baghanra",
+        "Mahuabandh",
+        "Tikaria"
+      ],
+      "keywords": [
+        "Jaitpur",
+        "Surroundings"
+      ],
+      "id": "mahoba_2"
+    },
+    {
+      "name": "Kabrai and Nearby",
+      "pincodes": [
+        210424
+      ],
+      "areas": [
+        "Bila Dakhin",
+        "Khajuriha Pahra",
+        "Makarbai",
+        "Sukaura",
+        "Dharaun",
+        "Rewai Sunaicha",
+        "Chhani Kalan",
+        "Patha",
+        "Kabrai",
+        "Garha",
+        "Ganj",
+        "Mahewa",
+        "Sheohar",
+        "Parsaha",
+        "Singhaupur Baghari"
+      ],
+      "keywords": [
+        "Kabrai",
+        "Nearby"
+      ],
+      "id": "mahoba_3"
+    },
+    {
+      "name": "Kharela Cluster",
+      "pincodes": [
+        210425
+      ],
+      "areas": [
+        "Kharela",
+        "Ainchana",
+        "Basaut"
+      ],
+      "keywords": [
+        "Kharela",
+        "Cluster"
+      ],
+      "id": "mahoba_4"
+    },
+    {
+      "name": "Kulpahar Area",
+      "pincodes": [
+        210426
+      ],
+      "areas": [
+        "Mudhari",
+        "Kulpahar",
+        "Ladpur",
+        "Satari",
+        "Sugira",
+        "Bagwaha"
+      ],
+      "keywords": [
+        "Kulpahar",
+        "Area"
+      ],
+      "id": "mahoba_5"
+    },
+    {
+      "name": "Mahoba Central",
+      "pincodes": [
+        210427
+      ],
+      "areas": [
+        "Bilbai",
+        "Karahra Kalan",
+        "Mahoba RS",
+        "Mahoba",
+        "Chikahra",
+        "Paswara",
+        "Sijahri",
+        "Tikamau",
+        "Gandhi Nagar Mahoba"
+      ],
+      "keywords": [
+        "Mahoba",
+        "Central"
+      ],
+      "id": "mahoba_6"
+    },
+    {
+      "name": "Panwari and Vicinity",
+      "pincodes": [
+        210429
+      ],
+      "areas": [
+        "Bharwara",
+        "Panwari",
+        "Bahadurpur Kalan",
+        "Mahua",
+        "Syondhi",
+        "Gaurahari",
+        "Kilahua",
+        "Roori Kalan",
+        "Bendo",
+        "Kaithi",
+        "Masoodpura",
+        "Teiya",
+        "Bijaypur",
+        "Budero",
+        "Dulara",
+        "Kankuwan",
+        "Kashipur",
+        "Kohaniya",
+        "Paharia",
+        "Umari",
+        "Mahobkanth"
+      ],
+      "keywords": [
+        "Panwari",
+        "Vicinity"
+      ],
+      "id": "mahoba_7"
+    },
+    {
+      "name": "Srinagar Belt",
+      "pincodes": [
+        210433
+      ],
+      "areas": [
+        "Bhandra",
+        "Srinagar SO Mahoba",
+        "Atrarmaf",
+        "Bilkhi",
+        "Digaria",
+        "Pawa",
+        "Salarpur",
+        "Sijwaha",
+        "Pipramaf",
+        "Nanaura"
+      ],
+      "keywords": [
+        "Srinagar",
+        "Belt"
+      ],
+      "id": "mahoba_8"
+    },
+    {
+      "name": "Chhirka and Surroundings",
+      "pincodes": [
+        210504
+      ],
+      "areas": [
+        "Chhirka",
+        "Kahra",
+        "Khiruhi",
+        "Sirsi Kalan",
+        "Sirsi Khurd",
+        "Rewan",
+        "Khanna",
+        "Chichara",
+        "Karahiya",
+        "Mawai Khurd"
+      ],
+      "keywords": [
+        "Chhirka",
+        "Surroundings"
+      ],
+      "id": "mahoba_9"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Lalitpur",
+  "city": "Lalitpur",
+  "summary": "",
+  "total_areas": 161,
+  "total_pincodes": 12,
+  "zones": [
+    {
+      "name": "Bansi and Surroundings",
+      "pincodes": [
+        284122
+      ],
+      "areas": [
+        "Alapur",
+        "Asaupura",
+        "Gadiya",
+        "Jamalpur",
+        "Basatguwan",
+        "Dulawan",
+        "Karmai",
+        "Nadanwara",
+        "Kalyanpura",
+        "Lakhanpura",
+        "Deoran",
+        "Gadyana",
+        "Barkhiriya",
+        "Bastrawan",
+        "Muhara",
+        "Bansi SO Lalitpur"
+      ],
+      "keywords": [
+        "Bansi",
+        "Alapur",
+        "Asaupura"
+      ],
+      "id": "lalitpur_1"
+    },
+    {
+      "name": "Barh and Vicinity",
+      "pincodes": [
+        284123
+      ],
+      "areas": [
+        "Bachhraoni",
+        "Paron",
+        "Bamhori Khandel",
+        "Bhailoni Lodh",
+        "Barh SO Lalitpur",
+        "Dasrara",
+        "Dhangol",
+        "Nagara",
+        "Chiglauwa",
+        "Chungi",
+        "Baghaura",
+        "Baroda Daang",
+        "Bhailoni Suba",
+        "Bhaoni",
+        "Ladhwari"
+      ],
+      "keywords": [
+        "Barh",
+        "Bamhori",
+        "Bhailoni"
+      ],
+      "id": "lalitpur_2"
+    },
+    {
+      "name": "Jakhaura Region",
+      "pincodes": [
+        284124
+      ],
+      "areas": [
+        "Sirsi",
+        "Ghisauli",
+        "Nanaura",
+        "Pipra Raipur",
+        "Mainwara",
+        "Siron Kalan",
+        "Jakhaura",
+        "Baroda Swami",
+        "Kisalwans",
+        "Nauharkalan",
+        "Rakh Panchampur"
+      ],
+      "keywords": [
+        "Jakhaura",
+        "Sirsi",
+        "Ghisauli"
+      ],
+      "id": "lalitpur_3"
+    },
+    {
+      "name": "Lakeviewcamp",
+      "pincodes": [
+        284125
+      ],
+      "areas": [
+        "Lakeviewcamp"
+      ],
+      "keywords": [
+        "Lakeviewcamp"
+      ],
+      "id": "lalitpur_4"
+    },
+    {
+      "name": "Talbehat and Surroundings",
+      "pincodes": [
+        284126
+      ],
+      "areas": [
+        "Bhuchera",
+        "Miyaoon",
+        "Poora Kalan",
+        "Rajawan",
+        "Kadesarakalan",
+        "Sanori",
+        "Bijrautha",
+        "Hasarkalan",
+        "Natthikheda",
+        "Pawa",
+        "Serwans Kalan",
+        "Kakdari",
+        "Khandi",
+        "Talbehat",
+        "Badiwar Kalan",
+        "Bamhori Sarr",
+        "Poora Virdha",
+        "Sarsend"
+      ],
+      "keywords": [
+        "Talbehat",
+        "Bhuchera",
+        "Miyaoon"
+      ],
+      "id": "lalitpur_5"
+    },
+    {
+      "name": "Matatila and Bangawan",
+      "pincodes": [
+        284136
+      ],
+      "areas": [
+        "Matatila",
+        "Bangawan Kalan"
+      ],
+      "keywords": [
+        "Matatila",
+        "Bangawan"
+      ],
+      "id": "lalitpur_6"
+    },
+    {
+      "name": "Banpur and Nearby",
+      "pincodes": [
+        284402
+      ],
+      "areas": [
+        "Paah",
+        "Pura Kakdari",
+        "Sunwaha",
+        "Kuagaon",
+        "Marrauli",
+        "Udaipura",
+        "Billa",
+        "Kailguwan",
+        "Banpur SO Lalitpur"
+      ],
+      "keywords": [
+        "Banpur",
+        "Paah",
+        "Sunwaha"
+      ],
+      "id": "lalitpur_7"
+    },
+    {
+      "name": "Lalitpur Central",
+      "pincodes": [
+        284403
+      ],
+      "areas": [
+        "Mirchwara",
+        "Tera",
+        "Satarwans",
+        "Khiriya Chhatara",
+        "Serwans Khurd",
+        "Ronda",
+        "Jamuniya",
+        "Burhwar",
+        "Piprai",
+        "Lalitpur Railway Station",
+        "Padhna",
+        "Dailwara",
+        "Patauwa",
+        "Baarod",
+        "Birdha",
+        "Rajwara",
+        "Silgan",
+        "Niwai Nibaho",
+        "Barodabijlaun",
+        "Bant",
+        "Ghatwar",
+        "Bamhori Kalan",
+        "Jijyawan",
+        "Jeeron",
+        "Chadhraoo",
+        "Masaura Khurd",
+        "Pali",
+        "Dhaurra",
+        "Siddhisagar",
+        "Daoni",
+        "Kachnadakala",
+        "Jakhlaun",
+        "Kuantala",
+        "Nunawali",
+        "Deogarh",
+        "LALITPUR",
+        "Katra Bazar Lalitpur"
+      ],
+      "keywords": [
+        "Lalitpur",
+        "Railway Station",
+        "Katra Bazar"
+      ],
+      "id": "lalitpur_8"
+    },
+    {
+      "name": "Madawra and Surroundings",
+      "pincodes": [
+        284404
+      ],
+      "areas": [
+        "Gidwaha",
+        "Dhauri Sagar",
+        "Bamhori Madawra",
+        "Dhawa",
+        "Didonia",
+        "Garholi Kalan",
+        "Sonrai",
+        "Girar",
+        "Sadhumar",
+        "Saidpur",
+        "Siron Madawra",
+        "Madawra",
+        "Karitoran",
+        "Bhonta",
+        "Banguan"
+      ],
+      "keywords": [
+        "Madawra",
+        "Gidwaha",
+        "Dhauri Sagar"
+      ],
+      "id": "lalitpur_9"
+    },
+    {
+      "name": "Mahroni and Vicinity",
+      "pincodes": [
+        284405
+      ],
+      "areas": [
+        "Kakrauwa",
+        "Khajuriya",
+        "Naikaura",
+        "Khitwans",
+        "Kumheri",
+        "Mahroni",
+        "Bamhori Bahadur Singh",
+        "Saujana",
+        "Silawan",
+        "Chauki",
+        "Bamrana",
+        "Chhapchhaul",
+        "Dhawari",
+        "Gona Kushmadh",
+        "Nainwara",
+        "Baryo",
+        "Bhondi",
+        "Gurha",
+        "Khiriya Latkanju",
+        "Patha",
+        "Sindwaha"
+      ],
+      "keywords": [
+        "Mahroni",
+        "Kakrauwa",
+        "Khajuriya"
+      ],
+      "id": "lalitpur_10"
+    },
+    {
+      "name": "Narahat and Surroundings",
+      "pincodes": [
+        284406
+      ],
+      "areas": [
+        "Arjunkhiriya",
+        "Dongra Kalan",
+        "Patna",
+        "Narahat",
+        "Bomori Bansa",
+        "Gauna",
+        "Umariya",
+        "Dongra Khurd",
+        "Paraul",
+        "Mudari",
+        "Balabehat",
+        "Mahauli"
+      ],
+      "keywords": [
+        "Narahat",
+        "Arjunkhiriya",
+        "Dongra"
+      ],
+      "id": "lalitpur_11"
+    },
+    {
+      "name": "Rajghat Dam Area",
+      "pincodes": [
+        284501
+      ],
+      "areas": [
+        "Deori",
+        "Rajghat Dam Project",
+        "Lagaun",
+        "Thanwara"
+      ],
+      "keywords": [
+        "Rajghat Dam",
+        "Deori",
+        "Lagaun"
+      ],
+      "id": "lalitpur_12"
+    }
+  ]
+}

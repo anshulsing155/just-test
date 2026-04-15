@@ -1,0 +1,731 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Sultanpur",
+  "city": "Sultanpur",
+  "summary": "",
+  "total_areas": 331,
+  "total_pincodes": 31,
+  "zones": [
+    {
+      "name": "Lambhua",
+      "pincodes": [
+        222302,
+        222301
+      ],
+      "areas": [
+        "Budhapur",
+        "Hardaspur",
+        "Mahdeva",
+        "Maksudan",
+        "Misirpur",
+        "Narharpur",
+        "Rikhpur",
+        "Waini",
+        "Parasurampur",
+        "Lambhua",
+        "Barua",
+        "Belahi",
+        "Chaukia",
+        "Jamkhuri",
+        "Raipur",
+        "Shankarpur",
+        "Barsara",
+        "Garabpur",
+        "Ghatampur",
+        "Ramgarh",
+        "Tato Muraini",
+        "Bhadaiyan",
+        "Narendapur",
+        "Raja Umari",
+        "Shahpur Harbansh",
+        "Sheshanpur",
+        "Malhipur",
+        "Sonawan",
+        "Bainti Kalan",
+        "Koiripur"
+      ],
+      "keywords": [
+        "Lambhua",
+        "Budhapur",
+        "Malhipur"
+      ],
+      "id": "sultanpur_1"
+    },
+    {
+      "name": "Kothara Khurd",
+      "pincodes": [
+        222303
+      ],
+      "areas": [
+        "Kothara Khurd",
+        "Rampur",
+        "Sadarpur",
+        "Safipur",
+        "Khanpur",
+        "Tamarsepur",
+        "Maharani Pachchhim",
+        "Dewarh",
+        "Sukul Umari",
+        "Bhua Pathkauli",
+        "Chhapar"
+      ],
+      "keywords": [
+        "Kothara Khurd",
+        "Rampur"
+      ],
+      "id": "sultanpur_2"
+    },
+    {
+      "name": "Shivgarh",
+      "pincodes": [
+        227304
+      ],
+      "areas": [
+        "Kaithapur",
+        "Patipur",
+        "Shivgarh",
+        "Bharkhare",
+        "Arjunpur",
+        "Ausanpur",
+        "Bhardhipur",
+        "Suryabhan Patti",
+        "Garayen",
+        "Harha",
+        "Kandhaipur",
+        "Ranipur"
+      ],
+      "keywords": [
+        "Shivgarh",
+        "Kaithapur"
+      ],
+      "id": "sultanpur_3"
+    },
+    {
+      "name": "Dhammaur",
+      "pincodes": [
+        227408
+      ],
+      "areas": [
+        "Bikana",
+        "Bhanti",
+        "Dhammaur"
+      ],
+      "keywords": [
+        "Dhammaur",
+        "Bikana"
+      ],
+      "id": "sultanpur_4"
+    },
+    {
+      "name": "Aliganj Bazar",
+      "pincodes": [
+        227805
+      ],
+      "areas": [
+        "Bela Pashchim",
+        "Haji Patti",
+        "Aliganj Bazar",
+        "Dharawan",
+        "Khokhipur",
+        "Kotia",
+        "Rajupur",
+        "Unchgaon",
+        "Baburi",
+        "Majhana"
+      ],
+      "keywords": [
+        "Aliganj Bazar",
+        "Bela Pashchim"
+      ],
+      "id": "sultanpur_5"
+    },
+    {
+      "name": "Bazar Baldirai",
+      "pincodes": [
+        227806
+      ],
+      "areas": [
+        "Gaura Loharia",
+        "Meghmau",
+        "Raincha",
+        "Soraon",
+        "Bhakhari",
+        "Dehriyawan",
+        "Kampa",
+        "Saini",
+        "Narsara",
+        "Dih",
+        "Nandauli",
+        "Tirhut",
+        "Bazar Baldirai"
+      ],
+      "keywords": [
+        "Bazar Baldirai",
+        "Gaura Loharia"
+      ],
+      "id": "sultanpur_6"
+    },
+    {
+      "name": "Hasanpur",
+      "pincodes": [
+        227808
+      ],
+      "areas": [
+        "Bandhua Kalan",
+        "Hasanpur SO Sultanpur",
+        "Bahlolpur",
+        "Ramapur",
+        "Bankepur",
+        "Naugawan Raitasi",
+        "Palhipur",
+        "Dadupur",
+        "Jurupur",
+        "Maniyarpur",
+        "Shahpur"
+      ],
+      "keywords": [
+        "Hasanpur",
+        "Bandhua Kalan"
+      ],
+      "id": "sultanpur_7"
+    },
+    {
+      "name": "Saraiya Mafi",
+      "pincodes": [
+        227812
+      ],
+      "areas": [
+        "Baranpur",
+        "Bisawan",
+        "Wallipur",
+        "Saraiya Mafi"
+      ],
+      "keywords": [
+        "Saraiya Mafi",
+        "Baranpur"
+      ],
+      "id": "sultanpur_8"
+    },
+    {
+      "name": "Para",
+      "pincodes": [
+        227813
+      ],
+      "areas": [
+        "Para"
+      ],
+      "keywords": [
+        "Para"
+      ],
+      "id": "sultanpur_9"
+    },
+    {
+      "name": "Baqghauna",
+      "pincodes": [
+        227814
+      ],
+      "areas": [
+        "Baqghauna",
+        "Barmhauli",
+        "Nandrai",
+        "Padare",
+        "Ataula",
+        "Ainjar",
+        "Deora",
+        "Kanehti",
+        "Singhni",
+        "Bahurahwan",
+        "Peero Saraia"
+      ],
+      "keywords": [
+        "Baqghauna",
+        "Barmhauli"
+      ],
+      "id": "sultanpur_10"
+    },
+    {
+      "name": "Haliapur",
+      "pincodes": [
+        227815
+      ],
+      "areas": [
+        "Jarai Kalan",
+        "Taudhikpur",
+        "Umara",
+        "Haliapur",
+        "Pipari",
+        "Sikari",
+        "Dobhiara",
+        "Dubepur"
+      ],
+      "keywords": [
+        "Haliapur",
+        "Jarai Kalan"
+      ],
+      "id": "sultanpur_11"
+    },
+    {
+      "name": "Kenaura",
+      "pincodes": [
+        227816
+      ],
+      "areas": [
+        "Kenaura"
+      ],
+      "keywords": [
+        "Kenaura"
+      ],
+      "id": "sultanpur_12"
+    },
+    {
+      "name": "Sultanpur City",
+      "pincodes": [
+        228001
+      ],
+      "areas": [
+        "Baijapur",
+        "Uturi",
+        "Abhiya Kalan",
+        "Ramnagar Kot",
+        "Bhapta",
+        "Hanumanganj",
+        "Bikwajitpur",
+        "Dhakwa",
+        "Katawan",
+        "Chhatauna",
+        "Loco Colony",
+        "Gorabarik",
+        "Lohra Mau",
+        "Ahimane",
+        "Bahadurpur",
+        "Pakhrauli",
+        "Civil Lines Sultanpur",
+        "Ganpat Sahai Degree College",
+        "Sultanpur Avadh",
+        "Bus Station SO Sultanpur",
+        "Karaundia",
+        "Shyamnagar SO Sultanpur",
+        "Jhauara",
+        "Kuchhmuchh",
+        "Khairabad SO Sultanpur"
+      ],
+      "keywords": [
+        "Sultanpur City",
+        "Civil Lines"
+      ],
+      "id": "sultanpur_13"
+    },
+    {
+      "name": "Kamla Nehru Institute",
+      "pincodes": [
+        228118
+      ],
+      "areas": [
+        "Angnakol",
+        "Kamla Nehru Institute"
+      ],
+      "keywords": [
+        "Kamla Nehru Institute",
+        "Angnakol"
+      ],
+      "id": "sultanpur_14"
+    },
+    {
+      "name": "Gosainganj",
+      "pincodes": [
+        228119
+      ],
+      "areas": [
+        "Misrauli",
+        "Fatehpur Sangat",
+        "Hayatnagar",
+        "Madhavpur Chhatauna",
+        "Gosainganj SO Sultanpur",
+        "Saifullaganj",
+        "Ugharpur",
+        "Waidaha",
+        "Baregaon",
+        "Jasapara",
+        "Teary"
+      ],
+      "keywords": [
+        "Gosainganj",
+        "Misrauli"
+      ],
+      "id": "sultanpur_15"
+    },
+    {
+      "name": "Baraunsa",
+      "pincodes": [
+        228120
+      ],
+      "areas": [
+        "Kaithwara",
+        "Damodarpur",
+        "Baraunsa",
+        "Athaisi"
+      ],
+      "keywords": [
+        "Baraunsa",
+        "Kaithwara"
+      ],
+      "id": "sultanpur_16"
+    },
+    {
+      "name": "Chandaur",
+      "pincodes": [
+        228121
+      ],
+      "areas": [
+        "Bingi",
+        "Murua",
+        "Agai",
+        "Chandaur",
+        "Makdoomnagar",
+        "Pipargaon",
+        "Atarsuma",
+        "Jajjaur",
+        "Mayang",
+        "Bhikharpur"
+      ],
+      "keywords": [
+        "Chandaur",
+        "Bingi"
+      ],
+      "id": "sultanpur_17"
+    },
+    {
+      "name": "Dwarikaganj",
+      "pincodes": [
+        228125
+      ],
+      "areas": [
+        "Inayatpur",
+        "Sonara",
+        "Ballipur",
+        "Mahmoodpur",
+        "Motiganj",
+        "Kanauli",
+        "Dwarikaganj",
+        "Dih Dhaggupur",
+        "Manipur Patna",
+        "Pratap Pur"
+      ],
+      "keywords": [
+        "Dwarikaganj",
+        "Inayatpur"
+      ],
+      "id": "sultanpur_18"
+    },
+    {
+      "name": "Dostpur",
+      "pincodes": [
+        228131
+      ],
+      "areas": [
+        "Dhanaupur",
+        "Kamtaganj",
+        "Loknathpur",
+        "Paharpur Rai Patti",
+        "Sarsawan",
+        "Umarpur",
+        "Dostpur",
+        "Bethara",
+        "Kaithi Jalalpur",
+        "Kumbhi",
+        "Narayanpur Kalan",
+        "Bhilampur",
+        "Kunda Bhairavpur",
+        "Palia Golpur",
+        "Rohiyawan Jalalpur",
+        "Surhurpur",
+        "Hatiyawan",
+        "Imligaon",
+        "Khalispur Dingur",
+        "Bani",
+        "Chhitepatti",
+        "Gosaisinghpur"
+      ],
+      "keywords": [
+        "Dostpur",
+        "Dhanaupur"
+      ],
+      "id": "sultanpur_19"
+    },
+    {
+      "name": "Motigarpur",
+      "pincodes": [
+        228132
+      ],
+      "areas": [
+        "Ahda",
+        "Kachha Bhitaura",
+        "Kharsara",
+        "Deara",
+        "Dhema",
+        "Paharpur Sarai Bhikham",
+        "Hamzabad",
+        "Ugharpur Bhatpura",
+        "Paras Patti",
+        "Lama Bankata",
+        "Motigarpur"
+      ],
+      "keywords": [
+        "Motigarpur",
+        "Ahda"
+      ],
+      "id": "sultanpur_20"
+    },
+    {
+      "name": "Mirpur Saraiya",
+      "pincodes": [
+        228133
+      ],
+      "areas": [
+        "Basupur",
+        "Mirpur Saraiya",
+        "Nanemau",
+        "Belahari",
+        "Bahauddinpur"
+      ],
+      "keywords": [
+        "Mirpur Saraiya",
+        "Basupur"
+      ],
+      "id": "sultanpur_21"
+    },
+    {
+      "name": "Jaisinghpur",
+      "pincodes": [
+        228141
+      ],
+      "areas": [
+        "Purushottampur",
+        "Seotari",
+        "Jamalpur Jajrahi",
+        "Rupinpur",
+        "Jaisinghpur SO Sultanpur",
+        "Palia",
+        "Birsinghpur",
+        "Moongar",
+        "Amilia Sikara",
+        "Biraipur",
+        "Dharsauli",
+        "Numaye Maraye"
+      ],
+      "keywords": [
+        "Jaisinghpur",
+        "Purushottampur"
+      ],
+      "id": "sultanpur_22"
+    },
+    {
+      "name": "Kareban",
+      "pincodes": [
+        228142
+      ],
+      "areas": [
+        "Chorma",
+        "Isur",
+        "Kareban",
+        "Parsara",
+        "Bhikhupur",
+        "Lahauta",
+        "Mahmoodpur Semri",
+        "Baura Jagdishpur",
+        "Bijhuri",
+        "Parsa Darwa"
+      ],
+      "keywords": [
+        "Kareban",
+        "Chorma"
+      ],
+      "id": "sultanpur_23"
+    },
+    {
+      "name": "Kadipur",
+      "pincodes": [
+        228145
+      ],
+      "areas": [
+        "Musatafabad Saraiya",
+        "Dandia Amrethu",
+        "Banke Gaon",
+        "Burhana",
+        "Kadipur Khurd",
+        "Katsari",
+        "Kisundaspur",
+        "Malikpur Nonara",
+        "Satanpur",
+        "Barauna Dih",
+        "Biri Hajipur",
+        "Hamidpur",
+        "Hamjapur Pathan",
+        "Raibigo",
+        "Barwaripur",
+        "Katghara Patti",
+        "Kadipur"
+      ],
+      "keywords": [
+        "Kadipur",
+        "Musatafabad Saraiya"
+      ],
+      "id": "sultanpur_24"
+    },
+    {
+      "name": "Kurebhar",
+      "pincodes": [
+        228151
+      ],
+      "areas": [
+        "Bariauna",
+        "Chakchurawanpur",
+        "Guptarganj",
+        "Jura Patti",
+        "Babhangawan",
+        "Parwar",
+        "Dhajai Keshavpur",
+        "Chandipur",
+        "Dheka Pakhanpur",
+        "Dhundhu",
+        "Gaura",
+        "Rajupur Ikdala",
+        "Saidkhanpur",
+        "Seur Chamurkha",
+        "Kurebhar",
+        "Akorhi",
+        "Kotwa Lahangrai",
+        "Nachana"
+      ],
+      "keywords": [
+        "Kurebhar",
+        "Bariauna"
+      ],
+      "id": "sultanpur_25"
+    },
+    {
+      "name": "Kurwar",
+      "pincodes": [
+        228155
+      ],
+      "areas": [
+        "Bansi",
+        "Ferozpur Kala",
+        "Rupapur",
+        "Tirchhe",
+        "Sarkaura",
+        "Kurwar",
+        "Bhandara",
+        "Khadar Basantpur",
+        "Parsipur",
+        "Naugawan Tir",
+        "Sohgauli"
+      ],
+      "keywords": [
+        "Kurwar",
+        "Bansi"
+      ],
+      "id": "sultanpur_26"
+    },
+    {
+      "name": "Dehli Mubarakpur",
+      "pincodes": [
+        228159
+      ],
+      "areas": [
+        "Dehli Mubarakpur",
+        "Miranpurr",
+        "Bahrauli",
+        "Semari Pursottampur",
+        "Bhada",
+        "Bhain",
+        "Alahadadpur",
+        "Tikariya"
+      ],
+      "keywords": [
+        "Dehli Mubarakpur",
+        "Miranpurr"
+      ],
+      "id": "sultanpur_27"
+    },
+    {
+      "name": "Amari",
+      "pincodes": [
+        228161
+      ],
+      "areas": [
+        "Amari",
+        "Deorajpur",
+        "Magarsan Kala",
+        "Meopur",
+        "Narayanpur",
+        "Rawania",
+        "Gaura Tikari",
+        "Usrauli",
+        "Tawakkalpur Nagra",
+        "Bhatauta Tulsi Patti",
+        "Mangrawan",
+        "Paharpur",
+        "Pakarpur",
+        "Sukulpur",
+        "Surapur",
+        "Trilokpur Newada",
+        "Haripur",
+        "Hinduabad",
+        "Shahabuddinpur"
+      ],
+      "keywords": [
+        "Amari",
+        "Deorajpur"
+      ],
+      "id": "sultanpur_28"
+    },
+    {
+      "name": "Akhandnagar",
+      "pincodes": [
+        228171
+      ],
+      "areas": [
+        "Alimuddinpur",
+        "Harthua Babhanpur",
+        "Alipur Saravan",
+        "Faridpur",
+        "Paudhan Rampur",
+        "Tajuddinpur",
+        "Unurkha",
+        "Akhandnagar",
+        "Anirudhpur",
+        "Mokalpur"
+      ],
+      "keywords": [
+        "Akhandnagar",
+        "Alimuddinpur"
+      ],
+      "id": "sultanpur_29"
+    },
+    {
+      "name": "Rupaipur",
+      "pincodes": [
+        228172
+      ],
+      "areas": [
+        "RUPAIPUR",
+        "Bangawadeeh",
+        "Harpur",
+        "Belwai",
+        "BANGAWAN DEEH",
+        "Bhelara",
+        "BHELARA",
+        "Rupaipur",
+        "KALAN",
+        "HARPUR",
+        "Kalan"
+      ],
+      "keywords": [
+        "Rupaipur",
+        "Bangawadeeh"
+      ],
+      "id": "sultanpur_30"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Firozabad",
+  "city": "Firozabad",
+  "summary": "",
+  "total_areas": 163,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Shikohabad",
+      "pincodes": [
+        283135,
+        283141
+      ],
+      "areas": [
+        "Thanumai",
+        "Shikohabad",
+        "Dakhinara",
+        "Dhatari",
+        "Mandai",
+        "Urmura",
+        "Bara Bazar Shikohabad",
+        "Asua",
+        "Madhoganj",
+        "Nagla Bajdar",
+        "Nasirpur",
+        "Ghaghau",
+        "Keshari",
+        "Harha",
+        "Gurha",
+        "I L C Shikohabad",
+        "Shikohabad RS"
+      ],
+      "keywords": [
+        "Shikohabad",
+        "Bara Bazar",
+        "Madhoganj"
+      ],
+      "id": "firozabad_1"
+    },
+    {
+      "name": "Firozabad Central",
+      "pincodes": [
+        283203,
+        283205
+      ],
+      "areas": [
+        "Dolupura",
+        "Asan",
+        "Dokeli",
+        "Sarhamai",
+        "Gudaun",
+        "MOINUDINPUR",
+        "Labour Collony Firozabad",
+        "Narayan Nagar",
+        "Firozabad",
+        "Asafabad",
+        "Basai Mohammadpur",
+        "S N H Road Firozabad",
+        "Firozabad Bazar",
+        "Gonchh",
+        "Rupaspur",
+        "Ali Nagar Kenjra",
+        "Bilhena",
+        "Gazipur",
+        "Alhadadpur",
+        "Chandwar",
+        "Raipura",
+        "Datawali",
+        "JALALPUR",
+        "Railway Road Firozabad",
+        "Nepai",
+        "Mainpuri Gate Firozabad",
+        "Pachwan",
+        "Akalabad Hasanpur",
+        "Jarauli Kalan",
+        "Matsena",
+        "Jakhai",
+        "Collectorate firozabad"
+      ],
+      "keywords": [
+        "Firozabad",
+        "Central",
+        "Bazar",
+        "Railway Road"
+      ],
+      "id": "firozabad_2"
+    },
+    {
+      "name": "Tundla",
+      "pincodes": [
+        283204
+      ],
+      "areas": [
+        "Gwari Nagla Singhi",
+        "Katki",
+        "Mersena",
+        "Pachokhara",
+        "Ummargarh",
+        "Tundla Chauraha",
+        "Bachhagaon",
+        "Nagla Beech",
+        "Tikari",
+        "Rajawali",
+        "Jaundhary",
+        "Pamari",
+        "Rasoolabad",
+        "Salempur",
+        "Chulhawali",
+        "Dheerpura",
+        "Gondai",
+        "Himmatpur",
+        "Nagla Dutt",
+        "Rajmal",
+        "Mohammdabad",
+        "Dev Kherha",
+        "Mohammadi",
+        "Nagla Sikander",
+        "Bhondela",
+        "Tundla"
+      ],
+      "keywords": [
+        "Tundla",
+        "Chauraha",
+        "Nagla"
+      ],
+      "id": "firozabad_3"
+    },
+    {
+      "name": "Jasrana",
+      "pincodes": [
+        283136
+      ],
+      "areas": [
+        "Milawali",
+        "Kaurara Bujurga",
+        "Akbarpur Kutukpur",
+        "Bahat",
+        "Jhapara",
+        "Patti",
+        "Banbara",
+        "Kushiyari",
+        "Jasrana"
+      ],
+      "keywords": [
+        "Jasrana",
+        "Milawali",
+        "Akbarpur"
+      ],
+      "id": "firozabad_4"
+    },
+    {
+      "name": "Sirsaganj",
+      "pincodes": [
+        283151
+      ],
+      "areas": [
+        "A G M Bhawali",
+        "Madanpur",
+        "Saray Bhartara",
+        "Sothara",
+        "Jaymai",
+        "Karhara",
+        "Saray Murlidhar",
+        "Sirsaganj",
+        "Amaur Nagla Jeevan",
+        "Paigu",
+        "Tilyani"
+      ],
+      "keywords": [
+        "Sirsaganj",
+        "Bhawali",
+        "Madanpur"
+      ],
+      "id": "firozabad_5"
+    },
+    {
+      "name": "Eka",
+      "pincodes": [
+        283152
+      ],
+      "areas": [
+        "Bhagner",
+        "Suraya",
+        "Eka",
+        "Bhadana",
+        "Farida",
+        "Nagla Nahar",
+        "Katana",
+        "Kailai",
+        "Pendat",
+        "Uresar",
+        "Gopalpur"
+      ],
+      "keywords": [
+        "Eka",
+        "Bhagner",
+        "Suraya"
+      ],
+      "id": "firozabad_6"
+    },
+    {
+      "name": "Narkhi",
+      "pincodes": [
+        283206
+      ],
+      "areas": [
+        "Kotla SO Firozabad",
+        "Bartara",
+        "Gangni",
+        "Dorsa",
+        "Narkhi",
+        "Jatau",
+        "Okhra"
+      ],
+      "keywords": [
+        "Narkhi",
+        "Kotla",
+        "Bartara"
+      ],
+      "id": "firozabad_7"
+    },
+    {
+      "name": "Phariha",
+      "pincodes": [
+        283207
+      ],
+      "areas": [
+        "Konder",
+        "Kaitha",
+        "Pilakhatar",
+        "Mustfabad",
+        "Keshpura",
+        "Phariha"
+      ],
+      "keywords": [
+        "Phariha",
+        "Konder",
+        "Kaitha"
+      ],
+      "id": "firozabad_8"
+    },
+    {
+      "name": "Kurri Kuppa",
+      "pincodes": [
+        283103
+      ],
+      "areas": [
+        "Kurri Kuppa",
+        "Baghai",
+        "Jarakhi",
+        "Husainpur",
+        "Kotaki",
+        "Hirangaon",
+        "Usayani",
+        "Oef Firozabad"
+      ],
+      "keywords": [
+        "Kurri Kuppa",
+        "Baghai",
+        "Jarakhi"
+      ],
+      "id": "firozabad_9"
+    },
+    {
+      "name": "Parham",
+      "pincodes": [
+        283130
+      ],
+      "areas": [
+        "Kharit",
+        "Parham",
+        "Kadipur",
+        "Kheria Patikara",
+        "Nagla Dheer",
+        "Nagla Kanchan",
+        "Usneedha",
+        "Bara Gaon"
+      ],
+      "keywords": [
+        "Parham",
+        "Kharit",
+        "Kadipur"
+      ],
+      "id": "firozabad_10"
+    },
+    {
+      "name": "Rasulabad",
+      "pincodes": [
+        224172
+      ],
+      "areas": [
+        "Anjana",
+        "Gangauli",
+        "Jagdishpur",
+        "Rasulabad",
+        "Punhad",
+        "Bhadauli",
+        "Kumbhiya",
+        "Sihoriya"
+      ],
+      "keywords": [
+        "Rasulabad",
+        "Anjana",
+        "Gangauli"
+      ],
+      "id": "firozabad_11"
+    },
+    {
+      "name": "Bhadan",
+      "pincodes": [
+        283142
+      ],
+      "areas": [
+        "Kharaua",
+        "Nagla Gulal",
+        "Ruchan Manikpur",
+        "Urawarhastref",
+        "Garhsan",
+        "Ukhrend",
+        "Pariyar",
+        "Balipur",
+        "Bachhela Bachheli",
+        "Bhadan",
+        "Kaurari Kherha"
+      ],
+      "keywords": [
+        "Bhadan",
+        "Kharaua",
+        "Nagla Gulal"
+      ],
+      "id": "firozabad_12"
+    },
+    {
+      "name": "Khairgarh",
+      "pincodes": [
+        283145
+      ],
+      "areas": [
+        "Kanwara",
+        "Khairgarh",
+        "Viltigarh",
+        "Pratappur",
+        "Sarhupur",
+        "Jajumai",
+        "Ketana Harsha",
+        "Sekhupur Hatwant",
+        "Makkhanpur"
+      ],
+      "keywords": [
+        "Khairgarh",
+        "Kanwara",
+        "Viltigarh"
+      ],
+      "id": "firozabad_13"
+    }
+  ]
+}

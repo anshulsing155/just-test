@@ -1,0 +1,466 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Saharanpur",
+  "city": "Saharanpur",
+  "summary": "",
+  "total_areas": 208,
+  "total_pincodes": 20,
+  "zones": [
+    {
+      "name": "Saharanpur City",
+      "pincodes": [
+        247001,
+        247002
+      ],
+      "areas": [
+        "Halalpur",
+        "Kailashpur",
+        "Sadak Dudhli",
+        "Tiwaya",
+        "Unali",
+        "Bajoria Marg",
+        "Khumran Pul",
+        "Qutubsher",
+        "Saharanpur City",
+        "Nazirpura Devli",
+        "Pundain",
+        "Badheri Ghoghu",
+        "Sabdalpur",
+        "Chakrata Road",
+        "Hakikat Nagar",
+        "Khalasi Line",
+        "Labour Colony",
+        "Mission Compound",
+        "Nehru Market",
+        "Mavi Kalan",
+        "Nandi Firozpur",
+        "Harpal",
+        "Rani Bazar",
+        "Saharanpur",
+        "Dhakdei",
+        "SHariya",
+        "Malhipur",
+        "Shekhpura Qudeem",
+        "Nagrajpur",
+        "Baliakheri",
+        "Salempur Bhukheri",
+        "Gatta Mill",
+        "Gopal Nagar",
+        "Paper Mill",
+        "Macharheri",
+        "Phandpuri",
+        "Pheraheri",
+        "Kankarkui",
+        "Sunheti Kharkhari",
+        "Khalapar",
+        "Lakhi Gate",
+        "Mangal Nagar",
+        "Mazahir Uloom",
+        "Saharanpur Kutchery",
+        "Veer Nagar",
+        "NDC Saharanpur",
+        "PTC"
+      ],
+      "keywords": [
+        "city center",
+        "urban"
+      ],
+      "id": "saharanpur_1"
+    },
+    {
+      "name": "Punwarka Cluster",
+      "pincodes": [
+        247120
+      ],
+      "areas": [
+        "Punwarka",
+        "Mussail",
+        "Babail Buzurg",
+        "Ghunna",
+        "Randol",
+        "Bahera Sandal Singh",
+        "Rehri Tajpur",
+        "Kalsia",
+        "Topri"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_2"
+    },
+    {
+      "name": "Behat Region",
+      "pincodes": [
+        247121
+      ],
+      "areas": [
+        "Bhuradev",
+        "Mohammedpur Jhanjhara",
+        "Behat SO Saharanpur",
+        "Faizabad",
+        "Kasimpur",
+        "Kamboh Majra",
+        "Sadholi Quadeem",
+        "Jasmour",
+        "Jatonwala",
+        "Mirjapur Poll",
+        "Ruhalki",
+        "Samaspur Naugaon"
+      ],
+      "keywords": [
+        "rural",
+        "region"
+      ],
+      "id": "saharanpur_3"
+    },
+    {
+      "name": "Badshahi Bagh",
+      "pincodes": [
+        247122
+      ],
+      "areas": [
+        "Badshahi Bagh"
+      ],
+      "keywords": [
+        "isolated",
+        "standalone"
+      ],
+      "id": "saharanpur_4"
+    },
+    {
+      "name": "Muzaffrabad Cluster",
+      "pincodes": [
+        247129
+      ],
+      "areas": [
+        "Kaluwala Jahanpur",
+        "Khajnawar",
+        "Muzaffrabad",
+        "Anwarpur Baroli",
+        "Niyamatpur",
+        "Sansarpur",
+        "Khurrampur",
+        "Kurdi Khera",
+        "Talhapur"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_5"
+    },
+    {
+      "name": "Chilkana Region",
+      "pincodes": [
+        247231
+      ],
+      "areas": [
+        "Budhakhera",
+        "Toderpur",
+        "Chilkana",
+        "Gayajudinpur",
+        "Bartha Kayastha"
+      ],
+      "keywords": [
+        "rural",
+        "region"
+      ],
+      "id": "saharanpur_6"
+    },
+    {
+      "name": "Sarsawa Area",
+      "pincodes": [
+        247232
+      ],
+      "areas": [
+        "Chauri",
+        "Pilakhni",
+        "Sarsawa",
+        "Alipura",
+        "Raipur",
+        "Dhikka Kalan",
+        "Jhabiran",
+        "Sugar Mill Sarsawa",
+        "Gaderheri",
+        "Qutubpur",
+        "Shahjahanpur",
+        "Telipura",
+        "Sorana"
+      ],
+      "keywords": [
+        "industrial",
+        "area"
+      ],
+      "id": "saharanpur_7"
+    },
+    {
+      "name": "Ambehta Cluster",
+      "pincodes": [
+        247340
+      ],
+      "areas": [
+        "Dhaiki",
+        "Randheri",
+        "Ambehta",
+        "Randeva",
+        "Dhorala",
+        "Khera Afgan",
+        "Raniyala Dayalpur",
+        "Beera Kheri"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_8"
+    },
+    {
+      "name": "Gangoh Area",
+      "pincodes": [
+        247341
+      ],
+      "areas": [
+        "Jharwan",
+        "Rangail",
+        "Jandhera",
+        "Lakhnauti",
+        "Gangoh",
+        "Beenpur",
+        "Dudhla",
+        "Kunda Kalan",
+        "Bansdei",
+        "Khadlana",
+        "Mohanpur"
+      ],
+      "keywords": [
+        "semi-urban",
+        "area"
+      ],
+      "id": "saharanpur_9"
+    },
+    {
+      "name": "Nakur Region",
+      "pincodes": [
+        247342
+      ],
+      "areas": [
+        "Aghiana",
+        "Badhi",
+        "Nasrullahgarh",
+        "Nakur",
+        "Hassanpur",
+        "Salhapur",
+        "Sirsaka",
+        "Tabur"
+      ],
+      "keywords": [
+        "rural",
+        "region"
+      ],
+      "id": "saharanpur_10"
+    },
+    {
+      "name": "Titron",
+      "pincodes": [
+        247343
+      ],
+      "areas": [
+        "Titron"
+      ],
+      "keywords": [
+        "isolated",
+        "standalone"
+      ],
+      "id": "saharanpur_11"
+    },
+    {
+      "name": "Rampur Cluster",
+      "pincodes": [
+        247451
+      ],
+      "areas": [
+        "Sona Arjunpur",
+        "Rampur SO Saharanpur",
+        "Ahmedpur",
+        "Ambehta Chand",
+        "Chakwali",
+        "Gudamb",
+        "Islamnagar",
+        "Sherpur",
+        "Umahikalan",
+        "Prasar Kendra Rampur",
+        "Nalhera Gujjar",
+        "Pahansu",
+        "Umrikalan",
+        "Bhankla",
+        "Ghathera",
+        "Jandhera Samaspur",
+        "Jandkhera"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_12"
+    },
+    {
+      "name": "Nanauta Area",
+      "pincodes": [
+        247452
+      ],
+      "areas": [
+        "Khudana",
+        "Tikrol",
+        "Anantmau",
+        "Bargaon",
+        "Mahengi",
+        "Bhabsi",
+        "Bhari",
+        "Nanauta",
+        "Jandheri"
+      ],
+      "keywords": [
+        "semi-urban",
+        "area"
+      ],
+      "id": "saharanpur_13"
+    },
+    {
+      "name": "Shimlana Cluster",
+      "pincodes": [
+        247453
+      ],
+      "areas": [
+        "Mora",
+        "Naya Gaon",
+        "Shimlana",
+        "Thaska",
+        "Bahera",
+        "Jaroda Panda"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_14"
+    },
+    {
+      "name": "Nagal Region",
+      "pincodes": [
+        247551
+      ],
+      "areas": [
+        "Bachiti",
+        "Khera Mugal",
+        "Dhangera",
+        "Lakhnaur",
+        "Paharpur",
+        "Kota",
+        "Tansipur",
+        "Khajoorwala",
+        "Pandoli",
+        "Paniyali Kasimpur",
+        "Nagal SO Saharanpur"
+      ],
+      "keywords": [
+        "rural",
+        "region"
+      ],
+      "id": "saharanpur_15"
+    },
+    {
+      "name": "Biharigarh",
+      "pincodes": [
+        247552
+      ],
+      "areas": [
+        "Biharigarh"
+      ],
+      "keywords": [
+        "isolated",
+        "standalone"
+      ],
+      "id": "saharanpur_16"
+    },
+    {
+      "name": "Deoband Area",
+      "pincodes": [
+        247554
+      ],
+      "areas": [
+        "Babupur",
+        "Banhera Khas",
+        "Chandena Koli",
+        "Gangdaspur",
+        "Kenduki",
+        "Miragpur",
+        "Sarsina",
+        "Amboli",
+        "Bastam",
+        "Diwalheri",
+        "Ghaloli",
+        "Gunarsa",
+        "Darul Uloom Deoband",
+        "Industrial Estate Deoband",
+        "Gopali",
+        "Jaroda Jatt",
+        "Sanpla Khatri",
+        "Ambehta Shekhan",
+        "Kulsath",
+        "Talheri Buzurg",
+        "Dugchadi Malakpur",
+        "Deoband",
+        "B Majbatta",
+        "Bhaila Kalan",
+        "Kuri",
+        "Rankhandi",
+        "Sakhan Khurd",
+        "Bus Stand Deoband"
+      ],
+      "keywords": [
+        "urban",
+        "area"
+      ],
+      "id": "saharanpur_17"
+    },
+    {
+      "name": "Chhutmalpur Cluster",
+      "pincodes": [
+        247662
+      ],
+      "areas": [
+        "Halwana",
+        "Khushalipur",
+        "Simbhalki Gujjar",
+        "Mohand",
+        "Tanko Sunderpur",
+        "Sherpur Khanazadpur",
+        "Lashkarpur",
+        "Chhutmalpur"
+      ],
+      "keywords": [
+        "rural",
+        "cluster"
+      ],
+      "id": "saharanpur_18"
+    },
+    {
+      "name": "Gagalheri Area",
+      "pincodes": [
+        247669
+      ],
+      "areas": [
+        "Harora",
+        "Gagalheri",
+        "Chauradev",
+        "Khajuri Akbarpur"
+      ],
+      "keywords": [
+        "semi-urban",
+        "area"
+      ],
+      "id": "saharanpur_19"
+    }
+  ]
+}

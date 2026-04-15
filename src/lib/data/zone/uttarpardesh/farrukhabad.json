@@ -1,0 +1,375 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Farrukhabad",
+  "city": "Farrukhabad",
+  "summary": "",
+  "total_areas": 155,
+  "total_pincodes": 17,
+  "zones": [
+    {
+      "name": "Farrukhabad Central",
+      "pincodes": [
+        209625
+      ],
+      "areas": [
+        "Kila",
+        "Nehru Road SO Farrukhabad",
+        "Panda Bagh",
+        "Baraun",
+        "Pachpukhra",
+        "Bibiganj SO Farrukhabad",
+        "ITE",
+        "Nitganja",
+        "Farrukhabad R S",
+        "Mathia Devi",
+        "Avas Vikas Colony",
+        "Pipergaon",
+        "Lindsayganj",
+        "Awajpur",
+        "Gutasi",
+        "K P Ghat",
+        "Bazaria Farrukhabad",
+        "Farrukhabad"
+      ],
+      "keywords": [
+        "Central",
+        "Bazaria",
+        "Avas Vikas"
+      ],
+      "id": "farrukhabad_1"
+    },
+    {
+      "name": "Fatehgarh",
+      "pincodes": [
+        209601
+      ],
+      "areas": [
+        "Barhpur",
+        "Maseni",
+        "Bazaza Bazar",
+        "Kutchery Fatehgarh",
+        "Fatehgarh",
+        "Ghatiaghat",
+        "Civil Lines",
+        "Bholeypur",
+        "Distt Jail SO Farrukhabad",
+        "Fatehgarh RS",
+        "RRC Fatehgarh",
+        "Bharka",
+        "Kotwali Road Ftg",
+        "Sarah",
+        "JNVRoad"
+      ],
+      "keywords": [
+        "Fatehgarh",
+        "Civil Lines"
+      ],
+      "id": "farrukhabad_2"
+    },
+    {
+      "name": "Kaimganj",
+      "pincodes": [
+        209502
+      ],
+      "areas": [
+        "Barkhera",
+        "Bhatasa",
+        "Mau Rashidabad",
+        "Raipur",
+        "Rashidabad Tiwariyan",
+        "Rutaul",
+        "Kaimganj",
+        "College Rd Kaimganj",
+        "Narainamau",
+        "Pitaura",
+        "Silsanda",
+        "Rly Road Kaimganj",
+        "Bara Biku",
+        "Barjhala",
+        "Paithan",
+        "Ahmadganj",
+        "Ataipur",
+        "Behta Ballu",
+        "Ganga Darwaja Kmj",
+        "K K W",
+        "Lahra",
+        "Lakhanpur"
+      ],
+      "keywords": [
+        "Kaimganj",
+        "College Road"
+      ],
+      "id": "farrukhabad_3"
+    },
+    {
+      "name": "Shamsabad",
+      "pincodes": [
+        209503
+      ],
+      "areas": [
+        "Kisrauli",
+        "Kuiyan Khera",
+        "Shamsabad SO Farrukhabad",
+        "Ugarpur"
+      ],
+      "keywords": [
+        "Shamsabad"
+      ],
+      "id": "farrukhabad_4"
+    },
+    {
+      "name": "Kampil",
+      "pincodes": [
+        209505
+      ],
+      "areas": [
+        "Sikanderpur Khas",
+        "Siwara Khas",
+        "Shahpur",
+        "Bilsari",
+        "Raukari",
+        "Kampil",
+        "Mistni Bahbalpur",
+        "Rudain"
+      ],
+      "keywords": [
+        "Kampil"
+      ],
+      "id": "farrukhabad_5"
+    },
+    {
+      "name": "Mohamdabad",
+      "pincodes": [
+        209651
+      ],
+      "areas": [
+        "Maudha",
+        "Rohila",
+        "Tajpur",
+        "Barakeshav",
+        "Gosarpur",
+        "Sirauli",
+        "Mohamdabad",
+        "Sakwai"
+      ],
+      "keywords": [
+        "Mohamdabad"
+      ],
+      "id": "farrukhabad_6"
+    },
+    {
+      "name": "Merapur",
+      "pincodes": [
+        209652
+      ],
+      "areas": [
+        "Merapur",
+        "Nagla Bagh Rathaura",
+        "Neebkarori",
+        "Guthina",
+        "Rajendra Nagar",
+        "Barkhiriya",
+        "Nagla Kel Champat",
+        "Sankisa",
+        "Arjunpur",
+        "Bihar",
+        "Nadaura",
+        "Pakhna",
+        "Roop Nagar"
+      ],
+      "keywords": [
+        "Merapur",
+        "Sankisa"
+      ],
+      "id": "farrukhabad_7"
+    },
+    {
+      "name": "Kamalganj",
+      "pincodes": [
+        209724
+      ],
+      "areas": [
+        "Kadhar",
+        "Rajipur",
+        "Kamalganj",
+        "Khudaganj",
+        "Gadanpur Deorajpur",
+        "Katrauli Patti",
+        "Rampur Majhgaon",
+        "Singhirampur"
+      ],
+      "keywords": [
+        "Kamalganj"
+      ],
+      "id": "farrukhabad_8"
+    },
+    {
+      "name": "Jahanganj",
+      "pincodes": [
+        209739
+      ],
+      "areas": [
+        "Jhasi",
+        "Danmandi",
+        "Kandhrapur",
+        "Musakhiria",
+        "Rajeypur Tappa Mandal",
+        "Jahanganj",
+        "Daraura",
+        "Gadanpur Turra",
+        "Jarari"
+      ],
+      "keywords": [
+        "Jahanganj"
+      ],
+      "id": "farrukhabad_9"
+    },
+    {
+      "name": "Sahaspur",
+      "pincodes": [
+        209743
+      ],
+      "areas": [
+        "Sahaspur",
+        "Kanheypur",
+        "Dhirpur",
+        "Jyonta",
+        "Khimseypur",
+        "Madanpur",
+        "Mahoi",
+        "Ugrapur Sultan Patti"
+      ],
+      "keywords": [
+        "Sahaspur"
+      ],
+      "id": "farrukhabad_10"
+    },
+    {
+      "name": "Roshnabad",
+      "pincodes": [
+        209745
+      ],
+      "areas": [
+        "Roshnabad",
+        "Chilsara",
+        "Amlaiya Ashanand",
+        "Barai",
+        "Nagla Nan"
+      ],
+      "keywords": [
+        "Roshnabad"
+      ],
+      "id": "farrukhabad_11"
+    },
+    {
+      "name": "Bhojpur",
+      "pincodes": [
+        209749
+      ],
+      "areas": [
+        "Bhojpur",
+        "Sitauli",
+        "Yaqutganj"
+      ],
+      "keywords": [
+        "Bhojpur"
+      ],
+      "id": "farrukhabad_12"
+    },
+    {
+      "name": "Aligarh",
+      "pincodes": [
+        209621
+      ],
+      "areas": [
+        "Aligarh SO Farrukhabad",
+        "Kankapur",
+        "Khandauli",
+        "Jainpur Maheshpur",
+        "Sabalpur",
+        "Gandhi"
+      ],
+      "keywords": [
+        "Aligarh"
+      ],
+      "id": "farrukhabad_13"
+    },
+    {
+      "name": "Amratpur",
+      "pincodes": [
+        209622
+      ],
+      "areas": [
+        "Harsinghpur",
+        "Kumhraur",
+        "Pithnapur",
+        "Hariharpur",
+        "Karanpur Dutt",
+        "Amratpur",
+        "Chapra"
+      ],
+      "keywords": [
+        "Amratpur"
+      ],
+      "id": "farrukhabad_14"
+    },
+    {
+      "name": "Babna",
+      "pincodes": [
+        209501
+      ],
+      "areas": [
+        "Babna",
+        "Pilkhana",
+        "Nawabganj SO Farrukhabad",
+        "Kanasi",
+        "Puthari",
+        "Sirmaura Banger",
+        "Kurar",
+        "Khalwara",
+        "Ukhra"
+      ],
+      "keywords": [
+        "Babna",
+        "Nawabganj"
+      ],
+      "id": "farrukhabad_15"
+    },
+    {
+      "name": "Singanpur",
+      "pincodes": [
+        209602
+      ],
+      "areas": [
+        "Singanpur",
+        "Bhopat Patti",
+        "Jaitpur",
+        "Kanjhiana",
+        "Central Jail",
+        "Gaisinghpur",
+        "Runi"
+      ],
+      "keywords": [
+        "Singanpur"
+      ],
+      "id": "farrukhabad_16"
+    },
+    {
+      "name": "Harsinghpur Goa",
+      "pincodes": [
+        209504
+      ],
+      "areas": [
+        "Harsinghpur Goa",
+        "Rasidpur Mai",
+        "Manjhana",
+        "Shukrullapur",
+        "Khinmini"
+      ],
+      "keywords": [
+        "Harsinghpur Goa"
+      ],
+      "id": "farrukhabad_17"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Shahjahanpur",
+  "city": "Shahjahanpur",
+  "summary": "",
+  "total_areas": 294,
+  "total_pincodes": 16,
+  "zones": [
+    {
+      "name": "Shahjahanpur City",
+      "pincodes": [
+        242001,
+        242306
+      ],
+      "areas": [
+        "Ghusgawan",
+        "Kiratpur",
+        "Shahbaznagar",
+        "Dalelganj",
+        "A C Factory",
+        "Carewganj",
+        "Jalal Nagar",
+        "Chak Kanahu",
+        "Sindholi",
+        "Tera",
+        "Tikri",
+        "Baruzai",
+        "H Road",
+        "Shahjahanpur Kutchery",
+        "Khiria Rasoolpur",
+        "Mudia Pamar",
+        "Pingri Pingra",
+        "Krishnanagar",
+        "Sadar Bazar",
+        "Shahjahanpur City",
+        "Katia Tola",
+        "Shahjahanpur",
+        "Charkambha",
+        "Mohanganj",
+        "Shahjahanpur Chawk",
+        "Paina Buzurg",
+        "Gora Raipur",
+        "Mahasir",
+        "Ghantaghar",
+        "Basulia",
+        "Murchha",
+        "Niyamatpur",
+        "Subhash Nagar",
+        "Bahadurganj",
+        "Garrah Road",
+        "Shahjahanpur R S",
+        "Bankagaon",
+        "Bartara",
+        "Bhatpurarasulpur",
+        "Bhawalkhera",
+        "Shahganj",
+        "Uchaunlia",
+        "Uliapur",
+        "Kursanda",
+        "Siswa",
+        "Rosa RS",
+        "Chhetepur",
+        "Ramapurbarkatpur",
+        "Sarhi",
+        "Scri",
+        "Gurri",
+        "Padrasikandarpur"
+      ],
+      "keywords": [
+        "Shahjahanpur",
+        "City Center",
+        "Kutchery"
+      ],
+      "id": "shahjahanpur_1"
+    },
+    {
+      "name": "Banda and Surroundings",
+      "pincodes": [
+        242042
+      ],
+      "areas": [
+        "Azmatpur",
+        "D Ghanshyam",
+        "Devkali",
+        "D P J Pur",
+        "Tindua Nagaria",
+        "Banda SO Shahjahanpur",
+        "Dudwa",
+        "Mohiuddinpur",
+        "Maksoodapur",
+        "Bhambi",
+        "Rarua",
+        "Nabhichi",
+        "Nawadabanki",
+        "Ranmastpur"
+      ],
+      "keywords": [
+        "Banda",
+        "Devkali"
+      ],
+      "id": "shahjahanpur_2"
+    },
+    {
+      "name": "Jalalabad Region",
+      "pincodes": [
+        242221
+      ],
+      "areas": [
+        "Bangaon",
+        "Ch Bahadupur",
+        "Pirthvipurdhai",
+        "Udaipurbhoor",
+        "Zarinpur",
+        "Burhaura",
+        "Jam Daulatpur",
+        "Kakrala",
+        "Kateli Bmaua",
+        "Malupur",
+        "Barua",
+        "Bhaunti",
+        "Ch Sahabganj",
+        "Dhiaria",
+        "Gunara",
+        "Khadhar",
+        "Pehna",
+        "Sulamanpurpatti",
+        "Jalalabad Mandi",
+        "Jalalabad SO Shahjahanpur",
+        "Baharia",
+        "Palharai",
+        "S Purkayasthan",
+        "Shahpur",
+        "Alldadpur Baihari",
+        "Gularia",
+        "Gurugram",
+        "Makrandpur",
+        "Mangtora",
+        "Mirzapur",
+        "N G Mahsulpur",
+        "Singaha Yusufpur",
+        "Tingri"
+      ],
+      "keywords": [
+        "Jalalabad",
+        "Mandi"
+      ],
+      "id": "shahjahanpur_3"
+    },
+    {
+      "name": "Kant and Nearby",
+      "pincodes": [
+        242223
+      ],
+      "areas": [
+        "Babakkarpur",
+        "Gandhar",
+        "Mohdpurazmabad",
+        "Piprolaahmadpur",
+        "Kant",
+        "Amora",
+        "Audapur",
+        "Indeypur",
+        "Paraincha",
+        "Barenda",
+        "Bhainsi",
+        "Dilawarpur",
+        "Lakhnaur",
+        "Malhpur",
+        "Deoriajhala",
+        "Hathel",
+        "Kamalnainpur",
+        "Kurriakalan",
+        "Mp Mamarazpur",
+        "Rawatpur",
+        "Sarthauli",
+        "Umraha"
+      ],
+      "keywords": [
+        "Kant",
+        "Nearby Villages"
+      ],
+      "id": "shahjahanpur_4"
+    },
+    {
+      "name": "Miranpur Katra Cluster",
+      "pincodes": [
+        242301
+      ],
+      "areas": [
+        "Baisaribaisra",
+        "Barkherajaipal",
+        "Bauri",
+        "Budhwana",
+        "Seora",
+        "Miranpur Katra",
+        "Jaitipur",
+        "Jarharharipur",
+        "Khundra",
+        "Sandaamipur",
+        "Kotakhas",
+        "Nawadrudrapur",
+        "Ukhlinawada",
+        "Batlaiya",
+        "Jeorabhoor",
+        "Kakraua",
+        "Madnapur",
+        "Madroli",
+        "Paliapatti",
+        "Sikandarpurkalanan",
+        "Kudaiya",
+        "Shahpurkhitaua"
+      ],
+      "keywords": [
+        "Miranpur Katra",
+        "Cluster"
+      ],
+      "id": "shahjahanpur_5"
+    },
+    {
+      "name": "Tilhar and Surroundings",
+      "pincodes": [
+        242307
+      ],
+      "areas": [
+        "Dhakiaragha",
+        "Piproli",
+        "Birsinghpur",
+        "Dhaneora",
+        "Rajanpur",
+        "Rudrapur",
+        "Rujwari",
+        "Maujampur",
+        "Banthara",
+        "Dabhora",
+        "Bilhari",
+        "Khairpurmilkipur",
+        "Nizampur",
+        "Hindu Pattil",
+        "Tilhar",
+        "Chauhatia",
+        "Gopalpurthatheura",
+        "Rati",
+        "Samdhana"
+      ],
+      "keywords": [
+        "Tilhar",
+        "Surroundings"
+      ],
+      "id": "shahjahanpur_6"
+    },
+    {
+      "name": "Powayan Area",
+      "pincodes": [
+        242401
+      ],
+      "areas": [
+        "Ayun",
+        "Behtasambad",
+        "Gandharpur",
+        "Jewan",
+        "Ullia",
+        "Baragaon",
+        "Mahuichathia",
+        "Mudiakurmiyat",
+        "Anawa",
+        "Jujharpur",
+        "Powayan",
+        "Bilsandibuzurg",
+        "Korokuiyan",
+        "Kotawari",
+        "Nahil",
+        "Satwabuzurg",
+        "Agonasujanpur",
+        "Gangsara",
+        "Kaluapur",
+        "Kanpara",
+        "Sunara Buzurg"
+      ],
+      "keywords": [
+        "Powayan",
+        "Area"
+      ],
+      "id": "shahjahanpur_7"
+    },
+    {
+      "name": "Khutar and Vicinity",
+      "pincodes": [
+        242405
+      ],
+      "areas": [
+        "Chandpur",
+        "Lalpur",
+        "Prasadpur",
+        "Rautapur",
+        "Tahkhurdkalan",
+        "Malika",
+        "Muradpur",
+        "Tulapur",
+        "Dhaknalahia",
+        "Khandepur",
+        "Narotha Hansram",
+        "Silhua",
+        "Khutar"
+      ],
+      "keywords": [
+        "Khutar",
+        "Vicinity"
+      ],
+      "id": "shahjahanpur_8"
+    },
+    {
+      "name": "Nigohi and Nearby",
+      "pincodes": [
+        242407
+      ],
+      "areas": [
+        "Bharribasantpur",
+        "Hatgaon",
+        "Parsonakhalilpur",
+        "Azizpur",
+        "Bahanderi",
+        "Bilandpurgaddipur",
+        "Rampurbasant",
+        "Safaura",
+        "Unkalan",
+        "Chandeura",
+        "Talgaon",
+        "Dhakiatiwari",
+        "Ladhaula",
+        "Sandakhas",
+        "Zindpura",
+        "Nigohi",
+        "Andkhera",
+        "Areli",
+        "Bikrampurchakora",
+        "Deoria",
+        "Ganpatpur"
+      ],
+      "keywords": [
+        "Nigohi",
+        "Nearby"
+      ],
+      "id": "shahjahanpur_9"
+    },
+    {
+      "name": "Rosa and Surroundings",
+      "pincodes": [
+        242406
+      ],
+      "areas": [
+        "Pasgawan",
+        "Chandapur",
+        "Khiriaheer",
+        "Raura",
+        "Singraha",
+        "Rosa",
+        "Badshahnagar",
+        "SeramauSouth",
+        "Chauhanapur",
+        "Kahelia",
+        "Kaneng",
+        "Shahjapur",
+        "Mudigawan",
+        "Saraura"
+      ],
+      "keywords": [
+        "Rosa",
+        "Surroundings"
+      ],
+      "id": "shahjahanpur_10"
+    },
+    {
+      "name": "Dadraul and Nearby",
+      "pincodes": [
+        242226
+      ],
+      "areas": [
+        "Azizganj",
+        "Jamaur",
+        "Dadraul",
+        "Raikhera",
+        "M Ashram"
+      ],
+      "keywords": [
+        "Dadraul",
+        "Nearby"
+      ],
+      "id": "shahjahanpur_11"
+    },
+    {
+      "name": "Kamalpur and Surroundings",
+      "pincodes": [
+        242305
+      ],
+      "areas": [
+        "Jalalpur",
+        "Jiginia",
+        "Kamlapur",
+        "Korigawan",
+        "Charkhaula",
+        "Hasanpur",
+        "Akbaria",
+        "Kheramajhkhera",
+        "Hariharpursimra",
+        "Laxmipur",
+        "Majila",
+        "Sootha",
+        "Khudaganj"
+      ],
+      "keywords": [
+        "Kamalpur",
+        "Surroundings"
+      ],
+      "id": "shahjahanpur_12"
+    },
+    {
+      "name": "Simra and Nearby",
+      "pincodes": [
+        242303
+      ],
+      "areas": [
+        "Awa",
+        "Bhanpura",
+        "Kundramajra",
+        "Simariaraipur",
+        "Umarsar",
+        "Barriprasidhpur",
+        "Gogeypur",
+        "Marena",
+        "Sarjupur",
+        "Dabhora Simra",
+        "Garhiarangeen",
+        "Shankerpur",
+        "Govindpur",
+        "Khamaria",
+        "Khera Bajhera"
+      ],
+      "keywords": [
+        "Simra",
+        "Nearby"
+      ],
+      "id": "shahjahanpur_13"
+    },
+    {
+      "name": "Kunderi and Surroundings",
+      "pincodes": [
+        242127
+      ],
+      "areas": [
+        "Kilapur",
+        "Kunderi",
+        "Mai Khurd Kalan",
+        "Dahelia",
+        "Jakhia",
+        "Khajuri",
+        "Patna Devkali",
+        "Usmanpur Sarfra",
+        "Bamhora",
+        "Bikrampur",
+        "Pach Deoria",
+        "R B Kalan",
+        "Astoli",
+        "Barakalan",
+        "Behta Jangal",
+        "Bhundeli",
+        "Chaurabagerkhet",
+        "Gundaura Daudpur",
+        "Paraur",
+        "Parthipur Kuverpur",
+        "Pilhua",
+        "Dasia",
+        "Kundaria",
+        "Laxmanpur"
+      ],
+      "keywords": [
+        "Kunderi",
+        "Surroundings"
+      ],
+      "id": "shahjahanpur_14"
+    },
+    {
+      "name": "Allahganj and Nearby",
+      "pincodes": [
+        242220
+      ],
+      "areas": [
+        "Raghunathpur",
+        "Ashrafpur",
+        "Chaurasia",
+        "Chilaua",
+        "Jearrahimpur",
+        "Allahganj"
+      ],
+      "keywords": [
+        "Allahganj",
+        "Nearby"
+      ],
+      "id": "shahjahanpur_15"
+    }
+  ]
+}

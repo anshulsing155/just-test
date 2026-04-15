@@ -1,0 +1,388 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Mainpuri",
+  "city": "Mainpuri",
+  "summary": "",
+  "total_areas": 182,
+  "total_pincodes": 15,
+  "zones": [
+    {
+      "name": "Mainpuri City",
+      "pincodes": [
+        205001
+      ],
+      "areas": [
+        "Auden Mandan",
+        "Anjani",
+        "Dharau",
+        "Kharpari",
+        "Lalupur",
+        "Daulatpur",
+        "Civil Court SO Mainpuri",
+        "Mainpuri City",
+        "Nagla Jula",
+        "Ratibhanpur",
+        "JIC Nauner",
+        "Ahirwa",
+        "Manchhana",
+        "Ninauli",
+        "Ghitauli",
+        "Gola Bazar",
+        "Sikandarpur",
+        "Mainpuri R S",
+        "Kapoorpur",
+        "Nauner",
+        "Beonti Khurd",
+        "Kakan",
+        "Karimganj",
+        "Sagauni",
+        "Zilla Parishad",
+        "Raja Ki Bajria",
+        "Karhal Gate Mainpuri",
+        "Auden Padaria",
+        "Mainpuri",
+        "Awadh Nagar"
+      ],
+      "keywords": [
+        "Mainpuri",
+        "City Center",
+        "Civil Court"
+      ],
+      "id": "mainpuri_1"
+    },
+    {
+      "name": "Tindauli Cluster",
+      "pincodes": [
+        205119
+      ],
+      "areas": [
+        "Tindauli",
+        "Darwah",
+        "Halpura",
+        "Jabapur",
+        "Kosma",
+        "Gangsi",
+        "Kuchela"
+      ],
+      "keywords": [
+        "Tindauli",
+        "Kosma"
+      ],
+      "id": "mainpuri_2"
+    },
+    {
+      "name": "Ghiror Area",
+      "pincodes": [
+        205121
+      ],
+      "areas": [
+        "Azmabad Araon",
+        "Badshahpur",
+        "Baijua Khas",
+        "Shahjahanpur",
+        "Ghiror",
+        "Bajhera Bujurg",
+        "Pachawer",
+        "Musayatpur Kheriya",
+        "Bharaul",
+        "Kalhor",
+        "Johari Nagar"
+      ],
+      "keywords": [
+        "Ghiror",
+        "Shahjahanpur"
+      ],
+      "id": "mainpuri_3"
+    },
+    {
+      "name": "Ratanpur Bara Region",
+      "pincodes": [
+        205247
+      ],
+      "areas": [
+        "Ratanpur Bara",
+        "Sugaon",
+        "Hathpau",
+        "Jagir",
+        "Bhawat",
+        "Dharmangadpur",
+        "Allau",
+        "Pundari",
+        "Agautha",
+        "Ajitganj"
+      ],
+      "keywords": [
+        "Ratanpur",
+        "Jagir"
+      ],
+      "id": "mainpuri_4"
+    },
+    {
+      "name": "Baranahal Zone",
+      "pincodes": [
+        205261
+      ],
+      "areas": [
+        "Dalupur",
+        "Sarakh",
+        "Baranahal",
+        "Chandikara",
+        "Nawa Terha",
+        "Dihuli",
+        "Lakhanmau",
+        "Sukurullapur",
+        "Talibpur",
+        "Banigon",
+        "Hazipur Nera"
+      ],
+      "keywords": [
+        "Baranahal",
+        "Dalupur"
+      ],
+      "id": "mainpuri_5"
+    },
+    {
+      "name": "Bhongaon Area",
+      "pincodes": [
+        205262
+      ],
+      "areas": [
+        "Aghar",
+        "Chhachha",
+        "Aramsarai",
+        "Aung",
+        "Rakari",
+        "Alipur Kherha",
+        "Himaunpur",
+        "Maujepur Havelia",
+        "Rui Sinaura",
+        "Vinodpur",
+        "Bhaisrauli",
+        "Garhia Govindepur",
+        "Jamaura",
+        "Rajwana",
+        "Town Hall",
+        "Bhongaon",
+        "Mota",
+        "Naya Bazar Bhongaon"
+      ],
+      "keywords": [
+        "Bhongaon",
+        "Town Hall"
+      ],
+      "id": "mainpuri_6"
+    },
+    {
+      "name": "Aunchha Cluster",
+      "pincodes": [
+        205263
+      ],
+      "areas": [
+        "Madhan",
+        "Manauna",
+        "Paronkh",
+        "Achalpur",
+        "Chetai",
+        "Aunchha",
+        "Isai Gopalpur",
+        "Ujhaiya Fakirpur",
+        "Thorwa",
+        "Jeonti"
+      ],
+      "keywords": [
+        "Aunchha",
+        "Achalpur"
+      ],
+      "id": "mainpuri_7"
+    },
+    {
+      "name": "Karhal Region",
+      "pincodes": [
+        205264
+      ],
+      "areas": [
+        "Andani",
+        "Bamtapur",
+        "Chandpura",
+        "Bhidaura",
+        "Kirthua",
+        "Nagla Dik",
+        "Shjhajipur",
+        "Karhal SO Mainpuri",
+        "Atirajpur",
+        "Nakau",
+        "Grhiya",
+        "Pairar Shahpur",
+        "Urthan"
+      ],
+      "keywords": [
+        "Karhal",
+        "Shjhajipur"
+      ],
+      "id": "mainpuri_8"
+    },
+    {
+      "name": "Kuraoli Area",
+      "pincodes": [
+        205265
+      ],
+      "areas": [
+        "Belahar",
+        "Nanamau",
+        "Jakhaua",
+        "Salempur",
+        "Sonai",
+        "Lahara",
+        "Kuraoli",
+        "Lakhaura",
+        "Naugaon",
+        "Sharifpur",
+        "Galla Mandi Kurawali",
+        "Alupura"
+      ],
+      "keywords": [
+        "Kuraoli",
+        "Kurawali"
+      ],
+      "id": "mainpuri_9"
+    },
+    {
+      "name": "Sultanganj Zone",
+      "pincodes": [
+        205267
+      ],
+      "areas": [
+        "Balarpur",
+        "Sultanganj SO Mainpuri",
+        "Aurandh",
+        "Dalippur Kailai",
+        "Kinhawar",
+        "Nagla Semar",
+        "Sahara",
+        "Bichhawan",
+        "Jagatpur B",
+        "Simarai",
+        "Tisauli"
+      ],
+      "keywords": [
+        "Sultanganj",
+        "Balarpur"
+      ],
+      "id": "mainpuri_10"
+    },
+    {
+      "name": "Kurra Cluster",
+      "pincodes": [
+        205268
+      ],
+      "areas": [
+        "Mohabbatpur",
+        "Sauj",
+        "Takharau",
+        "Vinayakpur",
+        "Sahan",
+        "Patara",
+        "Ranipur",
+        "Aunha",
+        "Kurra"
+      ],
+      "keywords": [
+        "Kurra",
+        "Vinayakpur"
+      ],
+      "id": "mainpuri_11"
+    },
+    {
+      "name": "Bewar Area",
+      "pincodes": [
+        205301
+      ],
+      "areas": [
+        "MUDAI",
+        "Bewar SO Mainpuri",
+        "Bajhera",
+        "Madhupuri",
+        "Paronkha",
+        "Joga",
+        "Kaua Tanda",
+        "Nabiganj",
+        "Mahmudia",
+        "Bewar Bazar",
+        "Garhia Chhinkaura",
+        "Manpur Hari",
+        "Nagla Painth"
+      ],
+      "keywords": [
+        "Bewar",
+        "Bajhera"
+      ],
+      "id": "mainpuri_12"
+    },
+    {
+      "name": "Kishni Region",
+      "pincodes": [
+        205303
+      ],
+      "areas": [
+        "Maholi Shamserganj",
+        "Naigwan kheria",
+        "Basait",
+        "Kutukpur",
+        "Kishni",
+        "Chauraipur",
+        "Saman",
+        "Ratheh",
+        "Chitayan",
+        "Farenzi"
+      ],
+      "keywords": [
+        "Kishni",
+        "Maholi"
+      ],
+      "id": "mainpuri_13"
+    },
+    {
+      "name": "Kusmara Zone",
+      "pincodes": [
+        205304
+      ],
+      "areas": [
+        "Mudausi",
+        "Kusmara",
+        "Ahimalpur",
+        "Kumhaul",
+        "Kurhi",
+        "Madhukarpur",
+        "Manigaon",
+        "Sakra",
+        "Uncha Islamabad",
+        "Arsara",
+        "Elabans",
+        "Ramnagar"
+      ],
+      "keywords": [
+        "Kusmara",
+        "Mudausi"
+      ],
+      "id": "mainpuri_14"
+    },
+    {
+      "name": "Todarpur Cluster",
+      "pincodes": [
+        209720
+      ],
+      "areas": [
+        "Todarpur",
+        "Bhadehi",
+        "Kaitholi",
+        "Jasmai",
+        "Jot"
+      ],
+      "keywords": [
+        "Todarpur",
+        "Jasmai"
+      ],
+      "id": "mainpuri_15"
+    }
+  ]
+}

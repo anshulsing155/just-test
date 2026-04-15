@@ -1,0 +1,417 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kanpur Dehat",
+  "city": "Kanpur Dehat",
+  "summary": "",
+  "total_areas": 199,
+  "total_pincodes": 16,
+  "zones": [
+    {
+      "name": "Akbarpur and Surroundings",
+      "pincodes": [
+        209101
+      ],
+      "areas": [
+        "Bhuganiyapur",
+        "Gujraai",
+        "Jhindaura",
+        "Kumbhi",
+        "Badhapur",
+        "Akbarpur",
+        "Bewan",
+        "Gauriyapur",
+        "Karosa",
+        "Lalpur II",
+        "Lalpur RS",
+        "Rurwahar",
+        "Bewain",
+        "Sariyapur",
+        "Korwakhurd"
+      ],
+      "keywords": [
+        "Akbarpur",
+        "Gauriyapur"
+      ],
+      "id": "kanpur dehat_1"
+    },
+    {
+      "name": "Bhognipur Cluster",
+      "pincodes": [
+        209111
+      ],
+      "areas": [
+        "Bhognipur",
+        "Chak Chalpur",
+        "Hansemau",
+        "Kachhigaon",
+        "Akodhi",
+        "Saray",
+        "Pukhrayan",
+        "Haramau"
+      ],
+      "keywords": [
+        "Bhognipur",
+        "Pukhrayan"
+      ],
+      "id": "kanpur dehat_2"
+    },
+    {
+      "name": "Amraudha and Vicinity",
+      "pincodes": [
+        209112
+      ],
+      "areas": [
+        "Shekhpur",
+        "Devrahut",
+        "Paniyamau",
+        "Bilhapur",
+        "Gaur",
+        "Mancha",
+        "Selhoopur",
+        "Amraudha",
+        "Debair",
+        "Nonapur"
+      ],
+      "keywords": [
+        "Amraudha",
+        "Mancha"
+      ],
+      "id": "kanpur dehat_3"
+    },
+    {
+      "name": "Rajpur and Surroundings",
+      "pincodes": [
+        209115
+      ],
+      "areas": [
+        "Rasdhan",
+        "Anwa",
+        "Bhal",
+        "Doharapur",
+        "Auderi",
+        "Satti",
+        "Shahjahanpur",
+        "Silhara",
+        "Budhauli",
+        "Gaurikaran",
+        "Kandhi",
+        "Mubarakpur",
+        "Rurgaon",
+        "Gauri Ratan Bangar",
+        "Kamalpur",
+        "Vaina",
+        "Damanpur",
+        "Madiyapur",
+        "Ramau",
+        "Rajpur SO Kanpur Dehat"
+      ],
+      "keywords": [
+        "Rajpur",
+        "Shahjahanpur"
+      ],
+      "id": "kanpur dehat_4"
+    },
+    {
+      "name": "Sarwankhera and Nearby",
+      "pincodes": [
+        209121
+      ],
+      "areas": [
+        "Duwari",
+        "Kausum",
+        "Mangta",
+        "Saitha",
+        "Jithrauli",
+        "Sarwankhera",
+        "Hathai",
+        "Karsa",
+        "Kathethi EUP7895",
+        "Manethu",
+        "Pama RS",
+        "Rasulpur GogumauEUP7906",
+        "Bharatpur Piyasi",
+        "Gangruli",
+        "Ninaya",
+        "Juniya",
+        "Gajner",
+        "Lohari",
+        "Sairua",
+        "Sultanur Perajore"
+      ],
+      "keywords": [
+        "Sarwankhera",
+        "Gajner"
+      ],
+      "id": "kanpur dehat_5"
+    },
+    {
+      "name": "Sikandra and Surroundings",
+      "pincodes": [
+        209125
+      ],
+      "areas": [
+        "Arsun Bangar",
+        "Palhnapur",
+        "Pindarthu",
+        "GARDHIYA",
+        "Mirgaon",
+        "Sandelpur",
+        "Umarpur",
+        "Gurdahi Bujurg",
+        "Khawajaphool",
+        "Manpur",
+        "Dharampur",
+        "Kasolar",
+        "Sikandra SO Kanpur Dehat"
+      ],
+      "keywords": [
+        "Sikandra",
+        "Sandelpur"
+      ],
+      "id": "kanpur dehat_6"
+    },
+    {
+      "name": "Sheoli and Vicinity",
+      "pincodes": [
+        209204
+      ],
+      "areas": [
+        "Aonaha",
+        "Sakhrez",
+        "Nigoha",
+        "Dalipnagar",
+        "Kanjeti",
+        "Sakrawa",
+        "Sheoli",
+        "Kahijari",
+        "Bairi Sawai",
+        "Bannapur",
+        "Bhiwan",
+        "Biroha",
+        "Mawaiya",
+        "Barra Tharra"
+      ],
+      "keywords": [
+        "Sheoli",
+        "Sakrawa"
+      ],
+      "id": "kanpur dehat_7"
+    },
+    {
+      "name": "Musa Nagar Cluster",
+      "pincodes": [
+        209208
+      ],
+      "areas": [
+        "Bamhrauli",
+        "Musa Nagar",
+        "RATHGAON",
+        "Singrasipur",
+        "Bamhrauli Ghat",
+        "Gadatha",
+        "Katar",
+        "Daheli",
+        "Makhauli",
+        "Katri",
+        "Korau"
+      ],
+      "keywords": [
+        "Musa Nagar",
+        "Bamhrauli"
+      ],
+      "id": "kanpur dehat_8"
+    },
+    {
+      "name": "Derapur and Surroundings",
+      "pincodes": [
+        209301
+      ],
+      "areas": [
+        "Baalai Bujurg",
+        "Badagaon Bhikhi",
+        "mungisapur",
+        "Derapur",
+        "Galuapur",
+        "Hathuma",
+        "Angadpur",
+        "Aslanapur",
+        "Bijhara",
+        "Reri",
+        "Ursaan"
+      ],
+      "keywords": [
+        "Derapur",
+        "Galuapur"
+      ],
+      "id": "kanpur dehat_9"
+    },
+    {
+      "name": "Jhinjhak and Vicinity",
+      "pincodes": [
+        209302
+      ],
+      "areas": [
+        "Ban",
+        "Dilauliya",
+        "Akaru",
+        "Jhinjhak",
+        "Chhatrsa",
+        "Injuarampur",
+        "Khamhaila",
+        "Sithmara",
+        "Kishaura",
+        "Laxmanpur Pilakh",
+        "Sunderpur Gajan",
+        "Jalihapur"
+      ],
+      "keywords": [
+        "Jhinjhak",
+        "Chhatrsa"
+      ],
+      "id": "kanpur dehat_10"
+    },
+    {
+      "name": "Rura and Surroundings",
+      "pincodes": [
+        209303
+      ],
+      "areas": [
+        "Roshanmau EUP6054",
+        "MAdauli",
+        "Banipara",
+        "Gahlo Zarbi",
+        "Jaganpur",
+        "Kari Kalwari",
+        "Sargaon Bujurg",
+        "Shahi EUP6127",
+        "Rura",
+        "Tigaei",
+        "Chilaauli",
+        "Kashipur",
+        "Devipur",
+        "Indrarukh",
+        "Pur EUP3155"
+      ],
+      "keywords": [
+        "Rura",
+        "Sargaon Bujurg"
+      ],
+      "id": "kanpur dehat_11"
+    },
+    {
+      "name": "Rasulabad and Vicinity",
+      "pincodes": [
+        209306
+      ],
+      "areas": [
+        "Jot",
+        "Makrandpur",
+        "Naila",
+        "BhaisayanEUP7098",
+        "Bharamau",
+        "Birhuan",
+        "Laloo",
+        "Puran Purwa",
+        "Ratanpur",
+        "Shisahi",
+        "Usri",
+        "Asalatganj",
+        "Mahera",
+        "Rasulabad SO Kanpur Dehat",
+        "Nahuwa Nogaon",
+        "Narkhurd",
+        "SujanpurEUP9348"
+      ],
+      "keywords": [
+        "Rasulabad",
+        "Asalatganj"
+      ],
+      "id": "kanpur dehat_12"
+    },
+    {
+      "name": "Bhaupur and Nearby",
+      "pincodes": [
+        209307
+      ],
+      "areas": [
+        "Kodwa",
+        "Raipalpur",
+        "Rasatpur",
+        "Lalpur SheorajPur",
+        "Pratappur",
+        "Baghpur",
+        "Hathika",
+        "Naubasta",
+        "BHAUPUR"
+      ],
+      "keywords": [
+        "Bhaupur",
+        "Raipalpur"
+      ],
+      "id": "kanpur dehat_13"
+    },
+    {
+      "name": "Mangalpur and Surroundings",
+      "pincodes": [
+        209310
+      ],
+      "areas": [
+        "Khanpur",
+        "Asvi",
+        "Aurangabad",
+        "Mahua Mahoi",
+        "Nonari",
+        "Mangalpur SO Kanpur Dehat",
+        "Bhandemau",
+        "Jasapur",
+        "Paraukh"
+      ],
+      "keywords": [
+        "Mangalpur",
+        "Aurangabad"
+      ],
+      "id": "kanpur dehat_14"
+    },
+    {
+      "name": "Jainpur and Vicinity",
+      "pincodes": [
+        209311
+      ],
+      "areas": [
+        "Bara",
+        "Mohana EUP 7305",
+        "MAti KishunPur",
+        "Jainpur I A",
+        "Patra"
+      ],
+      "keywords": [
+        "Jainpur",
+        "Mohana"
+      ],
+      "id": "kanpur dehat_15"
+    },
+    {
+      "name": "Malasa and Surroundings",
+      "pincodes": [
+        209312
+      ],
+      "areas": [
+        "Girdau",
+        "Gurugaon",
+        "Kailai",
+        "Malasa",
+        "BARAUR",
+        "Jalalpur",
+        "Meenapur",
+        "Arhariyamau",
+        "Mohammedpur",
+        "Sithrabujurg"
+      ],
+      "keywords": [
+        "Malasa",
+        "Gurugaon"
+      ],
+      "id": "kanpur dehat_16"
+    }
+  ]
+}

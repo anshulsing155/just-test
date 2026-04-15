@@ -1,0 +1,377 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Banda",
+  "city": "Banda",
+  "summary": "",
+  "total_areas": 210,
+  "total_pincodes": 12,
+  "zones": [
+    {
+      "name": "Banda City and Surroundings",
+      "pincodes": [
+        210001
+      ],
+      "areas": [
+        "Lama",
+        "Manipur",
+        "Masuri",
+        "Atarahat",
+        "Luktara",
+        "Ajeetpur",
+        "Badokhar Bujurg",
+        "Mohanpurwa",
+        "Paprenda",
+        "Alona",
+        "Bansi",
+        "Chhoti Bazar",
+        "Baraimanpur",
+        "Chhehraon",
+        "Triveni",
+        "Achharaund",
+        "Tindwara",
+        "Durendi",
+        "Khaptiha Kalan",
+        "JAMALPUR",
+        "Kanwara",
+        "Banda Aliganj",
+        "Banda City",
+        "Banda Kutchery",
+        "Banda RS",
+        "Ganchha",
+        "Goeramugli",
+        "Banda Katra",
+        "Badokhar Khurd",
+        "Pachnehi",
+        "Paigambarpur",
+        "Mawai",
+        "Banda DC",
+        "Chhanehara Lalpur",
+        "Padui",
+        "Girwan",
+        "Parsaunda",
+        "Mataundh",
+        "Jari",
+        "Mahokhar",
+        "Bilgaon",
+        "Gureh",
+        "Hathaura",
+        "Basahari",
+        "Jaurahi",
+        "Banda"
+      ],
+      "keywords": [
+        "Banda",
+        "City",
+        "Urban"
+      ],
+      "id": "banda_1"
+    },
+    {
+      "name": "Khurhand and Nearby",
+      "pincodes": [
+        210120
+      ],
+      "areas": [
+        "Katrawal",
+        "Khurhand",
+        "Khurand RS",
+        "Nagnedi",
+        "Arjunah",
+        "Mahua",
+        "Makri",
+        "Hastam",
+        "Malehra Newada",
+        "Saunta Syondha",
+        "Gharaunda",
+        "Sahewa"
+      ],
+      "keywords": [
+        "Khurhand",
+        "Rural"
+      ],
+      "id": "banda_2"
+    },
+    {
+      "name": "Baberu Region",
+      "pincodes": [
+        210121
+      ],
+      "areas": [
+        "Badagaon",
+        "Bhadedu",
+        "Jalalpur",
+        "Samgara",
+        "Umarahni",
+        "Augasi",
+        "Nibhaur",
+        "Sathi",
+        "Beonja",
+        "Bhabhua",
+        "Majhiwan",
+        "Murwal",
+        "Nilathu",
+        "Paras",
+        "Pawaiya",
+        "Pindaran",
+        "Baberu",
+        "Aliha",
+        "Bagehta",
+        "Majhila",
+        "Palhari",
+        "Simauni",
+        "Hardauli",
+        "Patwan",
+        "Sheo"
+      ],
+      "keywords": [
+        "Baberu",
+        "Region"
+      ],
+      "id": "banda_3"
+    },
+    {
+      "name": "Oran",
+      "pincodes": [
+        210122
+      ],
+      "areas": [
+        "Oran"
+      ],
+      "keywords": [
+        "Oran",
+        "Standalone"
+      ],
+      "id": "banda_4"
+    },
+    {
+      "name": "Dighwat Cluster",
+      "pincodes": [
+        210123
+      ],
+      "areas": [
+        "Dighwat",
+        "Gugauli",
+        "Piprahari",
+        "Chillatara",
+        "Padarathpur",
+        "Sadimadanpur",
+        "Bichhwahi",
+        "Palra"
+      ],
+      "keywords": [
+        "Dighwat",
+        "Cluster"
+      ],
+      "id": "banda_5"
+    },
+    {
+      "name": "Marka and Surroundings",
+      "pincodes": [
+        210125
+      ],
+      "areas": [
+        "Bira",
+        "Mamsi Khurd",
+        "Pachhauhan",
+        "Satnyaon",
+        "Armar",
+        "Ingua",
+        "Lakhanpur",
+        "Narayanpur",
+        "Kheda",
+        "Budhauli",
+        "Marka",
+        "Berraon",
+        "Mau",
+        "Museewan",
+        "Pannah",
+        "Sandasani",
+        "Kamasin",
+        "Audaha",
+        "Banthari",
+        "Charka",
+        "Kharauli",
+        "Lohra",
+        "Parsauli",
+        "Tilausa"
+      ],
+      "keywords": [
+        "Marka",
+        "Rural"
+      ],
+      "id": "banda_6"
+    },
+    {
+      "name": "Pailani Area",
+      "pincodes": [
+        210126
+      ],
+      "areas": [
+        "Mawaighat",
+        "Narauli",
+        "Nari",
+        "Padohra",
+        "Sindhan Kalan",
+        "Pailani",
+        "Adri",
+        "Amara",
+        "Baragaon",
+        "Chandwara",
+        "Dharikhera",
+        "Madauli Kalan",
+        "Rampur",
+        "Sikahula",
+        "Amlor",
+        "Gauri Kalan",
+        "Piprodar",
+        "Gadaria",
+        "Jaspura",
+        "Sabada",
+        "Gazipur",
+        "Jhanjhari Ka Purwa",
+        "Marjha",
+        "Nandadeo"
+      ],
+      "keywords": [
+        "Pailani",
+        "Area"
+      ],
+      "id": "banda_7"
+    },
+    {
+      "name": "Tindwari and Vicinity",
+      "pincodes": [
+        210128
+      ],
+      "areas": [
+        "Jauharpur",
+        "Amlikaur",
+        "Bhujrakh",
+        "Tindwari",
+        "Benda",
+        "Mungus",
+        "Khaunda",
+        "Pipargawan",
+        "Semri Basilpur",
+        "Mahui"
+      ],
+      "keywords": [
+        "Tindwari",
+        "Vicinity"
+      ],
+      "id": "banda_8"
+    },
+    {
+      "name": "Naraini and Kalinjar",
+      "pincodes": [
+        210129
+      ],
+      "areas": [
+        "Baheri",
+        "Pangara",
+        "Naraini",
+        "Gumanganj",
+        "Jamwara",
+        "Kalinjar",
+        "Padmai",
+        "Nauhai",
+        "Parsahar",
+        "Pongari",
+        "Sarha",
+        "Gurha Kalan",
+        "Kartal",
+        "Lahureta",
+        "Risaura",
+        "Birauna",
+        "Kulsari",
+        "Nahri",
+        "Chandpura"
+      ],
+      "keywords": [
+        "Naraini",
+        "Kalinjar"
+      ],
+      "id": "banda_9"
+    },
+    {
+      "name": "Atarra and Surroundings",
+      "pincodes": [
+        210201
+      ],
+      "areas": [
+        "Oraha",
+        "Pachokhar",
+        "Pindkhar",
+        "Punahur",
+        "Anathuwa",
+        "Gadaon",
+        "Gokhia",
+        "Chausar",
+        "Khambhaura",
+        "Atarra",
+        "P G College Attara",
+        "Ballan"
+      ],
+      "keywords": [
+        "Atarra",
+        "Surroundings"
+      ],
+      "id": "banda_10"
+    },
+    {
+      "name": "Badausa and Nearby",
+      "pincodes": [
+        210202
+      ],
+      "areas": [
+        "Mahuta",
+        "Harhamafi",
+        "Pauhar",
+        "Badausa",
+        "Baghelabari",
+        "Dadhwamanpur",
+        "Pathara",
+        "Sheo Rajpur Mafi",
+        "Hariharpur",
+        "Piyar",
+        "Koorahu",
+        "Jabrapur",
+        "Turra"
+      ],
+      "keywords": [
+        "Badausa",
+        "Nearby"
+      ],
+      "id": "banda_11"
+    },
+    {
+      "name": "Bisanda and Region",
+      "pincodes": [
+        210203
+      ],
+      "areas": [
+        "Bachhaundha",
+        "Bisandi",
+        "Marauli",
+        "Pahari Bujurg Sani",
+        "Para",
+        "Singhpur",
+        "Tindura",
+        "Bagha",
+        "Korrahi",
+        "Bisanda",
+        "Akona",
+        "Jamoo",
+        "Ranipur",
+        "Saya",
+        "Chhilolar",
+        "Kairikhurd"
+      ],
+      "keywords": [
+        "Bisanda",
+        "Region"
+      ],
+      "id": "banda_12"
+    }
+  ]
+}

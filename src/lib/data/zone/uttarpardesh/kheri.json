@@ -1,0 +1,695 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kheri",
+  "city": "Kheri",
+  "summary": "",
+  "total_areas": 368,
+  "total_pincodes": 27,
+  "zones": [
+    {
+      "name": "Lakhimpur Kheri Central",
+      "pincodes": [
+        261501,
+        262701
+      ],
+      "areas": [
+        "Karanpur",
+        "Pahara",
+        "Behjam",
+        "Bel",
+        "Bhoolanpur",
+        "Paila",
+        "Gauria",
+        "Shankarpur",
+        "Kasta",
+        "Lakhaha",
+        "Neemgaon",
+        "Ratasia",
+        "Sanigawan",
+        "Tikaula",
+        "Siyathu",
+        "Barkherwa",
+        "Meerpur",
+        "Naibasti",
+        "Baherwa",
+        "Bijhauli",
+        "Lakhperaganj",
+        "Kalaam",
+        "Razaganj",
+        "Lokesor",
+        "Murtiha",
+        "Fardhan",
+        "Mudia Khera",
+        "Piparawan",
+        "Lakhimpur",
+        "Rangila Nagar",
+        "Rajgarh",
+        "Midania",
+        "Mela Maidan",
+        "Kaimahra",
+        "Rampur Gokul",
+        "Manyora",
+        "Udaipur Mahewa",
+        "Deokali",
+        "Kheri",
+        "Naveen Mandi"
+      ],
+      "keywords": [
+        "Lakhimpur",
+        "Central"
+      ],
+      "id": "kheri_1"
+    },
+    {
+      "name": "Isanagar Belt",
+      "pincodes": [
+        261502
+      ],
+      "areas": [
+        "Badalipur",
+        "Beltua",
+        "Bhedhia",
+        "Mudi",
+        "Ramlok Kabiraha",
+        "Rudrapur Salim",
+        "Betisahdeo",
+        "Chandrasa Kallan",
+        "Durgapur Padari",
+        "Khamaria Kallan",
+        "Sikatiha Chapkaha",
+        "Gopalapur",
+        "Ganeshpur",
+        "Firozabad",
+        "Laukahi Isanagar",
+        "Mukhalishpur",
+        "Laukahi Mallapur",
+        "Singawar",
+        "Virsinghpur",
+        "Isanagar SO Kheri",
+        "Hasanpur Katauli",
+        "Mochnapur",
+        "Naribehar"
+      ],
+      "keywords": [
+        "Isanagar",
+        "Belt"
+      ],
+      "id": "kheri_2"
+    },
+    {
+      "name": "Maigal Ganj Cluster",
+      "pincodes": [
+        261505
+      ],
+      "areas": [
+        "Barbar",
+        "Kakaraha",
+        "Khunti Bujurg",
+        "Lidhiyayi",
+        "Nayagaon Jat",
+        "Panai",
+        "Sunava",
+        "Maigal Ganj",
+        "Fatepur",
+        "Jangbahadur Ganj",
+        "Kaluamoti",
+        "Kusumi",
+        "Maksudpur",
+        "Khamaria",
+        "Baikuan",
+        "Saraunia",
+        "Sheopuri",
+        "Aurongabad",
+        "BADHAIYA",
+        "Bisari Khera",
+        "Mohammadpur Nazir",
+        "Palhapur",
+        "Rampur Banwari",
+        "Badhwari Marg",
+        "Kaimahara",
+        "Mohiddunpur",
+        "Muborakpur",
+        "Mullapur",
+        "Nayagaon",
+        "Pasgawan",
+        "Sheorajpur",
+        "Sukhbasa",
+        "Baghoom"
+      ],
+      "keywords": [
+        "Maigal",
+        "Ganj"
+      ],
+      "id": "kheri_3"
+    },
+    {
+      "name": "Srinagar Zone",
+      "pincodes": [
+        261506
+      ],
+      "areas": [
+        "Daudpur",
+        "Gaura",
+        "Laukiha",
+        "Madhwapur Barola",
+        "Mudia Puja Gaon",
+        "PhoolBehad",
+        "Aggar Khurd",
+        "Pipra Goom",
+        "Mahewa Ganj",
+        "Khambhar Khera",
+        "Srinagar",
+        "Sunderwal",
+        "Pipra Form",
+        "Sisaura",
+        "Tetarpur",
+        "Pratappur"
+      ],
+      "keywords": [
+        "Srinagar"
+      ],
+      "id": "kheri_4"
+    },
+    {
+      "name": "Kheri Town",
+      "pincodes": [
+        262702
+      ],
+      "areas": [
+        "Kheri Town"
+      ],
+      "keywords": [
+        "Kheri",
+        "Town"
+      ],
+      "id": "kheri_5"
+    },
+    {
+      "name": "Bhira Region",
+      "pincodes": [
+        262721,
+        262901
+      ],
+      "areas": [
+        "Ambarsot",
+        "Bhira Ghanshi",
+        "Nizampurnighati",
+        "Sadhauna",
+        "Mohammadpur Mahewa",
+        "Lagucha",
+        "Mahangukhera",
+        "Mohola",
+        "Rudrapur Kallan",
+        "Nauser Gularia",
+        "Rara Bazar",
+        "Dharmapur",
+        "Matehia",
+        "Bhira SO Kheri",
+        "Bijua",
+        "Ambora",
+        "Bhanpur",
+        "Padaria Tula"
+      ],
+      "keywords": [
+        "Bhira",
+        "Region"
+      ],
+      "id": "kheri_6"
+    },
+    {
+      "name": "Aira Estate Zone",
+      "pincodes": [
+        262722
+      ],
+      "areas": [
+        "Ludhauni",
+        "Mohammadapur",
+        "Pakaria",
+        "Samdoha",
+        "Maharaj Nagar",
+        "Sherpur",
+        "Belwamoti",
+        "Gaisapur",
+        "Jethra",
+        "Lakhun",
+        "Aira",
+        "Rasulpur",
+        "Samodidih",
+        "Adalispur",
+        "Chakmusepur",
+        "Kumhaina",
+        "Aira Estate"
+      ],
+      "keywords": [
+        "Aira",
+        "Estate"
+      ],
+      "id": "kheri_7"
+    },
+    {
+      "name": "Dhaurahara Cluster",
+      "pincodes": [
+        262723
+      ],
+      "areas": [
+        "Amethi",
+        "Sisaiya Kallan",
+        "Baburi",
+        "Bhatpurwa Kallan",
+        "Kharbahia",
+        "Kaluwapur",
+        "Kafara",
+        "Bajaha",
+        "Davipurwa",
+        "Gudaria",
+        "Dhaurahara SO Kheri",
+        "Basantapur",
+        "Lahabari"
+      ],
+      "keywords": [
+        "Dhaurahara",
+        "Cluster"
+      ],
+      "id": "kheri_8"
+    },
+    {
+      "name": "Ramia Behar Zone",
+      "pincodes": [
+        262724
+      ],
+      "areas": [
+        "Ghurghutta Bujurg",
+        "Nainapur",
+        "Haukana",
+        "Ramia Behar",
+        "Jatpurwa",
+        "Dulahi",
+        "Abhayapur",
+        "Akathi",
+        "GT Amethi",
+        "Semri",
+        "Mallbehar",
+        "Ram Nagar Bagaha"
+      ],
+      "keywords": [
+        "Ramia",
+        "Behar"
+      ],
+      "id": "kheri_9"
+    },
+    {
+      "name": "Oel Region",
+      "pincodes": [
+        262725
+      ],
+      "areas": [
+        "Khanpur Gurela",
+        "Oel SO Kheri",
+        "Banika",
+        "Tikar",
+        "Motipur",
+        "Dhusaru"
+      ],
+      "keywords": [
+        "Oel",
+        "Region"
+      ],
+      "id": "kheri_10"
+    },
+    {
+      "name": "Sharda Nagar Cluster",
+      "pincodes": [
+        262726
+      ],
+      "areas": [
+        "Sharda Nagar",
+        "Badagaon",
+        "Basaha",
+        "Chakai",
+        "Kothia",
+        "Banjaria"
+      ],
+      "keywords": [
+        "Sharda",
+        "Nagar"
+      ],
+      "id": "kheri_11"
+    },
+    {
+      "name": "Mitauli Zone",
+      "pincodes": [
+        262727
+      ],
+      "areas": [
+        "Birampur",
+        "Khanjan Nagar",
+        "Semrawan",
+        "Mitauli",
+        "Abgawan",
+        "Lalhaua",
+        "Neem Cheni",
+        "Sandilwa",
+        "Awadhpur",
+        "Murai Tajpur",
+        "Odara"
+      ],
+      "keywords": [
+        "Mitauli"
+      ],
+      "id": "kheri_12"
+    },
+    {
+      "name": "Atkohana Cluster",
+      "pincodes": [
+        262728
+      ],
+      "areas": [
+        "Atkohana",
+        "Rabahi",
+        "Saidipur Harraiya",
+        "Nauapur Ghat",
+        "Patna Baijnatpurwa",
+        "Kathkusuma",
+        "Sakethu",
+        "Sarsawa",
+        "Nakha"
+      ],
+      "keywords": [
+        "Atkohana"
+      ],
+      "id": "kheri_13"
+    },
+    {
+      "name": "Bankey Ganj Zone",
+      "pincodes": [
+        262801
+      ],
+      "areas": [
+        "Pahar Nagar",
+        "Bankey Ganj",
+        "Hazaratpur",
+        "Usha Form",
+        "Khanjanpur",
+        "Kukra Town",
+        "Hindustan Farm"
+      ],
+      "keywords": [
+        "Bankey",
+        "Ganj"
+      ],
+      "id": "kheri_14"
+    },
+    {
+      "name": "Gola Gokaran Nath Region",
+      "pincodes": [
+        262802
+      ],
+      "areas": [
+        "Alipur",
+        "Bakkhari",
+        "Chhitaunia",
+        "Jamunabad Form",
+        "Kaparaha",
+        "Mohammdabad",
+        "Roshan Nagar",
+        "Banshi",
+        "Raipur",
+        "Ahemad Nagar",
+        "Bhallia Bujurg",
+        "Gharthania",
+        "Grant No11",
+        "Landonpur Grant",
+        "Parsehra",
+        "Rampur Daatpur",
+        "Sansarpur",
+        "Saukhiya",
+        "Haiderabad",
+        "Ram Nagar Khurd",
+        "Suhela",
+        "Kanchanpur",
+        "Gola Gokaran Nath",
+        "Bhaithia",
+        "Muda Sawaran",
+        "Pareli",
+        "Sishnour",
+        "Mamari",
+        "Mathura Nagar",
+        "Aliganj",
+        "Azan",
+        "Jalalpur",
+        "Khargapur",
+        "Kotwora Raj",
+        "Maheshpur",
+        "Rampur Grant",
+        "Rasulpanah"
+      ],
+      "keywords": [
+        "Gola",
+        "Gokaran",
+        "Nath"
+      ],
+      "id": "kheri_15"
+    },
+    {
+      "name": "Mailani Zone",
+      "pincodes": [
+        262803
+      ],
+      "areas": [
+        "Mailani",
+        "Tharvaranpur",
+        "Suwabojh Jungle",
+        "Mailani Gram"
+      ],
+      "keywords": [
+        "Mailani"
+      ],
+      "id": "kheri_16"
+    },
+    {
+      "name": "Mohammadi Cluster",
+      "pincodes": [
+        262804
+      ],
+      "areas": [
+        "Ajehra",
+        "Bagrethi",
+        "Mohammadpur Tajpur",
+        "Shankarpur Raja",
+        "Sisaura Nasir",
+        "Balmia Barkhar",
+        "Bijhauli Sahaspur",
+        "Kiriyara",
+        "Magadapur",
+        "Piparia Dhani",
+        "Sasiya Ganj",
+        "Veerpur",
+        "Baida",
+        "Beni Rajpur",
+        "Gulauli",
+        "Itauwa",
+        "Piparia Kaptan",
+        "Gaffar Nagar",
+        "Gokan",
+        "Lauki Khera",
+        "Muda Ghalib",
+        "Shahpur Jagir",
+        "Sisaura Nikumpur",
+        "Kumbhi",
+        "Amir Nagar",
+        "Farenda",
+        "Machhechha",
+        "Mohammadi"
+      ],
+      "keywords": [
+        "Mohammadi"
+      ],
+      "id": "kheri_17"
+    },
+    {
+      "name": "Sikandrabad Zone",
+      "pincodes": [
+        262805
+      ],
+      "areas": [
+        "Kotwa",
+        "Parsehra Madarpur",
+        "Belhori",
+        "Mudia",
+        "Baibaha",
+        "Sikandrabad SO Kheri",
+        "Ghumara Madera",
+        "Raipur Ghunshi",
+        "Rampur Sutehra",
+        "Bheekhampur"
+      ],
+      "keywords": [
+        "Sikandrabad"
+      ],
+      "id": "kheri_18"
+    },
+    {
+      "name": "Pallia Region",
+      "pincodes": [
+        262902
+      ],
+      "areas": [
+        "Ataria",
+        "Chheduipattia",
+        "Baudhiya Kallan",
+        "Dudwaghat",
+        "Gauri Fanta",
+        "Trikaulia",
+        "Basantapur Kallan",
+        "Bela Kallan",
+        "Bijauria",
+        "Bisenpuri",
+        "Patihan",
+        "Sera Bera",
+        "Pallia",
+        "Ballipur",
+        "Mahangapur",
+        "Majhgain",
+        "Marocha",
+        "Tilokpur"
+      ],
+      "keywords": [
+        "Pallia"
+      ],
+      "id": "kheri_19"
+    },
+    {
+      "name": "Nighasan Zone",
+      "pincodes": [
+        262903
+      ],
+      "areas": [
+        "Rakehati",
+        "Jhandi Raj",
+        "Daulatpur",
+        "Ludhauri",
+        "Binaura",
+        "Adlabad",
+        "Dubaha",
+        "Nighasan",
+        "Bamhanpur",
+        "Barotha",
+        "Muda Bujurg"
+      ],
+      "keywords": [
+        "Nighasan"
+      ],
+      "id": "kheri_20"
+    },
+    {
+      "name": "Sampurna Nagar Cluster",
+      "pincodes": [
+        262904
+      ],
+      "areas": [
+        "Bhanpuri",
+        "Basahi",
+        "Sampurna Nagar",
+        "Vichitra Nagar"
+      ],
+      "keywords": [
+        "Sampurna",
+        "Nagar"
+      ],
+      "id": "kheri_21"
+    },
+    {
+      "name": "Singahi Region",
+      "pincodes": [
+        262905
+      ],
+      "areas": [
+        "Sinhauna",
+        "Naubana",
+        "Khairigarh",
+        "Naurangabad",
+        "Singaha Kallan",
+        "Singahi"
+      ],
+      "keywords": [
+        "Singahi"
+      ],
+      "id": "kheri_22"
+    },
+    {
+      "name": "Tikunia Zone",
+      "pincodes": [
+        262906
+      ],
+      "areas": [
+        "Belaparsua",
+        "Ganga Nagar",
+        "Suratnagar",
+        "Kuaudiyala Ghat",
+        "Banbirpur",
+        "Belrayan",
+        "Tikunia",
+        "Gadania",
+        "Gularia Pathor Shah",
+        "Kadia",
+        "Manjha"
+      ],
+      "keywords": [
+        "Tikunia"
+      ],
+      "id": "kheri_23"
+    },
+    {
+      "name": "Semra Cluster",
+      "pincodes": [
+        262907
+      ],
+      "areas": [
+        "Dareri",
+        "Jamhaura",
+        "Semra SO Kheri",
+        "Dhakherwa",
+        "Dhakherwa Khalsa",
+        "Dhakherwa Nankar",
+        "Khawahia No 2",
+        "Podhua",
+        "Sujanpur",
+        "Teliyar"
+      ],
+      "keywords": [
+        "Semra"
+      ],
+      "id": "kheri_24"
+    },
+    {
+      "name": "Chandan Chauki Zone",
+      "pincodes": [
+        262908
+      ],
+      "areas": [
+        "Bhoora",
+        "Parasiya",
+        "Puraina",
+        "Chandan Chauki",
+        "Saunaha",
+        "Dhuskiya",
+        "Nijhota",
+        "Dhakia",
+        "Dhoyanpur",
+        "Masor Khambh",
+        "Chhedia Pashchim",
+        "Borbata",
+        "Sunda",
+        "Bankati",
+        "Surma",
+        "Bajahi",
+        "Kajaria"
+      ],
+      "keywords": [
+        "Chandan",
+        "Chauki"
+      ],
+      "id": "kheri_25"
+    }
+  ]
+}

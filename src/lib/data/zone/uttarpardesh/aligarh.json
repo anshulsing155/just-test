@@ -1,0 +1,904 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Aligarh",
+  "city": "Aligarh",
+  "summary": "",
+  "total_areas": 385,
+  "total_pincodes": 39,
+  "zones": [
+    {
+      "name": "Aligarh City Center",
+      "pincodes": [
+        202001
+      ],
+      "areas": [
+        "Civil Court SO Aligarh",
+        "Gandhi Eye Hospital",
+        "Jaiganj",
+        "Manik Chowk",
+        "Sarai Kutub",
+        "Sasni Gate",
+        "D S College",
+        "Sarai Khirni",
+        "Sarai Labaria",
+        "T R M M Aligarh",
+        "NDC Aligarh",
+        "Aligarh City",
+        "Form Press",
+        "Industrial Area Aligarh",
+        "Upperkot",
+        "Vishnupuri",
+        "Aligarh",
+        "Naurangabad",
+        "I T I Road",
+        "Kutchery SO Aligarh",
+        "Madar Darwaja",
+        "Rasal Ganj",
+        "Bannadevi",
+        "Delhi Gate SO Aligarh",
+        "Dodhpur",
+        "Mahavir Ganj",
+        "Ramghat Road",
+        "Subhash Road SO Aligarh"
+      ],
+      "keywords": [
+        "city center",
+        "commercial hub",
+        "central Aligarh"
+      ],
+      "id": "aligarh_1"
+    },
+    {
+      "name": "Aligarh University Area",
+      "pincodes": [
+        202002
+      ],
+      "areas": [
+        "Mehrawal",
+        "Mukandpur",
+        "Naglamandir",
+        "Adaun",
+        "Beethna",
+        "Bhadesi",
+        "Bidirka",
+        "Digsi",
+        "Jallupur Sehore",
+        "Pala Aisi",
+        "Quarsi",
+        "Shahpur Kutub",
+        "Medical College SO Aligarh",
+        "Bhankri Niranjankot",
+        "Govindpur Fagoi",
+        "Mahua",
+        "Aligarh Muslim University",
+        "Ahmedpur",
+        "Bhemti",
+        "Dhanipur",
+        "Kamalpur",
+        "Panethi",
+        "Sarsol",
+        "Aisi",
+        "Allahdadpur",
+        "Kalwa",
+        "Konchhor",
+        "Nagla Devi"
+      ],
+      "keywords": [
+        "university",
+        "educational hub",
+        "AMU"
+      ],
+      "id": "aligarh_2"
+    },
+    {
+      "name": "Akrabad and Surroundings",
+      "pincodes": [
+        202121
+      ],
+      "areas": [
+        "Ladhaua",
+        "Mandanpur",
+        "Tuamai",
+        "Khurrampur",
+        "Manai",
+        "Suhawali",
+        "PilAkhna",
+        "Dabha",
+        "Jiroli Hira Singh",
+        "Khera Narain Singh",
+        "Akrabad"
+      ],
+      "keywords": [
+        "Akrabad",
+        "rural cluster"
+      ],
+      "id": "aligarh_3"
+    },
+    {
+      "name": "Sikandarpur and Dairy Farm",
+      "pincodes": [
+        202122
+      ],
+      "areas": [
+        "Bahadurpur Kota",
+        "Amrauli",
+        "Aligarh Dairy Farm",
+        "Chherat",
+        "Pala Kastali",
+        "Siya Khas",
+        "Sikandarpur Kota"
+      ],
+      "keywords": [
+        "dairy farm",
+        "Sikandarpur"
+      ],
+      "id": "aligarh_4"
+    },
+    {
+      "name": "Gonda and Nearby Villages",
+      "pincodes": [
+        202123
+      ],
+      "areas": [
+        "Manti Basai",
+        "Nagla Jhujhar",
+        "Talesara",
+        "Nagla Jagdeo",
+        "Rajawal",
+        "Digsari",
+        "Paindapur",
+        "Sehri Madangarhi",
+        "Kemthal",
+        "Nagla Birkhu",
+        "Pachawari",
+        "Gonda"
+      ],
+      "keywords": [
+        "Gonda",
+        "village cluster"
+      ],
+      "id": "aligarh_5"
+    },
+    {
+      "name": "Iglas and Surroundings",
+      "pincodes": [
+        202124
+      ],
+      "areas": [
+        "Hastpur Chandfari",
+        "Gursena",
+        "Bhaiyan",
+        "Chhaichhau",
+        "Kalua Bhilet",
+        "Matroi",
+        "Gidauli",
+        "Harautha",
+        "Sahara Khurd",
+        "Salempur",
+        "Gahlau",
+        "Kajrauth",
+        "Mohreni",
+        "Simardhari",
+        "Iglas"
+      ],
+      "keywords": [
+        "Iglas",
+        "rural area"
+      ],
+      "id": "aligarh_6"
+    },
+    {
+      "name": "Harduaganj and Nearby",
+      "pincodes": [
+        202125
+      ],
+      "areas": [
+        "Bhavigarh",
+        "Budhansi",
+        "Kalai",
+        "Chhadawali",
+        "Gurushikharan",
+        "Khan Alampur",
+        "Sadhu Ashram",
+        "Ukhlana",
+        "Harduaganj",
+        "Barotha",
+        "Narona Akapur"
+      ],
+      "keywords": [
+        "Harduaganj",
+        "industrial area"
+      ],
+      "id": "aligarh_7"
+    },
+    {
+      "name": "Jawan and Surroundings",
+      "pincodes": [
+        202126
+      ],
+      "areas": [
+        "Baraula",
+        "Daupur",
+        "Debthala",
+        "Sumera",
+        "Daheli",
+        "Pilona",
+        "Jawan",
+        "Barauli",
+        "Songra"
+      ],
+      "keywords": [
+        "Jawan",
+        "rural cluster"
+      ],
+      "id": "aligarh_8"
+    },
+    {
+      "name": "Kasimpur and Chhalesar",
+      "pincodes": [
+        202127
+      ],
+      "areas": [
+        "Talib Nagar",
+        "Kasimpur",
+        "Khera Bujurg",
+        "Sikharna",
+        "Godha",
+        "Parki",
+        "Satha",
+        "N C Kasimpur",
+        "Chhalesar",
+        "Sunamai"
+      ],
+      "keywords": [
+        "Kasimpur",
+        "Chhalesar"
+      ],
+      "id": "aligarh_9"
+    },
+    {
+      "name": "Jalali and Surroundings",
+      "pincodes": [
+        202128
+      ],
+      "areas": [
+        "Changeri",
+        "Jalali",
+        "Rehsupur",
+        "Sheikhupur",
+        "Baranadi"
+      ],
+      "keywords": [
+        "Jalali",
+        "village cluster"
+      ],
+      "id": "aligarh_10"
+    },
+    {
+      "name": "Kauriyaganj and Nearby",
+      "pincodes": [
+        202129
+      ],
+      "areas": [
+        "Bhilet Ramnagar",
+        "Hasona Jagmohanpur",
+        "Kauriyaganj",
+        "Barla",
+        "Pahari Pur",
+        "Phusauli",
+        "Shahagarh",
+        "Alampur Rani",
+        "Kutubour Amarpur",
+        "Pipoli",
+        "Utra"
+      ],
+      "keywords": [
+        "Kauriyaganj",
+        "rural area"
+      ],
+      "id": "aligarh_11"
+    },
+    {
+      "name": "Chharra and Surroundings",
+      "pincodes": [
+        202130
+      ],
+      "areas": [
+        "Habibganj",
+        "Sunpahar",
+        "Dhansari",
+        "Siroli",
+        "Chharra",
+        "Bain Kalan",
+        "Bhikampur",
+        "Bhamora Kalan"
+      ],
+      "keywords": [
+        "Chharra",
+        "village cluster"
+      ],
+      "id": "aligarh_12"
+    },
+    {
+      "name": "Bijauli and Nearby",
+      "pincodes": [
+        202131
+      ],
+      "areas": [
+        "Badesara",
+        "Gehtoli Nirmal",
+        "Dudhma",
+        "Pipari",
+        "Rajatau",
+        "Bijauli",
+        "Pali Mukimpur",
+        "Chandaua Goverdhanapur",
+        "Panehra",
+        "Nahal"
+      ],
+      "keywords": [
+        "Bijauli",
+        "rural area"
+      ],
+      "id": "aligarh_13"
+    },
+    {
+      "name": "Chandaus and Surroundings",
+      "pincodes": [
+        202132
+      ],
+      "areas": [
+        "Ogipur",
+        "Chandaus",
+        "Kaseru",
+        "Amritpur",
+        "Sudeshpur",
+        "Bhagatpur",
+        "Bharpur",
+        "Nagla Padam"
+      ],
+      "keywords": [
+        "Chandaus",
+        "village cluster"
+      ],
+      "id": "aligarh_14"
+    },
+    {
+      "name": "Dadon and Nearby",
+      "pincodes": [
+        202133
+      ],
+      "areas": [
+        "Haranpur Kalan",
+        "Hardoi",
+        "Khandua",
+        "Mandpur",
+        "Sahjahanpur Baijna",
+        "Alampur Fatehpur",
+        "Jirauli",
+        "Kaser",
+        "Nah",
+        "Rajmau",
+        "Dinapur",
+        "Lehra",
+        "Narupura",
+        "Paitra Nawabpur",
+        "Rajpur Khas",
+        "Sankra",
+        "Abhaipur Behlolpur",
+        "Bonai",
+        "Harnaut",
+        "Ramnagar",
+        "Rampur Chandyana",
+        "Zafar Manzil",
+        "Dadon"
+      ],
+      "keywords": [
+        "Dadon",
+        "village cluster"
+      ],
+      "id": "aligarh_15"
+    },
+    {
+      "name": "Gangiri and Surroundings",
+      "pincodes": [
+        202134
+      ],
+      "areas": [
+        "Kanobi",
+        "Majhola",
+        "Budha Gaon",
+        "Gangiri",
+        "Badhari Bujurg",
+        "Bilona Chitsari",
+        "Manena Ummedpur",
+        "Rukhala",
+        "Naugawan"
+      ],
+      "keywords": [
+        "Gangiri",
+        "village cluster"
+      ],
+      "id": "aligarh_16"
+    },
+    {
+      "name": "Ahraula and Nearby",
+      "pincodes": [
+        202135
+      ],
+      "areas": [
+        "Aidalpur",
+        "Fatehgarhi",
+        "Madanpur",
+        "Ahraula",
+        "Kasison",
+        "Bankner",
+        "Gomat",
+        "Khera Sattu",
+        "Shiwala"
+      ],
+      "keywords": [
+        "Ahraula",
+        "village cluster"
+      ],
+      "id": "aligarh_17"
+    },
+    {
+      "name": "Gabhana and Surroundings",
+      "pincodes": [
+        202136
+      ],
+      "areas": [
+        "Mohrena",
+        "Kanoi",
+        "Pothi",
+        "Tamkoli",
+        "Kandauli",
+        "Korah Rustampur",
+        "Parai",
+        "Gabhana"
+      ],
+      "keywords": [
+        "Gabhana",
+        "village cluster"
+      ],
+      "id": "aligarh_18"
+    },
+    {
+      "name": "Jattari and Surroundings",
+      "pincodes": [
+        202137
+      ],
+      "areas": [
+        "Hetalpur",
+        "Shadipur",
+        "Bajauta",
+        "Jatrauli",
+        "Palsera",
+        "Maur",
+        "Pempur",
+        "Jattari",
+        "Khandeha"
+      ],
+      "keywords": [
+        "Jattari",
+        "village cluster"
+      ],
+      "id": "aligarh_19"
+    },
+    {
+      "name": "Khair and Surroundings",
+      "pincodes": [
+        202138
+      ],
+      "areas": [
+        "Jarara",
+        "Usram",
+        "Bamani",
+        "Achna",
+        "Bamoti",
+        "Bisara",
+        "Utwara",
+        "Sawai Raghunathpur",
+        "Khair",
+        "Khair Mandi",
+        "Arrana",
+        "Pala Chand"
+      ],
+      "keywords": [
+        "Khair",
+        "market area"
+      ],
+      "id": "aligarh_20"
+    },
+    {
+      "name": "Lodha and Surroundings",
+      "pincodes": [
+        202140
+      ],
+      "areas": [
+        "Kesopur jofari",
+        "Andla",
+        "Beharipur",
+        "Jiroli Dor",
+        "Kiratpur Nimana",
+        "Akrawat",
+        "Majupur",
+        "Dunai",
+        "Ismailpur",
+        "Lodha",
+        "Badon",
+        "Rait",
+        "Shikharan",
+        "Bhanauli"
+      ],
+      "keywords": [
+        "Lodha",
+        "village cluster"
+      ],
+      "id": "aligarh_21"
+    },
+    {
+      "name": "Sahajpura and Nearby",
+      "pincodes": [
+        202141
+      ],
+      "areas": [
+        "Karanpur",
+        "Bharatpur",
+        "Takipur",
+        "Dewa Hamidpur",
+        "Kilpur",
+        "Narainpur",
+        "Rajpur",
+        "Resari",
+        "Ranjeet Garhi",
+        "Dayal Nagar",
+        "Jamonka",
+        "Sahajpura",
+        "Salpur"
+      ],
+      "keywords": [
+        "Sahajpura",
+        "village cluster"
+      ],
+      "id": "aligarh_22"
+    },
+    {
+      "name": "Rampur Shahpur and Surroundings",
+      "pincodes": [
+        202142
+      ],
+      "areas": [
+        "Rampur Shahpur",
+        "Birpura",
+        "Nagla Sarua",
+        "Bhimpur",
+        "Chilawati",
+        "Hinsel",
+        "Udaipur"
+      ],
+      "keywords": [
+        "Rampur Shahpur",
+        "village cluster"
+      ],
+      "id": "aligarh_23"
+    },
+    {
+      "name": "Somna and Surroundings",
+      "pincodes": [
+        202143
+      ],
+      "areas": [
+        "Madhaula",
+        "Somna",
+        "Deorau",
+        "Pahawati",
+        "Balwant Nagaria",
+        "Deopur"
+      ],
+      "keywords": [
+        "Somna",
+        "village cluster"
+      ],
+      "id": "aligarh_24"
+    },
+    {
+      "name": "Beswan and Surroundings",
+      "pincodes": [
+        202145
+      ],
+      "areas": [
+        "Gorai",
+        "Mohkampur Garia",
+        "Khirsauli",
+        "Tamotia",
+        "Sudama Ka Bas",
+        "Jamaun",
+        "Jatwar",
+        "Maisubhasgram",
+        "Beswan",
+        "Bhangra",
+        "Sathini"
+      ],
+      "keywords": [
+        "Beswan",
+        "village cluster"
+      ],
+      "id": "aligarh_25"
+    },
+    {
+      "name": "Mangalayatan University",
+      "pincodes": [
+        202146
+      ],
+      "areas": [
+        "Mangalayatan University"
+      ],
+      "keywords": [
+        "university",
+        "educational institution"
+      ],
+      "id": "aligarh_26"
+    },
+    {
+      "name": "Madrak and Surroundings",
+      "pincodes": [
+        202150
+      ],
+      "areas": [
+        "Malikpura",
+        "Palirajapur",
+        "Madrak",
+        "Musepur Jalal",
+        "Shahabajpur",
+        "Bhankri Ahiwasi",
+        "Shahpur Madrak",
+        "Gadrana"
+      ],
+      "keywords": [
+        "Madrak",
+        "village cluster"
+      ],
+      "id": "aligarh_27"
+    },
+    {
+      "name": "Pisawah and Surroundings",
+      "pincodes": [
+        202155
+      ],
+      "areas": [
+        "Jalalpur",
+        "Sabalpur",
+        "Madha Habibpur",
+        "Deta Khurd",
+        "Mehgora",
+        "Mirpur Khas",
+        "Jalokhari",
+        "Pisawah"
+      ],
+      "keywords": [
+        "Pisawah",
+        "village cluster"
+      ],
+      "id": "aligarh_28"
+    },
+    {
+      "name": "Tappal and Surroundings",
+      "pincodes": [
+        202165
+      ],
+      "areas": [
+        "Siarol",
+        "Utasani",
+        "Gharbara",
+        "Gorola",
+        "Jaidpura",
+        "Tappal",
+        "Bena",
+        "Malav",
+        "Simrauthi"
+      ],
+      "keywords": [
+        "Tappal",
+        "village cluster"
+      ],
+      "id": "aligarh_29"
+    },
+    {
+      "name": "Bijaigarh and Surroundings",
+      "pincodes": [
+        202170
+      ],
+      "areas": [
+        "Kathera",
+        "Bistauli",
+        "Chhonk",
+        "Gangrol",
+        "Bijaigarh"
+      ],
+      "keywords": [
+        "Bijaigarh",
+        "village cluster"
+      ],
+      "id": "aligarh_30"
+    },
+    {
+      "name": "Atrauli and Surroundings",
+      "pincodes": [
+        202280
+      ],
+      "areas": [
+        "Izzatpur",
+        "Atrauli",
+        "Orani Dalpatpur",
+        "Chhabilpur",
+        "Ganiyabali",
+        "Ghazipur",
+        "Pureni",
+        "Madholi",
+        "Jhijharka",
+        "Behrabad",
+        "Teothu"
+      ],
+      "keywords": [
+        "Atrauli",
+        "village cluster"
+      ],
+      "id": "aligarh_31"
+    },
+    {
+      "name": "Kalyanpur and Surroundings",
+      "pincodes": [
+        202281
+      ],
+      "areas": [
+        "Bembirpur",
+        "Kakethal",
+        "Chakathal",
+        "Kalyanpur Rani",
+        "Lohgarh",
+        "Kalayanpur Bhagirathpur",
+        "Bhojpur Nuri",
+        "J D Singh"
+      ],
+      "keywords": [
+        "Kalyanpur",
+        "village cluster"
+      ],
+      "id": "aligarh_32"
+    },
+    {
+      "name": "Malviya Nagar and Surroundings",
+      "pincodes": [
+        202282
+      ],
+      "areas": [
+        "Jamuna",
+        "Sahnaul",
+        "Badholi",
+        "Kazimabad",
+        "Klyanpur",
+        "Atrauli Ro RS",
+        "Salarpur",
+        "Malviya Nagar SO Aligarh"
+      ],
+      "keywords": [
+        "Malviya Nagar",
+        "village cluster"
+      ],
+      "id": "aligarh_33"
+    },
+    {
+      "name": "Mendu",
+      "pincodes": [
+        204217
+      ],
+      "areas": [
+        "Mendu"
+      ],
+      "keywords": [
+        "Mendu",
+        "village"
+      ],
+      "id": "aligarh_34"
+    },
+    {
+      "name": "Dhampur and Surroundings",
+      "pincodes": [
+        246761
+      ],
+      "areas": [
+        "Manpurshivpuri",
+        "Saddobair",
+        "Bakshanpur",
+        "Neendru",
+        "Tibri",
+        "Amkhera Sanjarpur",
+        "Bhatiyana Khushalpur",
+        "Mauri Kedarpur",
+        "Maujampur Suraj",
+        "Dhampur",
+        "Umri",
+        "Habibwala",
+        "Padli Basera",
+        "Nasirpur Banwari",
+        "Dhakka Karamchand",
+        "Puraini",
+        "Mankuaa",
+        "Mauzampur Jaitra",
+        "Sarkara Chakrajmal",
+        "Morna",
+        "Pipalsana",
+        "UMRI",
+        "Chotti Mandi Dhampur",
+        "Dhampur Sugar Mill",
+        "Dhampur Tehsil",
+        "Milak Puranpur",
+        "Athai Sheikh",
+        "Sarkathal Sahni"
+      ],
+      "keywords": [
+        "Dhampur",
+        "sugar mill"
+      ],
+      "id": "aligarh_35"
+    },
+    {
+      "name": "Bazidpur",
+      "pincodes": [
+        250611
+      ],
+      "areas": [
+        "Bazidpur"
+      ],
+      "keywords": [
+        "Bazidpur",
+        "village"
+      ],
+      "id": "aligarh_36"
+    },
+    {
+      "name": "Sujanpur",
+      "pincodes": [
+        262907
+      ],
+      "areas": [
+        "Sujanpur"
+      ],
+      "keywords": [
+        "Sujanpur",
+        "village"
+      ],
+      "id": "aligarh_37"
+    },
+    {
+      "name": "Datawali",
+      "pincodes": [
+        283203
+      ],
+      "areas": [
+        "Datawali"
+      ],
+      "keywords": [
+        "Datawali",
+        "village"
+      ],
+      "id": "aligarh_38"
+    },
+    {
+      "name": "Dhantauli",
+      "pincodes": [
+        285001
+      ],
+      "areas": [
+        "Dhantauli"
+      ],
+      "keywords": [
+        "Dhantauli",
+        "village"
+      ],
+      "id": "aligarh_39"
+    }
+  ]
+}

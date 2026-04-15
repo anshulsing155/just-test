@@ -1,0 +1,351 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Ghaziabad",
+  "city": "Ghaziabad",
+  "summary": "",
+  "total_areas": 118,
+  "total_pincodes": 26,
+  "zones": [
+    {
+      "name": "Central Ghaziabad",
+      "pincodes": [
+        201001,
+        201002
+      ],
+      "areas": [
+        "Nehru Nagar",
+        "Ghaziabad",
+        "Ashok Nagar",
+        "Rajapur",
+        "Sadarpur",
+        "Shahpur Bamheta",
+        "Kamla Nehru Nagar",
+        "New Raj Nagar",
+        "Raispur",
+        "Vivekanand Nagar",
+        "Kavi Nagar",
+        "RAKNPA",
+        "Police Line Harsaon",
+        "Shastri Nagar"
+      ],
+      "keywords": [
+        "Central",
+        "Nehru Nagar",
+        "Kavi Nagar"
+      ],
+      "id": "ghaziabad_1"
+    },
+    {
+      "name": "Morta and Surroundings",
+      "pincodes": [
+        201003
+      ],
+      "areas": [
+        "Atore Nangla",
+        "Morta",
+        "Bahadurpur",
+        "Nistauli",
+        "Aurangabad Ristal",
+        "BubKheri",
+        "Farrukh Ng",
+        "Meerut Road"
+      ],
+      "keywords": [
+        "Morta",
+        "Meerut Road"
+      ],
+      "id": "ghaziabad_2"
+    },
+    {
+      "name": "Hindon Air Field",
+      "pincodes": [
+        201004
+      ],
+      "areas": [
+        "Hindon Air Field"
+      ],
+      "keywords": [
+        "Hindon"
+      ],
+      "id": "ghaziabad_3"
+    },
+    {
+      "name": "Sahibabad Cluster",
+      "pincodes": [
+        201005,
+        201006,
+        201010
+      ],
+      "areas": [
+        "Pasonda",
+        "Sahibabad",
+        "Bhopura",
+        "Chikamberpur",
+        "Hasanpur Bhowapur",
+        "Kaushambi",
+        "Bharat Nagar",
+        "IESahibabad"
+      ],
+      "keywords": [
+        "Sahibabad",
+        "Kaushambi"
+      ],
+      "id": "ghaziabad_4"
+    },
+    {
+      "name": "Mohan Nagar",
+      "pincodes": [
+        201007
+      ],
+      "areas": [
+        "Mohan Nagar"
+      ],
+      "keywords": [
+        "Mohan Nagar"
+      ],
+      "id": "ghaziabad_5"
+    },
+    {
+      "name": "Vijay Nagar and Surroundings",
+      "pincodes": [
+        201009
+      ],
+      "areas": [
+        "Dundaheda",
+        "Kaila",
+        "Roja Yakoobpur",
+        "Chipiana",
+        "Dasna Gate",
+        "Arya Nagar",
+        "Vijay Nagar",
+        "Nasratpura",
+        "Ghaziabad City",
+        "NDC Ghaziabad"
+      ],
+      "keywords": [
+        "Vijay Nagar",
+        "Ghaziabad City"
+      ],
+      "id": "ghaziabad_6"
+    },
+    {
+      "name": "Vasundhra and Surroundings",
+      "pincodes": [
+        201012,
+        201013,
+        201014,
+        201019
+      ],
+      "areas": [
+        "Vasundhra",
+        "Govindpuram",
+        "Shipra Sun City",
+        "Vaishali"
+      ],
+      "keywords": [
+        "Vasundhra",
+        "Vaishali"
+      ],
+      "id": "ghaziabad_7"
+    },
+    {
+      "name": "Raj Nagar Extension",
+      "pincodes": [
+        201017
+      ],
+      "areas": [
+        "Raj Nagar Extension"
+      ],
+      "keywords": [
+        "Raj Nagar"
+      ],
+      "id": "ghaziabad_8"
+    },
+    {
+      "name": "Model Town",
+      "pincodes": [
+        201018
+      ],
+      "areas": [
+        "Model Town"
+      ],
+      "keywords": [
+        "Model Town"
+      ],
+      "id": "ghaziabad_9"
+    },
+    {
+      "name": "Khora and Surroundings",
+      "pincodes": [
+        201020,
+        201021
+      ],
+      "areas": [
+        "Khora",
+        "Abhay Khand 03"
+      ],
+      "keywords": [
+        "Khora",
+        "Abhay Khand"
+      ],
+      "id": "ghaziabad_10"
+    },
+    {
+      "name": "Loni and Surroundings",
+      "pincodes": [
+        201102,
+        201103
+      ],
+      "areas": [
+        "Badshahpur Siroli",
+        "Teela Shahbazpur",
+        "Chirori",
+        "Behta Hazipur",
+        "Loni",
+        "Jaoli",
+        "Mandola",
+        "Meerpur Hindu",
+        "Tronica City"
+      ],
+      "keywords": [
+        "Loni",
+        "Tronica City"
+      ],
+      "id": "ghaziabad_11"
+    },
+    {
+      "name": "Dasna and Surroundings",
+      "pincodes": [
+        201015
+      ],
+      "areas": [
+        "Adhyatmik Nagar",
+        "Hindon Nagar",
+        "Dasna",
+        "Jindal Nagar",
+        "Dasna RS",
+        "Kushlia",
+        "Nahal"
+      ],
+      "keywords": [
+        "Dasna",
+        "Adhyatmik Nagar"
+      ],
+      "id": "ghaziabad_12"
+    },
+    {
+      "name": "Crossings Republik",
+      "pincodes": [
+        201016
+      ],
+      "areas": [
+        "Crossings Republik"
+      ],
+      "keywords": [
+        "Crossings Republik"
+      ],
+      "id": "ghaziabad_13"
+    },
+    {
+      "name": "Murad Nagar and Surroundings",
+      "pincodes": [
+        201204,
+        201206
+      ],
+      "areas": [
+        "Khindora",
+        "Saunda",
+        "Tibra",
+        "Gyaspur",
+        "Sikri Kalan",
+        "Begmabad",
+        "Niwari",
+        "Painga",
+        "Sikri Khurd",
+        "Khanjarpur",
+        "Nagla Akhu",
+        "Patla",
+        "Shahjahanpur",
+        "Modi Nagar",
+        "Jalalabad",
+        "Kakra",
+        "Kumhera",
+        "Raoli Kalan",
+        "Murad Nagar Bazar",
+        "Murad Nagar",
+        "Abupur",
+        "Bhadauli",
+        "Didauli",
+        "Dosa Banjarpur",
+        "Kanauja",
+        "Surana",
+        "Basantpur Sainthli",
+        "Duhai",
+        "Jalalpur Dhindhar",
+        "Nekpur",
+        "Noorpur",
+        "Shahpur",
+        "Bhikanpur",
+        "Khimawti",
+        "Murad Nagar Town",
+        "Sultanpur"
+      ],
+      "keywords": [
+        "Murad Nagar",
+        "Modi Nagar"
+      ],
+      "id": "ghaziabad_14"
+    },
+    {
+      "name": "Faridnagar and Surroundings",
+      "pincodes": [
+        245304
+      ],
+      "areas": [
+        "Samaipur",
+        "Tyori",
+        "Atrauli",
+        "Bhadaula",
+        "Kalchina",
+        "Faridnagar",
+        "Mukimpur"
+      ],
+      "keywords": [
+        "Faridnagar"
+      ],
+      "id": "ghaziabad_15"
+    },
+    {
+      "name": "Churiyala and Surroundings",
+      "pincodes": [
+        201201
+      ],
+      "areas": [
+        "Churiyala",
+        "Sara",
+        "Rori",
+        "Talheta",
+        "Saidpur",
+        "Govindpuri",
+        "Harmukhpuri"
+      ],
+      "keywords": [
+        "Churiyala"
+      ],
+      "id": "ghaziabad_16"
+    },
+    {
+      "name": "Chandra Nagar",
+      "pincodes": [
+        201011
+      ],
+      "areas": [
+        "Chandra Nagar"
+      ],
+      "keywords": [
+        "Chandra Nagar"
+      ],
+      "id": "ghaziabad_17"
+    }
+  ]
+}

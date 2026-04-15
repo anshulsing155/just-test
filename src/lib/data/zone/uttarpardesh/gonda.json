@@ -1,0 +1,803 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Gonda",
+  "city": "Gonda",
+  "summary": "",
+  "total_areas": 347,
+  "total_pincodes": 34,
+  "zones": [
+    {
+      "name": "Gonda City",
+      "pincodes": [
+        271001,
+        271003
+      ],
+      "areas": [
+        "Civil Line SO Gonda",
+        "Gonda",
+        "P A C",
+        "Chandawatpur",
+        "DNath",
+        "Firojpur Tarhar",
+        "Forbisganj",
+        "Bus Station SO Gonda",
+        "Banjaria",
+        "Madhopur",
+        "Pathwalia",
+        "TPatti",
+        "Bankatwa",
+        "Utraula Road",
+        "Dhobharai",
+        "KHARGOO CHAND PUR",
+        "Mokalpur",
+        "Keshav Pur Paharwa",
+        "Paidi Azab Singh",
+        "Banwaria",
+        "Budhaipurwa",
+        "Jhauhana",
+        "Gonda City"
+      ],
+      "keywords": [
+        "Gonda",
+        "City Center",
+        "Civil Line"
+      ],
+      "id": "gonda_1"
+    },
+    {
+      "name": "Pandri Kirpal and Surroundings",
+      "pincodes": [
+        271002
+      ],
+      "areas": [
+        "Pandri Kirpal",
+        "Bargaon Gonda",
+        "Dadua Bazar",
+        "Bahlol Pur",
+        "Imliya Gurdayal",
+        "Babhani Kanoongo",
+        "Burha Dewar"
+      ],
+      "keywords": [
+        "Pandri Kirpal",
+        "Bargaon",
+        "Dadua Bazar"
+      ],
+      "id": "gonda_2"
+    },
+    {
+      "name": "Rupaideeh Cluster",
+      "pincodes": [
+        271122
+      ],
+      "areas": [
+        "Bhairampur",
+        "Mallapur",
+        "Parsia Rani",
+        "USRAINA",
+        "Bangai",
+        "Beerpur Bhoj",
+        "Khairam Lalwa Chak",
+        "Pure Bahori",
+        "Ramapur",
+        "Rupaideeh",
+        "Kauria",
+        "Bichhudi",
+        "Pipara Bazar",
+        "Sahjanwa"
+      ],
+      "keywords": [
+        "Rupaideeh",
+        "Mallapur",
+        "Pipara Bazar"
+      ],
+      "id": "gonda_3"
+    },
+    {
+      "name": "Ummedjot and Nearby",
+      "pincodes": [
+        271123
+      ],
+      "areas": [
+        "Bhgahar Buland",
+        "Ummedjot",
+        "Mahdeiya Chaksar",
+        "Ramnagar Tarhar",
+        "Chetpur",
+        "Nagwa",
+        "Darjikuwa",
+        "Durjan Pur Pandey",
+        "Madhaipur",
+        "Khorasha",
+        "Bauriha",
+        "Chandipur",
+        "Narayanpuredha",
+        "Taj Pur"
+      ],
+      "keywords": [
+        "Ummedjot",
+        "Ramnagar",
+        "Nagwa"
+      ],
+      "id": "gonda_4"
+    },
+    {
+      "name": "Wazeerganj Area",
+      "pincodes": [
+        271124
+      ],
+      "areas": [
+        "Achalpur",
+        "Babhani",
+        "Rampur Tengraha",
+        "Naubasta",
+        "Rampur Kharahta",
+        "Wazeerganj",
+        "Karda",
+        "khiri deeh",
+        "Beliya",
+        "Birahmatpur",
+        "Kodar",
+        "Majhara"
+      ],
+      "keywords": [
+        "Wazeerganj",
+        "Rampur",
+        "Achalpur"
+      ],
+      "id": "gonda_5"
+    },
+    {
+      "name": "Balpur and Surroundings",
+      "pincodes": [
+        271125
+      ],
+      "areas": [
+        "Durgodwa",
+        "Thakurapur",
+        "Baruee Gondha",
+        "Thathiya Mathiya",
+        "Balpur",
+        "Bamdera",
+        "Hariyagara",
+        "Kaithola"
+      ],
+      "keywords": [
+        "Balpur",
+        "Thakurapur",
+        "Baruee"
+      ],
+      "id": "gonda_6"
+    },
+    {
+      "name": "Haldhar Mau Cluster",
+      "pincodes": [
+        271126
+      ],
+      "areas": [
+        "Haldhar Mau",
+        "Kharthari",
+        "BBSingh",
+        "Kauraha Jagdish Pur",
+        "Sarwangpurwa",
+        "Bans Gaon Pure Bhojai",
+        "Parsagodari"
+      ],
+      "keywords": [
+        "Haldhar Mau",
+        "Kharthari",
+        "Kauraha"
+      ],
+      "id": "gonda_7"
+    },
+    {
+      "name": "Chandapur and Nearby",
+      "pincodes": [
+        271129
+      ],
+      "areas": [
+        "Karnipur Deeh",
+        "Chandapur SO Gonda",
+        "Banepur",
+        "Kotha",
+        "Naipur"
+      ],
+      "keywords": [
+        "Chandapur",
+        "Karnipur",
+        "Banepur"
+      ],
+      "id": "gonda_8"
+    },
+    {
+      "name": "Intyathok Area",
+      "pincodes": [
+        271202
+      ],
+      "areas": [
+        "Ayah",
+        "Ranipur",
+        "Bishunpur Sangam",
+        "Gilauli",
+        "Tirre Manorama",
+        "Intyathok",
+        "Belawa Bahuta",
+        "Binuhani",
+        "Para Sarai"
+      ],
+      "keywords": [
+        "Intyathok",
+        "Ranipur",
+        "Bishunpur"
+      ],
+      "id": "gonda_9"
+    },
+    {
+      "name": "Khargoopur and Surroundings",
+      "pincodes": [
+        271204
+      ],
+      "areas": [
+        "Bishunpur Bel Bharia",
+        "Pipra Bhodhar",
+        "Jhalidham",
+        "Kamrawan",
+        "Bhatpurwa",
+        "Bhangaha Hussain Nagar",
+        "Sisai Jangal",
+        "Khargoopur",
+        "Ashidha",
+        "Pirwartara"
+      ],
+      "keywords": [
+        "Khargoopur",
+        "Bishunpur",
+        "Pipra"
+      ],
+      "id": "gonda_10"
+    },
+    {
+      "name": "Jaiprabha Gram Cluster",
+      "pincodes": [
+        271209
+      ],
+      "areas": [
+        "Janki Nagar",
+        "Jaiprabha Gram",
+        "Basant Pur Raja",
+        "Bhawanipur Uppadhyay",
+        "Devtaha"
+      ],
+      "keywords": [
+        "Jaiprabha Gram",
+        "Janki Nagar",
+        "Basant Pur"
+      ],
+      "id": "gonda_11"
+    },
+    {
+      "name": "Motiganj and Surroundings",
+      "pincodes": [
+        271301
+      ],
+      "areas": [
+        "Sumeripur",
+        "Govindpara",
+        "Siha Gaon",
+        "Khirai Khirwa",
+        "Mahewa Gopal",
+        "Turkadeeha",
+        "Rajgarh",
+        "Ram Pur Bansawan",
+        "Siswaria",
+        "Motiganj SO Gonda"
+      ],
+      "keywords": [
+        "Motiganj",
+        "Sumeripur",
+        "Govindpara"
+      ],
+      "id": "gonda_12"
+    },
+    {
+      "name": "Mankapur Area",
+      "pincodes": [
+        271302
+      ],
+      "areas": [
+        "Andhiyari",
+        "Bankasia",
+        "Bhorha",
+        "Mallhipur",
+        "Balli Pur",
+        "Ghunahi",
+        "Harna Tayar",
+        "Lamti Ukaruhwa",
+        "Machhali Gaon",
+        "Bhitaura",
+        "Dhuswa",
+        "Pachupati Jagtapur",
+        "Mankapur Bazar",
+        "Deoria",
+        "Dinkarpur",
+        "Harsinghwa Chauhan",
+        "Jigana Bazar",
+        "Kunjalpur",
+        "Mankapur SO Gonda",
+        "Bairi Pur Ramnath",
+        "Jhilahi",
+        "Karoha Man",
+        "Surjapur"
+      ],
+      "keywords": [
+        "Mankapur",
+        "Mallhipur",
+        "Deoria"
+      ],
+      "id": "gonda_13"
+    },
+    {
+      "name": "Nawabganj Cluster",
+      "pincodes": [
+        271303,
+        271304
+      ],
+      "areas": [
+        "Khargupur",
+        "Ashokpur",
+        "Lauwa Beerpur",
+        "Semra Sekhpur",
+        "Tulsipur Majha",
+        "Vishnoharpur",
+        "Mahngoopur",
+        "Durjanpur",
+        "Kisundaspur",
+        "Raghuraj Nagar",
+        "Nawabganj SO Gonda",
+        "Nawabganj S F"
+      ],
+      "keywords": [
+        "Nawabganj",
+        "Khargupur",
+        "Ashokpur"
+      ],
+      "id": "gonda_14"
+    },
+    {
+      "name": "Maskanwa and Surroundings",
+      "pincodes": [
+        271305
+      ],
+      "areas": [
+        "Ailanpur Grant",
+        "Surwar Khurd",
+        "Maskanwa Rs",
+        "Hathini Bhopatpur",
+        "Mawai",
+        "Shitalganj Grant",
+        "Sohila",
+        "Majhauwa Bujurg",
+        "Gaighat",
+        "Manda",
+        "SN Chapiya"
+      ],
+      "keywords": [
+        "Maskanwa",
+        "Ailanpur",
+        "Surwar"
+      ],
+      "id": "gonda_15"
+    },
+    {
+      "name": "Madwa Bujurga",
+      "pincodes": [
+        271307
+      ],
+      "areas": [
+        "Madwa Bujurga"
+      ],
+      "keywords": [
+        "Madwa Bujurga"
+      ],
+      "id": "gonda_16"
+    },
+    {
+      "name": "Iti Mankapur",
+      "pincodes": [
+        271308
+      ],
+      "areas": [
+        "Iti Mankapur"
+      ],
+      "keywords": [
+        "Iti Mankapur"
+      ],
+      "id": "gonda_17"
+    },
+    {
+      "name": "Dhaurahra Ghat Cluster",
+      "pincodes": [
+        271309
+      ],
+      "areas": [
+        "Bhopat Pur",
+        "DPGhat",
+        "Akbar Pur",
+        "Dhaurahra Ghat",
+        "Sakipur",
+        "Gedsar",
+        "Gauhani",
+        "Rangi",
+        "Ghacha"
+      ],
+      "keywords": [
+        "Dhaurahra Ghat",
+        "Bhopat Pur",
+        "Akbar Pur"
+      ],
+      "id": "gonda_18"
+    },
+    {
+      "name": "Dalpatpur and Nearby",
+      "pincodes": [
+        271310
+      ],
+      "areas": [
+        "Dumaria Deeh",
+        "Kasipur",
+        "Majhgaon",
+        "Dalpatpur",
+        "Bankatwa Dehat"
+      ],
+      "keywords": [
+        "Dalpatpur",
+        "Dumaria",
+        "Kasipur"
+      ],
+      "id": "gonda_19"
+    },
+    {
+      "name": "Bhabhuwa Kot Cluster",
+      "pincodes": [
+        271311
+      ],
+      "areas": [
+        "Bhabhuwa Kot",
+        "Dhanawa",
+        "Chitrauli",
+        "Gobrepurwa",
+        "Mauhar",
+        "Jahgirwa",
+        "Lale Mau",
+        "Bargadi Kot",
+        "Gurwalia"
+      ],
+      "keywords": [
+        "Bhabhuwa Kot",
+        "Dhanawa",
+        "Chitrauli"
+      ],
+      "id": "gonda_20"
+    },
+    {
+      "name": "Gaura Chawki and Surroundings",
+      "pincodes": [
+        271312
+      ],
+      "areas": [
+        "Chandradeep Ghat",
+        "Farenda Khurda",
+        "Fattepur",
+        "Ismaila",
+        "Maddo Bazar",
+        "Narharpur",
+        "Gaura Chawki",
+        "Kook Nagar Grant",
+        "Sitarampur Grant",
+        "Ghari Ghat",
+        "Keshav Nagar Grant",
+        "Allipur Grant",
+        "Babhanjot",
+        "Bangawan",
+        "Daulatpur Grant",
+        "Hathiagarh"
+      ],
+      "keywords": [
+        "Gaura Chawki",
+        "Chandradeep",
+        "Farenda"
+      ],
+      "id": "gonda_21"
+    },
+    {
+      "name": "Babhnan Sugar Factory Area",
+      "pincodes": [
+        271313
+      ],
+      "areas": [
+        "Babhnan Sugar Factory",
+        "Mahrajganj Grant",
+        "Sabarpur",
+        "Kotkhas",
+        "Belahri Bujurg",
+        "Chuwar",
+        "Khamariaha Bujurg",
+        "Parsa Tiwari",
+        "Parsaudaikar",
+        "Charu",
+        "Mandap"
+      ],
+      "keywords": [
+        "Babhnan",
+        "Mahrajganj",
+        "Sabarpur"
+      ],
+      "id": "gonda_22"
+    },
+    {
+      "name": "Lakar Mandi Cluster",
+      "pincodes": [
+        271319
+      ],
+      "areas": [
+        "Pure Shivdayal Ganj",
+        "Khadauwan",
+        "Kolahanpur Visen",
+        "Lakar Mandi",
+        "Ramapur Bhagahi",
+        "Haribanshpur"
+      ],
+      "keywords": [
+        "Lakar Mandi",
+        "Khadauwan",
+        "Kolahanpur"
+      ],
+      "id": "gonda_23"
+    },
+    {
+      "name": "Mangura Bazar and Surroundings",
+      "pincodes": [
+        271401
+      ],
+      "areas": [
+        "Barsada Ram Singh",
+        "Baksaila",
+        "Mangura Bazar",
+        "Parsada",
+        "Susunda",
+        "Adampur",
+        "Changeri",
+        "Gopipur",
+        "Sisai",
+        "Liloi Kala",
+        "Nagdahi",
+        "Umrapur Chauhan",
+        "Belser",
+        "Badnapur",
+        "Dewarda",
+        "Didsia Kala",
+        "Neerpur Khayala"
+      ],
+      "keywords": [
+        "Mangura Bazar",
+        "Barsada",
+        "Baksaila"
+      ],
+      "id": "gonda_24"
+    },
+    {
+      "name": "Begamganj Cluster",
+      "pincodes": [
+        271402
+      ],
+      "areas": [
+        "Barauli",
+        "Gaj Singh Pur",
+        "Semri Kala",
+        "Banuwa",
+        "Begamganj",
+        "Aili Parsauli",
+        "Dixar",
+        "Pure Dal",
+        "SIDHAUTI",
+        "Sonauli Mohammad Pur"
+      ],
+      "keywords": [
+        "Begamganj",
+        "Barauli",
+        "Gaj Singh"
+      ],
+      "id": "gonda_25"
+    },
+    {
+      "name": "Tarabganj and Surroundings",
+      "pincodes": [
+        271403
+      ],
+      "areas": [
+        "Bangaon",
+        "Amdahi",
+        "Garauli",
+        "Singha Chanda",
+        "Tiwari Bazar",
+        "Niyama",
+        "Ram Adhin Purwa",
+        "Tarabganj",
+        "Dhanauli",
+        "Khojanpur",
+        "Paras",
+        "Sarawa",
+        "Taradheeh",
+        "Dhodhey Pur",
+        "Jamtha",
+        "Kindhaura",
+        "Pure Ghisiram"
+      ],
+      "keywords": [
+        "Tarabganj",
+        "Bangaon",
+        "Amdahi"
+      ],
+      "id": "gonda_26"
+    },
+    {
+      "name": "Colonelganj Area",
+      "pincodes": [
+        271502
+      ],
+      "areas": [
+        "Malauna",
+        "Mohammadpur",
+        "Paharapur",
+        "Parsa Mahesi",
+        "Shisa Mau",
+        "Gursari",
+        "Kurtha",
+        "Nahwa Parsaura",
+        "Pipri Rawat",
+        "Usrair",
+        "Sakraura",
+        "Kandaru",
+        "Pandey Chaura",
+        "Colonelganj SO Gonda"
+      ],
+      "keywords": [
+        "Colonelganj",
+        "Malauna",
+        "Mohammadpur"
+      ],
+      "id": "gonda_27"
+    },
+    {
+      "name": "Katra Bazar Cluster",
+      "pincodes": [
+        271503
+      ],
+      "areas": [
+        "Ahiya Chet",
+        "Deva Pasiya",
+        "Dubha Bazar",
+        "Katuwa Nala",
+        "Kotiya Madara",
+        "Pure Nidhi",
+        "Katra Bazar SO Gonda",
+        "Bhartha",
+        "Tilka Deeh",
+        "Urdi",
+        "Narayan Pur Kala",
+        "Pipari Majha",
+        "Selhari",
+        "Chauhan Purwa",
+        "Shahajot"
+      ],
+      "keywords": [
+        "Katra Bazar",
+        "Ahiya Chet",
+        "Deva Pasiya"
+      ],
+      "id": "gonda_28"
+    },
+    {
+      "name": "Paraspur and Surroundings",
+      "pincodes": [
+        271504
+      ],
+      "areas": [
+        "Rajapur",
+        "Aata",
+        "Balmathar",
+        "Dehras",
+        "Kundwa Tewaripur",
+        "Lali Purwa",
+        "Pure Azab",
+        "Paraspur",
+        "Akohari",
+        "Bahuwan Madar Majha",
+        "Bhauriganj",
+        "Dhanaura",
+        "Jarauli",
+        "Marchaur",
+        "Mijhaura",
+        "Raksaria",
+        "Saraiya",
+        "Subhagpur",
+        "Charsari",
+        "Madhaipur khanderai",
+        "Malaon",
+        "Paska",
+        "Taorasi",
+        "Bishunpur Kla",
+        "Mohna",
+        "Utraula"
+      ],
+      "keywords": [
+        "Paraspur",
+        "Rajapur",
+        "Aata"
+      ],
+      "id": "gonda_29"
+    },
+    {
+      "name": "Karamdeeh Cluster",
+      "pincodes": [
+        271601
+      ],
+      "areas": [
+        "Deoria Alawal",
+        "Bishunpur Bairiya",
+        "Imiliarupi",
+        "Karamdeeh",
+        "Malari"
+      ],
+      "keywords": [
+        "Karamdeeh",
+        "Deoria",
+        "Bishunpur"
+      ],
+      "id": "gonda_30"
+    },
+    {
+      "name": "Dhaneypur and Surroundings",
+      "pincodes": [
+        271602
+      ],
+      "areas": [
+        "Dutt Nagar",
+        "Dhaneypur",
+        "Belbharia",
+        "Bangai Barwar",
+        "Bisambharpur",
+        "Bankati Suryabali Singh",
+        "Dulhapur",
+        "Rudragarh Nausi"
+      ],
+      "keywords": [
+        "Dhaneypur",
+        "Dutt Nagar",
+        "Belbharia"
+      ],
+      "id": "gonda_31"
+    },
+    {
+      "name": "Srinagar Cluster",
+      "pincodes": [
+        271603
+      ],
+      "areas": [
+        "Debari Kalan",
+        "Bakharwa",
+        "Retwa Gara",
+        "Ujjaini Kalan",
+        "Mehnawan",
+        "Pure Basalat",
+        "Srinagar SO Gonda"
+      ],
+      "keywords": [
+        "Srinagar",
+        "Debari",
+        "Bakharwa"
+      ],
+      "id": "gonda_32"
+    }
+  ]
+}

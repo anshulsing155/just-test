@@ -1,0 +1,930 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Azamgarh",
+  "city": "Azamgarh",
+  "summary": "",
+  "total_areas": 407,
+  "total_pincodes": 45,
+  "zones": [
+    {
+      "name": "Aharaula - Bilari Cluster",
+      "pincodes": [
+        223221,
+        223222,
+        276139,
+        276403,
+        276405,
+        275303
+      ],
+      "areas": [
+        "Bilari",
+        "Chhitauna",
+        "Khajuri",
+        "Samsabad",
+        "Baraipur",
+        "Edilpur",
+        "Vinoa Puri",
+        "Youdhisthirpatti",
+        "Aharaula",
+        "Kushmahara",
+        "Sarain",
+        "Gahaji",
+        "Sukhi Pur",
+        "Bhimal Patti",
+        "Daniyalpur",
+        "Gauri",
+        "Godhana",
+        "Nauhara",
+        "Palia Maphi",
+        "Ambari",
+        "Khanjahan Pur",
+        "Malgaon",
+        "Oril",
+        "Araji Amani",
+        "Khan Pur Bhagatpatti",
+        "Rasulpur Nandalal",
+        "Dev Kali Tas",
+        "Bhaisha",
+        "Jameel Pur",
+        "Pichari",
+        "Bisunpura",
+        "Sardaha",
+        "Jurarampur",
+        "Bhuvana Bujurga",
+        "Harkhpura Khas",
+        "Singhwara",
+        "Mahula"
+      ],
+      "keywords": [
+        "Aharaula",
+        "Bilari",
+        "Ambari"
+      ],
+      "id": "azamgarh_1"
+    },
+    {
+      "name": "Ataraulia - Deora Patti Cluster",
+      "pincodes": [
+        223223
+      ],
+      "areas": [
+        "Deora Patti",
+        "Gajendra Patti Bhidaura",
+        "Madia Par",
+        "Bansgaon",
+        "Pakar Deeha",
+        "Badaya",
+        "Basahia",
+        "Govind Pur",
+        "Mahagu Pur",
+        "Mir Pur",
+        "Sen Pur",
+        "RATUAPAR",
+        "Base Pur Dandava",
+        "Bhagat Pur",
+        "Nandana",
+        "Ataraulia"
+      ],
+      "keywords": [
+        "Ataraulia",
+        "Deora Patti"
+      ],
+      "id": "azamgarh_2"
+    },
+    {
+      "name": "Didarganj - Martin Ganj Cluster",
+      "pincodes": [
+        223224
+      ],
+      "areas": [
+        "Chitara Mahamud Pur",
+        "Fulesh",
+        "Karui",
+        "Mir Ahmedpur Sahjada",
+        "Kaura Gahani",
+        "Martin Ganj",
+        "Palthi",
+        "Bhadaon",
+        "Guwai",
+        "Hubbi Ganj",
+        "Surahan",
+        "DIDARGANJ"
+      ],
+      "keywords": [
+        "Didarganj",
+        "Martin Ganj"
+      ],
+      "id": "azamgarh_3"
+    },
+    {
+      "name": "Mahul - Naharpur Cluster",
+      "pincodes": [
+        223225
+      ],
+      "areas": [
+        "Naharpur",
+        "Rama Pur",
+        "Faridpur",
+        "Raida",
+        "MAHUL"
+      ],
+      "keywords": [
+        "Mahul",
+        "Naharpur"
+      ],
+      "id": "azamgarh_4"
+    },
+    {
+      "name": "Pushpnagar - Sikaraur Cluster",
+      "pincodes": [
+        223226
+      ],
+      "areas": [
+        "Chhittepur",
+        "Sikaraur Sahabari",
+        "PUSPNAGAR",
+        "Bakhara",
+        "Bunda",
+        "Ishapur"
+      ],
+      "keywords": [
+        "Pushpnagar",
+        "Sikaraur"
+      ],
+      "id": "azamgarh_5"
+    },
+    {
+      "name": "Sanjar Pur - Ambarpur Cluster",
+      "pincodes": [
+        223227
+      ],
+      "areas": [
+        "Ambarpur",
+        "Fariha",
+        "Gandhuai",
+        "Badagaon",
+        "Badaharia",
+        "Firuddin Pur",
+        "Kujiyari",
+        "Sanjar Pur"
+      ],
+      "keywords": [
+        "Sanjar Pur",
+        "Ambarpur"
+      ],
+      "id": "azamgarh_6"
+    },
+    {
+      "name": "Azamgarh City",
+      "pincodes": [
+        276001
+      ],
+      "areas": [
+        "Azamgarh RS",
+        "Azamgarh City",
+        "Azamgarh"
+      ],
+      "keywords": [
+        "Azamgarh City"
+      ],
+      "id": "azamgarh_7"
+    },
+    {
+      "name": "Bilaria Ganj - Gaddopur Cluster",
+      "pincodes": [
+        276121
+      ],
+      "areas": [
+        "Gaddopur",
+        "Barohi Fetahpur",
+        "Emalipur",
+        "Jairajpur",
+        "Bilaria Ganj",
+        "Bhimbar",
+        "Chhihi",
+        "Shekhupur",
+        "Patwadh Kautuk",
+        "Bindawal",
+        "Patila Gaosh Pur",
+        "Vijayapar"
+      ],
+      "keywords": [
+        "Bilaria Ganj",
+        "Gaddopur"
+      ],
+      "id": "azamgarh_8"
+    },
+    {
+      "name": "Raunapar - Chan Patti Cluster",
+      "pincodes": [
+        276122
+      ],
+      "areas": [
+        "Chan Patti",
+        "Esmail Pir",
+        "Matia",
+        "Ajagara Masharki",
+        "Tahir Pur",
+        "Haidarabad",
+        "RAUNAPAR",
+        "Ajaji Dewara Karkhia",
+        "Baijabari",
+        "Dewara Khas Raja",
+        "Urdiha",
+        "Haji Pur",
+        "Karkhia Rutam Sarai"
+      ],
+      "keywords": [
+        "Raunapar",
+        "Chan Patti"
+      ],
+      "id": "azamgarh_9"
+    },
+    {
+      "name": "Tarawa - Bibipur Cluster",
+      "pincodes": [
+        276123
+      ],
+      "areas": [
+        "Bibipur",
+        "Pakari",
+        "Tandadeeh",
+        "Bharathipur",
+        "Bhawarpur",
+        "Kamahariya",
+        "Tandawa",
+        "Tarawa",
+        "Bangaon",
+        "Maholi",
+        "Naurasia"
+      ],
+      "keywords": [
+        "Tarawa",
+        "Bibipur"
+      ],
+      "id": "azamgarh_10"
+    },
+    {
+      "name": "Ajamat Garh - Mandanpur Cluster",
+      "pincodes": [
+        276124
+      ],
+      "areas": [
+        "Ajamat Garh Estate",
+        "Mandanpur",
+        "Punapar",
+        "Dighwania Majhuwa",
+        "Lilapatti Bankatia",
+        "Chhapra Sultanpur",
+        "Jameen Bilari",
+        "Narhankhas"
+      ],
+      "keywords": [
+        "Ajamat Garh",
+        "Mandanpur"
+      ],
+      "id": "azamgarh_11"
+    },
+    {
+      "name": "Patkhauli - Kakarahatta Cluster",
+      "pincodes": [
+        276125
+      ],
+      "areas": [
+        "Patkhauli",
+        "Kakarahatta",
+        "Anjam Shhid",
+        "Hafiz Pur",
+        "Ajampur",
+        "Kote",
+        "Chhattarpur Khushahal",
+        "Baddo Pur",
+        "Harra Ki Chungi",
+        "Bankat"
+      ],
+      "keywords": [
+        "Patkhauli",
+        "Kakarahatta"
+      ],
+      "id": "azamgarh_12"
+    },
+    {
+      "name": "Singhpur - Aira Bujurg Cluster",
+      "pincodes": [
+        276126
+      ],
+      "areas": [
+        "Aira Bujurg",
+        "Uchahuwan",
+        "Bansgaon SO Azamgarh",
+        "Phulaieh Khajura",
+        "Haraura",
+        "Khargpur",
+        "Pithaupur Rasti",
+        "Singhpur"
+      ],
+      "keywords": [
+        "Singhpur",
+        "Aira Bujurg"
+      ],
+      "id": "azamgarh_13"
+    },
+    {
+      "name": "Ramgarh - Sirahi Cluster",
+      "pincodes": [
+        276127
+      ],
+      "areas": [
+        "Ramgarh",
+        "Sirahi",
+        "Jameen Rasulpur",
+        "Maukutubpur",
+        "Haraia",
+        "Bazar Gosain"
+      ],
+      "keywords": [
+        "Ramgarh",
+        "Sirahi"
+      ],
+      "id": "azamgarh_14"
+    },
+    {
+      "name": "Sidhari - Sewata Cluster",
+      "pincodes": [
+        276128
+      ],
+      "areas": [
+        "Sewata",
+        "Uchagaon",
+        "Mohamdalla",
+        "Palhani",
+        "Gopal Pur Sadar",
+        "CHANDESAR",
+        "Badaura",
+        "Kisun Pur",
+        "Samaida",
+        "Zafarpur",
+        "Basgit",
+        "Jamal Pur",
+        "Deeha",
+        "Bhangaha",
+        "Gambhir Ban",
+        "Kanaila",
+        "Sidhari"
+      ],
+      "keywords": [
+        "Sidhari",
+        "Sewata"
+      ],
+      "id": "azamgarh_15"
+    },
+    {
+      "name": "Jahanaganj - Dharwara Cluster",
+      "pincodes": [
+        276131
+      ],
+      "areas": [
+        "Dharwara",
+        "Koilari",
+        "JAHANAGANJ",
+        "Mittupur",
+        "Punargi",
+        "Bhujahi",
+        "Karisath",
+        "Lapsipur",
+        "Mahuyamurarpur",
+        "Sema",
+        "Khoulukhor"
+      ],
+      "keywords": [
+        "Jahanaganj",
+        "Dharwara"
+      ],
+      "id": "azamgarh_16"
+    },
+    {
+      "name": "Kandharapur - Jolhapur Cluster",
+      "pincodes": [
+        276135
+      ],
+      "areas": [
+        "Jolhapur",
+        "Hira Patti",
+        "Bhavar Nath",
+        "Maharaj Pur",
+        "Gauri Narayanpur",
+        "KANDHARAPUR"
+      ],
+      "keywords": [
+        "Kandharapur",
+        "Jolhapur"
+      ],
+      "id": "azamgarh_17"
+    },
+    {
+      "name": "Latghat - Dighwania Kaji Cluster",
+      "pincodes": [
+        276136
+      ],
+      "areas": [
+        "Dighwania Kaji",
+        "Naraipur",
+        "Pihar",
+        "Garerua",
+        "Luchui",
+        "Bankatia",
+        "LATGHAT",
+        "Bardiha",
+        "Jokhara",
+        "Tarauka"
+      ],
+      "keywords": [
+        "Latghat",
+        "Dighwania Kaji"
+      ],
+      "id": "azamgarh_18"
+    },
+    {
+      "name": "Maharajganj - Dewara Jadid Cluster",
+      "pincodes": [
+        276137
+      ],
+      "areas": [
+        "Dewara Jadid I",
+        "Dewara Naubrar",
+        "MAHARAJGANJ",
+        "Mahesh Pur",
+        "Dewara Jadid II",
+        "Shivpur",
+        "Huse Pur",
+        "Molana Pur"
+      ],
+      "keywords": [
+        "Maharajganj",
+        "Dewara Jadid"
+      ],
+      "id": "azamgarh_19"
+    },
+    {
+      "name": "Sagri - Berama Cluster",
+      "pincodes": [
+        276138
+      ],
+      "areas": [
+        "Berama",
+        "Mohmmadpur",
+        "Amuwari",
+        "Khalispur",
+        "Maltari",
+        "SAGRI",
+        "Mahulia Bojhia"
+      ],
+      "keywords": [
+        "Sagri",
+        "Berama"
+      ],
+      "id": "azamgarh_20"
+    },
+    {
+      "name": "Jiyanpur - Chaklal Chand Cluster",
+      "pincodes": [
+        276140
+      ],
+      "areas": [
+        "Chaklal Chand",
+        "Jameen Harkhori",
+        "JIYANPUR"
+      ],
+      "keywords": [
+        "Jiyanpur",
+        "Chaklal Chand"
+      ],
+      "id": "azamgarh_21"
+    },
+    {
+      "name": "Badasara - Lahar Par Cluster",
+      "pincodes": [
+        276141
+      ],
+      "areas": [
+        "Badasara Aima",
+        "Badasara Khalsa",
+        "Chewata",
+        "Lahar Par",
+        "Pach Khaura",
+        "Maniyar Pur",
+        "Meh Mauni",
+        "Rasul Pur Pasi Pur",
+        "Terahi",
+        "Bhedaura",
+        "Mokhalish Pur",
+        "Tahar Wajid Pur",
+        "Kaudia",
+        "Newada"
+      ],
+      "keywords": [
+        "Badasara",
+        "Lahar Par"
+      ],
+      "id": "azamgarh_22"
+    },
+    {
+      "name": "Koilsa - Gaura Cluster",
+      "pincodes": [
+        276142
+      ],
+      "areas": [
+        "Gaura",
+        "KOILSA",
+        "Amari",
+        "Kothwa Jalal Pur",
+        "Keshav Pur",
+        "Kakarahi",
+        "Mangit Pur",
+        "Ataraith",
+        "Ban Kat Jagdeesh",
+        "Bharauli",
+        "Bhilampur Chhapra",
+        "Kabiruddin Pur",
+        "Pipari",
+        "Rithia"
+      ],
+      "keywords": [
+        "Koilsa",
+        "Gaura"
+      ],
+      "id": "azamgarh_23"
+    },
+    {
+      "name": "Mittoopur - Balaipur Cluster",
+      "pincodes": [
+        276143
+      ],
+      "areas": [
+        "MITTOOPUR",
+        "Balaipur",
+        "Khandaura",
+        "Kalafatpur"
+      ],
+      "keywords": [
+        "Mittoopur",
+        "Balaipur"
+      ],
+      "id": "azamgarh_24"
+    },
+    {
+      "name": "Deogaon - Bahadur Pur Cluster",
+      "pincodes": [
+        276201
+      ],
+      "areas": [
+        "Bahadur Pur",
+        "Gopalpur Sethuli",
+        "DEOGAON",
+        "Kanjahit",
+        "Sri Kant Pur",
+        "Chewar Pachhim",
+        "Kalicha Bad",
+        "Kariya Gopal Pur",
+        "Ram Pur Katharawa",
+        "Sikraur"
+      ],
+      "keywords": [
+        "Deogaon",
+        "Bahadur Pur"
+      ],
+      "id": "azamgarh_25"
+    },
+    {
+      "name": "Lalganj - Bhopalpur Cluster",
+      "pincodes": [
+        276202
+      ],
+      "areas": [
+        "Bhopalpur",
+        "Gomadih",
+        "Narsingh Pur",
+        "Pandaha",
+        "Ubarpur",
+        "Bithuwa",
+        "Katauli Kala",
+        "Khaniara",
+        "Salempur",
+        "Palhana",
+        "Chirkihit",
+        "Jaitipur",
+        "Lahuwan",
+        "Mohammad Pur Dharang",
+        "Safipur",
+        "LALGANJ",
+        "Beohara",
+        "Karsara",
+        "Sarawan"
+      ],
+      "keywords": [
+        "Lalganj",
+        "Bhopalpur"
+      ],
+      "id": "azamgarh_26"
+    },
+    {
+      "name": "Mehnajpur - Nehula Cluster",
+      "pincodes": [
+        276203
+      ],
+      "areas": [
+        "Nehula",
+        "Tilkhara Pura Dani",
+        "Bela Klichpur",
+        "Diriapur Newada",
+        "Kubakhas",
+        "Sidhauna",
+        "Dandwal",
+        "Sihuka Abhirpur",
+        "MEHNAJPUR"
+      ],
+      "keywords": [
+        "Mehnajpur",
+        "Nehula"
+      ],
+      "id": "azamgarh_27"
+    },
+    {
+      "name": "Mehnagar - Babu Ki Khajuri Cluster",
+      "pincodes": [
+        276204
+      ],
+      "areas": [
+        "Babu Ki Khajuri",
+        "Dama",
+        "Hardaspur",
+        "Nai",
+        "Renda",
+        "MEHNAGAR",
+        "Bachhawal",
+        "Gopalpur",
+        "Benupur",
+        "Karauti",
+        "Pawani Kala",
+        "Rasoolpur",
+        "Dewait",
+        "Kharihani"
+      ],
+      "keywords": [
+        "Mehnagar",
+        "Babu Ki Khajuri"
+      ],
+      "id": "azamgarh_28"
+    },
+    {
+      "name": "Mohammadpur - Bisham Cluster",
+      "pincodes": [
+        276205
+      ],
+      "areas": [
+        "Bisham",
+        "MOHAMMADPUR",
+        "Mangrawa",
+        "Jamalpur",
+        "Abusaidpur",
+        "Bindra Bazar"
+      ],
+      "keywords": [
+        "Mohammadpur",
+        "Bisham"
+      ],
+      "id": "azamgarh_29"
+    },
+    {
+      "name": "Nizambad - Mohanath Cluster",
+      "pincodes": [
+        276206
+      ],
+      "areas": [
+        "Mohanath",
+        "Zamin Katghar",
+        "Chak Inami",
+        "Shiwali",
+        "Bairampur",
+        "Chandabhari",
+        "Barikhas",
+        "Khaliasemari",
+        "Sodhari",
+        "Mataulipur",
+        "NIZAMBAD"
+      ],
+      "keywords": [
+        "Nizambad",
+        "Mohanath"
+      ],
+      "id": "azamgarh_30"
+    },
+    {
+      "name": "Rani Ki Sarai - Tamauli Cluster",
+      "pincodes": [
+        276207
+      ],
+      "areas": [
+        "Tamauli",
+        "Kotila",
+        "Shethawal",
+        "Sirsal",
+        "Chandai",
+        "Tegar Pur",
+        "RANI KI SARAI"
+      ],
+      "keywords": [
+        "Rani Ki Sarai",
+        "Tamauli"
+      ],
+      "id": "azamgarh_31"
+    },
+    {
+      "name": "Nasiruddinpur - Khutia Cluster",
+      "pincodes": [
+        276208
+      ],
+      "areas": [
+        "Khutia",
+        "Khalifatpur",
+        "Tika Pur",
+        "Ora",
+        "Kisundaspur",
+        "Madharsia",
+        "Muzaffarpur",
+        "Bhuidharpur",
+        "Nasiruddinpur"
+      ],
+      "keywords": [
+        "Nasiruddinpur",
+        "Khutia"
+      ],
+      "id": "azamgarh_32"
+    },
+    {
+      "name": "Pawai - Bhani Pur Cluster",
+      "pincodes": [
+        276288
+      ],
+      "areas": [
+        "PAWAI",
+        "Bhani Pur",
+        "Bahauddinpur",
+        "Mutkallipur",
+        "Sumhadeeh",
+        "Galib Pur",
+        "Khairuddinpur",
+        "Kohanda"
+      ],
+      "keywords": [
+        "Pawai",
+        "Bhani Pur"
+      ],
+      "id": "azamgarh_33"
+    },
+    {
+      "name": "Bardah - Bargahan Cluster",
+      "pincodes": [
+        276301
+      ],
+      "areas": [
+        "Bargahan",
+        "Bardah",
+        "Barauna",
+        "Jeoli",
+        "Sonhara",
+        "Ashwania",
+        "Dubara",
+        "Mahuja Newada",
+        "Pichhaura",
+        "Sohauli",
+        "Udiawan",
+        "Ahirauli",
+        "Bheera"
+      ],
+      "keywords": [
+        "Bardah",
+        "Bargahan"
+      ],
+      "id": "azamgarh_34"
+    },
+    {
+      "name": "Gambhirpur - Dayalpur Cluster",
+      "pincodes": [
+        276302
+      ],
+      "areas": [
+        "Dayalpur",
+        "Sarai Paltu",
+        "Chhaon",
+        "Ranipur Razamo",
+        "Belaon",
+        "GAMBHIRPUR",
+        "Kalanderpur",
+        "Mujaffarpur"
+      ],
+      "keywords": [
+        "Gambhirpur",
+        "Dayalpur"
+      ],
+      "id": "azamgarh_35"
+    },
+    {
+      "name": "Phoolpur - Kammar Pur Cluster",
+      "pincodes": [
+        276303,
+        276304
+      ],
+      "areas": [
+        "Kammar Pur",
+        "Baksh Pur",
+        "Jamuawan",
+        "Nurvey",
+        "Lasara Khurd",
+        "Murhar",
+        "Sarai Mohan",
+        "Thekma",
+        "Irani",
+        "Loniadeeh",
+        "Jagdishpur",
+        "Mundiyar",
+        "Mundwar",
+        "Buxpur Mejawa",
+        "Durbasa",
+        "Khurasan",
+        "PHOOLPUR",
+        "Banbirpur",
+        "Dharmdaspur Newada",
+        "Khutauli",
+        "Bhormau",
+        "PHOOLPUR TOWN"
+      ],
+      "keywords": [
+        "Phoolpur",
+        "Kammar Pur"
+      ],
+      "id": "azamgarh_36"
+    },
+    {
+      "name": "Saraimeer - Rajapur Sikaraur Cluster",
+      "pincodes": [
+        276305
+      ],
+      "areas": [
+        "Rajapur Sikaraur",
+        "Towa",
+        "Beenapara",
+        "Niauj",
+        "Rangdih",
+        "Babu Ki Basti",
+        "Nandaon",
+        "Mirja Pur",
+        "Nardah",
+        "Saraimeer"
+      ],
+      "keywords": [
+        "Saraimeer",
+        "Rajapur Sikaraur"
+      ],
+      "id": "azamgarh_37"
+    },
+    {
+      "name": "Mubarakpur - Bind Mathia Cluster",
+      "pincodes": [
+        276404
+      ],
+      "areas": [
+        "Bind Mathia",
+        "Pahi",
+        "Gujar Par",
+        "Amilo",
+        "MUBARAKPUR"
+      ],
+      "keywords": [
+        "Mubarakpur",
+        "Bind Mathia"
+      ],
+      "id": "azamgarh_38"
+    },
+    {
+      "name": "Sathion - Lohara Cluster",
+      "pincodes": [
+        276406
+      ],
+      "areas": [
+        "Lohara",
+        "Bamhaur",
+        "Raut Mau",
+        "Ashona",
+        "Kerama",
+        "Shahgarh",
+        "Sathion"
+      ],
+      "keywords": [
+        "Sathion",
+        "Lohara"
+      ],
+      "id": "azamgarh_39"
+    }
+  ]
+}

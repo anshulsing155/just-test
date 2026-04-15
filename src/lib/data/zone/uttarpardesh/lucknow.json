@@ -1,0 +1,852 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Lucknow",
+  "city": "Lucknow",
+  "summary": "",
+  "total_areas": 287,
+  "total_pincodes": 43,
+  "zones": [
+    {
+      "name": "Hazratganj and Surroundings",
+      "pincodes": [
+        226001
+      ],
+      "areas": [
+        "Secretariat SO Lucknow",
+        "Lucknow GPO",
+        "Lalbagh SO Lucknow",
+        "CPMG Campus",
+        "Old High Court Campus",
+        "Canal Colony",
+        "NDC LUCKNOW GPO",
+        "Darul Safa",
+        "Gokhley Marg",
+        "AP Sabha",
+        "Jawahar Bhawan"
+      ],
+      "keywords": [
+        "Hazratganj",
+        "GPO",
+        "Secretariat"
+      ],
+      "id": "lucknow_1"
+    },
+    {
+      "name": "Bijnaur and Arjunganj Cluster",
+      "pincodes": [
+        226002
+      ],
+      "areas": [
+        "Bijnaur",
+        "Mati",
+        "D S Bazar",
+        "Dilkusha",
+        "Chakganjaria",
+        "Hasanpur Keoli",
+        "Police (HQ) SO Lucknow",
+        "Arjunganj",
+        "Bhadrukh",
+        "C B Lines",
+        "Topkhana Bazar",
+        "Bakkash",
+        "Barauna",
+        "Nilmatha",
+        "Utrethia",
+        "CRPF Bijnore SO Lucknow",
+        "Chandrawal",
+        "Kharika",
+        "Military Hospital",
+        "Shia Lines"
+      ],
+      "keywords": [
+        "Bijnaur",
+        "Arjunganj",
+        "Dilkusha"
+      ],
+      "id": "lucknow_2"
+    },
+    {
+      "name": "Chowk and Hussainabad",
+      "pincodes": [
+        226003
+      ],
+      "areas": [
+        "Nadan Mahal",
+        "Hussainabad",
+        "Raja Bazar",
+        "Saadatganj SO Lucknow",
+        "NDC Lucknow Chowk",
+        "Amberganj",
+        "Lucknow Chowk",
+        "Hasnain Market",
+        "NAUBASTA SO LUCKNOW",
+        "Chaupatiyan",
+        "Sarfraj",
+        "Victoriaganj",
+        "Thakurganj",
+        "Medical College",
+        "T Tib",
+        "Sarai Mali Khan",
+        "Yahiaganj"
+      ],
+      "keywords": [
+        "Chowk",
+        "Hussainabad",
+        "Thakurganj"
+      ],
+      "id": "lucknow_3"
+    },
+    {
+      "name": "Charbagh and Aishbagh",
+      "pincodes": [
+        226004
+      ],
+      "areas": [
+        "Blunt Square",
+        "R A College",
+        "Aishbagh",
+        "Charbagh",
+        "Gurdwara",
+        "Mill Road",
+        "A N L Colony",
+        "Arya Nagar",
+        "Rajendranagar SO Lucknow"
+      ],
+      "keywords": [
+        "Charbagh",
+        "Aishbagh",
+        "Rajendranagar"
+      ],
+      "id": "lucknow_4"
+    },
+    {
+      "name": "Alambagh and Surroundings",
+      "pincodes": [
+        226005
+      ],
+      "areas": [
+        "Alambagh",
+        "Adarsh Nagar",
+        "Anand Nagar",
+        "Barha",
+        "Singar Nagar",
+        "Sujanpura",
+        "CW Workshop",
+        "LOCOMOTIVE WORKSHOP",
+        "Pawanpuri SO Lucknow"
+      ],
+      "keywords": [
+        "Alambagh",
+        "Singar Nagar",
+        "LOCOMOTIVE WORKSHOP"
+      ],
+      "id": "lucknow_5"
+    },
+    {
+      "name": "Mahanagar and H E School",
+      "pincodes": [
+        226006
+      ],
+      "areas": [
+        "H E School",
+        "Mahanagar",
+        "Sant Market",
+        "M N Colony"
+      ],
+      "keywords": [
+        "Mahanagar",
+        "H E School"
+      ],
+      "id": "lucknow_6"
+    },
+    {
+      "name": "NADWA and New Hyderabad",
+      "pincodes": [
+        226007
+      ],
+      "areas": [
+        "NADWA",
+        "New Hyderabad",
+        "R P Line"
+      ],
+      "keywords": [
+        "NADWA",
+        "New Hyderabad"
+      ],
+      "id": "lucknow_7"
+    },
+    {
+      "name": "Sarojini Nagar and Amausi",
+      "pincodes": [
+        226008,
+        226009
+      ],
+      "areas": [
+        "Sadrauna",
+        "C E School",
+        "Maunda",
+        "SNI AREA",
+        "Mawai Padiyana",
+        "Amausi",
+        "Int Gaon",
+        "Sarojini Nagar",
+        "Piparsand",
+        "AMAUSI AD",
+        "Industrial Area"
+      ],
+      "keywords": [
+        "Sarojini Nagar",
+        "Amausi",
+        "Industrial Area"
+      ],
+      "id": "lucknow_8"
+    },
+    {
+      "name": "Gomti Nagar and Extension",
+      "pincodes": [
+        226010
+      ],
+      "areas": [
+        "H C Bench",
+        "Vishwas Khand",
+        "Gomti Nagar Extension SO Lucknow",
+        "Vinay Khand",
+        "Maleshemau",
+        "VISHAL KHAND",
+        "Gomti Nagar"
+      ],
+      "keywords": [
+        "Gomti Nagar",
+        "Vishwas Khand",
+        "Vinay Khand"
+      ],
+      "id": "lucknow_9"
+    },
+    {
+      "name": "Manak Nagar",
+      "pincodes": [
+        226011
+      ],
+      "areas": [
+        "MANAK NAGAR"
+      ],
+      "keywords": [
+        "Manak Nagar"
+      ],
+      "id": "lucknow_10"
+    },
+    {
+      "name": "Ashiana and LDA Colony",
+      "pincodes": [
+        226012
+      ],
+      "areas": [
+        "Ashiana Colony",
+        "LDA Colony"
+      ],
+      "keywords": [
+        "Ashiana",
+        "LDA Colony"
+      ],
+      "id": "lucknow_11"
+    },
+    {
+      "name": "IIM Lucknow and Surroundings",
+      "pincodes": [
+        226013
+      ],
+      "areas": [
+        "Diguria",
+        "IIM Lucknow",
+        "Ghaila"
+      ],
+      "keywords": [
+        "IIM Lucknow",
+        "Diguria"
+      ],
+      "id": "lucknow_12"
+    },
+    {
+      "name": "SGPGI",
+      "pincodes": [
+        226014
+      ],
+      "areas": [
+        "Sgpgi"
+      ],
+      "keywords": [
+        "SGPGI"
+      ],
+      "id": "lucknow_13"
+    },
+    {
+      "name": "CIMAP",
+      "pincodes": [
+        226015
+      ],
+      "areas": [
+        "Cimap"
+      ],
+      "keywords": [
+        "CIMAP"
+      ],
+      "id": "lucknow_14"
+    },
+    {
+      "name": "Indira Nagar and Surroundings",
+      "pincodes": [
+        226016
+      ],
+      "areas": [
+        "Narain Nagar",
+        "Sarvoday Nagar",
+        "Indira Nagar",
+        "Sector B Indira Nagar",
+        "Hal SO Lucknow",
+        "Indiranagar Sec21",
+        "Indiranagar Sec14",
+        "Indiranagar Sec18",
+        "Secd Indiranagar"
+      ],
+      "keywords": [
+        "Indira Nagar",
+        "Sarvoday Nagar",
+        "Sector B"
+      ],
+      "id": "lucknow_15"
+    },
+    {
+      "name": "Rajajipuram and Avas Vikas",
+      "pincodes": [
+        226017
+      ],
+      "areas": [
+        "Avas Vikas Colony SO Lucknow",
+        "Rajajipuram",
+        "R G C Mill",
+        "Shakuntala Mishra National Rehabitation University",
+        "Alamnagar"
+      ],
+      "keywords": [
+        "Rajajipuram",
+        "Avas Vikas",
+        "Alamnagar"
+      ],
+      "id": "lucknow_16"
+    },
+    {
+      "name": "Aminabad and Ganeshganj",
+      "pincodes": [
+        226018
+      ],
+      "areas": [
+        "Aminabad Park",
+        "Ganeshganj",
+        "Shivaji Marg SO Lucknow",
+        "Golaganj",
+        "R B Colony",
+        "Sunderbagh",
+        "Balrampur Hospital",
+        "Naya Gaon",
+        "New Ganeshganj",
+        "Wazirganj SO Lucknow"
+      ],
+      "keywords": [
+        "Aminabad",
+        "Ganeshganj",
+        "Wazirganj"
+      ],
+      "id": "lucknow_17"
+    },
+    {
+      "name": "Chinhat Industrial Area",
+      "pincodes": [
+        226019
+      ],
+      "areas": [
+        "Industria Area Chinhat"
+      ],
+      "keywords": [
+        "Chinhat",
+        "Industrial Area"
+      ],
+      "id": "lucknow_18"
+    },
+    {
+      "name": "Daliganj and Triveni Nagar",
+      "pincodes": [
+        226020
+      ],
+      "areas": [
+        "Triveni Nagar",
+        "Navinmandi",
+        "Niralanagar",
+        "Maharishi Vidya Mandir",
+        "Daliganj",
+        "Loni Katra"
+      ],
+      "keywords": [
+        "Daliganj",
+        "Triveni Nagar",
+        "Niralanagar"
+      ],
+      "id": "lucknow_19"
+    },
+    {
+      "name": "Jankipuram and Madiyaon",
+      "pincodes": [
+        226021,
+        226031
+      ],
+      "areas": [
+        "Jankipuram",
+        "Madiyaon",
+        "Batha Sabauli",
+        "Jankipuram Extension"
+      ],
+      "keywords": [
+        "Jankipuram",
+        "Madiyaon",
+        "Extension"
+      ],
+      "id": "lucknow_20"
+    },
+    {
+      "name": "Kalyanpur and Vikas Nagar",
+      "pincodes": [
+        226022
+      ],
+      "areas": [
+        "Kalyanpur SO Lucknow",
+        "Vikas Nagar"
+      ],
+      "keywords": [
+        "Kalyanpur",
+        "Vikas Nagar"
+      ],
+      "id": "lucknow_21"
+    },
+    {
+      "name": "Manas Nagar and PAC",
+      "pincodes": [
+        226023
+      ],
+      "areas": [
+        "32 Bn PAC SO Lucknow",
+        "MANAS NAGAR"
+      ],
+      "keywords": [
+        "Manas Nagar",
+        "PAC"
+      ],
+      "id": "lucknow_22"
+    },
+    {
+      "name": "Aliganj and Extension",
+      "pincodes": [
+        226024
+      ],
+      "areas": [
+        "Aliganj",
+        "Aliganj Extension",
+        "Chandganj"
+      ],
+      "keywords": [
+        "Aliganj",
+        "Extension",
+        "Chandganj"
+      ],
+      "id": "lucknow_23"
+    },
+    {
+      "name": "B R A University",
+      "pincodes": [
+        226025
+      ],
+      "areas": [
+        "B R A University"
+      ],
+      "keywords": [
+        "B R A University"
+      ],
+      "id": "lucknow_24"
+    },
+    {
+      "name": "IIT Dasauli and Surroundings",
+      "pincodes": [
+        226026
+      ],
+      "areas": [
+        "BASHA",
+        "Sanatan Dharam Vidya Peeth",
+        "Behta",
+        "IIT Dasauli",
+        "Gudamba",
+        "Rajauli"
+      ],
+      "keywords": [
+        "IIT Dasauli",
+        "Gudamba",
+        "Rajauli"
+      ],
+      "id": "lucknow_25"
+    },
+    {
+      "name": "UPG Camp",
+      "pincodes": [
+        226027
+      ],
+      "areas": [
+        "UPG Camp"
+      ],
+      "keywords": [
+        "UPG Camp"
+      ],
+      "id": "lucknow_26"
+    },
+    {
+      "name": "Chinhat and Amraigaon",
+      "pincodes": [
+        226028
+      ],
+      "areas": [
+        "Rasoolpur Saadat",
+        "Chinhat",
+        "Amraigaon",
+        "Goila",
+        "Laulai",
+        "Malhaur",
+        "Anaura Kalan",
+        "Juggaur"
+      ],
+      "keywords": [
+        "Chinhat",
+        "Amraigaon",
+        "Malhaur"
+      ],
+      "id": "lucknow_27"
+    },
+    {
+      "name": "Vrindavan Colony",
+      "pincodes": [
+        226029
+      ],
+      "areas": [
+        "Vrindavan Colony"
+      ],
+      "keywords": [
+        "Vrindavan Colony"
+      ],
+      "id": "lucknow_28"
+    },
+    {
+      "name": "Sushant Golf City",
+      "pincodes": [
+        226030
+      ],
+      "areas": [
+        "Sushant Golf City"
+      ],
+      "keywords": [
+        "Sushant Golf City"
+      ],
+      "id": "lucknow_29"
+    },
+    {
+      "name": "Kakori and Surroundings",
+      "pincodes": [
+        226101
+      ],
+      "areas": [
+        "Gohramau",
+        "Rehman Khera",
+        "Amethia Salempur",
+        "Baragaon",
+        "Malha",
+        "Kakori",
+        "Barawan Kalan",
+        "Bahroo",
+        "Dona",
+        "Khushalganj",
+        "Khalispur"
+      ],
+      "keywords": [
+        "Kakori",
+        "Rehman Khera",
+        "Baragaon"
+      ],
+      "id": "lucknow_30"
+    },
+    {
+      "name": "Malihabad and Surroundings",
+      "pincodes": [
+        226102
+      ],
+      "areas": [
+        "Bhadwana",
+        "Dilawarnagar",
+        "Kasmandi Kalan",
+        "Mahmoodnagar",
+        "Kakrabad",
+        "Kahla",
+        "Dhendhemau",
+        "Kasmandi Khurd",
+        "Katauli",
+        "Sindhrawan",
+        "Malihabad"
+      ],
+      "keywords": [
+        "Malihabad",
+        "Kasmandi",
+        "Dilawarnagar"
+      ],
+      "id": "lucknow_31"
+    },
+    {
+      "name": "Rahimabad and Surroundings",
+      "pincodes": [
+        226103
+      ],
+      "areas": [
+        "Daulatpur",
+        "Gaunda",
+        "Mawai Kalan",
+        "Rusena",
+        "Rahimabad",
+        "Jamolia",
+        "Jindaur",
+        "Sahinjana B O",
+        "Suspan B O"
+      ],
+      "keywords": [
+        "Rahimabad",
+        "Mawai Kalan",
+        "Daulatpur"
+      ],
+      "id": "lucknow_32"
+    },
+    {
+      "name": "Mall and Surroundings",
+      "pincodes": [
+        226104
+      ],
+      "areas": [
+        "Baddaiyan",
+        "Khandsara",
+        "Munnu Khera",
+        "Nabipanah",
+        "Raghunathpur",
+        "Umrawal",
+        "Atari",
+        "Bahraura",
+        "Thari",
+        "Bazargaon",
+        "Salehnagar",
+        "Beerpur",
+        "MALL",
+        "Ant Garhi",
+        "Mawai Khurd",
+        "Bhagwantpur",
+        "Gahdon",
+        "Gopramau",
+        "Patauna",
+        "Ranipara",
+        "Thawar"
+      ],
+      "keywords": [
+        "Mall",
+        "Bazargaon",
+        "Raghunathpur"
+      ],
+      "id": "lucknow_33"
+    },
+    {
+      "name": "Bakshi Ka Talab and Surroundings",
+      "pincodes": [
+        226201
+      ],
+      "areas": [
+        "ASTI",
+        "Bauromau",
+        "Kamlabad Badauli",
+        "Khantari",
+        "Kotwa",
+        "SAIRPUR",
+        "Saraura",
+        "Bakshi Ka Talab",
+        "Bhauli",
+        "Jagdishpur"
+      ],
+      "keywords": [
+        "Bakshi Ka Talab",
+        "SAIRPUR",
+        "Kamlabad"
+      ],
+      "id": "lucknow_34"
+    },
+    {
+      "name": "Indaurabagh and Surroundings",
+      "pincodes": [
+        226202
+      ],
+      "areas": [
+        "Kathwara",
+        "Raitha",
+        "FFTC INDAURABAGH"
+      ],
+      "keywords": [
+        "Indaurabagh",
+        "Kathwara",
+        "Raitha"
+      ],
+      "id": "lucknow_35"
+    },
+    {
+      "name": "Itaunja and Surroundings",
+      "pincodes": [
+        226203
+      ],
+      "areas": [
+        "Amaniganj",
+        "Arjunpur",
+        "Narosa",
+        "Singhamau",
+        "Ateswa",
+        "Bibipur",
+        "Akariakalan",
+        "Indara",
+        "Kumharawan",
+        "Mahigawan",
+        "Bahargaon",
+        "Paharpur",
+        "Usarana",
+        "Jamkhanwa",
+        "Mahona",
+        "Sarai Damu",
+        "Itaunja"
+      ],
+      "keywords": [
+        "Itaunja",
+        "Mahona",
+        "Amaniganj"
+      ],
+      "id": "lucknow_36"
+    },
+    {
+      "name": "Mohanlalganj and Surroundings",
+      "pincodes": [
+        226301
+      ],
+      "areas": [
+        "Deoti",
+        "Jaitikhera",
+        "Kalli Pacchim",
+        "Sarai Gudauli",
+        "Sisendi",
+        "Mohanlalganj",
+        "Jabrauli",
+        "Purseni",
+        "Bhadeswa",
+        "Bhilampur",
+        "Kankaha",
+        "Barwalia",
+        "Kushmaura",
+        "Mohari Khurd"
+      ],
+      "keywords": [
+        "Mohanlalganj",
+        "Sisendi",
+        "Jaitikhera"
+      ],
+      "id": "lucknow_37"
+    },
+    {
+      "name": "Nigohan and Surroundings",
+      "pincodes": [
+        226302
+      ],
+      "areas": [
+        "Dayalpur",
+        "Nigohan",
+        "Mastipur",
+        "Utrawan",
+        "Meerak Nagar"
+      ],
+      "keywords": [
+        "Nigohan",
+        "Dayalpur",
+        "Mastipur"
+      ],
+      "id": "lucknow_38"
+    },
+    {
+      "name": "Nagram and Surroundings",
+      "pincodes": [
+        226303
+      ],
+      "areas": [
+        "Adampur Janubi",
+        "Karora",
+        "Samesi",
+        "Nagram",
+        "Chatauni",
+        "Keoli",
+        "Bahrauli"
+      ],
+      "keywords": [
+        "Nagram",
+        "Karora",
+        "Samesi"
+      ],
+      "id": "lucknow_39"
+    },
+    {
+      "name": "Banthara and Surroundings",
+      "pincodes": [
+        226401
+      ],
+      "areas": [
+        "Ain",
+        "Benti",
+        "Aurawan",
+        "Harauni",
+        "Neewan",
+        "Rahimnagar Padiyana",
+        "Tirwa",
+        "Bani",
+        "Bhatgaon",
+        "Garhi Chunauti",
+        "Banthara SO Lucknow"
+      ],
+      "keywords": [
+        "Banthara",
+        "Rahimnagar",
+        "Aurawan"
+      ],
+      "id": "lucknow_40"
+    },
+    {
+      "name": "Gosainganj and Surroundings",
+      "pincodes": [
+        226501
+      ],
+      "areas": [
+        "Rasoolpur Tikaniamau",
+        "Mahmoodpur",
+        "HASNAPUR",
+        "Amethi",
+        "KASIMPUR BIRUHA",
+        "Gosainganj",
+        "Begariya Mau",
+        "Salempur",
+        "Sathwara"
+      ],
+      "keywords": [
+        "Gosainganj",
+        "Amethi",
+        "Salempur"
+      ],
+      "id": "lucknow_41"
+    }
+  ]
+}

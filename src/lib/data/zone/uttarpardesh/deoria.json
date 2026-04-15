@@ -1,0 +1,666 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Deoria",
+  "city": "Deoria",
+  "summary": "",
+  "total_areas": 290,
+  "total_pincodes": 30,
+  "zones": [
+    {
+      "name": "Deoria Central",
+      "pincodes": [
+        274001,
+        274806
+      ],
+      "areas": [
+        "DEORIA NEW COLONY",
+        "HANUMAN MANDIR",
+        "Deoria",
+        "DEORIA KUTCHARY",
+        "NAI BAZAR",
+        "RAM GULAM TOLA",
+        "GIEstate",
+        "Parsia Jaddu",
+        "Paikauli Maharaj",
+        "Deoria Railway Station",
+        "Katrari",
+        "Badhaya Buzurg",
+        "Siswa Panday",
+        "Majhgaon"
+      ],
+      "keywords": [
+        "Deoria",
+        "Central",
+        "Railway Station"
+      ],
+      "id": "deoria_1"
+    },
+    {
+      "name": "Bhaluani Cluster",
+      "pincodes": [
+        274182
+      ],
+      "areas": [
+        "Karmtar Sher Khan",
+        "Koraya",
+        "Bhaluani",
+        "Marhawa",
+        "Thakur Deoria",
+        "Langra Bazar",
+        "Tekua"
+      ],
+      "keywords": [
+        "Bhaluani",
+        "Cluster"
+      ],
+      "id": "deoria_2"
+    },
+    {
+      "name": "Baitalpur Region",
+      "pincodes": [
+        274201
+      ],
+      "areas": [
+        "Bardgonia",
+        "Barpar",
+        "Chhitahi Bazar",
+        "Batulahi",
+        "Gotha Rasoolpur",
+        "Ranihawa",
+        "Baurdih Tiwari",
+        "Baitalpur",
+        "Udhopur",
+        "Kauntey Nagar",
+        "Barnai"
+      ],
+      "keywords": [
+        "Baitalpur",
+        "Region"
+      ],
+      "id": "deoria_3"
+    },
+    {
+      "name": "Gauri Bazar Area",
+      "pincodes": [
+        274202
+      ],
+      "areas": [
+        "Chariayan Buzurg",
+        "Labkani",
+        "Indupur",
+        "Kalaban",
+        "Sadhopur",
+        "Sirjam Khas",
+        "Khairatia",
+        "Jogam",
+        "Kataura",
+        "Khaira Banua",
+        "Patherhat",
+        "Sohasa",
+        "Bakhara Khas",
+        "Belkunda",
+        "Deogaon",
+        "Karmajeetpur",
+        "Lerha",
+        "Mathia Sahu",
+        "Gauri Bazar"
+      ],
+      "keywords": [
+        "Gauri Bazar",
+        "Area"
+      ],
+      "id": "deoria_4"
+    },
+    {
+      "name": "Rudrapur Zone",
+      "pincodes": [
+        274204
+      ],
+      "areas": [
+        "Bardihadal",
+        "Chhapauli",
+        "Jokaha Khas",
+        "Ekla Mishraulia",
+        "Koilgarha",
+        "Laxmipur",
+        "Tara Sara",
+        "Baurdih",
+        "Pipara Kachhar",
+        "Tiwai",
+        "Rudrapur",
+        "Fatehpur",
+        "Jogia Buzurg",
+        "Korawa",
+        "Mahiganj",
+        "Manga Kodar",
+        "Shitalmajha",
+        "Kanhauli",
+        "Karauta"
+      ],
+      "keywords": [
+        "Rudrapur",
+        "Zone"
+      ],
+      "id": "deoria_5"
+    },
+    {
+      "name": "Madanpur Cluster",
+      "pincodes": [
+        274205
+      ],
+      "areas": [
+        "Khareshar",
+        "Samogar",
+        "Madanpur",
+        "Jamira",
+        "Baraon",
+        "Naipur",
+        "Chakarwa",
+        "Nakail"
+      ],
+      "keywords": [
+        "Madanpur",
+        "Cluster"
+      ],
+      "id": "deoria_6"
+    },
+    {
+      "name": "Bhatni Area",
+      "pincodes": [
+        274206
+      ],
+      "areas": [
+        "Bhatni Dadan",
+        "Nautan Hathia Garh",
+        "Hetimpur S O",
+        "Desahi Barwa",
+        "Pakri Birbhadra",
+        "Bhatni Buzurg",
+        "Padauli Padiapar",
+        "Pipra Daula Kadam"
+      ],
+      "keywords": [
+        "Bhatni",
+        "Area"
+      ],
+      "id": "deoria_7"
+    },
+    {
+      "name": "Ekauna Region",
+      "pincodes": [
+        274208
+      ],
+      "areas": [
+        "Ekauna",
+        "Pach Lari",
+        "Belawa Dubauli",
+        "Majha Narain",
+        "Bhelaur",
+        "Pachrukha",
+        "Saraon",
+        "Baida",
+        "Nagawa Khas"
+      ],
+      "keywords": [
+        "Ekauna",
+        "Region"
+      ],
+      "id": "deoria_8"
+    },
+    {
+      "name": "Patherdewa Zone",
+      "pincodes": [
+        274404
+      ],
+      "areas": [
+        "Rampur Mahuabari",
+        "Shahpur Shukla",
+        "Patherdewa",
+        "Baghauchghat",
+        "Pakaha",
+        "Sakutai",
+        "Baghara",
+        "Bishunpura Bazar",
+        "Kotwa Misir",
+        "Mehaharhangpur",
+        "Pandaypur"
+      ],
+      "keywords": [
+        "Patherdewa",
+        "Zone"
+      ],
+      "id": "deoria_9"
+    },
+    {
+      "name": "Govindpur Cluster",
+      "pincodes": [
+        274405
+      ],
+      "areas": [
+        "Ametahi",
+        "Govindpur",
+        "Sidhua",
+        "Belwa",
+        "Bhikhampura",
+        "Mathura Chhapar",
+        "Rampur",
+        "Baliawan",
+        "Gaura",
+        "Madrapali Bharth Rai",
+        "Deoria Budhoo Khan",
+        "Pipra Madan Gopal"
+      ],
+      "keywords": [
+        "Govindpur",
+        "Cluster"
+      ],
+      "id": "deoria_10"
+    },
+    {
+      "name": "Tarkulwa Area",
+      "pincodes": [
+        274408
+      ],
+      "areas": [
+        "Bajaratar Mahuawa",
+        "Piprajham",
+        "Sirsia Gotha",
+        "Sohnaria",
+        "Banjaria",
+        "Mahuapatan",
+        "Kanchanpur",
+        "Mushari",
+        "Rampurgarh",
+        "Sirsia Khohia",
+        "Shahjahanpur",
+        "Tarkulwa"
+      ],
+      "keywords": [
+        "Tarkulwa",
+        "Area"
+      ],
+      "id": "deoria_11"
+    },
+    {
+      "name": "Khukhundoo Region",
+      "pincodes": [
+        274501
+      ],
+      "areas": [
+        "Baikunthpur",
+        "Karaundi",
+        "Majhwalia",
+        "Noonkhar",
+        "Parsia Mishir",
+        "Sallahpur",
+        "Baidauli",
+        "Bijapur Jhantaur",
+        "Jaitpura",
+        "Khukhundoo",
+        "Pipara Shukul"
+      ],
+      "keywords": [
+        "Khukhundoo",
+        "Region"
+      ],
+      "id": "deoria_12"
+    },
+    {
+      "name": "Lar Zone",
+      "pincodes": [
+        274502,
+        274505
+      ],
+      "areas": [
+        "Babhnauli Pandey",
+        "Naini",
+        "Lar",
+        "Churia",
+        "Mehraunaghat",
+        "Ropan Chhapara",
+        "Matiara Jagdish",
+        "Nadauli",
+        "Rawatpar Amethia",
+        "Sutawar",
+        "Malkauli",
+        "Lar Road",
+        "Dharmer",
+        "Panika Bazar",
+        "Pipara Mishir",
+        "Bagaha",
+        "Bardiha Parsuram",
+        "DB Ashram"
+      ],
+      "keywords": [
+        "Lar",
+        "Zone"
+      ],
+      "id": "deoria_13"
+    },
+    {
+      "name": "Majhauli Raj Cluster",
+      "pincodes": [
+        274506
+      ],
+      "areas": [
+        "Mahuja",
+        "Majhauli Raj",
+        "Chanuki",
+        "Kodara",
+        "Bankata Misir",
+        "Bhera Pakar",
+        "Payasi"
+      ],
+      "keywords": [
+        "Majhauli Raj",
+        "Cluster"
+      ],
+      "id": "deoria_14"
+    },
+    {
+      "name": "Kharwania Area",
+      "pincodes": [
+        274508
+      ],
+      "areas": [
+        "Ajana",
+        "Khema Dei",
+        "Pindi",
+        "Sajaon",
+        "Kharwania"
+      ],
+      "keywords": [
+        "Kharwania",
+        "Area"
+      ],
+      "id": "deoria_15"
+    },
+    {
+      "name": "Sohnag Zone",
+      "pincodes": [
+        274509
+      ],
+      "areas": [
+        "Chordiha",
+        "Deoria Urf Shampur",
+        "Dumwalia",
+        "Sohnag",
+        "Salaempur",
+        "Ahirauli",
+        "Chakarawa Bahordas",
+        "Srinagar",
+        "Thengval Dubey",
+        "Tulsi Bara",
+        "Balepur",
+        "Dol Chhapra",
+        "Madhawapur",
+        "Rampur Buzurg"
+      ],
+      "keywords": [
+        "Sohnag",
+        "Zone"
+      ],
+      "id": "deoria_16"
+    },
+    {
+      "name": "Barhaj Region",
+      "pincodes": [
+        274601
+      ],
+      "areas": [
+        "Barakagaon",
+        "Nandana",
+        "Markara",
+        "Parsia Dewar",
+        "Sonari",
+        "Barhaj",
+        "Bhaidava",
+        "Nawapar"
+      ],
+      "keywords": [
+        "Barhaj",
+        "Region"
+      ],
+      "id": "deoria_17"
+    },
+    {
+      "name": "Reoli Cluster",
+      "pincodes": [
+        274602
+      ],
+      "areas": [
+        "Deosia",
+        "Nema",
+        "Takia",
+        "Nariaon",
+        "Reoli",
+        "Bhagalpur",
+        "Israuli"
+      ],
+      "keywords": [
+        "Reoli",
+        "Cluster"
+      ],
+      "id": "deoria_18"
+    },
+    {
+      "name": "Karjahan Area",
+      "pincodes": [
+        274603
+      ],
+      "areas": [
+        "Karjahan",
+        "Bishunpura Dewar",
+        "Kaparwar",
+        "Karail Shukla",
+        "Kotpur Pipra",
+        "Mahen",
+        "Mirjapur",
+        "Gaura Jai Nagar",
+        "Bara Dixit",
+        "Bhulaipur",
+        "Khori"
+      ],
+      "keywords": [
+        "Karjahan",
+        "Area"
+      ],
+      "id": "deoria_19"
+    },
+    {
+      "name": "Mauna Garhwa Zone",
+      "pincodes": [
+        274604
+      ],
+      "areas": [
+        "Dhaula Pandit",
+        "Tikar",
+        "Mauna Garhwa",
+        "Kasili",
+        "Garauna",
+        "Paina",
+        "Andila",
+        "Satraon",
+        "Telia Kalan"
+      ],
+      "keywords": [
+        "Mauna Garhwa",
+        "Zone"
+      ],
+      "id": "deoria_20"
+    },
+    {
+      "name": "Bhatani Cluster",
+      "pincodes": [
+        274701
+      ],
+      "areas": [
+        "Dumari",
+        "Nonapar",
+        "Padari Bazar",
+        "Bharahey Chaura",
+        "Peokol",
+        "Belwa Baboo",
+        "Pipara Dixit",
+        "Rampur Khori Bari",
+        "Bhatani",
+        "Puraini",
+        "Sisawa"
+      ],
+      "keywords": [
+        "Bhatani",
+        "Cluster"
+      ],
+      "id": "deoria_21"
+    },
+    {
+      "name": "Bhatpar Rani Region",
+      "pincodes": [
+        274702
+      ],
+      "areas": [
+        "Bahiari Baghel",
+        "Barka Gaon",
+        "Kukur Ghanti",
+        "Ahirauli Baghel",
+        "Bankata Amethia",
+        "Bhingari Bazar",
+        "Pipra Uttar Patti",
+        "Bhatpar Rani",
+        "Khampar",
+        "Kothilwa",
+        "Maripar",
+        "Pakri Baboo",
+        "Sarya",
+        "Sawarenji",
+        "Tikampar",
+        "Bhathwa Tiwari"
+      ],
+      "keywords": [
+        "Bhatpar Rani",
+        "Region"
+      ],
+      "id": "deoria_22"
+    },
+    {
+      "name": "Hata Zone",
+      "pincodes": [
+        274703
+      ],
+      "areas": [
+        "Ratsia",
+        "Paratappur",
+        "Bansopatti",
+        "Bhopatpura",
+        "Bhawani Chapar",
+        "Khurwasia",
+        "Bankul",
+        "Hata",
+        "Rahimpur"
+      ],
+      "keywords": [
+        "Hata",
+        "Zone"
+      ],
+      "id": "deoria_23"
+    },
+    {
+      "name": "Bankata Area",
+      "pincodes": [
+        274704
+      ],
+      "areas": [
+        "Balua",
+        "Sohanpur",
+        "Inguri Bazar",
+        "Parsia Chhitani Singh",
+        "Bankata"
+      ],
+      "keywords": [
+        "Bankata",
+        "Area"
+      ],
+      "id": "deoria_24"
+    },
+    {
+      "name": "Raibari Cluster",
+      "pincodes": [
+        274705
+      ],
+      "areas": [
+        "Balua Afgan",
+        "Raibari",
+        "Pipara Bithal",
+        "Ghanti"
+      ],
+      "keywords": [
+        "Raibari",
+        "Cluster"
+      ],
+      "id": "deoria_25"
+    },
+    {
+      "name": "Sonughat Region",
+      "pincodes": [
+        274807
+      ],
+      "areas": [
+        "Piperpanti",
+        "Barhara",
+        "Garer",
+        "Babhani",
+        "Dhanauti Khurd",
+        "Bariarpur",
+        "Belwania",
+        "Batrauli Pandey",
+        "Phulwaria Lachhi",
+        "Sonughat",
+        "Deoria Meer",
+        "Hata Banuadih",
+        "Kushahari",
+        "Lahilpar",
+        "SANT VINOBA MARG",
+        "Bairauna",
+        "Pipara Chandrabhan",
+        "Rampur Awasthi"
+      ],
+      "keywords": [
+        "Sonughat",
+        "Region"
+      ],
+      "id": "deoria_26"
+    },
+    {
+      "name": "Chero Zone",
+      "pincodes": [
+        274808
+      ],
+      "areas": [
+        "Chero",
+        "Barthi",
+        "Itahua Chandauli",
+        "Pipara Ramdhar",
+        "Bakuchi",
+        "Chakara Gosai"
+      ],
+      "keywords": [
+        "Chero",
+        "Zone"
+      ],
+      "id": "deoria_27"
+    },
+    {
+      "name": "Tigharakhairwa",
+      "pincodes": [
+        273413
+      ],
+      "areas": [
+        "Tigharakhairwa"
+      ],
+      "keywords": [
+        "Tigharakhairwa"
+      ],
+      "id": "deoria_28"
+    }
+  ]
+}

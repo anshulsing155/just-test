@@ -1,0 +1,274 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Bhadohi",
+  "city": "Bhadohi",
+  "summary": "",
+  "total_areas": 103,
+  "total_pincodes": 13,
+  "zones": [
+    {
+      "name": "Aurai",
+      "pincodes": [
+        221301,
+        221309
+      ],
+      "areas": [
+        "Ghosiya",
+        "Kurauna",
+        "Ugapur",
+        "Aurai SO Sant Ravidas Nagar",
+        "Hridaipur",
+        "Pipargaon",
+        "Berawa Paharpur",
+        "Digh",
+        "Katra Bazar",
+        "Chhechhuwan",
+        "Dhantulsi",
+        "Ithara",
+        "Baripur",
+        "Koirauna",
+        "Narepar Sitamarhi"
+      ],
+      "keywords": [
+        "Aurai",
+        "Ghosiya",
+        "Kurauna",
+        "Ugapur"
+      ],
+      "id": "bhadohi_1"
+    },
+    {
+      "name": "Gopiganj",
+      "pincodes": [
+        221303
+      ],
+      "areas": [
+        "Amilaur",
+        "Bairibisa",
+        "Loharakhas",
+        "Tilanga",
+        "Bhawanipur",
+        "Dhirpur",
+        "RS Dham",
+        "Gopiganj",
+        "Jagannathpur"
+      ],
+      "keywords": [
+        "Gopiganj",
+        "Amilaur",
+        "Bairibisa"
+      ],
+      "id": "bhadohi_2"
+    },
+    {
+      "name": "Gyanpur",
+      "pincodes": [
+        221304
+      ],
+      "areas": [
+        "Chakkisundas",
+        "Sadopur",
+        "Achhawar",
+        "Nathaipur",
+        "Sarairajputani",
+        "Chaksundarpur",
+        "Pali",
+        "Gyanpur",
+        "Dasharthpur",
+        "Laxamanpatti",
+        "Ramampur"
+      ],
+      "keywords": [
+        "Gyanpur",
+        "Chakkisundas",
+        "Sadopur"
+      ],
+      "id": "bhadohi_3"
+    },
+    {
+      "name": "Khamaria",
+      "pincodes": [
+        221306
+      ],
+      "areas": [
+        "Pakhawaiya",
+        "Khamaria SO Varanasi",
+        "Sahasepur",
+        "Koilara"
+      ],
+      "keywords": [
+        "Khamaria",
+        "Pakhawaiya"
+      ],
+      "id": "bhadohi_4"
+    },
+    {
+      "name": "Rohi",
+      "pincodes": [
+        221308
+      ],
+      "areas": [
+        "Rohi",
+        "Bayaon",
+        "Bichhiya",
+        "Ozh",
+        "Birampur",
+        "Sudhwai"
+      ],
+      "keywords": [
+        "Rohi",
+        "Bayaon"
+      ],
+      "id": "bhadohi_5"
+    },
+    {
+      "name": "Jangiganj",
+      "pincodes": [
+        221310
+      ],
+      "areas": [
+        "Baragaon",
+        "Sagarraipur",
+        "Suryabhanpur",
+        "Semradh",
+        "Ibrhimpur Uparwar",
+        "Darawasi",
+        "Jangiganj"
+      ],
+      "keywords": [
+        "Jangiganj",
+        "Baragaon"
+      ],
+      "id": "bhadohi_6"
+    },
+    {
+      "name": "Mahrajganj",
+      "pincodes": [
+        221314
+      ],
+      "areas": [
+        "Saripur",
+        "Mahrajganj SO Sant Ravidas Nagar",
+        "Girdbaragaon",
+        "Umarha",
+        "Dwarikapur",
+        "Sarawatkhani",
+        "Babusarai"
+      ],
+      "keywords": [
+        "Mahrajganj",
+        "Saripur"
+      ],
+      "id": "bhadohi_7"
+    },
+    {
+      "name": "Bhadohi",
+      "pincodes": [
+        221401
+      ],
+      "areas": [
+        "Raya",
+        "Katra Bazar SO Varanasi",
+        "Munsiladpur",
+        "Pipris",
+        "Bhadohi",
+        "Asanao Bazar",
+        "Uchetha",
+        "Sarroi"
+      ],
+      "keywords": [
+        "Bhadohi",
+        "Raya"
+      ],
+      "id": "bhadohi_8"
+    },
+    {
+      "name": "Parsipur",
+      "pincodes": [
+        221402
+      ],
+      "areas": [
+        "Darunaha",
+        "Palhaiya",
+        "Barawa Bazar",
+        "Bhagawanpur Kanhari",
+        "Domanpur",
+        "Gohilaon",
+        "Jhauwa",
+        "Bahari",
+        "Parsipur",
+        "Amawa Khurd"
+      ],
+      "keywords": [
+        "Parsipur",
+        "Darunaha"
+      ],
+      "id": "bhadohi_9"
+    },
+    {
+      "name": "Suriyawan",
+      "pincodes": [
+        221404
+      ],
+      "areas": [
+        "Bhikharirampur",
+        "Ekauni",
+        "Bhori",
+        "Durgaganj",
+        "Kador",
+        "Sanda",
+        "Abhiya",
+        "Bhanda",
+        "Suriyawan",
+        "Bauribojh",
+        "Matethu",
+        "Abarana",
+        "Abholi",
+        "Bisauli Kripalpur",
+        "Gaura",
+        "Patti Bejaon",
+        "Sarai Kansrai"
+      ],
+      "keywords": [
+        "Suriyawan",
+        "Bhikharirampur"
+      ],
+      "id": "bhadohi_10"
+    },
+    {
+      "name": "Mondh",
+      "pincodes": [
+        221406
+      ],
+      "areas": [
+        "Ajaipur",
+        "Kariyaon",
+        "Puregareria",
+        "Amilauri",
+        "Purani Bazar",
+        "Mondh"
+      ],
+      "keywords": [
+        "Mondh",
+        "Ajaipur"
+      ],
+      "id": "bhadohi_11"
+    },
+    {
+      "name": "Nai Bazar",
+      "pincodes": [
+        221409
+      ],
+      "areas": [
+        "Kukarauthi",
+        "Nai Bazar SO Sant Ravidas Nagar",
+        "Pargaspur"
+      ],
+      "keywords": [
+        "Nai Bazar",
+        "Kukarauthi"
+      ],
+      "id": "bhadohi_12"
+    }
+  ]
+}

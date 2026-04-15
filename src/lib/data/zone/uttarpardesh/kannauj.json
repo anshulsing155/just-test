@@ -1,0 +1,403 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Kannauj",
+  "city": "Kannauj",
+  "summary": "",
+  "total_areas": 144,
+  "total_pincodes": 18,
+  "zones": [
+    {
+      "name": "Bishungarh and Surroundings",
+      "pincodes": [
+        209720
+      ],
+      "areas": [
+        "Asaltabad",
+        "Bhaunrajpur",
+        "Hariharpur",
+        "Bishungarh SO Kannauj",
+        "Lokpur"
+      ],
+      "keywords": [
+        "Bishungarh",
+        "Asaltabad",
+        "Hariharpur"
+      ],
+      "id": "kannauj_1"
+    },
+    {
+      "name": "Chhibramau Cluster",
+      "pincodes": [
+        209721
+      ],
+      "areas": [
+        "Akbarpur",
+        "Galla Mandi CBR",
+        "Merapur Garhiya",
+        "Naugai",
+        "Nigoh",
+        "TEHSIL CAMPUS CHHIBRAMAU",
+        "Hathin",
+        "Mighauli",
+        "Khubariapur",
+        "Chhibramau",
+        "Bahbalpur",
+        "Jafrabad",
+        "K P Banwari",
+        "Kasawa",
+        "Khojipur",
+        "Nandlalpur",
+        "Prempur"
+      ],
+      "keywords": [
+        "Chhibramau",
+        "Akbarpur",
+        "Galla Mandi"
+      ],
+      "id": "kannauj_2"
+    },
+    {
+      "name": "Gurusahaiganj and Vicinity",
+      "pincodes": [
+        209722
+      ],
+      "areas": [
+        "Dundwabuzurg",
+        "Mohanpur Ratanpur",
+        "Gurusahaiganj",
+        "Ismailpur",
+        "Samdhan",
+        "Tera Rabbu",
+        "Majhpurwa",
+        "Uncha"
+      ],
+      "keywords": [
+        "Gurusahaiganj",
+        "Samdhan",
+        "Dundwabuzurg"
+      ],
+      "id": "kannauj_3"
+    },
+    {
+      "name": "Indergarh Region",
+      "pincodes": [
+        209723
+      ],
+      "areas": [
+        "Agaus",
+        "Bahosi",
+        "Bhagwantpur",
+        "Indergarh SO Kannauj",
+        "Madhpura",
+        "Parsaramau Majhretha",
+        "Pura Rai",
+        "Belamau Saraiya",
+        "Kalsan",
+        "Lakh"
+      ],
+      "keywords": [
+        "Indergarh",
+        "Bahosi",
+        "Madhpura"
+      ],
+      "id": "kannauj_4"
+    },
+    {
+      "name": "Bhainsiapur Area",
+      "pincodes": [
+        209724
+      ],
+      "areas": [
+        "Bhainsiapur",
+        "Chiyasar"
+      ],
+      "keywords": [
+        "Bhainsiapur",
+        "Chiyasar"
+      ],
+      "id": "kannauj_5"
+    },
+    {
+      "name": "Kannauj Central",
+      "pincodes": [
+        209725
+      ],
+      "areas": [
+        "Chhipatti",
+        "Hari Nagar SO Kannauj",
+        "Kannauj Samachar",
+        "Kannauj"
+      ],
+      "keywords": [
+        "Kannauj",
+        "Hari Nagar",
+        "Chhipatti"
+      ],
+      "id": "kannauj_6"
+    },
+    {
+      "name": "Makrand Nagar",
+      "pincodes": [
+        209726
+      ],
+      "areas": [
+        "Makrand Nagar"
+      ],
+      "keywords": [
+        "Makrand Nagar"
+      ],
+      "id": "kannauj_7"
+    },
+    {
+      "name": "Saraimira and Surroundings",
+      "pincodes": [
+        209727
+      ],
+      "areas": [
+        "Gangemau",
+        "Jaspura Pur",
+        "Saraimira",
+        "Barauli",
+        "Jalalpur Panwara",
+        "Kushum Khor",
+        "Teramallu",
+        "Godhani",
+        "Ibrahimpur Zagir",
+        "Mitra Senpur",
+        "Malikapur",
+        "Miyaganj",
+        "Muraiya Buzurg",
+        "Nazrapur Patti",
+        "Nera",
+        "Painda Bad",
+        "Tidiyapur"
+      ],
+      "keywords": [
+        "Saraimira",
+        "Gangemau",
+        "Jaspura Pur"
+      ],
+      "id": "kannauj_8"
+    },
+    {
+      "name": "Saurikh and Nearby",
+      "pincodes": [
+        209728
+      ],
+      "areas": [
+        "Chapunna",
+        "Khadini",
+        "Kisai Jagdishpur",
+        "Nademau",
+        "Nizampur",
+        "Aruha",
+        "Bangawan Kharg",
+        "Gulariyapur",
+        "Sakatpur",
+        "Gyaspur",
+        "Sarai Theku",
+        "Saurikh",
+        "Bahadurpur Majhgaon",
+        "Behta Rampur",
+        "Haseran",
+        "Ishampur",
+        "Murra"
+      ],
+      "keywords": [
+        "Saurikh",
+        "Chapunna",
+        "Khadini"
+      ],
+      "id": "kannauj_9"
+    },
+    {
+      "name": "Sikanderpur and Vicinity",
+      "pincodes": [
+        209729
+      ],
+      "areas": [
+        "Bibia Jalalpur",
+        "Chanderpur",
+        "Sikanderpur SO Kannauj",
+        "Aseha",
+        "Nauli"
+      ],
+      "keywords": [
+        "Sikanderpur",
+        "Bibia Jalalpur",
+        "Chanderpur"
+      ],
+      "id": "kannauj_10"
+    },
+    {
+      "name": "Talgram Area",
+      "pincodes": [
+        209731
+      ],
+      "areas": [
+        "Talgram",
+        "Amolar",
+        "Madhonagar",
+        "Tahpur",
+        "Jeramau Alampur",
+        "Bamrauli",
+        "Sataura"
+      ],
+      "keywords": [
+        "Talgram",
+        "Amolar",
+        "Madhonagar"
+      ],
+      "id": "kannauj_11"
+    },
+    {
+      "name": "Tirwa and Surroundings",
+      "pincodes": [
+        209732
+      ],
+      "areas": [
+        "Behrin",
+        "Govt. Medical College Tirwa",
+        "Basta",
+        "Lohamarh",
+        "Mahteypurwa",
+        "Tirwa Ganj",
+        "Tirwa",
+        "Balanpur"
+      ],
+      "keywords": [
+        "Tirwa",
+        "Govt. Medical College",
+        "Basta"
+      ],
+      "id": "kannauj_12"
+    },
+    {
+      "name": "Jalalabad Cluster",
+      "pincodes": [
+        209733
+      ],
+      "areas": [
+        "Fatehpur",
+        "Gugrapur",
+        "Kiratpur",
+        "Saunsarapur",
+        "Jalalabad SO Kannauj",
+        "Kulhapur",
+        "Matauli",
+        "Mirgawan Ki Garhi",
+        "Jewan",
+        "Anaugi"
+      ],
+      "keywords": [
+        "Jalalabad",
+        "Fatehpur",
+        "Gugrapur"
+      ],
+      "id": "kannauj_13"
+    },
+    {
+      "name": "Thathia and Nearby",
+      "pincodes": [
+        209734
+      ],
+      "areas": [
+        "Bhadausi",
+        "Bhunna",
+        "Thathia",
+        "Patti",
+        "Sursi",
+        "Khama",
+        "Rura"
+      ],
+      "keywords": [
+        "Thathia",
+        "Bhadausi",
+        "Bhunna"
+      ],
+      "id": "kannauj_14"
+    },
+    {
+      "name": "Rohili Area",
+      "pincodes": [
+        209735
+      ],
+      "areas": [
+        "Rohili",
+        "Tera Jaket",
+        "Sarai Prayag"
+      ],
+      "keywords": [
+        "Rohili",
+        "Tera Jaket",
+        "Sarai Prayag"
+      ],
+      "id": "kannauj_15"
+    },
+    {
+      "name": "Hamirpur and Surroundings",
+      "pincodes": [
+        209736
+      ],
+      "areas": [
+        "Binaura Rampur",
+        "Haraipur",
+        "Simaria",
+        "Hamirpur",
+        "Khairnagar",
+        "Auser",
+        "Jankhat",
+        "Umrain"
+      ],
+      "keywords": [
+        "Hamirpur",
+        "Binaura Rampur",
+        "Haraipur"
+      ],
+      "id": "kannauj_16"
+    },
+    {
+      "name": "Umarda Region",
+      "pincodes": [
+        209738
+      ],
+      "areas": [
+        "Deodha",
+        "Kudhina",
+        "Ferozpur",
+        "Rampur Majhila",
+        "Umarda",
+        "Khanpur",
+        "Mawai Bilwari",
+        "Miruan Marha"
+      ],
+      "keywords": [
+        "Umarda",
+        "Deodha",
+        "Kudhina"
+      ],
+      "id": "kannauj_17"
+    },
+    {
+      "name": "Salempur and Vicinity",
+      "pincodes": [
+        209747
+      ],
+      "areas": [
+        "Salempur",
+        "Sakrawa",
+        "Dadauna",
+        "Birpur",
+        "Majhupur",
+        "Paraur",
+        "Sarifabad"
+      ],
+      "keywords": [
+        "Salempur",
+        "Sakrawa",
+        "Dadauna"
+      ],
+      "id": "kannauj_18"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Jhansi",
+  "city": "Jhansi",
+  "summary": "",
+  "total_areas": 215,
+  "total_pincodes": 23,
+  "zones": [
+    {
+      "name": "Jhansi Central",
+      "pincodes": [
+        284001,
+        284002
+      ],
+      "areas": [
+        "JHANSI",
+        "Chauraha Municipal Board",
+        "Jhansi Kutchery",
+        "Jhansi Sadar Bazar",
+        "Jhansi Cantt",
+        "NDC Jhansi",
+        "Boodha",
+        "Subhashganj",
+        "Bara Bazar SO Jhansi",
+        "Sainyargate",
+        "Bhojala",
+        "Isagarh",
+        "Jhansi City",
+        "Naria Bazar",
+        "Khushipura",
+        "Orchha Gate"
+      ],
+      "keywords": [
+        "Central",
+        "City",
+        "Market"
+      ],
+      "id": "jhansi_1"
+    },
+    {
+      "name": "Jhansi Railway Station Area",
+      "pincodes": [
+        284003
+      ],
+      "areas": [
+        "Lalkurti Bazar",
+        "Lahar Gird",
+        "C W Workshop",
+        "Karari",
+        "Jhansi Railway Station",
+        "Ayurvedic University",
+        "Premnagar SO Jhansi",
+        "Sipri Bazar",
+        "Garhiagaon",
+        "Abbotganj",
+        "Nandanpura"
+      ],
+      "keywords": [
+        "Railway",
+        "Station",
+        "Premnagar"
+      ],
+      "id": "jhansi_2"
+    },
+    {
+      "name": "Khailar and BHEL",
+      "pincodes": [
+        284120
+      ],
+      "areas": [
+        "Khailar",
+        "Khajraha Khurd",
+        "BHEL SO Jhansi",
+        "Chamrauwa",
+        "Mathurapura",
+        "Khajraha Buzurg"
+      ],
+      "keywords": [
+        "BHEL",
+        "Khailar"
+      ],
+      "id": "jhansi_3"
+    },
+    {
+      "name": "Baragaon and Surroundings",
+      "pincodes": [
+        284121
+      ],
+      "areas": [
+        "Garhmau",
+        "Ujyan",
+        "Baratakalan",
+        "Jonri Buzurg",
+        "Sarol",
+        "Palar",
+        "Ranguwan",
+        "Birguwan",
+        "Dhamnakhurd",
+        "Baragaon SO Jhansi"
+      ],
+      "keywords": [
+        "Baragaon",
+        "Rural"
+      ],
+      "id": "jhansi_4"
+    },
+    {
+      "name": "Simraha Cluster",
+      "pincodes": [
+        284127
+      ],
+      "areas": [
+        "Simraha",
+        "Bhattagaon",
+        "Bhagwantpura"
+      ],
+      "keywords": [
+        "Simraha"
+      ],
+      "id": "jhansi_5"
+    },
+    {
+      "name": "University and Medical College",
+      "pincodes": [
+        284128
+      ],
+      "areas": [
+        "Bundelkhand University",
+        "Kochha Bhanwar",
+        "Mlb Medical College"
+      ],
+      "keywords": [
+        "University",
+        "Medical"
+      ],
+      "id": "jhansi_6"
+    },
+    {
+      "name": "Hasari and Bijauli",
+      "pincodes": [
+        284135
+      ],
+      "areas": [
+        "Hasari",
+        "Bijauli",
+        "33 Bn Pac Jhansi"
+      ],
+      "keywords": [
+        "Hasari",
+        "Bijauli"
+      ],
+      "id": "jhansi_7"
+    },
+    {
+      "name": "Barwasagar and Taindol",
+      "pincodes": [
+        284201
+      ],
+      "areas": [
+        "Barwasagar",
+        "Taindol",
+        "Ghughuwa"
+      ],
+      "keywords": [
+        "Barwasagar"
+      ],
+      "id": "jhansi_8"
+    },
+    {
+      "name": "Gursarai and Surroundings",
+      "pincodes": [
+        284202
+      ],
+      "areas": [
+        "Kuretha",
+        "Nauta",
+        "Sutta",
+        "BangraBangri",
+        "Dhanaura",
+        "Dhawari",
+        "Gokul",
+        "Nagra",
+        "Sarsenda",
+        "Asta",
+        "Baghaira",
+        "Ghuraiya",
+        "Karguwan Khurd",
+        "Gursarai",
+        "Bamaur",
+        "Garhwai",
+        "Jakhaura",
+        "Kudri",
+        "Tehrauli"
+      ],
+      "keywords": [
+        "Gursarai",
+        "Tehrauli"
+      ],
+      "id": "jhansi_9"
+    },
+    {
+      "name": "Garautha and Nearby",
+      "pincodes": [
+        284203
+      ],
+      "areas": [
+        "Simardha",
+        "Siya Kharka",
+        "Garautha",
+        "Dumrai",
+        "Kakarwai",
+        "Khadaura",
+        "Moti Katra",
+        "Rampura",
+        "Kachir"
+      ],
+      "keywords": [
+        "Garautha"
+      ],
+      "id": "jhansi_10"
+    },
+    {
+      "name": "Mauranipur Region",
+      "pincodes": [
+        284204
+      ],
+      "areas": [
+        "Barauri",
+        "Bhadarwara",
+        "Churara",
+        "Dhamna Payak",
+        "Dhaurra",
+        "Ghat Kotra",
+        "Itayal",
+        "Mahewa",
+        "Bamhori",
+        "Bhadarwara Khurd",
+        "Bhasneh",
+        "Dhawakar",
+        "Ghat Lehchura",
+        "Rewan",
+        "Rupa Dhamna",
+        "Old Mau",
+        "Mauranipur",
+        "Akseo",
+        "Berwai",
+        "Bijaura",
+        "Rora Bhatpura",
+        "Sijari Buzurg",
+        "Aivani",
+        "Kakwara",
+        "Markuan",
+        "Patha Dhakarwara",
+        "Siaori",
+        "Mauranipur Bus Stand",
+        "Banka Pahari",
+        "Bhandra Khilara",
+        "Bonda",
+        "Haiwatpura",
+        "Kureecha",
+        "Roni Baragaon",
+        "Saipura"
+      ],
+      "keywords": [
+        "Mauranipur"
+      ],
+      "id": "jhansi_11"
+    },
+    {
+      "name": "Ranipur and Surroundings",
+      "pincodes": [
+        284205
+      ],
+      "areas": [
+        "Ghurat",
+        "Katera",
+        "Siaoni Khurd",
+        "Vijay Garh",
+        "Deori Singhpura",
+        "Khisni Buzurg",
+        "Luhari",
+        "Gairaha",
+        "Uldan",
+        "Bangra",
+        "Kachneo",
+        "Magarpur",
+        "Padra",
+        "Palra",
+        "Ratausa",
+        "Sakrar",
+        "Amanpurawar",
+        "Pathguwan",
+        "Ranipur SO Jhansi"
+      ],
+      "keywords": [
+        "Ranipur"
+      ],
+      "id": "jhansi_12"
+    },
+    {
+      "name": "Bijna and Surroundings",
+      "pincodes": [
+        284206
+      ],
+      "areas": [
+        "Dhurwai",
+        "Tori Fatehpur",
+        "Pandwaha",
+        "Bijna",
+        "Pasaura",
+        "Barhwar"
+      ],
+      "keywords": [
+        "Bijna"
+      ],
+      "id": "jhansi_13"
+    },
+    {
+      "name": "Chirgaon and Nearby",
+      "pincodes": [
+        284301
+      ],
+      "areas": [
+        "Bajhera",
+        "Baral",
+        "Karguwan",
+        "Chirgaon SO Jhansi",
+        "Ram Nagar",
+        "Siya",
+        "Jaryai",
+        "Aupara",
+        "Pahari Buzurg",
+        "Simthari"
+      ],
+      "keywords": [
+        "Chirgaon"
+      ],
+      "id": "jhansi_14"
+    },
+    {
+      "name": "Erich and Surroundings",
+      "pincodes": [
+        284302
+      ],
+      "areas": [
+        "Bilati Karke",
+        "Labhera",
+        "Iskil",
+        "Patha",
+        "Ahiraura",
+        "Gonti",
+        "Erich"
+      ],
+      "keywords": [
+        "Erich"
+      ],
+      "id": "jhansi_15"
+    },
+    {
+      "name": "Moth and Surroundings",
+      "pincodes": [
+        284303
+      ],
+      "areas": [
+        "Atariya",
+        "Jaunra",
+        "Kumhrar",
+        "Ladawra",
+        "Simiriya",
+        "Talaud",
+        "Tori",
+        "Bheonraghat",
+        "Lawan",
+        "Nandkhas",
+        "Pandori",
+        "Patti Kumharra",
+        "Reo",
+        "Basobai",
+        "Karkos",
+        "Shahjahanpur",
+        "Moth",
+        "Bharosa",
+        "Kharauwa",
+        "Kumhariya",
+        "Semri",
+        "Amra",
+        "Amrokh",
+        "Bakwan",
+        "Belma Kalan",
+        "Chelra",
+        "Pulia"
+      ],
+      "keywords": [
+        "Moth"
+      ],
+      "id": "jhansi_16"
+    },
+    {
+      "name": "Samthar and Nearby",
+      "pincodes": [
+        284304
+      ],
+      "areas": [
+        "Chheonta",
+        "Chirgaon Khurd",
+        "Samthar",
+        "Badokhari",
+        "Sakin"
+      ],
+      "keywords": [
+        "Samthar"
+      ],
+      "id": "jhansi_17"
+    },
+    {
+      "name": "Parichha Thermal Power Project",
+      "pincodes": [
+        284305
+      ],
+      "areas": [
+        "Parichha Thermal Power Project"
+      ],
+      "keywords": [
+        "Parichha",
+        "Thermal"
+      ],
+      "id": "jhansi_18"
+    },
+    {
+      "name": "Poonchh and Surroundings",
+      "pincodes": [
+        284306
+      ],
+      "areas": [
+        "Amgaon",
+        "Khilli",
+        "Sesha",
+        "Pahargaon",
+        "Poonchh",
+        "Nari",
+        "Sersa"
+      ],
+      "keywords": [
+        "Poonchh"
+      ],
+      "id": "jhansi_19"
+    },
+    {
+      "name": "Babina and Surroundings",
+      "pincodes": [
+        284401
+      ],
+      "areas": [
+        "Babina Cantt",
+        "Burhpura",
+        "Chanaoni",
+        "Baidora",
+        "Ghisauli",
+        "Manpura",
+        "Nayakhera",
+        "Babina Town"
+      ],
+      "keywords": [
+        "Babina"
+      ],
+      "id": "jhansi_20"
+    },
+    {
+      "name": "Raksa and Surroundings",
+      "pincodes": [
+        284419
+      ],
+      "areas": [
+        "Pali Pahari",
+        "Rajapur",
+        "Ambabai",
+        "Punaoli Kalan",
+        "Dangarwaha",
+        "Raksa"
+      ],
+      "keywords": [
+        "Raksa"
+      ],
+      "id": "jhansi_21"
+    },
+    {
+      "name": "Lohagarh",
+      "pincodes": [
+        285205
+      ],
+      "areas": [
+        "Lohagarh"
+      ],
+      "keywords": [
+        "Lohagarh"
+      ],
+      "id": "jhansi_22"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Barabanki",
+  "city": "Barabanki",
+  "summary": "",
+  "total_areas": 361,
+  "total_pincodes": 34,
+  "zones": [
+    {
+      "name": "Barabanki Central",
+      "pincodes": [
+        225001
+      ],
+      "areas": [
+        "Barabanki Collectorate",
+        "Vikas Bhawan",
+        "Barabanki",
+        "Shahabpur",
+        "Ram Van Kuteer",
+        "Barabanki Bazar",
+        "10th BN P A C Barabanki",
+        "Munshiganj SO Barabanki",
+        "Rasauli",
+        "Barail",
+        "Banki SO Barabanki"
+      ],
+      "keywords": [
+        "Barabanki",
+        "Central",
+        "Collectorate"
+      ],
+      "id": "barabanki_1"
+    },
+    {
+      "name": "Safedabad Cluster",
+      "pincodes": [
+        225003
+      ],
+      "areas": [
+        "Madhopur",
+        "Basti",
+        "Bhitauli Kalan",
+        "Tindola",
+        "Aseni",
+        "Gadia",
+        "Safedabad",
+        "Gandhi Aashram"
+      ],
+      "keywords": [
+        "Safedabad",
+        "Cluster"
+      ],
+      "id": "barabanki_2"
+    },
+    {
+      "name": "Kothi and Surroundings",
+      "pincodes": [
+        225119
+      ],
+      "areas": [
+        "Kothi SO Barabanki",
+        "Dayalpur",
+        "Bibiapur",
+        "Inayatpur"
+      ],
+      "keywords": [
+        "Kothi",
+        "Surroundings"
+      ],
+      "id": "barabanki_3"
+    },
+    {
+      "name": "Bibipur Garh Area",
+      "pincodes": [
+        225120
+      ],
+      "areas": [
+        "Bibipur Garh",
+        "Sohawan",
+        "Usmanpur",
+        "Mohabbatpur",
+        "Budhnai"
+      ],
+      "keywords": [
+        "Bibipur",
+        "Garh"
+      ],
+      "id": "barabanki_4"
+    },
+    {
+      "name": "Harakh Region",
+      "pincodes": [
+        225121
+      ],
+      "areas": [
+        "Neoli",
+        "Barauli Malik",
+        "Bhanmau",
+        "Birahimabad",
+        "Dhaurahra",
+        "Manpur",
+        "Patmau",
+        "Tikra",
+        "Daravpur",
+        "Nanmau",
+        "Sethmau",
+        "Bhanauli",
+        "Galhamau",
+        "Harakh"
+      ],
+      "keywords": [
+        "Harakh",
+        "Region"
+      ],
+      "id": "barabanki_5"
+    },
+    {
+      "name": "Satrikh and Vicinity",
+      "pincodes": [
+        225122
+      ],
+      "areas": [
+        "Sarai Parsanda",
+        "Satrikh",
+        "Gehendwar",
+        "Markhapur",
+        "Akhtiyarpur Sharifabad",
+        "Barauli Jata",
+        "Teergaon",
+        "Laxmanpur"
+      ],
+      "keywords": [
+        "Satrikh",
+        "Vicinity"
+      ],
+      "id": "barabanki_6"
+    },
+    {
+      "name": "Somaiya Nagar Zone",
+      "pincodes": [
+        225123
+      ],
+      "areas": [
+        "Somaiya Nagar",
+        "Para Khandauli",
+        "Banwa"
+      ],
+      "keywords": [
+        "Somaiya",
+        "Nagar"
+      ],
+      "id": "barabanki_7"
+    },
+    {
+      "name": "Haidergarh Area",
+      "pincodes": [
+        225124
+      ],
+      "areas": [
+        "Bhikhara",
+        "Khanpur",
+        "Lohangpur",
+        "Ansari",
+        "Kamela",
+        "Lahi",
+        "Rauli",
+        "Ruknuddinpur",
+        "Saalpur",
+        "Thalwara",
+        "Beejapur",
+        "Chaubeesi",
+        "Ghar Kuiyan",
+        "Kanwan",
+        "Ratauli",
+        "Umrawal Kirsia",
+        "Kharsatiya",
+        "Sarai Rawat",
+        "Haidergarh"
+      ],
+      "keywords": [
+        "Haidergarh",
+        "Area"
+      ],
+      "id": "barabanki_8"
+    },
+    {
+      "name": "Subeha Cluster",
+      "pincodes": [
+        225125
+      ],
+      "areas": [
+        "Gerawan",
+        "Islampur",
+        "Subeha",
+        "Chiraiya",
+        "Jameen Husainabad",
+        "Sharifabad",
+        "Magauwan",
+        "Palia",
+        "Sarai Gopi"
+      ],
+      "keywords": [
+        "Subeha",
+        "Cluster"
+      ],
+      "id": "barabanki_9"
+    },
+    {
+      "name": "Ramnagar and Surroundings",
+      "pincodes": [
+        225126
+      ],
+      "areas": [
+        "Jaurass",
+        "Pokhra",
+        "Bhilwal",
+        "Garhi",
+        "Mohammadpur",
+        "Ramnagar Pareeva",
+        "Tejwapur",
+        "Bara",
+        "Kaboolpur",
+        "Loni Katra",
+        "Manodharpur",
+        "Tilokpur Usmanpur",
+        "Shivnaam",
+        "Ganehari",
+        "Hasanpur",
+        "Kakari",
+        "Khaira Kankoo",
+        "Khwajapur",
+        "Pareewan",
+        "Trivediganj"
+      ],
+      "keywords": [
+        "Ramnagar",
+        "Surroundings"
+      ],
+      "id": "barabanki_10"
+    },
+    {
+      "name": "Bahramghat Zone",
+      "pincodes": [
+        225201
+      ],
+      "areas": [
+        "Bahramghat",
+        "Banarki",
+        "Lodhaura",
+        "Bhitauli",
+        "Mallapur"
+      ],
+      "keywords": [
+        "Bahramghat",
+        "Zone"
+      ],
+      "id": "barabanki_11"
+    },
+    {
+      "name": "Burhwal and Nearby",
+      "pincodes": [
+        225202
+      ],
+      "areas": [
+        "Burhwal Sugar Mill",
+        "Sirauli Kalan",
+        "Semrai",
+        "Nahamau",
+        "Telwari",
+        "Telyani"
+      ],
+      "keywords": [
+        "Burhwal",
+        "Nearby"
+      ],
+      "id": "barabanki_12"
+    },
+    {
+      "name": "Jahangeerabad Area",
+      "pincodes": [
+        225203
+      ],
+      "areas": [
+        "Darhara",
+        "Khijirpur",
+        "Kamarkha",
+        "Jahangeerabad Raj",
+        "Sadruddinpur"
+      ],
+      "keywords": [
+        "Jahangeerabad",
+        "Area"
+      ],
+      "id": "barabanki_13"
+    },
+    {
+      "name": "Masauli and Surroundings",
+      "pincodes": [
+        225204
+      ],
+      "areas": [
+        "Bindaura",
+        "Neola Karsanda",
+        "Bansa Sharif",
+        "Budhwara",
+        "Nainamau",
+        "Naseernagar",
+        "Niyamatpur",
+        "Bhayara",
+        "Baragaon",
+        "Masauli"
+      ],
+      "keywords": [
+        "Masauli",
+        "Surroundings"
+      ],
+      "id": "barabanki_14"
+    },
+    {
+      "name": "Ramnagar Barabanki",
+      "pincodes": [
+        225205
+      ],
+      "areas": [
+        "Amoli Kalan",
+        "Sirkauli",
+        "Bilakhiya",
+        "Katka",
+        "Madhawapur",
+        "Ramnagar SO Barabanki",
+        "Bhainsuriya"
+      ],
+      "keywords": [
+        "Ramnagar",
+        "Barabanki"
+      ],
+      "id": "barabanki_15"
+    },
+    {
+      "name": "Saidanpur Cluster",
+      "pincodes": [
+        225206
+      ],
+      "areas": [
+        "Pyarepur",
+        "Maulabad",
+        "Mushkabad",
+        "Ram Sahai",
+        "Saidanpur",
+        "Saadatganj SO Barabanki",
+        "Dadrauli Bhawaniapur",
+        "Kandhaipur",
+        "Mailaraiganj",
+        "Malauli",
+        "Rampur Katra"
+      ],
+      "keywords": [
+        "Saidanpur",
+        "Cluster"
+      ],
+      "id": "barabanki_16"
+    },
+    {
+      "name": "Badosarai and Vicinity",
+      "pincodes": [
+        225207
+      ],
+      "areas": [
+        "Danapur Shukla",
+        "Khajuri",
+        "Addra",
+        "Markamau",
+        "Kintoor",
+        "Badosarai",
+        "Chaila",
+        "Sirauli Gaus Pur",
+        "Kamoli"
+      ],
+      "keywords": [
+        "Badosarai",
+        "Vicinity"
+      ],
+      "id": "barabanki_17"
+    },
+    {
+      "name": "Tilokpur Area",
+      "pincodes": [
+        225208
+      ],
+      "areas": [
+        "Baburiha",
+        "Puremanbhawan Singh",
+        "Tilokpur SO Barabanki",
+        "Achhechha",
+        "Budhera",
+        "Sihali"
+      ],
+      "keywords": [
+        "Tilokpur",
+        "Area"
+      ],
+      "id": "barabanki_18"
+    },
+    {
+      "name": "Dewa Sharif Region",
+      "pincodes": [
+        225301
+      ],
+      "areas": [
+        "Bishunpur",
+        "Harrai",
+        "Muradabad",
+        "Narain Bhari",
+        "Sarsaundi",
+        "Shafipur",
+        "Kheoli",
+        "Mittai",
+        "Patna",
+        "Dewa Sharif",
+        "Jaruwa",
+        "Kasimganj",
+        "Khanwaha",
+        "Malookpur",
+        "Mujeebpur",
+        "Peend",
+        "Tera Kalan",
+        "Ukhari",
+        "Gheri",
+        "Ismailpur",
+        "Kondari"
+      ],
+      "keywords": [
+        "Dewa",
+        "Sharif",
+        "Region"
+      ],
+      "id": "barabanki_19"
+    },
+    {
+      "name": "Kursi and Surroundings",
+      "pincodes": [
+        225302
+      ],
+      "areas": [
+        "Rasoolpur",
+        "Barhaidih Maholia",
+        "Nindoora",
+        "Kursi",
+        "Anwari",
+        "Bahrauli",
+        "Gariya Bazar",
+        "Ghunghter",
+        "Mohsand",
+        "Dadera",
+        "Darawan",
+        "Atahara",
+        "Pandari",
+        "Sirsaipur",
+        "Sulemabad",
+        "Tikaitganj"
+      ],
+      "keywords": [
+        "Kursi",
+        "Surroundings"
+      ],
+      "id": "barabanki_20"
+    },
+    {
+      "name": "Shivrajpur Zone",
+      "pincodes": [
+        225303
+      ],
+      "areas": [
+        "Mohammad Pur Khaley",
+        "Basauli",
+        "Ram Mandai",
+        "Shivrajpur"
+      ],
+      "keywords": [
+        "Shivrajpur",
+        "Zone"
+      ],
+      "id": "barabanki_21"
+    },
+    {
+      "name": "Suratganj Area",
+      "pincodes": [
+        225304
+      ],
+      "areas": [
+        "Kandarwal",
+        "Daulatpur",
+        "Raniganj Bazar",
+        "Hetmapur",
+        "Jhanjhari",
+        "Lalpur Karauta",
+        "Ruhera",
+        "Parasrampur",
+        "Suratganj"
+      ],
+      "keywords": [
+        "Suratganj",
+        "Area"
+      ],
+      "id": "barabanki_22"
+    },
+    {
+      "name": "Fateh Pur Cluster",
+      "pincodes": [
+        225305
+      ],
+      "areas": [
+        "Basara",
+        "Hazratpur",
+        "Jafarpur",
+        "Jagsenda",
+        "Mahmoodpur",
+        "Majhgawan Sharif",
+        "Ralbhari",
+        "Sirauli Surjanpur",
+        "Watia",
+        "Belahara",
+        "Gaura",
+        "Gudauli",
+        "Mithwara",
+        "Dharampur",
+        "Jagatpur",
+        "Sarhemau",
+        "Sarsawan",
+        "Sundhiyamau",
+        "Talgaon",
+        "Terhwa",
+        "Nandna Kala",
+        "Tehsil Fateh Pur",
+        "Bindaura Dhartharia",
+        "Chheda",
+        "Hasanpur Tanda",
+        "Israuli",
+        "Khansi Sarai",
+        "Khapurwa",
+        "Kutloopur",
+        "Bheriya",
+        "Itaunja",
+        "Kandraula",
+        "Madanpur"
+      ],
+      "keywords": [
+        "Fateh",
+        "Pur",
+        "Cluster"
+      ],
+      "id": "barabanki_23"
+    },
+    {
+      "name": "Basantpur and Surroundings",
+      "pincodes": [
+        225306
+      ],
+      "areas": [
+        "Khinjhana",
+        "Shahpur Bhagauli",
+        "Basantpur",
+        "Bhadras",
+        "Kaji Behta",
+        "Rahilamau",
+        "Baddoopur",
+        "Bandagi Nagar",
+        "Hansuwapara",
+        "Jharsawan",
+        "Katuri Kalan",
+        "Salempur",
+        "Shailie Keeratpur",
+        "Bajgahni",
+        "Sadrapur"
+      ],
+      "keywords": [
+        "Basantpur",
+        "Surroundings"
+      ],
+      "id": "barabanki_24"
+    },
+    {
+      "name": "Badshahnagar Zone",
+      "pincodes": [
+        225401
+      ],
+      "areas": [
+        "Puredalai",
+        "Chirra",
+        "Fattapur Kalan",
+        "Badshahnagar",
+        "Khetasarai",
+        "Sarai Barai",
+        "Aliabad"
+      ],
+      "keywords": [
+        "Badshahnagar",
+        "Zone"
+      ],
+      "id": "barabanki_25"
+    },
+    {
+      "name": "Dariya Bad Area",
+      "pincodes": [
+        225403
+      ],
+      "areas": [
+        "Imliha",
+        "Khutauli",
+        "Kusfar",
+        "Tarapur",
+        "Itaura",
+        "Qyampur",
+        "Dariya Bad"
+      ],
+      "keywords": [
+        "Dariya",
+        "Bad",
+        "Area"
+      ],
+      "id": "barabanki_26"
+    },
+    {
+      "name": "Dariyabad RS Zone",
+      "pincodes": [
+        225404
+      ],
+      "areas": [
+        "Neoli Danapur",
+        "Pahroopur",
+        "Patulki",
+        "Dariyabad RS"
+      ],
+      "keywords": [
+        "Dariyabad",
+        "RS",
+        "Zone"
+      ],
+      "id": "barabanki_27"
+    },
+    {
+      "name": "Kotwa Sarak Cluster",
+      "pincodes": [
+        225405
+      ],
+      "areas": [
+        "Jariyari",
+        "Thorthia",
+        "Hunsepur",
+        "Bhawaniyapur Kheoli",
+        "Ghazipur",
+        "Narokhar",
+        "Sanauli",
+        "Meruwa",
+        "Kotwa Sarak",
+        "Kithoori Daroga",
+        "Said Khanpur"
+      ],
+      "keywords": [
+        "Kotwa",
+        "Sarak",
+        "Cluster"
+      ],
+      "id": "barabanki_28"
+    },
+    {
+      "name": "Ram Sanehi Ghat Region",
+      "pincodes": [
+        225409
+      ],
+      "areas": [
+        "Ashrafpur",
+        "Bhikharpur",
+        "Dhanauli Thakuran",
+        "Hakami",
+        "Surajpur",
+        "Kithaiya",
+        "Belpur",
+        "Chauri Aladadpur",
+        "Amahia",
+        "Sukhipur",
+        "Tiwaripur",
+        "Digsari",
+        "Dilauna",
+        "Maulahara",
+        "Shahpur",
+        "Ram Sanehi Ghat"
+      ],
+      "keywords": [
+        "Ram",
+        "Sanehi",
+        "Ghat",
+        "Region"
+      ],
+      "id": "barabanki_29"
+    },
+    {
+      "name": "Safderganj and Surroundings",
+      "pincodes": [
+        225412
+      ],
+      "areas": [
+        "Lachhbar Bajaha",
+        "Ahmadpur",
+        "Ambaur",
+        "Mahmoodabad",
+        "Safderganj",
+        "Baghaura",
+        "Behta",
+        "Loharpur",
+        "Palhari",
+        "Saifpur",
+        "Udhauli",
+        "Sarai Kayasthan",
+        "Yakootganj",
+        "Dadra"
+      ],
+      "keywords": [
+        "Safderganj",
+        "Surroundings"
+      ],
+      "id": "barabanki_30"
+    },
+    {
+      "name": "Sidhaur Cluster",
+      "pincodes": [
+        225413
+      ],
+      "areas": [
+        "Uchita",
+        "Dhanaura",
+        "Semrawan",
+        "Malhauli",
+        "Maugorpur",
+        "Sarsa",
+        "Neochhana",
+        "Sidhaur"
+      ],
+      "keywords": [
+        "Sidhaur",
+        "Cluster"
+      ],
+      "id": "barabanki_31"
+    },
+    {
+      "name": "Zaidpur Area",
+      "pincodes": [
+        225414
+      ],
+      "areas": [
+        "Barain",
+        "Garhi Rakhmau",
+        "Bhitaura Lakhan",
+        "Kola",
+        "Zaidpur"
+      ],
+      "keywords": [
+        "Zaidpur",
+        "Area"
+      ],
+      "id": "barabanki_32"
+    },
+    {
+      "name": "Tikait Nagar and Vicinity",
+      "pincodes": [
+        225415
+      ],
+      "areas": [
+        "Kotwa Dham",
+        "Manjhela",
+        "Bangawan",
+        "Gidrapur",
+        "Hassaur",
+        "Kothri Gauriya",
+        "Panapur",
+        "Qusba Ichauli",
+        "Ranimau Tarai",
+        "Tikait Nagar",
+        "Bansgaon",
+        "Ranikatra",
+        "Sarai Dunauli",
+        "Hadha",
+        "Sikari Jeewal",
+        "Udwat Nagar"
+      ],
+      "keywords": [
+        "Tikait",
+        "Nagar",
+        "Vicinity"
+      ],
+      "id": "barabanki_33"
+    },
+    {
+      "name": "Asandra and Surroundings",
+      "pincodes": [
+        225416
+      ],
+      "areas": [
+        "Jarauli",
+        "Paigamberpur",
+        "Poore Chandraman",
+        "Baburi Gaon",
+        "Dandoopur",
+        "Dhanauli",
+        "Dharoopur",
+        "Gajpatipur",
+        "Motikpur",
+        "Kheorajpur",
+        "Silhaur",
+        "Tikariya Saidkhanpur",
+        "Asandra",
+        "Jargawan",
+        "Mansara"
+      ],
+      "keywords": [
+        "Asandra",
+        "Surroundings"
+      ],
+      "id": "barabanki_34"
+    }
+  ]
+}

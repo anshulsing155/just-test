@@ -1,0 +1,375 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Balrampur",
+  "city": "Balrampur",
+  "summary": "",
+  "total_areas": 183,
+  "total_pincodes": 14,
+  "zones": [
+    {
+      "name": "Balrampur Central",
+      "pincodes": [
+        271201
+      ],
+      "areas": [
+        "Ghughulpur",
+        "Bargadhi",
+        "Mirzapur",
+        "Balrampur Degree College",
+        "Bahre Kuiya",
+        "Belha",
+        "Purab Tola",
+        "Distt Court Balrampur",
+        "Bheekh Pur",
+        "Jewnar",
+        "Jabdha",
+        "Bishunipur",
+        "Katra Shankar Nagar",
+        "Birahimpur",
+        "FARENDA",
+        "Gajaihwa",
+        "Balrampur",
+        "Bhagautiganj",
+        "Koilara",
+        "Pandari"
+      ],
+      "keywords": [
+        "Balrampur",
+        "Central"
+      ],
+      "id": "balrampur_1"
+    },
+    {
+      "name": "Jarwa Region",
+      "pincodes": [
+        271203
+      ],
+      "areas": [
+        "Raniyapur",
+        "Jarwa",
+        "Newal Garh",
+        "Mutehra",
+        "Ramwapur",
+        "Amwabas"
+      ],
+      "keywords": [
+        "Jarwa",
+        "Region"
+      ],
+      "id": "balrampur_2"
+    },
+    {
+      "name": "Mahrajganj Cluster",
+      "pincodes": [
+        271205
+      ],
+      "areas": [
+        "Lai Budwa",
+        "Sugganagar",
+        "Mujehani",
+        "Mundila",
+        "Khairahnia",
+        "Mahrajganj SO Balrampur",
+        "Badalpur",
+        "Gugauli",
+        "Gulriha",
+        "Kauwapur",
+        "Sehrinwa"
+      ],
+      "keywords": [
+        "Mahrajganj",
+        "Cluster"
+      ],
+      "id": "balrampur_3"
+    },
+    {
+      "name": "Pachperwa Area",
+      "pincodes": [
+        271206
+      ],
+      "areas": [
+        "Bhathar",
+        "Chandanpur",
+        "Imlia Kondar",
+        "Kohar Gaddi",
+        "Parasrampur",
+        "Thurwaliya",
+        "Badhara",
+        "Banghusri",
+        "Dhabauliya",
+        "Kataiyabhari",
+        "Majgawan",
+        "Parasrampur Rajahana",
+        "Suganagar Dumri",
+        "Visunpur Tantanwa",
+        "Pachperwa",
+        "Amauli Dhamali",
+        "Bethaniya Karihniya",
+        "Madni",
+        "Shankarpur Kalan",
+        "Bairihwa",
+        "Bhagwanpur Kondar",
+        "Dumri",
+        "Rehra Cahuki",
+        "Bisunpur Vishram",
+        "Gurchihwa",
+        "Rajdarwa Tharu",
+        "Ram Nagar"
+      ],
+      "keywords": [
+        "Pachperwa",
+        "Area"
+      ],
+      "id": "balrampur_4"
+    },
+    {
+      "name": "Shankar Nagar Zone",
+      "pincodes": [
+        271207
+      ],
+      "areas": [
+        "Bardaulia",
+        "Shankar Nagar",
+        "Udaipur",
+        "Shivpura",
+        "Chaudhary Deeh",
+        "Motipur",
+        "BISHUNPUR",
+        "Hasanpur",
+        "Deopura"
+      ],
+      "keywords": [
+        "Shankar Nagar",
+        "Zone"
+      ],
+      "id": "balrampur_5"
+    },
+    {
+      "name": "Tulsipur Region",
+      "pincodes": [
+        271208
+      ],
+      "areas": [
+        "Dharampur",
+        "Jahandaria",
+        "Majgaon",
+        "Laxmi Nagar",
+        "Naikiniya",
+        "Tulsipur",
+        "Bangai",
+        "Kondari",
+        "Lal Nagar Sipahia",
+        "Laukahwa",
+        "Bhangaha Kala",
+        "Chauhattar Kalan",
+        "Gudra",
+        "Rani Jot",
+        "Bhagwanpur"
+      ],
+      "keywords": [
+        "Tulsipur",
+        "Region"
+      ],
+      "id": "balrampur_6"
+    },
+    {
+      "name": "Gainsari Area",
+      "pincodes": [
+        271210
+      ],
+      "areas": [
+        "Sonpur",
+        "Gainsari",
+        "Bakaulirajpur",
+        "Thakurapur",
+        "Bhojpur Tharu",
+        "Khamahariya",
+        "Shivpur Mhadev",
+        "Hallaura",
+        "Puraina",
+        "Chauhattar Khurd",
+        "Gulriha Sandwa",
+        "Jamuni Kala",
+        "Manikapur"
+      ],
+      "keywords": [
+        "Gainsari",
+        "Area"
+      ],
+      "id": "balrampur_7"
+    },
+    {
+      "name": "Ganeshpur Cluster",
+      "pincodes": [
+        271215
+      ],
+      "areas": [
+        "Ganeshpur",
+        "Bargadha Sohna",
+        "Manpur",
+        "Purani Bazar Pachperwa",
+        "Malda",
+        "Pipriha Jamuni",
+        "Tirlokpur",
+        "Bargadwa",
+        "Belhsa",
+        "Bemiha",
+        "Kutti Ram Talha",
+        "Achkawapur",
+        "Dhawai",
+        "Madha Nagar",
+        "Vijay Nagar",
+        "Adamtara",
+        "Bhagwanpur Khadar",
+        "Kundwa",
+        "Manohrapur"
+      ],
+      "keywords": [
+        "Ganeshpur",
+        "Cluster"
+      ],
+      "id": "balrampur_8"
+    },
+    {
+      "name": "Rehra Bazar Zone",
+      "pincodes": [
+        271306
+      ],
+      "areas": [
+        "Datauli",
+        "Saraikhas",
+        "Ahirauli Buzurg",
+        "Rehra Bazar",
+        "Badhya Fareed Khan",
+        "BUDHIPUR",
+        "Kishunpur Grant"
+      ],
+      "keywords": [
+        "Rehra Bazar",
+        "Zone"
+      ],
+      "id": "balrampur_9"
+    },
+    {
+      "name": "Sadullanagar Region",
+      "pincodes": [
+        271307
+      ],
+      "areas": [
+        "Lokiya Tahir",
+        "Deoria Inayat",
+        "Maddo Chaura",
+        "Ramapur Grant",
+        "Achalpur Kaithawalia",
+        "Intai Abdullah",
+        "Kharhana Naudeehwa",
+        "Sadullanagar",
+        "Bhelya Madanpur",
+        "Kishunpur Sagar",
+        "Golahipur",
+        "Obarideeh"
+      ],
+      "keywords": [
+        "Sadullanagar",
+        "Region"
+      ],
+      "id": "balrampur_10"
+    },
+    {
+      "name": "Utraula Area",
+      "pincodes": [
+        271604
+      ],
+      "areas": [
+        "Bhairampur",
+        "Gaindas Bujurg",
+        "Godahana",
+        "Khajuria",
+        "Nandauri",
+        "Sekhuiya",
+        "Allipur Bujurg",
+        "Chhitarpara",
+        "Dhaurahara",
+        "Dualata Bad Grant",
+        "Intai",
+        "Parsona",
+        "Badhara Bhitaura",
+        "Pehar",
+        "Terhwa Nawabad",
+        "Utraula",
+        "Husaina Bad Grant",
+        "Utraula Bazar",
+        "Bank Bazar",
+        "Entai Rampur",
+        "Gajpur Grant",
+        "Jaita Pur",
+        "Naubasta Mundila"
+      ],
+      "keywords": [
+        "Utraula",
+        "Area"
+      ],
+      "id": "balrampur_11"
+    },
+    {
+      "name": "Sriduttganj Cluster",
+      "pincodes": [
+        271607
+      ],
+      "areas": [
+        "Deoria Rani Jot",
+        "Dari Chaura",
+        "Sriduttganj",
+        "Deoria Mubarakpur",
+        "Mahuwa",
+        "Rampur Banghusra",
+        "Maniyaria"
+      ],
+      "keywords": [
+        "Sriduttganj",
+        "Cluster"
+      ],
+      "id": "balrampur_12"
+    },
+    {
+      "name": "Rehra Mafi Zone",
+      "pincodes": [
+        271609
+      ],
+      "areas": [
+        "Fakirapur",
+        "Rehra Mafi",
+        "Chamrupur",
+        "Mahadeiya State",
+        "Puraina Wajid",
+        "Pipra Ram Chandar",
+        "Gumri"
+      ],
+      "keywords": [
+        "Rehra Mafi",
+        "Zone"
+      ],
+      "id": "balrampur_13"
+    },
+    {
+      "name": "Laliya Region",
+      "pincodes": [
+        271861
+      ],
+      "areas": [
+        "Bankatwa",
+        "Mangra Kohal",
+        "Kodri",
+        "Baldev Nagar",
+        "Laliya",
+        "Pranpur",
+        "Mathura Bazar"
+      ],
+      "keywords": [
+        "Laliya",
+        "Region"
+      ],
+      "id": "balrampur_14"
+    }
+  ]
+}

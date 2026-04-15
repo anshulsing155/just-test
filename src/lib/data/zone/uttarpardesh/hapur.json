@@ -1,0 +1,237 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Hapur",
+  "city": "Hapur",
+  "summary": "",
+  "total_areas": 102,
+  "total_pincodes": 9,
+  "zones": [
+    {
+      "name": "Hapur Central",
+      "pincodes": [
+        245101
+      ],
+      "areas": [
+        "Chhajupur",
+        "Rampur Puth",
+        "Kharkhari",
+        "Chamri",
+        "Ghungrala",
+        "Kathikhera",
+        "Hafizpur Ubarpur",
+        "Dadri",
+        "Phagota",
+        "Achheja",
+        "Raghunathpur",
+        "Dhanaura",
+        "Bajhera Kalan",
+        "Iklehdi",
+        "Mathurawali",
+        "Shah Mohiuddinpur",
+        "Gyan Lok Hapur",
+        "Hapur Mandi",
+        "Railway Road Hapur",
+        "New Hapur",
+        "Girdharpur Tumrel",
+        "Madrasa Sadat",
+        "Nan",
+        "Bhatiyana",
+        "Dahana",
+        "Mahmoodpur",
+        "Sapnawat",
+        "Asaura",
+        "Gohra Alamgirpur",
+        "Harsinghpur"
+      ],
+      "keywords": [
+        "Hapur",
+        "Central",
+        "Market",
+        "Mandi"
+      ],
+      "id": "hapur_1"
+    },
+    {
+      "name": "Babugarh and Surroundings",
+      "pincodes": [
+        245201
+      ],
+      "areas": [
+        "Bankhanda",
+        "Hosdarpur Garhi",
+        "Matnaura",
+        "Sheikhpur",
+        "Alipur",
+        "Kanya Kalyanpur",
+        "Upera",
+        "Bachlota",
+        "Nali Hussainpur",
+        "Tatarpur",
+        "Rasulpur",
+        "Sikandarpur Kakori",
+        "Babugarh",
+        "Kuchesar Chopla"
+      ],
+      "keywords": [
+        "Babugarh",
+        "Kuchesar",
+        "Garhi"
+      ],
+      "id": "hapur_2"
+    },
+    {
+      "name": "Garhmukteshwar Region",
+      "pincodes": [
+        245205
+      ],
+      "areas": [
+        "Garh Bridge Halt",
+        "Dehra Rampur",
+        "Dotai",
+        "Haidarpur",
+        "Muradpur Janupura",
+        "Salarpur",
+        "Garh Town",
+        "Garhmukteshwar",
+        "Bhaina Dholpur",
+        "Jakhera Rahmatpur",
+        "Nanpur",
+        "Shyampur Jatt",
+        "Bihuni",
+        "Gandu Nagla",
+        "Bagarpur",
+        "Khilwai",
+        "Luhari",
+        "Athsaini",
+        "Jharina",
+        "Sadullapur Lodhi"
+      ],
+      "keywords": [
+        "Garhmukteshwar",
+        "Garh",
+        "Bridge"
+      ],
+      "id": "hapur_3"
+    },
+    {
+      "name": "Simbhaoli and Vicinity",
+      "pincodes": [
+        245207
+      ],
+      "areas": [
+        "Phuldehra",
+        "Datiyana",
+        "Mohdpur Khudaliya",
+        "Mubarikpur",
+        "Rajethi",
+        "Baxur",
+        "Bharna",
+        "Wait",
+        "Dhana",
+        "Sikhera",
+        "Simbhaoli"
+      ],
+      "keywords": [
+        "Simbhaoli",
+        "Phuldehra",
+        "Rajethi"
+      ],
+      "id": "hapur_4"
+    },
+    {
+      "name": "Bahadurgarh Cluster",
+      "pincodes": [
+        245208
+      ],
+      "areas": [
+        "Bahadurgarh",
+        "Alam Nagar",
+        "Bhadsiana",
+        "Mahmoodpur Palwara",
+        "Nek Nanpur Nanai",
+        "Sharpur"
+      ],
+      "keywords": [
+        "Bahadurgarh",
+        "Alam Nagar",
+        "Sharpur"
+      ],
+      "id": "hapur_5"
+    },
+    {
+      "name": "Dhaulana Area",
+      "pincodes": [
+        245301
+      ],
+      "areas": [
+        "Parpa",
+        "Saulana",
+        "Dhaulana",
+        "Dehra",
+        "Kandaula",
+        "Samana"
+      ],
+      "keywords": [
+        "Dhaulana",
+        "Saulana",
+        "Kandaula"
+      ],
+      "id": "hapur_6"
+    },
+    {
+      "name": "Pilkhauwa Zone",
+      "pincodes": [
+        245304
+      ],
+      "areas": [
+        "Anwarpur",
+        "Bajhera Khurd",
+        "Chhajarsi",
+        "Doohri",
+        "Nagola",
+        "Pilkhuwa",
+        "Kandoli",
+        "New Market Pilkhauwa",
+        "Dehpa Azampur",
+        "Kastala",
+        "Khera"
+      ],
+      "keywords": [
+        "Pilkhauwa",
+        "Market",
+        "Kandoli"
+      ],
+      "id": "hapur_7"
+    },
+    {
+      "name": "Hasanpur and Nearby",
+      "pincodes": [
+        201015
+      ],
+      "areas": [
+        "Hasanpur",
+        "Udai Rampur Nangla",
+        "Galand"
+      ],
+      "keywords": [
+        "Hasanpur",
+        "Udai Rampur",
+        "Galand"
+      ],
+      "id": "hapur_8"
+    },
+    {
+      "name": "Bhojpur",
+      "pincodes": [
+        201022
+      ],
+      "areas": [
+        "Bhojpur"
+      ],
+      "keywords": [
+        "Bhojpur"
+      ],
+      "id": "hapur_9"
+    }
+  ]
+}

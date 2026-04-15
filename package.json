@@ -41,6 +41,8 @@
 		"edn-data": "^1.1.2",
 		"edn-js": "^0.0.4",
 		"express": "^4.21.2",
+		"file-saver": "^2.0.5",
+		"jszip": "^3.10.1",
 		"mongodb": "^7.1.1",
 		"natural": "^8.0.1",
 		"node-fetch": "^3.3.2",

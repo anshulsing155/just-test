@@ -1,0 +1,305 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Auraiya",
+  "city": "Auraiya",
+  "summary": "",
+  "total_areas": 158,
+  "total_pincodes": 16,
+  "zones": [
+    {
+      "name": "Ajitmal Area",
+      "pincodes": [
+        206121,
+        206122
+      ],
+      "areas": [
+        "Badera",
+        "Babarpur SO Auraiya",
+        "Amavata",
+        "Babain",
+        "Juhikha",
+        "Khetupur",
+        "Sohari Garhia",
+        "Sanphar",
+        "Ajitmal",
+        "Ballapur",
+        "Bhurepurkalan",
+        "Janishnagar",
+        "Atsoo",
+        "Bilawan",
+        "Gauhani Kalan",
+        "Senganpur",
+        "Tilak Nagar",
+        "Badharipur",
+        "Khanpur",
+        "Bamuripur",
+        "Bharsen",
+        "Sahabda",
+        "Chirhuli",
+        "Kharka",
+        "Keontra",
+        "Sherpur Saraiya",
+        "Jaitapur",
+        "Burhadana",
+        "Narainpur SO Auraiya",
+        "Luhiapur",
+        "Daulatpur",
+        "Ikaurapur",
+        "Bhaupur",
+        "Kakhawatoo",
+        "Panhar",
+        "Auraiya"
+      ],
+      "keywords": [
+        "Ajitmal",
+        "Babarpur",
+        "Narainpur"
+      ],
+      "id": "auraiya_1"
+    },
+    {
+      "name": "Achhalda and Surroundings",
+      "pincodes": [
+        206241,
+        206243
+      ],
+      "areas": [
+        "Baghaipur",
+        "Bhainsol",
+        "Pata RS",
+        "Chhachhund",
+        "Itailly",
+        "Nagaria",
+        "Achhalda",
+        "Bansi",
+        "Ghasara",
+        "Mohammdabad",
+        "Dashera",
+        "Gwari",
+        "Nevilganj",
+        "Kaithawa",
+        "Rathgaon",
+        "Bidhuna",
+        "Asjana",
+        "Goora",
+        "Sabhad",
+        "Bandhmau",
+        "Bhaipur",
+        "Alipur",
+        "Dondapur",
+        "Indapamau",
+        "Pusauli",
+        "Tilakpur Farm",
+        "Banthara",
+        "Bhikhara"
+      ],
+      "keywords": [
+        "Achhalda",
+        "Bidhuna"
+      ],
+      "id": "auraiya_2"
+    },
+    {
+      "name": "Dibiapur Region",
+      "pincodes": [
+        206244
+      ],
+      "areas": [
+        "Sondhemau",
+        "Aghara",
+        "Dhupkari",
+        "Nauli",
+        "Sehud",
+        "Dibiapur Mandi",
+        "N T P C Dibiapur",
+        "Dakhlipur",
+        "Kakor Buzurg",
+        "Sahayal",
+        "Seengpurva Mana",
+        "Bijhai",
+        "Gulariha",
+        "Piparpur",
+        "Purakalan",
+        "Umri",
+        "Dibiapur"
+      ],
+      "keywords": [
+        "Dibiapur",
+        "NTPC"
+      ],
+      "id": "auraiya_3"
+    },
+    {
+      "name": "Phaphund and Nearby",
+      "pincodes": [
+        206247,
+        206246
+      ],
+      "areas": [
+        "Bhagya Nagar",
+        "Jua",
+        "Salhapur",
+        "Ata",
+        "Phaphund",
+        "Adhasi",
+        "Fatehpur Beni",
+        "Murhi",
+        "Belhupur",
+        "Dahgaon",
+        "Kanchausi",
+        "Lahrapur",
+        "Madhwapur",
+        "Binpurapur",
+        "Naugawan",
+        "Kanchausi Bazar"
+      ],
+      "keywords": [
+        "Phaphund",
+        "Kanchausi"
+      ],
+      "id": "auraiya_4"
+    },
+    {
+      "name": "Sahar and Surroundings",
+      "pincodes": [
+        206248,
+        206249
+      ],
+      "areas": [
+        "Sahar SO Auraiya",
+        "Gapchariapur",
+        "Kursi",
+        "Narainpur",
+        "Purwa Jain",
+        "Shivganj",
+        "Madokmeet",
+        "Purwa Bhikha",
+        "Harbanspur",
+        "Barahar",
+        "Pasuwa",
+        "Ruruganj",
+        "Ailly",
+        "Rurukalan",
+        "Masoodpur",
+        "Kalabhoj",
+        "Sarai Sheesgram",
+        "Kudarkot"
+      ],
+      "keywords": [
+        "Sahar",
+        "Ruruganj"
+      ],
+      "id": "auraiya_5"
+    },
+    {
+      "name": "Auraiya Central",
+      "pincodes": [
+        206120,
+        206128
+      ],
+      "areas": [
+        "Sekhupur Adhar Singh",
+        "Darbatpur",
+        "Bhadsan",
+        "Anantram Sonasi",
+        "Phoolpur",
+        "Jagannathpur"
+      ],
+      "keywords": [
+        "Auraiya",
+        "Central"
+      ],
+      "id": "auraiya_6"
+    },
+    {
+      "name": "Ayana and Nearby",
+      "pincodes": [
+        206129
+      ],
+      "areas": [
+        "Bhikhepur",
+        "Birhuni",
+        "Chapta",
+        "Nigra",
+        "Karampur",
+        "Haidarpur",
+        "Bakhariya",
+        "Roshangpur",
+        "Uncha",
+        "Ayana",
+        "Muradganj",
+        "Bhason",
+        "Mahmoodpur",
+        "Phariha",
+        "Sikharna"
+      ],
+      "keywords": [
+        "Ayana",
+        "Muradganj"
+      ],
+      "id": "auraiya_7"
+    },
+    {
+      "name": "Harchandpur and Surroundings",
+      "pincodes": [
+        206250,
+        206251
+      ],
+      "areas": [
+        "Rajuamau",
+        "Kamara",
+        "Saraipukhta",
+        "Deoraon",
+        "Harchandpur SO Auraiya",
+        "Gailly",
+        "Bela SO Auraiya",
+        "Hardu",
+        "Mahu"
+      ],
+      "keywords": [
+        "Harchandpur",
+        "Bela"
+      ],
+      "id": "auraiya_8"
+    },
+    {
+      "name": "Airwa Katra Region",
+      "pincodes": [
+        206252
+      ],
+      "areas": [
+        "Barauna Kalan",
+        "Bhedpur",
+        "Patna Airwa",
+        "Samayan",
+        "Umrain",
+        "Surendha",
+        "Badhin",
+        "Airwa Katra"
+      ],
+      "keywords": [
+        "Airwa Katra",
+        "Patna Airwa"
+      ],
+      "id": "auraiya_9"
+    },
+    {
+      "name": "Yakubpur and Nearby",
+      "pincodes": [
+        206255
+      ],
+      "areas": [
+        "Piprauli Shiv",
+        "Yakubpur",
+        "Jalalpur",
+        "Marhadaspur",
+        "Malhosi"
+      ],
+      "keywords": [
+        "Yakubpur",
+        "Piprauli"
+      ],
+      "id": "auraiya_10"
+    }
+  ]
+}

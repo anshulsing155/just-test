@@ -1,0 +1,876 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Pratapgarh",
+  "city": "Pratapgarh",
+  "summary": "",
+  "total_areas": 357,
+  "total_pincodes": 40,
+  "zones": [
+    {
+      "name": "Kalakankar Area",
+      "pincodes": [
+        229408
+      ],
+      "areas": [
+        "Jhonkwara",
+        "Alapur",
+        "Panigo",
+        "Kalakankar",
+        "Lala Bazar",
+        "Pariyawan",
+        "Shayd Yasinpur"
+      ],
+      "keywords": [
+        "Kalakankar",
+        "Jhonkwara",
+        "Alapur"
+      ],
+      "id": "pratapgarh_1"
+    },
+    {
+      "name": "Bhatni Cluster",
+      "pincodes": [
+        229410
+      ],
+      "areas": [
+        "Bhatni",
+        "Jewai",
+        "Kaithola",
+        "Agai"
+      ],
+      "keywords": [
+        "Bhatni",
+        "Jewai"
+      ],
+      "id": "pratapgarh_2"
+    },
+    {
+      "name": "Pratapgarh City Center",
+      "pincodes": [
+        230001,
+        230002
+      ],
+      "areas": [
+        "Bhangwa Ki Chungi",
+        "M C Ganj",
+        "Paltan Bazar",
+        "Pratapgarh",
+        "Railway Colony",
+        "Station Road",
+        "Dherehana",
+        "Pratapgarh City",
+        "Mohanganj",
+        "Teonga",
+        "Pure Ojha"
+      ],
+      "keywords": [
+        "Pratapgarh",
+        "City Center",
+        "Station Road"
+      ],
+      "id": "pratapgarh_3"
+    },
+    {
+      "name": "Ramganj Bazar Area",
+      "pincodes": [
+        230121
+      ],
+      "areas": [
+        "Binaika",
+        "Chhatauna",
+        "Ramganj Bazar",
+        "Diyawan",
+        "Kilai",
+        "Gaura Mafi",
+        "Sonpura",
+        "PDCHAURAHA"
+      ],
+      "keywords": [
+        "Ramganj Bazar",
+        "Binaika"
+      ],
+      "id": "pratapgarh_4"
+    },
+    {
+      "name": "Aspur Deosara Region",
+      "pincodes": [
+        230124
+      ],
+      "areas": [
+        "Dahi",
+        "Molnapur",
+        "Pure Dhani",
+        "Bhanaipur",
+        "Kabirpur",
+        "Gadhiyawan",
+        "Parhat Khas",
+        "Sadaha",
+        "Aspur Deosara",
+        "Amargarh SO Pratapgarh"
+      ],
+      "keywords": [
+        "Aspur Deosara",
+        "Dahi"
+      ],
+      "id": "pratapgarh_5"
+    },
+    {
+      "name": "Rajapur Cluster",
+      "pincodes": [
+        230125
+      ],
+      "areas": [
+        "Rajapur",
+        "Jariyari",
+        "Muraini",
+        "Nanauti",
+        "Mangapur",
+        "Pure Bhagwat",
+        "Atheha",
+        "Deori",
+        "Kumbhi Aima",
+        "Udaipur",
+        "Umrar"
+      ],
+      "keywords": [
+        "Rajapur",
+        "Jariyari"
+      ],
+      "id": "pratapgarh_6"
+    },
+    {
+      "name": "Babuganj Area",
+      "pincodes": [
+        230126
+      ],
+      "areas": [
+        "Pure Noti",
+        "Babuganj"
+      ],
+      "keywords": [
+        "Babuganj",
+        "Pure Noti"
+      ],
+      "id": "pratapgarh_7"
+    },
+    {
+      "name": "Dalippur Region",
+      "pincodes": [
+        230127
+      ],
+      "areas": [
+        "Premdhar Patti",
+        "Pure Roopdhar Kothiyahi",
+        "Bashirpur",
+        "Dalippur SO Pratapgarh",
+        "Dandupur Mufrid",
+        "Dwarikapur",
+        "Kadipur"
+      ],
+      "keywords": [
+        "Dalippur",
+        "Premdhar Patti"
+      ],
+      "id": "pratapgarh_8"
+    },
+    {
+      "name": "Derwa Cluster",
+      "pincodes": [
+        230128
+      ],
+      "areas": [
+        "Bhikhapur Kanidih",
+        "Kushaha",
+        "Mahrajganj",
+        "Ram Nagar",
+        "Pure Gajai",
+        "Raigarh",
+        "Sarai Indrawat",
+        "Derwa",
+        "Dhingwas",
+        "Maheshganj",
+        "Rajapur Bindhan",
+        "Chitamanpur Patna"
+      ],
+      "keywords": [
+        "Derwa",
+        "Bhikhapur Kanidih"
+      ],
+      "id": "pratapgarh_9"
+    },
+    {
+      "name": "Jethwara Area",
+      "pincodes": [
+        230129
+      ],
+      "areas": [
+        "Chakwarh",
+        "Malawan Chhajaipur",
+        "Kamolibirbhanpur",
+        "Newadi",
+        "Jethwara",
+        "Baron",
+        "Dhansari",
+        "Kutulitya",
+        "Naubasta",
+        "Korrahi",
+        "Kondrajit"
+      ],
+      "keywords": [
+        "Jethwara",
+        "Chakwarh"
+      ],
+      "id": "pratapgarh_10"
+    },
+    {
+      "name": "Laxmanpur",
+      "pincodes": [
+        230130
+      ],
+      "areas": [
+        "Laxmanpur"
+      ],
+      "keywords": [
+        "Laxmanpur"
+      ],
+      "id": "pratapgarh_11"
+    },
+    {
+      "name": "Rajgarh Cluster",
+      "pincodes": [
+        230131
+      ],
+      "areas": [
+        "Rajgarh",
+        "Katra Medniganj",
+        "Pure Narsingh Bhan",
+        "Rampur Gauri",
+        "Afim Ki Kothi",
+        "Bhadohi",
+        "Bhupiamau",
+        "Bahlolpur",
+        "Jahnaipur"
+      ],
+      "keywords": [
+        "Rajgarh",
+        "Katra Medniganj"
+      ],
+      "id": "pratapgarh_12"
+    },
+    {
+      "name": "Lalganj Area",
+      "pincodes": [
+        230132
+      ],
+      "areas": [
+        "Ajhara",
+        "Rampur Baoli",
+        "Amawan",
+        "Asrahi",
+        "Belha",
+        "Lalganj",
+        "Kumbhapur",
+        "Dewapur",
+        "Idilpur",
+        "Jasmarha",
+        "Purwara",
+        "Jalesharganj",
+        "Khaprahi"
+      ],
+      "keywords": [
+        "Lalganj",
+        "Ajhara"
+      ],
+      "id": "pratapgarh_13"
+    },
+    {
+      "name": "Pirthiganj Bazar",
+      "pincodes": [
+        230133
+      ],
+      "areas": [
+        "Besar",
+        "PIRTHIGANJ BAZAR",
+        "Sarai Chheolaha",
+        "Sarai Madhai"
+      ],
+      "keywords": [
+        "PIRTHIGANJ BAZAR",
+        "Besar"
+      ],
+      "id": "pratapgarh_14"
+    },
+    {
+      "name": "Gajariya Cluster",
+      "pincodes": [
+        230134
+      ],
+      "areas": [
+        "Gajariya",
+        "Barari",
+        "Donai",
+        "Lauwar",
+        "Pure Dhana",
+        "Sarkhelpur",
+        "Gadauri",
+        "Oraiyadeeh"
+      ],
+      "keywords": [
+        "Gajariya",
+        "Barari"
+      ],
+      "id": "pratapgarh_15"
+    },
+    {
+      "name": "Patti Region",
+      "pincodes": [
+        230135
+      ],
+      "areas": [
+        "Dhandhar",
+        "Kukuwar",
+        "Patkhauli",
+        "Sarai Mahesh",
+        "Bahuta",
+        "Fatehpur",
+        "Kansapatti",
+        "Muzahi Bazar",
+        "Pandri Mustarka",
+        "Rendi Garapur",
+        "Barahupur",
+        "Kanja Sarai Gulami",
+        "Belarampur",
+        "Patti",
+        "Charaiya"
+      ],
+      "keywords": [
+        "Patti",
+        "Dhandhar"
+      ],
+      "id": "pratapgarh_16"
+    },
+    {
+      "name": "Kotwa Area",
+      "pincodes": [
+        230136
+      ],
+      "areas": [
+        "Harakhpur Kotwa",
+        "Handaur",
+        "Sagra",
+        "Dhadhuwa Gajan",
+        "Kotwa Shukulpur",
+        "Paharpur"
+      ],
+      "keywords": [
+        "Kotwa",
+        "Harakhpur"
+      ],
+      "id": "pratapgarh_17"
+    },
+    {
+      "name": "Sahebganj Cluster",
+      "pincodes": [
+        230137
+      ],
+      "areas": [
+        "Kataiya",
+        "Bahuchara",
+        "Tejgarh",
+        "Sahebganj"
+      ],
+      "keywords": [
+        "Sahebganj",
+        "Kataiya"
+      ],
+      "id": "pratapgarh_18"
+    },
+    {
+      "name": "Saifabad Area",
+      "pincodes": [
+        230138
+      ],
+      "areas": [
+        "Manapur",
+        "Labeda",
+        "Dhindhui",
+        "Saifabad",
+        "Lakhipur Kapsa"
+      ],
+      "keywords": [
+        "Saifabad",
+        "Manapur"
+      ],
+      "id": "pratapgarh_19"
+    },
+    {
+      "name": "Sangipur Region",
+      "pincodes": [
+        230139
+      ],
+      "areas": [
+        "Ranki",
+        "Ami",
+        "Baba Ka Gaon",
+        "Lakhapur",
+        "Rahatikar",
+        "Ramganj",
+        "Laxmikant Ganj",
+        "Paranipur",
+        "Sangipur",
+        "Benimadho Nagar",
+        "Darra",
+        "Mustafabad",
+        "Rehuwa Lalganj"
+      ],
+      "keywords": [
+        "Sangipur",
+        "Ranki"
+      ],
+      "id": "pratapgarh_20"
+    },
+    {
+      "name": "Sangramgarh Area",
+      "pincodes": [
+        230141
+      ],
+      "areas": [
+        "Dhangarh",
+        "Ramapur",
+        "Kushuwapur",
+        "Manuhar",
+        "Newarhiya",
+        "Sangramgarh",
+        "Adlabad",
+        "Lawana Bhawaniganj",
+        "Abdul Wahidganj",
+        "Bakol",
+        "Kamapatti",
+        "Ping",
+        "Rokaiyapur"
+      ],
+      "keywords": [
+        "Sangramgarh",
+        "Dhangarh"
+      ],
+      "id": "pratapgarh_21"
+    },
+    {
+      "name": "Ishanpur Cluster",
+      "pincodes": [
+        230142
+      ],
+      "areas": [
+        "Ishanpur",
+        "Ahiyapur",
+        "Bijahara",
+        "Pike Nagar",
+        "Shitlaganj",
+        "Jogipur"
+      ],
+      "keywords": [
+        "Ishanpur",
+        "Ahiyapur"
+      ],
+      "id": "pratapgarh_22"
+    },
+    {
+      "name": "Bhawaniganj Kota",
+      "pincodes": [
+        230143
+      ],
+      "areas": [
+        "Bhawaniganj Kota",
+        "Gujwar",
+        "Purmeisultanpur",
+        "Pratappur Chergarh",
+        "Babaganj",
+        "Dakhwapur"
+      ],
+      "keywords": [
+        "Bhawaniganj Kota",
+        "Gujwar"
+      ],
+      "id": "pratapgarh_23"
+    },
+    {
+      "name": "Pandwasi Area",
+      "pincodes": [
+        230144
+      ],
+      "areas": [
+        "Pandwasi",
+        "Sarai Anadeo",
+        "Pooranpur Khajoor",
+        "Rendveer",
+        "Chamrupur",
+        "Dulhepur",
+        "Ajgara"
+      ],
+      "keywords": [
+        "Pandwasi",
+        "Sarai Anadeo"
+      ],
+      "id": "pratapgarh_24"
+    },
+    {
+      "name": "Jahanabad Cluster",
+      "pincodes": [
+        230201
+      ],
+      "areas": [
+        "Budhapur",
+        "Deeha",
+        "Mahmadpur Bhaon",
+        "Parsipur",
+        "Samaspur",
+        "Bihar",
+        "Bhadri",
+        "Bisahiya",
+        "Siya",
+        "Umari Kotila",
+        "Kilahanapur",
+        "Shekhpur Ashiq",
+        "Hathigawan",
+        "Jahanabad",
+        "Kanawan",
+        "Mohaddinagar",
+        "Sakardaha",
+        "Tikuri Dashrathpur"
+      ],
+      "keywords": [
+        "Jahanabad",
+        "Budhapur"
+      ],
+      "id": "pratapgarh_25"
+    },
+    {
+      "name": "Garhi Manikpur Area",
+      "pincodes": [
+        230202
+      ],
+      "areas": [
+        "Radhauli",
+        "Bajha Bheet",
+        "Lat Tara",
+        "Garhi Manikpur",
+        "Tiwaripur",
+        "Gotani",
+        "Garhi Samsabad",
+        "Sahjani"
+      ],
+      "keywords": [
+        "Garhi Manikpur",
+        "Radhauli"
+      ],
+      "id": "pratapgarh_26"
+    },
+    {
+      "name": "Kunda Region",
+      "pincodes": [
+        230204
+      ],
+      "areas": [
+        "Aindha",
+        "Bansiyara",
+        "Jamethi",
+        "Baswahi",
+        "Bedhan Gopalpur",
+        "Jhingur",
+        "Karenti",
+        "Khemipur",
+        "Majhilgaon",
+        "Kunda",
+        "Bainti",
+        "Itaura",
+        "Jagapur",
+        "Rahwain",
+        "Sujauli",
+        "Maghi",
+        "Tajpur",
+        "Aimajatupur",
+        "Badgawan",
+        "Barai",
+        "Laroo",
+        "Laxmaneshwar Nath Dham",
+        "Machheha Herdopatti",
+        "Mangarh"
+      ],
+      "keywords": [
+        "Kunda",
+        "Aindha"
+      ],
+      "id": "pratapgarh_27"
+    },
+    {
+      "name": "Gaura R S Cluster",
+      "pincodes": [
+        230301
+      ],
+      "areas": [
+        "Amapur Berra",
+        "Padwa Nasirpur",
+        "Bhojemau",
+        "Kahla",
+        "Silaundhi",
+        "Dhanuha",
+        "Gaura R S",
+        "Antari",
+        "Sultanpur"
+      ],
+      "keywords": [
+        "Gaura R S",
+        "Amapur Berra"
+      ],
+      "id": "pratapgarh_28"
+    },
+    {
+      "name": "Shivgarh Bindaganj Area",
+      "pincodes": [
+        230302
+      ],
+      "areas": [
+        "Birapur",
+        "Garapur",
+        "Jamtali",
+        "Bichhur",
+        "Shivgarh Bindaganj",
+        "Misiddipur"
+      ],
+      "keywords": [
+        "Shivgarh Bindaganj",
+        "Birapur"
+      ],
+      "id": "pratapgarh_29"
+    },
+    {
+      "name": "Raniganj Region",
+      "pincodes": [
+        230304
+      ],
+      "areas": [
+        "Adharganj",
+        "Durgaganj",
+        "Shahpur",
+        "Mirzapur",
+        "Pure Gosain",
+        "Sansarpur",
+        "Sipah Maheri",
+        "Raniganj",
+        "Babu Patti",
+        "Bhuidaha",
+        "Deogarh Kamasin",
+        "Medhauli",
+        "Ramnagar",
+        "Hariharganj",
+        "Lachchhipur",
+        "Bansi",
+        "Kushfara",
+        "Prithviganj"
+      ],
+      "keywords": [
+        "Raniganj",
+        "Adharganj"
+      ],
+      "id": "pratapgarh_30"
+    },
+    {
+      "name": "Suwansa Cluster",
+      "pincodes": [
+        230306
+      ],
+      "areas": [
+        "Kailidih",
+        "Narainpur Kalan",
+        "Surwa Mishirpur",
+        "Naudera",
+        "Suwansa"
+      ],
+      "keywords": [
+        "Suwansa",
+        "Kailidih"
+      ],
+      "id": "pratapgarh_31"
+    },
+    {
+      "name": "Kohdaur Area",
+      "pincodes": [
+        230401
+      ],
+      "areas": [
+        "Katari",
+        "Surajgarh",
+        "Kohdaur",
+        "Basupur",
+        "Parasrampur",
+        "Sarai Shankar",
+        "Sarai Rajai",
+        "Narharpur",
+        "Shivpur",
+        "Atarsand",
+        "Kandharpur"
+      ],
+      "keywords": [
+        "Kohdaur",
+        "Katari"
+      ],
+      "id": "pratapgarh_32"
+    },
+    {
+      "name": "Mandhata Region",
+      "pincodes": [
+        230402
+      ],
+      "areas": [
+        "Baishpur",
+        "Harakhpur",
+        "Sarai Murar Singh",
+        "Sarai Bhimsen",
+        "Bachhuwa",
+        "Bhagwatganj",
+        "Kalyanpur",
+        "Uri Ka Dih",
+        "Balikaranganj",
+        "Hainshi Parji",
+        "Katra Gulab Singh",
+        "Majhigawan",
+        "Sarai Nahar Rai",
+        "Mandhata"
+      ],
+      "keywords": [
+        "Mandhata",
+        "Baishpur"
+      ],
+      "id": "pratapgarh_33"
+    },
+    {
+      "name": "Hanumanganj Area",
+      "pincodes": [
+        230403
+      ],
+      "areas": [
+        "Sadar Bazar",
+        "Kanpa",
+        "Salhipur",
+        "Madhoganj",
+        "Barachha",
+        "Gondey",
+        "Ranjitpur Chilbila",
+        "Sarai Ganai",
+        "Tala",
+        "Hanumanganj",
+        "Madhupur"
+      ],
+      "keywords": [
+        "Hanumanganj",
+        "Sadar Bazar"
+      ],
+      "id": "pratapgarh_34"
+    },
+    {
+      "name": "Vishwanathganj Cluster",
+      "pincodes": [
+        230404
+      ],
+      "areas": [
+        "Sarai Raja",
+        "Vishwanathganj",
+        "Bhikhnapur"
+      ],
+      "keywords": [
+        "Vishwanathganj",
+        "Sarai Raja"
+      ],
+      "id": "pratapgarh_35"
+    },
+    {
+      "name": "Deokali Area",
+      "pincodes": [
+        230405
+      ],
+      "areas": [
+        "Utras",
+        "Deokali",
+        "Dharauli",
+        "Wari Kalan",
+        "Sarsi",
+        "Darchhut"
+      ],
+      "keywords": [
+        "Deokali",
+        "Utras"
+      ],
+      "id": "pratapgarh_36"
+    },
+    {
+      "name": "Antu Cluster",
+      "pincodes": [
+        230501
+      ],
+      "areas": [
+        "Dhaurahra",
+        "Umari",
+        "Bhawanipur",
+        "Dubeypur",
+        "Para Hamidpur",
+        "Antu"
+      ],
+      "keywords": [
+        "Antu",
+        "Dhaurahra"
+      ],
+      "id": "pratapgarh_37"
+    },
+    {
+      "name": "Biharganj Area",
+      "pincodes": [
+        230502
+      ],
+      "areas": [
+        "Biharganj",
+        "Gobari",
+        "Jagesharganj",
+        "Upadhyaypur",
+        "Mahamdapur",
+        "Pure Madhosingh",
+        "Bhadausi",
+        "Pure keshav Rai",
+        "Pure Guru",
+        "Garwara",
+        "Dhekahi",
+        "Raibi Rajanipur"
+      ],
+      "keywords": [
+        "Biharganj",
+        "Gobari"
+      ],
+      "id": "pratapgarh_38"
+    },
+    {
+      "name": "Sandwa Chandika Region",
+      "pincodes": [
+        230503
+      ],
+      "areas": [
+        "Gaura Dand",
+        "Sandwa Chandika",
+        "Shahbari",
+        "Chhatarpur",
+        "Katehati",
+        "Pure Newal",
+        "Rajapur Rainiya",
+        "Kithawar",
+        "Kotha Newarhiya",
+        "Khajuri",
+        "Kishunganj",
+        "Kolbajhan",
+        "Ramnagar Bhojpur"
+      ],
+      "keywords": [
+        "Sandwa Chandika",
+        "Gaura Dand"
+      ],
+      "id": "pratapgarh_39"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Mau",
+  "city": "Mau",
+  "summary": "",
+  "total_areas": 195,
+  "total_pincodes": 22,
+  "zones": [
+    {
+      "name": "Dubari Area",
+      "pincodes": [
+        221601
+      ],
+      "areas": [
+        "Molnapur",
+        "Parasia",
+        "Bariyadih",
+        "Gagaupur",
+        "DUBARI",
+        "Dhrampur Bisnupur",
+        "Gajiyapur"
+      ],
+      "keywords": [
+        "Dubari",
+        "Molnapur",
+        "Parasia"
+      ],
+      "id": "mau_1"
+    },
+    {
+      "name": "Maryadpur Cluster",
+      "pincodes": [
+        221602
+      ],
+      "areas": [
+        "Lakhnaur",
+        "MARYADPUR",
+        "Belauli",
+        "Kamalsagar",
+        "Kathtaraon",
+        "Nemdand",
+        "Bahadurpur",
+        "Rampur"
+      ],
+      "keywords": [
+        "Maryadpur",
+        "Lakhnaur",
+        "Belauli"
+      ],
+      "id": "mau_2"
+    },
+    {
+      "name": "Madhu Ban Area",
+      "pincodes": [
+        221603
+      ],
+      "areas": [
+        "Bhairopur",
+        "Lalanpur",
+        "Banpokhara",
+        "Nathupur",
+        "Saundih",
+        "Siddha Ahilashpur",
+        "Madhu Ban",
+        "Baundih",
+        "Jajaauli",
+        "Fatehpur Talratoy",
+        "Katghar Shankar",
+        "Sipaibrahima Bad",
+        "Undura"
+      ],
+      "keywords": [
+        "Madhu Ban",
+        "Bhairopur",
+        "Lalanpur"
+      ],
+      "id": "mau_3"
+    },
+    {
+      "name": "Haldharpur Region",
+      "pincodes": [
+        221705
+      ],
+      "areas": [
+        "Gahana",
+        "Umapur",
+        "HALDHARPUR",
+        "Gahani",
+        "Talai Pur",
+        "Dumraon",
+        "Pardaha",
+        "Inderpur Bhalya",
+        "Ardauna",
+        "Kirath Sarai",
+        "Chakara",
+        "Pahasa",
+        "Saravan"
+      ],
+      "keywords": [
+        "Haldharpur",
+        "Gahana",
+        "Umapur"
+      ],
+      "id": "mau_4"
+    },
+    {
+      "name": "Ratan Pura Zone",
+      "pincodes": [
+        221706
+      ],
+      "areas": [
+        "Chhichore",
+        "Mustafa Bad",
+        "Nasira Bad Kala",
+        "Pindohari",
+        "Ailakhaimilia",
+        "Belaujha",
+        "Golauri",
+        "Kanso",
+        "Meuri",
+        "Ataraul Pandey",
+        "Semrajpur",
+        "Sidhwal",
+        "Ratan Pura"
+      ],
+      "keywords": [
+        "Ratan Pura",
+        "Chhichore",
+        "Mustafa Bad"
+      ],
+      "id": "mau_5"
+    },
+    {
+      "name": "Mau Town",
+      "pincodes": [
+        275101
+      ],
+      "areas": [
+        "Kahinaur",
+        "Mau RS",
+        "Mirjahadipura Chowk",
+        "Mau",
+        "Mau Town"
+      ],
+      "keywords": [
+        "Mau",
+        "Kahinaur",
+        "Mirjahadipura"
+      ],
+      "id": "mau_6"
+    },
+    {
+      "name": "Indara Area",
+      "pincodes": [
+        275102
+      ],
+      "areas": [
+        "Adari",
+        "Mohammadpur Math",
+        "Ali Nagar",
+        "Hathini",
+        "Kasara",
+        "INDARA"
+      ],
+      "keywords": [
+        "Indara",
+        "Adari",
+        "Mohammadpur Math"
+      ],
+      "id": "mau_7"
+    },
+    {
+      "name": "Kushmaur Cluster",
+      "pincodes": [
+        275103
+      ],
+      "areas": [
+        "Bagali Pijra",
+        "Khiriya",
+        "Raikwardeeh",
+        "Salahabad",
+        "Piparidih",
+        "Kushmaur"
+      ],
+      "keywords": [
+        "Kushmaur",
+        "Bagali Pijra",
+        "Khiriya"
+      ],
+      "id": "mau_8"
+    },
+    {
+      "name": "Jamalpur Region",
+      "pincodes": [
+        275105
+      ],
+      "areas": [
+        "Kalyanpur",
+        "JAMALMIRZAPUR",
+        "Ariyaso",
+        "Kari Sath",
+        "Maur Bojh",
+        "Lilari Bharauli",
+        "Pidhwal",
+        "Sarai Ganesh"
+      ],
+      "keywords": [
+        "Jamalpur",
+        "Kalyanpur",
+        "Ariyaso"
+      ],
+      "id": "mau_9"
+    },
+    {
+      "name": "Amila Zone",
+      "pincodes": [
+        275301
+      ],
+      "areas": [
+        "Katirahi Bugurg",
+        "Taktewarampur",
+        "Badraon",
+        "Bhatmila",
+        "Pilsui",
+        "Piwatal",
+        "Amila",
+        "Hemai",
+        "Piruth Singhpur",
+        "Rampur Sohand",
+        "Usari Khurd",
+        "Bojhi Bazar"
+      ],
+      "keywords": [
+        "Amila",
+        "Katirahi Bugurg",
+        "Taktewarampur"
+      ],
+      "id": "mau_10"
+    },
+    {
+      "name": "Fateh Pur Tal Naraja Area",
+      "pincodes": [
+        275302
+      ],
+      "areas": [
+        "Fateh Pur Tal Naraja",
+        "Hamid Pur",
+        "Bhopaura",
+        "Narawa Sarai",
+        "Iraura Chaubey Pur",
+        "Vijra Pura"
+      ],
+      "keywords": [
+        "Fateh Pur Tal Naraja",
+        "Hamid Pur",
+        "Bhopaura"
+      ],
+      "id": "mau_11"
+    },
+    {
+      "name": "Dohari Ghat Region",
+      "pincodes": [
+        275303
+      ],
+      "areas": [
+        "Dohari Ghat",
+        "Mohammadabad Sipah",
+        "Nai Bazar",
+        "Gotha",
+        "Panail",
+        "Canal Head"
+      ],
+      "keywords": [
+        "Dohari Ghat",
+        "Mohammadabad Sipah",
+        "Nai Bazar"
+      ],
+      "id": "mau_12"
+    },
+    {
+      "name": "Ghosi Area",
+      "pincodes": [
+        275304
+      ],
+      "areas": [
+        "Jamdih",
+        "Ahamadpur Asana",
+        "Manik Pur Haraura",
+        "Pakari Bujurg",
+        "GHOSI",
+        "Sultan Pur"
+      ],
+      "keywords": [
+        "Ghosi",
+        "Jamdih",
+        "Ahamadpur Asana"
+      ],
+      "id": "mau_13"
+    },
+    {
+      "name": "Kopaganj Zone",
+      "pincodes": [
+        275305
+      ],
+      "areas": [
+        "Bhela Bandh",
+        "Tajopur",
+        "Kurthi Zafar Pur",
+        "Saharoj",
+        "Badua Godam",
+        "Hardas Pur",
+        "Baktawar Ganj",
+        "Dhawariya Sath",
+        "KOPAGANJ",
+        "Faizullahpur",
+        "Itaura Dori Pur"
+      ],
+      "keywords": [
+        "Kopaganj",
+        "Bhela Bandh",
+        "Tajopur"
+      ],
+      "id": "mau_14"
+    },
+    {
+      "name": "Koiriapar Cluster",
+      "pincodes": [
+        275306
+      ],
+      "areas": [
+        "Bandi Ghat",
+        "Jogari",
+        "KOIRIYAPAR",
+        "Mirpur Rahimabad",
+        "Dangauli"
+      ],
+      "keywords": [
+        "Koiriapar",
+        "Bandi Ghat",
+        "Jogari"
+      ],
+      "id": "mau_15"
+    },
+    {
+      "name": "Majhwara Region",
+      "pincodes": [
+        275307
+      ],
+      "areas": [
+        "Majhwara",
+        "Semari Jamal Pur",
+        "Bela Sultanpur",
+        "Lakhani Mubarakpur",
+        "Moongmas",
+        "Pawani",
+        "Makhmelpur",
+        "Parsupur",
+        "Lalitpur"
+      ],
+      "keywords": [
+        "Majhwara",
+        "Semari Jamal Pur",
+        "Bela Sultanpur"
+      ],
+      "id": "mau_16"
+    },
+    {
+      "name": "Chiraia Kot Area",
+      "pincodes": [
+        276129
+      ],
+      "areas": [
+        "Karami",
+        "Sherpur",
+        "Kamarawa",
+        "Sachui",
+        "Jigar Sandi",
+        "Kajha",
+        "Rasepur",
+        "Sarauda",
+        "Barahalaganj",
+        "Bhagwat",
+        "Bramhanpur",
+        "Daulatabad",
+        "Mande",
+        "Chhapara",
+        "Chiraia Kot"
+      ],
+      "keywords": [
+        "Chiraia Kot",
+        "Karami",
+        "Sherpur"
+      ],
+      "id": "mau_17"
+    },
+    {
+      "name": "Suraj Pur Cluster",
+      "pincodes": [
+        276306
+      ],
+      "areas": [
+        "Suraj Pur",
+        "Rasoolpur",
+        "Kuranga",
+        "Bela Kasaila",
+        "Dargah",
+        "Mohammadpur Hasanpur",
+        "Sikari Kot",
+        "Misarauli",
+        "Bibi Pur"
+      ],
+      "keywords": [
+        "Suraj Pur",
+        "Rasoolpur",
+        "Kuranga"
+      ],
+      "id": "mau_18"
+    },
+    {
+      "name": "Nagpur Region",
+      "pincodes": [
+        276402
+      ],
+      "areas": [
+        "Nagpur",
+        "Rajapur",
+        "Sulatanipur",
+        "Gokulpura",
+        "Padari",
+        "Fatehpur",
+        "Kekai Hindola",
+        "SAUSARWA",
+        "KARAHA",
+        "Parasi",
+        "Yakubpur"
+      ],
+      "keywords": [
+        "Nagpur",
+        "Rajapur",
+        "Sulatanipur"
+      ],
+      "id": "mau_19"
+    },
+    {
+      "name": "Mohammadabad Gohna Area",
+      "pincodes": [
+        276403
+      ],
+      "areas": [
+        "Bandikala",
+        "Pali Garh",
+        "Amarhar",
+        "Halima Bad",
+        "Surahu Pur",
+        "Utarizpur",
+        "Ranipur",
+        "Mohammadabad Gohana Chowk",
+        "Daulasepur",
+        "Khurhar",
+        "Makhuni",
+        "Raini",
+        "Mohammadabad Gohna",
+        "Allauddinpur",
+        "Kanjhakhurd",
+        "Kolaura",
+        "Palia",
+        "Khairabad",
+        "Bada Gaon"
+      ],
+      "keywords": [
+        "Mohammadabad Gohna",
+        "Bandikala",
+        "Pali Garh"
+      ],
+      "id": "mau_20"
+    },
+    {
+      "name": "Walid Pur Zone",
+      "pincodes": [
+        276405
+      ],
+      "areas": [
+        "Dewal Ashram",
+        "Bara",
+        "Bhadir",
+        "Dhaur Hara",
+        "Dholana",
+        "Walid Pur"
+      ],
+      "keywords": [
+        "Walid Pur",
+        "Dewal Ashram",
+        "Bara"
+      ],
+      "id": "mau_21"
+    },
+    {
+      "name": "Sutarahi",
+      "pincodes": [
+        276406
+      ],
+      "areas": [
+        "Sutarahi"
+      ],
+      "keywords": [
+        "Sutarahi"
+      ],
+      "id": "mau_22"
+    }
+  ]
+}

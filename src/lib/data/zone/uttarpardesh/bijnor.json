@@ -1,0 +1,584 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Bijnor",
+  "city": "Bijnor",
+  "summary": "",
+  "total_areas": 281,
+  "total_pincodes": 24,
+  "zones": [
+    {
+      "name": "Bijnor City",
+      "pincodes": [
+        246701
+      ],
+      "areas": [
+        "Faridpur Bhogi",
+        "Sardhani",
+        "Daranagar Ganj",
+        "Suwheri",
+        "Vidur Kuti",
+        "SaidaBad",
+        "Uledha",
+        "Kharak Jeetpur",
+        "Agri",
+        "Bakherpur Garhi",
+        "Dharm Nagri",
+        "Mangolpura Roopchand",
+        "Prathvipur",
+        "Avas Vikas Bijnor",
+        "Fatehpur Kalan",
+        "Sabdalpur Rehra",
+        "Jatan",
+        "Nai Basti",
+        "District Board",
+        "Qaziwala",
+        "Mo Pur Mandawali",
+        "Bharaira",
+        "B I Estate",
+        "Nasiri",
+        "Naya Gaon",
+        "Gajraula Shiv",
+        "Bijnor",
+        "Khatriyan"
+      ],
+      "keywords": [
+        "Bijnor",
+        "City Center",
+        "Avas Vikas"
+      ],
+      "id": "bijnor_1"
+    },
+    {
+      "name": "Mandawar and Surroundings",
+      "pincodes": [
+        246721
+      ],
+      "areas": [
+        "Bahadarpur Sherfuddin",
+        "Ganjalpur",
+        "Mohiddinpur",
+        "Raipur Berisal",
+        "Chandok RS",
+        "Rawli",
+        "Mandawar SO Bijnor",
+        "Budgara",
+        "MohdPur Devmal",
+        "Narayanpur",
+        "Khanpur Madho",
+        "Maheswari Nagla"
+      ],
+      "keywords": [
+        "Mandawar",
+        "Chandok"
+      ],
+      "id": "bijnor_2"
+    },
+    {
+      "name": "Afzalgarh Region",
+      "pincodes": [
+        246722
+      ],
+      "areas": [
+        "Qadrabad",
+        "Rehar",
+        "Sirwasuchand",
+        "Bhatpura",
+        "Rasoolabad",
+        "Alampur Ganvri",
+        "Bheekhawala",
+        "Gordhanpur",
+        "Jamanwala",
+        "Kalluwala",
+        "Kasampur Garhi",
+        "Udaipur",
+        "Aasfabad Chaman",
+        "Anwarpur Chandka",
+        "Birla Farm",
+        "Afzalgarh",
+        "Hidayatpur",
+        "Maniyawala"
+      ],
+      "keywords": [
+        "Afzalgarh",
+        "Rehar"
+      ],
+      "id": "bijnor_3"
+    },
+    {
+      "name": "Balawali Cluster",
+      "pincodes": [
+        246723
+      ],
+      "areas": [
+        "Khirni Barkatpur",
+        "Balawali",
+        "Tisotra"
+      ],
+      "keywords": [
+        "Balawali"
+      ],
+      "id": "bijnor_4"
+    },
+    {
+      "name": "Badhapur Area",
+      "pincodes": [
+        246724
+      ],
+      "areas": [
+        "Badhapur",
+        "Barkhera",
+        "Tanda Shahuwala",
+        "Rampur",
+        "Ganga Ramwala"
+      ],
+      "keywords": [
+        "Badhapur"
+      ],
+      "id": "bijnor_5"
+    },
+    {
+      "name": "Chandpur and Vicinity",
+      "pincodes": [
+        246725
+      ],
+      "areas": [
+        "Ajdev Khanpur",
+        "Ismailpur",
+        "Mirzapur Khader",
+        "Siau",
+        "Bagarpur",
+        "Gandhore",
+        "Imliya",
+        "Pipli Jat",
+        "Saindwar",
+        "Chandpur RS",
+        "Bahmanshora",
+        "Datiyana",
+        "Heempur Buzurg",
+        "Roniya",
+        "Jalilpur",
+        "Sudnipur Rawati",
+        "Aurangabad Urf Sikanderpur",
+        "Darbara",
+        "Heempur Deepa",
+        "Singha",
+        "Chandpur"
+      ],
+      "keywords": [
+        "Chandpur",
+        "Siau"
+      ],
+      "id": "bijnor_6"
+    },
+    {
+      "name": "Haldaur and Surroundings",
+      "pincodes": [
+        246726
+      ],
+      "areas": [
+        "Amhera",
+        "Bilai",
+        "Chanda Nagli",
+        "Mehamdabad",
+        "Haldaur",
+        "Hardaspur Garhi",
+        "Nagal Jat",
+        "Pawati",
+        "Sherpur Kalyan",
+        "Baldiya",
+        "Paijaniya"
+      ],
+      "keywords": [
+        "Haldaur"
+      ],
+      "id": "bijnor_7"
+    },
+    {
+      "name": "Shahpur Kheri Cluster",
+      "pincodes": [
+        246727
+      ],
+      "areas": [
+        "Bishanpur",
+        "Kmala",
+        "Shahpur Kheri",
+        "Hassupura",
+        "Asgaripur",
+        "Jheeran",
+        "Nagli Pathwari",
+        "Manjhola Billoch",
+        "Lodhipur Milak"
+      ],
+      "keywords": [
+        "Shahpur Kheri"
+      ],
+      "id": "bijnor_8"
+    },
+    {
+      "name": "Jhalu and Nearby",
+      "pincodes": [
+        246728
+      ],
+      "areas": [
+        "Chowkpuri",
+        "Umri",
+        "Jhalu",
+        "Nawada",
+        "Dhanaura",
+        "Dhokalpur",
+        "Khari"
+      ],
+      "keywords": [
+        "Jhalu"
+      ],
+      "id": "bijnor_9"
+    },
+    {
+      "name": "Chandpur Sugar Factory Area",
+      "pincodes": [
+        246729
+      ],
+      "areas": [
+        "Sisauna",
+        "Chandpur Sugar Factory",
+        "Gangu Nagla",
+        "Baberpur",
+        "Fazalpur Dhaki",
+        "Maseet",
+        "Nayak Nagla"
+      ],
+      "keywords": [
+        "Chandpur Sugar Factory"
+      ],
+      "id": "bijnor_10"
+    },
+    {
+      "name": "Kiratpur and Surroundings",
+      "pincodes": [
+        246731
+      ],
+      "areas": [
+        "Bahupura",
+        "Bhojpur",
+        "Hussainpur",
+        "Meman Bhanera",
+        "Basi Kiratapur",
+        "Rampur Bishna",
+        "Chitawar",
+        "Mauzzampur Narayan",
+        "Padla",
+        "Kiratpur",
+        "Kumhera",
+        "Barampur",
+        "Doodhli"
+      ],
+      "keywords": [
+        "Kiratpur"
+      ],
+      "id": "bijnor_11"
+    },
+    {
+      "name": "Nagal Area",
+      "pincodes": [
+        246732
+      ],
+      "areas": [
+        "Sofatpur",
+        "Sabalpur Bitra",
+        "Nagal SO Bijnor",
+        "Rajpur Nawada",
+        "Jalpur"
+      ],
+      "keywords": [
+        "Nagal"
+      ],
+      "id": "bijnor_12"
+    },
+    {
+      "name": "Nehtaur Region",
+      "pincodes": [
+        246733
+      ],
+      "areas": [
+        "Akhera",
+        "Nehtaur Bus Stand",
+        "Mohammedpur Kamil",
+        "Phoolsanda",
+        "Sikri Buzurg",
+        "Begrajpur",
+        "Mahua",
+        "Milak Mukeempur",
+        "Narayan Kheri",
+        "Rustampur Sherpali Jat",
+        "Taharpur Said",
+        "Main Bazar Nehtaur",
+        "Alhedalpur Mubarak",
+        "Bairmabad Garhi",
+        "Harganpur Sajauli",
+        "Meharlipur",
+        "Nakibpur Khajoori",
+        "Rampur Bidar",
+        "Sadruddin Nagar",
+        "Nehtaur",
+        "Sedha",
+        "Sherpur Balla"
+      ],
+      "keywords": [
+        "Nehtaur"
+      ],
+      "id": "bijnor_13"
+    },
+    {
+      "name": "Noorpur and Surroundings",
+      "pincodes": [
+        246734
+      ],
+      "areas": [
+        "Khaspura",
+        "Murhat",
+        "Aheerpura",
+        "Bakhrabad Urf Khatai",
+        "Mustafabad",
+        "Shadipur Milak",
+        "Bhaisa",
+        "Dharupur",
+        "Shiwala Kalan",
+        "Noorpur",
+        "Allauddinpur",
+        "Azampur",
+        "Gohawar",
+        "Pheena",
+        "Ratagarh"
+      ],
+      "keywords": [
+        "Noorpur"
+      ],
+      "id": "bijnor_14"
+    },
+    {
+      "name": "Shikarpur Cluster",
+      "pincodes": [
+        246735
+      ],
+      "areas": [
+        "Sabdalpur",
+        "Rawana Shikarpur",
+        "Jamalpur Kirat",
+        "Rahtauli",
+        "Rajakatajpur",
+        "Bhogpur"
+      ],
+      "keywords": [
+        "Shikarpur"
+      ],
+      "id": "bijnor_15"
+    },
+    {
+      "name": "Bashta Area",
+      "pincodes": [
+        246736
+      ],
+      "areas": [
+        "Rasoolpur Nagla",
+        "Bakaina",
+        "Akondha",
+        "Basantpur",
+        "Bashta"
+      ],
+      "keywords": [
+        "Bashta"
+      ],
+      "id": "bijnor_16"
+    },
+    {
+      "name": "Rahu Nagli",
+      "pincodes": [
+        246737
+      ],
+      "areas": [
+        "Rahu Nagli"
+      ],
+      "keywords": [
+        "Rahu Nagli"
+      ],
+      "id": "bijnor_17"
+    },
+    {
+      "name": "Sahaspur and Surroundings",
+      "pincodes": [
+        246745
+      ],
+      "areas": [
+        "Kiwar",
+        "Mewa Nawada",
+        "Haldua Mafi",
+        "Bagwara",
+        "Maqsoodpur",
+        "Mehmoodpur",
+        "Sadaranpur",
+        "Sahaspur SO Bijnor"
+      ],
+      "keywords": [
+        "Sahaspur"
+      ],
+      "id": "bijnor_18"
+    },
+    {
+      "name": "Seohara Region",
+      "pincodes": [
+        246746
+      ],
+      "areas": [
+        "Daultabad",
+        "Sipahiwala",
+        "Seohara RS",
+        "Nawada Kesho",
+        "Sadafal",
+        "Seohara",
+        "Palanpur",
+        "Budhanpur",
+        "Mukarabpuri"
+      ],
+      "keywords": [
+        "Seohara"
+      ],
+      "id": "bijnor_19"
+    },
+    {
+      "name": "Sherkot and Surroundings",
+      "pincodes": [
+        246747
+      ],
+      "areas": [
+        "Shahnagar Kurali",
+        "Bhanauti",
+        "Shergarh",
+        "Suawala",
+        "Allhapurmohkam",
+        "Nwadasaidpur Jalal",
+        "Shahzadpur",
+        "Hafizabad",
+        "Haraivli",
+        "Jatpura",
+        "Mirzapur",
+        "Mohammedpur Rajauri",
+        "Sherkot"
+      ],
+      "keywords": [
+        "Sherkot"
+      ],
+      "id": "bijnor_20"
+    },
+    {
+      "name": "Mandawali and Nearby",
+      "pincodes": [
+        246749
+      ],
+      "areas": [
+        "Bijauri",
+        "Mandawali",
+        "Mohanpur",
+        "Rampur Chatha",
+        "Sahanpur",
+        "Bhaguwala",
+        "Jatpura Bonda"
+      ],
+      "keywords": [
+        "Mandawali"
+      ],
+      "id": "bijnor_21"
+    },
+    {
+      "name": "Nagina and Surroundings",
+      "pincodes": [
+        246762
+      ],
+      "areas": [
+        "Bhagwanpur",
+        "Bhogli",
+        "Haijarpur",
+        "Hirawali",
+        "Majhera Shakroo",
+        "Pakhanpur",
+        "Azad Colony Nagina",
+        "Alladinpur Bhogi",
+        "Harganpur",
+        "Nagina SO Bijnor",
+        "Harbanspur Dharam",
+        "Manawwarpur Said",
+        "Medpura Sultan",
+        "Nainpura",
+        "Saidpuri Mahichand",
+        "Alaihdajpur Khajuba",
+        "Jeetpur Paldi",
+        "Nagina Bazar",
+        "Islamabad"
+      ],
+      "keywords": [
+        "Nagina"
+      ],
+      "id": "bijnor_22"
+    },
+    {
+      "name": "Najibabad Region",
+      "pincodes": [
+        246763
+      ],
+      "areas": [
+        "Jhakaki",
+        "Lal Dhang",
+        "Mithi Beri",
+        "Najibabad",
+        "Fazalpur",
+        "Gajraula Paimar",
+        "Jahanabad Khobda",
+        "Tanda Maidas",
+        "Chandanpura",
+        "Jagdishpur",
+        "Jogirampuri",
+        "Kishanpur Aanwla",
+        "Raipur Sadat",
+        "Sikanderpur Basi",
+        "Talipada",
+        "I A Najibabad",
+        "Kallooganj",
+        "Najibabad Tehsil",
+        "Dhansini",
+        "Gaindi Khata",
+        "Guniapur",
+        "Jalalabad Bijnor",
+        "Kotkader",
+        "Mahawatpur Billoch",
+        "Haloowali",
+        "Najibabad RS"
+      ],
+      "keywords": [
+        "Najibabad"
+      ],
+      "id": "bijnor_23"
+    },
+    {
+      "name": "Kotwali Area",
+      "pincodes": [
+        246764
+      ],
+      "areas": [
+        "Barooki",
+        "Jhilmila",
+        "Lakhuwala",
+        "Shadipur",
+        "Maheswari Jat",
+        "Rajapur Sadat",
+        "Akbarabad",
+        "Mirzapur Mahesh Urf Bankpur",
+        "Sunpata",
+        "Baibalpur",
+        "Kotwali SO Bijnor"
+      ],
+      "keywords": [
+        "Kotwali"
+      ],
+      "id": "bijnor_24"
+    }
+  ]
+}

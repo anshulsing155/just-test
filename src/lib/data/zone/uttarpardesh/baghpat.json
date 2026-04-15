@@ -1,0 +1,319 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Baghpat",
+  "city": "Baghpat",
+  "summary": "",
+  "total_areas": 130,
+  "total_pincodes": 13,
+  "zones": [
+    {
+      "name": "Khekra and Surroundings",
+      "pincodes": [
+        250101
+      ],
+      "areas": [
+        "Fakharpur",
+        "Rly Road Khekra",
+        "Garhi Kalanjiri",
+        "Mubarikpur",
+        "Gothra",
+        "Phulera",
+        "Rataul",
+        "Gauna",
+        "Baragaon",
+        "Sankrodh",
+        "Sunehra",
+        "Bassi",
+        "Bhagot",
+        "Khekra"
+      ],
+      "keywords": [
+        "Khekra",
+        "Fakharpur",
+        "Rly Road"
+      ],
+      "id": "baghpat_1"
+    },
+    {
+      "name": "Binauli Cluster",
+      "pincodes": [
+        250345
+      ],
+      "areas": [
+        "Bijwara",
+        "Jiwaana",
+        "Ranchhar",
+        "Titroda",
+        "Binauli",
+        "Barnawa",
+        "Fazalpur",
+        "Galheta",
+        "Sirsali",
+        "Johri",
+        "Muzampur Kamala",
+        "Chandyan",
+        "Fatehpur Poothi",
+        "Sirsalgarh"
+      ],
+      "keywords": [
+        "Binauli",
+        "Barnawa",
+        "Johri"
+      ],
+      "id": "baghpat_2"
+    },
+    {
+      "name": "Agarwal Mandi and Vicinity",
+      "pincodes": [
+        250601
+      ],
+      "areas": [
+        "Sujra",
+        "Agarwal Mandi",
+        "Daula",
+        "Nibali",
+        "Bali",
+        "Basaudh",
+        "Garhi",
+        "Mitli",
+        "Nerojpur Gujar"
+      ],
+      "keywords": [
+        "Agarwal Mandi",
+        "Daula",
+        "Nibali"
+      ],
+      "id": "baghpat_3"
+    },
+    {
+      "name": "Aminagar Sarai Region",
+      "pincodes": [
+        250606
+      ],
+      "areas": [
+        "Budhsaini",
+        "Bilochpura",
+        "Gwali Khera",
+        "Ram Nagar",
+        "Tera",
+        "Aminagar Sarai",
+        "Garhi Hazurabad",
+        "Mawi Kalan",
+        "Singhaoli Ahir",
+        "Saidbhar"
+      ],
+      "keywords": [
+        "Aminagar Sarai",
+        "Ram Nagar",
+        "Mawi Kalan"
+      ],
+      "id": "baghpat_4"
+    },
+    {
+      "name": "Baghpat Central",
+      "pincodes": [
+        250609
+      ],
+      "areas": [
+        "Ahera",
+        "Sisana",
+        "Baghpat",
+        "Baghpat Sugar Mill",
+        "Court Compound Baghpat",
+        "Khatta"
+      ],
+      "keywords": [
+        "Baghpat",
+        "Ahera",
+        "Sisana"
+      ],
+      "id": "baghpat_5"
+    },
+    {
+      "name": "Baraut and Nearby",
+      "pincodes": [
+        250611
+      ],
+      "areas": [
+        "Barka",
+        "Barawad",
+        "Alwalpur",
+        "Hilwari",
+        "Budhera",
+        "Gandhi Chowk Baraut",
+        "Nai Mandi Baraut",
+        "Nehru Rd Baraut",
+        "Audhapur",
+        "Dohja",
+        "Kotana",
+        "Lohadda",
+        "Shahpur Badholi",
+        "Dhanaura Silver Nagar",
+        "Khwaja Nagla",
+        "Rajpur Khampur",
+        "Gurana",
+        "Dhikana",
+        "Shikohpur",
+        "Jaunmana",
+        "Sadiqpur Sinoli",
+        "Teodhi",
+        "Chaubli",
+        "Bazidpur",
+        "Luhari",
+        "Malakpur",
+        "Baraut"
+      ],
+      "keywords": [
+        "Baraut",
+        "Gandhi Chowk",
+        "Nai Mandi"
+      ],
+      "id": "baghpat_6"
+    },
+    {
+      "name": "Pilana and Surroundings",
+      "pincodes": [
+        250615
+      ],
+      "areas": [
+        "Khatta Prahladpur",
+        "Chamrawal",
+        "Hisawda",
+        "Pilana",
+        "Dhikauli",
+        "Lalyana",
+        "Pabla Begmabad"
+      ],
+      "keywords": [
+        "Pilana",
+        "Chamrawal",
+        "Hisawda"
+      ],
+      "id": "baghpat_7"
+    },
+    {
+      "name": "Sarurpur Kalan Area",
+      "pincodes": [
+        250619
+      ],
+      "areas": [
+        "Faizpur Ninana",
+        "Sarurpur Kalan",
+        "Khera Hatana",
+        "Kherki"
+      ],
+      "keywords": [
+        "Sarurpur Kalan",
+        "Faizpur Ninana"
+      ],
+      "id": "baghpat_8"
+    },
+    {
+      "name": "Bijrol and Vicinity",
+      "pincodes": [
+        250620
+      ],
+      "areas": [
+        "Bijrol",
+        "Bamnauli",
+        "Kandera"
+      ],
+      "keywords": [
+        "Bijrol",
+        "Bamnauli"
+      ],
+      "id": "baghpat_9"
+    },
+    {
+      "name": "Baoli Cluster",
+      "pincodes": [
+        250621
+      ],
+      "areas": [
+        "Baoli",
+        "Jalalpur",
+        "Barwala",
+        "Gunga Kheri"
+      ],
+      "keywords": [
+        "Baoli",
+        "Jalalpur"
+      ],
+      "id": "baghpat_10"
+    },
+    {
+      "name": "Doghat and Surroundings",
+      "pincodes": [
+        250622
+      ],
+      "areas": [
+        "Bharal",
+        "Dhanaura Tikri",
+        "Gaidbara",
+        "Jhundpur",
+        "Azampur Mulsam",
+        "Begmabad Garhi",
+        "Kanhar",
+        "Muzaffarpur Kanwara",
+        "Palra",
+        "Pusar",
+        "Doghat",
+        "Idrishpur",
+        "Daha",
+        "Palri"
+      ],
+      "keywords": [
+        "Doghat",
+        "Dhanaura Tikri",
+        "Begmabad Garhi"
+      ],
+      "id": "baghpat_11"
+    },
+    {
+      "name": "Ramala and Nearby",
+      "pincodes": [
+        250623
+      ],
+      "areas": [
+        "Budhpur",
+        "Ibrahimpur Mazra",
+        "Kakripur",
+        "Asarfabad Thal",
+        "Kirthal",
+        "Kishanpur Baral",
+        "Asara",
+        "Ramala",
+        "Soop",
+        "Basauli",
+        "Jiwana",
+        "Kasimpur Khari",
+        "Lumb"
+      ],
+      "keywords": [
+        "Ramala",
+        "Asara",
+        "Kirthal"
+      ],
+      "id": "baghpat_12"
+    },
+    {
+      "name": "Tikri and Surroundings",
+      "pincodes": [
+        250625
+      ],
+      "areas": [
+        "Gangnauli",
+        "Mozizabad Nangal",
+        "Nirpura",
+        "Sujti",
+        "Tikri"
+      ],
+      "keywords": [
+        "Tikri",
+        "Gangnauli",
+        "Mozizabad Nangal"
+      ],
+      "id": "baghpat_13"
+    }
+  ]
+}

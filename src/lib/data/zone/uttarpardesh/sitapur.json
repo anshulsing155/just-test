@@ -1,0 +1,812 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Sitapur",
+  "city": "Sitapur",
+  "summary": "",
+  "total_areas": 418,
+  "total_pincodes": 29,
+  "zones": [
+    {
+      "name": "Sitapur City",
+      "pincodes": [
+        261001,
+        261201,
+        261151,
+        261135
+      ],
+      "areas": [
+        "Imaliya Sultanpur",
+        "Indrauli",
+        "Lilsi",
+        "Sitapur",
+        "Ailiya",
+        "Chinhara",
+        "Ramkot",
+        "Angarasi",
+        "Neri Kalan",
+        "Koriya Udaipur",
+        "Keshavpur",
+        "Bus Stand",
+        "Nai Basti SO Sitapur",
+        "OLD TOWN",
+        "Second Bn PAC",
+        "Sitapur Kutchehry",
+        "Naveen Mandi",
+        "Dhouremau",
+        "Banzariya",
+        "Reseura Form",
+        "Jar",
+        "Kasimpur",
+        "Mirzapur",
+        "Jail Road SO Sitapur",
+        "RPV",
+        "Sitapur City",
+        "Mainasi Saraiyan",
+        "Daranagar",
+        "Tareenpur",
+        "Baseti",
+        "Padrakha",
+        "Avas Vikas Colony SO Sitapur",
+        "Eye Hospital",
+        "Vijay Laxmi Nagar",
+        "Humaunpur",
+        "Sahsapur",
+        "Belgawan",
+        "Khagesiamau",
+        "27 Bn PAC",
+        "Alamnagar",
+        "Lohar Bagh",
+        "Xi Bn PAC",
+        "Bakahuan",
+        "Bhakuraha",
+        "Bilariya"
+      ],
+      "keywords": [
+        "Sitapur",
+        "City Center",
+        "Urban"
+      ],
+      "id": "sitapur_1"
+    },
+    {
+      "name": "Hargaon Region",
+      "pincodes": [
+        261121
+      ],
+      "areas": [
+        "Dateli",
+        "Hargaon ND",
+        "Kusuma",
+        "Rajepur",
+        "Akhtiyarpur",
+        "Gurdhapa",
+        "Saadat Nagar",
+        "Mumtajpur",
+        "Parsehra Nath",
+        "Belamau Kalan",
+        "Kabirpur Budhanpur",
+        "Keoti Kalan",
+        "Koriya Udnapur",
+        "Selumau",
+        "Tihar",
+        "Badeliya",
+        "Mudikhera",
+        "Newada",
+        "Pichhaura",
+        "Rakhauna",
+        "Umari",
+        "HS Mills"
+      ],
+      "keywords": [
+        "Hargaon",
+        "Rural Cluster"
+      ],
+      "id": "sitapur_2"
+    },
+    {
+      "name": "Husainganj and Surroundings",
+      "pincodes": [
+        261125
+      ],
+      "areas": [
+        "Husainganj SO Sitapur",
+        "Bizwar",
+        "Gauria Kalan",
+        "Mubarakpur Udaipur",
+        "Baragaon Bhurjiha",
+        "Mazlishpur",
+        "Nauwa Mahmoodpur",
+        "Shah Maholi",
+        "Sonari"
+      ],
+      "keywords": [
+        "Husainganj",
+        "Maholi"
+      ],
+      "id": "sitapur_3"
+    },
+    {
+      "name": "Khairabad Area",
+      "pincodes": [
+        261131
+      ],
+      "areas": [
+        "Ashrafpur",
+        "Gauriya",
+        "Nerpur",
+        "Rahimabad",
+        "Sharifganj",
+        "Suhetara",
+        "Khairabad SO Sitapur",
+        "Paharpur Maheshpur",
+        "Tappa Khajuriya",
+        "Dharaincha Bazar",
+        "Garhisenpur"
+      ],
+      "keywords": [
+        "Khairabad",
+        "Market Area"
+      ],
+      "id": "sitapur_4"
+    },
+    {
+      "name": "Laharpur Region",
+      "pincodes": [
+        261135
+      ],
+      "areas": [
+        "Akbarpur",
+        "Behra Kodehra",
+        "Dhakera",
+        "Makanpur",
+        "Nabinagar",
+        "Beni Sarain",
+        "Karseora",
+        "Laharpur East",
+        "Murthana",
+        "Laharpur",
+        "Gularipurwa",
+        "Gurepara",
+        "Katesar",
+        "Newada Nayagaon",
+        "Sherpur",
+        "Bhadfar",
+        "Kakrahi",
+        "Mudrasan",
+        "Shahpur",
+        "Bilaria",
+        "Nimauchi",
+        "Raipur Ganj",
+        "Ramnagar"
+      ],
+      "keywords": [
+        "Laharpur",
+        "Rural"
+      ],
+      "id": "sitapur_5"
+    },
+    {
+      "name": "Dhourahra and Nearby",
+      "pincodes": [
+        261136
+      ],
+      "areas": [
+        "Marsanda",
+        "Lalpur",
+        "Maror",
+        "Sonsari",
+        "Tanda Kalan",
+        "Dhourahra",
+        "Dugana",
+        "Itauwa",
+        "Sumrawan",
+        "Matuwa Saraiyan",
+        "Kusepa",
+        "Lakhuwabehar",
+        "Maithaura",
+        "Sakaran",
+        "Singhnapur"
+      ],
+      "keywords": [
+        "Dhourahra",
+        "Rural"
+      ],
+      "id": "sitapur_6"
+    },
+    {
+      "name": "Maholi and Surroundings",
+      "pincodes": [
+        261141
+      ],
+      "areas": [
+        "Baragaon",
+        "Chaturaiya",
+        "Kachura",
+        "Tikra Teekar",
+        "Maholi",
+        "Bisara",
+        "Jahansapur",
+        "Kusaila",
+        "Neri",
+        "Patabodh",
+        "Sadikapur",
+        "Salahpur",
+        "Bachhawal",
+        "Bambhaura",
+        "Barbatapur Chitahla",
+        "Bhurkuri",
+        "Wazirnagar",
+        "Beehat Gaur",
+        "Chathia",
+        "Girdharpur",
+        "Hathia",
+        "Pailakisha",
+        "Inayat Nagar",
+        "Kateeli",
+        "Urdauli"
+      ],
+      "keywords": [
+        "Maholi",
+        "Rural"
+      ],
+      "id": "sitapur_7"
+    },
+    {
+      "name": "Manpur and Vicinity",
+      "pincodes": [
+        261145
+      ],
+      "areas": [
+        "Belwa Baharurpur",
+        "Tendua",
+        "Ulara",
+        "Banni Kharela",
+        "Bisenda",
+        "Saraiyan Sani",
+        "Hathiya Gazipur",
+        "Munderi",
+        "Purwa Dasa Pur",
+        "Manpur SO Sitapur"
+      ],
+      "keywords": [
+        "Manpur",
+        "Rural"
+      ],
+      "id": "sitapur_8"
+    },
+    {
+      "name": "Pisawan Area",
+      "pincodes": [
+        261151
+      ],
+      "areas": [
+        "Bargawan",
+        "Kotra Deokali",
+        "Gursanda",
+        "Musabbarpur",
+        "Fakharpur",
+        "Bahadurnagar",
+        "Bhauraha",
+        "Mathan",
+        "Sejkhurd",
+        "Pisawan"
+      ],
+      "keywords": [
+        "Pisawan",
+        "Rural"
+      ],
+      "id": "sitapur_9"
+    },
+    {
+      "name": "Biswan and Surroundings",
+      "pincodes": [
+        261201
+      ],
+      "areas": [
+        "Maharaj Nagar",
+        "Manikapur",
+        "Pokhra Kalan",
+        "Sadarpur",
+        "Bhithmani",
+        "Sarain",
+        "Ahmedabad",
+        "Bilauli Nankari",
+        "Dhoukalganj",
+        "Gurera",
+        "Kauwa Khera",
+        "Madnapur",
+        "Shivthana",
+        "Bahuahan",
+        "Keoty Badullah",
+        "Kotra",
+        "Tikra",
+        "Biswan",
+        "Bhinaini",
+        "Bhurkunda Bazar",
+        "Bhusna",
+        "Deokaliya",
+        "Kaimahara Kalan",
+        "Lashkarpur",
+        "Mangrahiya Bazar",
+        "Ramabhari",
+        "Razakarnai"
+      ],
+      "keywords": [
+        "Biswan",
+        "Market Area"
+      ],
+      "id": "sitapur_10"
+    },
+    {
+      "name": "Jahangirabad and Nearby",
+      "pincodes": [
+        261202
+      ],
+      "areas": [
+        "Bhainsaha",
+        "Bohra",
+        "Adwari",
+        "Khanpur",
+        "Palhari",
+        "Rewan",
+        "Supauli",
+        "Punjikhera",
+        "Jahangirabad SO Sitapur",
+        "Basudaha",
+        "Chandraseni",
+        "Jhauwa",
+        "Sanda",
+        "Naseerpur"
+      ],
+      "keywords": [
+        "Jahangirabad",
+        "Rural"
+      ],
+      "id": "sitapur_11"
+    },
+    {
+      "name": "Mahmudabad Region",
+      "pincodes": [
+        261203
+      ],
+      "areas": [
+        "Baghain",
+        "Bhethra Madhav",
+        "Niyamatpur Labarha",
+        "Samardaha",
+        "Manapur",
+        "Parwatpur",
+        "Imiliya Manpur",
+        "Marahmatnagar",
+        "Meeranagar",
+        "Mohammadpur Kadim",
+        "Painteypur",
+        "Purwa Rewan",
+        "Mahmudabad",
+        "Padukha"
+      ],
+      "keywords": [
+        "Mahmudabad",
+        "Rural"
+      ],
+      "id": "sitapur_12"
+    },
+    {
+      "name": "Rampur Mathura Area",
+      "pincodes": [
+        261204
+      ],
+      "areas": [
+        "Bahadurganj",
+        "Para Ramnagra",
+        "Terwa Manikapur",
+        "Bansura",
+        "Chikkari Dhandhar",
+        "Gonda Deoria",
+        "Gondaha",
+        "Lohiyanagar",
+        "Umari Ganeshpur",
+        "Rampur Mathura",
+        "Angaraura",
+        "Ataura",
+        "Itia",
+        "Sadhuwapur",
+        "Bhagipur",
+        "Keora",
+        "Kothwal"
+      ],
+      "keywords": [
+        "Rampur Mathura",
+        "Rural"
+      ],
+      "id": "sitapur_13"
+    },
+    {
+      "name": "Reosa and Surroundings",
+      "pincodes": [
+        261205
+      ],
+      "areas": [
+        "Bambhanawan",
+        "Bhartha",
+        "Kodaura",
+        "Thoura",
+        "Bhadmara",
+        "Itauri",
+        "Kondari",
+        "Semra",
+        "Dhenua",
+        "Golok Kondar",
+        "Gwari",
+        "Jatpurwa Kishoreganj",
+        "Rajapur Kalan",
+        "Kankari",
+        "Magdapur",
+        "Panditpurwa",
+        "Seota",
+        "Bambhiya",
+        "Dalpatpur",
+        "Husainpur Khani",
+        "Seepatpur",
+        "Shankarpur",
+        "Thangaon",
+        "Reosa"
+      ],
+      "keywords": [
+        "Reosa",
+        "Rural"
+      ],
+      "id": "sitapur_14"
+    },
+    {
+      "name": "Pahla and Nearby",
+      "pincodes": [
+        261206
+      ],
+      "areas": [
+        "Bambhaur",
+        "Shamshabad",
+        "Sultanapur",
+        "Saraiyan Raja Saheb",
+        "Babupur",
+        "Saraiyan Mahipat Singh",
+        "Bilauli Bazar",
+        "Rampur Kalan",
+        "Balsinghpur",
+        "Ishwarwara",
+        "Meer Nagar",
+        "Pahla",
+        "Sirsa Khurd"
+      ],
+      "keywords": [
+        "Pahla",
+        "Rural"
+      ],
+      "id": "sitapur_15"
+    },
+    {
+      "name": "Talgaon and Surroundings",
+      "pincodes": [
+        261207
+      ],
+      "areas": [
+        "Kasraila Bazar",
+        "Talgaon",
+        "Angarasi Shekhwapur",
+        "Makhpur Jareli",
+        "Mubarakpur",
+        "Parsendi",
+        "Samaisa",
+        "Dhondhi",
+        "Teola",
+        "Gauria Jhal",
+        "Itari",
+        "Kalabahadurpur",
+        "Kaimahra",
+        "Kazi Sarain"
+      ],
+      "keywords": [
+        "Talgaon",
+        "Rural"
+      ],
+      "id": "sitapur_16"
+    },
+    {
+      "name": "Tambour and Nearby",
+      "pincodes": [
+        261208
+      ],
+      "areas": [
+        "Behta Pakauri",
+        "Rehar",
+        "Salpur",
+        "Sujawalpur",
+        "Ajaipur",
+        "Biswan Khurd",
+        "Govindapur",
+        "Ramuwapur",
+        "Sonawan",
+        "Mudila",
+        "Tambour",
+        "Hazaratpur",
+        "Kathura",
+        "Mallapur"
+      ],
+      "keywords": [
+        "Tambour",
+        "Rural"
+      ],
+      "id": "sitapur_17"
+    },
+    {
+      "name": "Mishrikh Area",
+      "pincodes": [
+        261301
+      ],
+      "areas": [
+        "Dahawa",
+        "Unchakhera Ajai",
+        "Sarwa",
+        "Dhakhinawan",
+        "Kabra",
+        "Manduri",
+        "Rehuwa",
+        "Saidapur",
+        "Sarwa Jalalpur",
+        "Ahewa",
+        "Daulatpur Behma",
+        "Neelgaon",
+        "Bhandia",
+        "Baloia",
+        "Khalgaon",
+        "Kharwalia",
+        "Sair"
+      ],
+      "keywords": [
+        "Mishrikh",
+        "Rural"
+      ],
+      "id": "sitapur_18"
+    },
+    {
+      "name": "Kamlapur and Surroundings",
+      "pincodes": [
+        261302
+      ],
+      "areas": [
+        "Hasnapur",
+        "Makhuwapur",
+        "Sujaulia",
+        "Kamlapur SO Sitapur",
+        "Bhithauli",
+        "Lalpuir",
+        "Shah Jalalpur",
+        "Basaideeh",
+        "Bhithaura",
+        "Saraura Kalan",
+        "Suraincha",
+        "Kasmanda",
+        "Madhawapur",
+        "Neorajpur",
+        "Bambhera",
+        "Phoolpur",
+        "Unchakhera Kalan"
+      ],
+      "keywords": [
+        "Kamlapur",
+        "Rural"
+      ],
+      "id": "sitapur_19"
+    },
+    {
+      "name": "Sidhauli Region",
+      "pincodes": [
+        261303
+      ],
+      "areas": [
+        "Gandhauli",
+        "Pachhimgaon",
+        "Parewajal",
+        "Terwa",
+        "Sidhauli",
+        "Bari",
+        "Garhi Kherwa",
+        "Kathwa",
+        "Kondaria",
+        "Kursi",
+        "Manwa",
+        "Raipur Deo Singh",
+        "Sitarasoi",
+        "Badanpur",
+        "Chauriya",
+        "Ganga Ganj",
+        "Husainganj",
+        "Saholi",
+        "Baunabhari",
+        "Hindaura",
+        "Atariya",
+        "Akohra",
+        "Amberpur",
+        "Anshuamau",
+        "Dhawarpara",
+        "Godhana",
+        "Kuchlai"
+      ],
+      "keywords": [
+        "Sidhauli",
+        "Rural"
+      ],
+      "id": "sitapur_20"
+    },
+    {
+      "name": "Mishrikh Tirth",
+      "pincodes": [
+        261401
+      ],
+      "areas": [
+        "Akbapur",
+        "Kolhuwa",
+        "Mohkampur Mandaruwa",
+        "Mishrikh",
+        "Arthapur",
+        "Ant",
+        "Garasa",
+        "Islamnagar",
+        "Kishunpur",
+        "Phulruwa",
+        "Qutubnagar",
+        "Sahabnagar",
+        "Mishrikh Tirth"
+      ],
+      "keywords": [
+        "Mishrikh Tirth",
+        "Religious"
+      ],
+      "id": "sitapur_21"
+    },
+    {
+      "name": "Naimisharanya",
+      "pincodes": [
+        261402
+      ],
+      "areas": [
+        "Naimisharanya",
+        "Bhithauli Chitrakoot",
+        "Atwa"
+      ],
+      "keywords": [
+        "Naimisharanya",
+        "Religious"
+      ],
+      "id": "sitapur_22"
+    },
+    {
+      "name": "Aurangabad and Surroundings",
+      "pincodes": [
+        261403
+      ],
+      "areas": [
+        "Korauna",
+        "Ramgarh",
+        "Ramshala",
+        "Brahmawali",
+        "Kunera",
+        "Mudia Kail",
+        "Sarosa",
+        "Gohilari",
+        "Gangoopur",
+        "Kalli",
+        "Mareli",
+        "Chandpur",
+        "Aurangabad SO Sitapur",
+        "Bartal",
+        "Bharauna",
+        "Lauli",
+        "Ralamau",
+        "Samsapur",
+        "Sandana",
+        "Tatroi"
+      ],
+      "keywords": [
+        "Aurangabad",
+        "Rural"
+      ],
+      "id": "sitapur_23"
+    },
+    {
+      "name": "Sakrara and Nearby",
+      "pincodes": [
+        261404
+      ],
+      "areas": [
+        "Sakrara",
+        "Parsehra",
+        "Bhadebhar",
+        "Dadeura",
+        "Nighuwamau",
+        "Parsada"
+      ],
+      "keywords": [
+        "Sakrara",
+        "Rural"
+      ],
+      "id": "sitapur_24"
+    },
+    {
+      "name": "Machharehta Region",
+      "pincodes": [
+        261405
+      ],
+      "areas": [
+        "Amtamau",
+        "Fateh Nagar",
+        "Beehatbeeram",
+        "Rajepara",
+        "Machharehta",
+        "Baniyamau",
+        "Badrawan"
+      ],
+      "keywords": [
+        "Machharehta",
+        "Rural"
+      ],
+      "id": "sitapur_25"
+    },
+    {
+      "name": "Nakia Khera",
+      "pincodes": [
+        261505
+      ],
+      "areas": [
+        "Nakia Khera"
+      ],
+      "keywords": [
+        "Nakia Khera",
+        "Isolated"
+      ],
+      "id": "sitapur_26"
+    },
+    {
+      "name": "Mahadeo Atra",
+      "pincodes": [
+        262721
+      ],
+      "areas": [
+        "Mahadeo Atra"
+      ],
+      "keywords": [
+        "Mahadeo Atra",
+        "Isolated"
+      ],
+      "id": "sitapur_27"
+    },
+    {
+      "name": "Phoolpur Gunia",
+      "pincodes": [
+        262722
+      ],
+      "areas": [
+        "Phoolpur Gunia"
+      ],
+      "keywords": [
+        "Phoolpur Gunia",
+        "Isolated"
+      ],
+      "id": "sitapur_28"
+    },
+    {
+      "name": "Piparia Form",
+      "pincodes": [
+        262728
+      ],
+      "areas": [
+        "Piparia Form"
+      ],
+      "keywords": [
+        "Piparia Form",
+        "Isolated"
+      ],
+      "id": "sitapur_29"
+    }
+  ]
+}

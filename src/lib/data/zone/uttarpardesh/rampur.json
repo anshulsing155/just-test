@@ -1,0 +1,258 @@
+{
+  "state": "Uttar Pradesh",
+  "district": "Rampur",
+  "city": "Rampur",
+  "summary": "",
+  "total_areas": 124,
+  "total_pincodes": 10,
+  "zones": [
+    {
+      "name": "Rampur City and Surroundings",
+      "pincodes": [
+        244901
+      ],
+      "areas": [
+        "Chamrawa",
+        "Juthia",
+        "Mahu Nagar",
+        "Ajit Pur",
+        "Mathurapur",
+        "Pahari Gate",
+        "Meston Ganj",
+        "Rampur",
+        "Daniapur",
+        "Bara Khas",
+        "Rewari Kalan",
+        "Roshan Bag Road",
+        "C M Store",
+        "Jwala Nagar",
+        "MBRampur",
+        "Purana Ganj",
+        "Rampur Chowk",
+        "Rampur Secretariate",
+        "Aghapur",
+        "Madhauli",
+        "Patwai",
+        "Koila",
+        "Kira",
+        "Nipania",
+        "Rampur City",
+        "RAMPUR DISTILLERY",
+        "Tehsil Rampur",
+        "Saijni Nankar",
+        "Bhot",
+        "Benazir",
+        "Bakenia",
+        "Civil Line Rampur",
+        "Narkhera",
+        "Chikti Ramnagar",
+        "Punjab Nagar",
+        "Kakrawa",
+        "Nankar",
+        "CRP Hq"
+      ],
+      "keywords": [
+        "Rampur",
+        "City",
+        "Civil Lines",
+        "Market"
+      ],
+      "id": "rampur_1"
+    },
+    {
+      "name": "Milak and Nearby Areas",
+      "pincodes": [
+        244701
+      ],
+      "areas": [
+        "Jiwai Kadim",
+        "Keorar",
+        "Rathonda",
+        "Babura",
+        "Dhamora",
+        "Loha",
+        "Bhonrka",
+        "Mankara",
+        "Patti Basantpur",
+        "Gangapur Purvi",
+        "Silai Bara Gaon",
+        "Parshupura",
+        "Dhaneli Uttari",
+        "Koop",
+        "Param",
+        "Milak",
+        "Khamaria",
+        "Kiramcha"
+      ],
+      "keywords": [
+        "Milak",
+        "Jiwai Kadim",
+        "Rathonda"
+      ],
+      "id": "rampur_2"
+    },
+    {
+      "name": "Bilaspur Region",
+      "pincodes": [
+        244921,
+        244923
+      ],
+      "areas": [
+        "Hamidabad",
+        "Ishanagar",
+        "Nawabganj",
+        "Pipalia Gopal",
+        "Simaria",
+        "Ahro",
+        "Paigamberpur",
+        "Mathkhera",
+        "Mulla Khera",
+        "Rasdandia",
+        "Anwaria Talibabad",
+        "Begamabad",
+        "Bhansia Jawalapuri",
+        "Chandela",
+        "Khandia",
+        "Milak Khanam",
+        "Ratanpura",
+        "Bilaspur Rampur",
+        "Chandain",
+        "Swarg Farm",
+        "Godhi",
+        "Panwaria",
+        "Rampura Buzurg",
+        "Bilaspur Chini Mill"
+      ],
+      "keywords": [
+        "Bilaspur",
+        "Nawabganj",
+        "Chini Mill"
+      ],
+      "id": "rampur_3"
+    },
+    {
+      "name": "Suar and Surrounding Villages",
+      "pincodes": [
+        244924
+      ],
+      "areas": [
+        "Doondawala",
+        "Puswara",
+        "Khempur",
+        "Khod Sharif",
+        "Kunwarpur",
+        "Meerapur Meerganj",
+        "Maswasi",
+        "Nanka Rani",
+        "Samodia",
+        "Rehmatganj",
+        "Suar",
+        "Bhot Baqqal"
+      ],
+      "keywords": [
+        "Suar",
+        "Meerganj",
+        "Maswasi"
+      ],
+      "id": "rampur_4"
+    },
+    {
+      "name": "Shahbad and Nearby",
+      "pincodes": [
+        244922
+      ],
+      "areas": [
+        "Bara Gaon",
+        "Dhakia",
+        "Madhukar",
+        "Tanda",
+        "Shahbad SO Rampur",
+        "Unchagaon",
+        "Ghrampur Narendrapur",
+        "Karenthi",
+        "Rawana"
+      ],
+      "keywords": [
+        "Shahbad",
+        "Tanda",
+        "Bara Gaon"
+      ],
+      "id": "rampur_5"
+    },
+    {
+      "name": "Kemri",
+      "pincodes": [
+        244928
+      ],
+      "areas": [
+        "Kemri SO Rampur"
+      ],
+      "keywords": [
+        "Kemri"
+      ],
+      "id": "rampur_6"
+    },
+    {
+      "name": "Azim Nagar and Surroundings",
+      "pincodes": [
+        244927
+      ],
+      "areas": [
+        "Ahmad Nagar Kalan",
+        "Said Nagar",
+        "Azim Nagar",
+        "Kashipur",
+        "Mursaina",
+        "Deorania",
+        "Lalpur Kalan",
+        "Nagalia Aqil",
+        "Singhankhera",
+        "Hamirpur",
+        "Khod"
+      ],
+      "keywords": [
+        "Azim Nagar",
+        "Said Nagar",
+        "Kashipur"
+      ],
+      "id": "rampur_7"
+    },
+    {
+      "name": "Tanda Badli and Nearby",
+      "pincodes": [
+        244925
+      ],
+      "areas": [
+        "Dhanupura",
+        "Ramnagar Latifpur",
+        "Daryal",
+        "Manpur",
+        "Dheeraj Nagar",
+        "Lambakhera",
+        "Pipli Nayak",
+        "Mewla Kalan",
+        "Udmawala",
+        "Tanda Badli"
+      ],
+      "keywords": [
+        "Tanda Badli",
+        "Ramnagar",
+        "Daryal"
+      ],
+      "id": "rampur_8"
+    },
+    {
+      "name": "Modipur",
+      "pincodes": [
+        244926
+      ],
+      "areas": [
+        "Modipur"
+      ],
+      "keywords": [
+        "Modipur"
+      ],
+      "id": "rampur_9"
+    }
+  ]
+}
