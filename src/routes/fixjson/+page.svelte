@@ -156,3 +156,38 @@ function handleDownload() {
 
 <button on:click={processProjects}>Process Projects</button>
 <button on:click={handleDownload}>Download Projects JSON</button> -->
+
+
+
+
+<script>
+import rawData from '../../lib/data/companies_with_projects_2026-04-06T06-27-43-033Z.json';
+
+let companiesData = rawData; // 👈 ab yeh mutable hai
+
+
+function handleProjects() {
+  const updated = companiesData.map((data) => {
+    if (!data.projects || data.projects.length === 0) return data;
+
+    return {
+      ...data,
+      projects: data.projects.map((project) => ({
+        ...project,
+        builderId: data._id
+      }))
+    };
+  });
+
+  console.log(updated);
+
+  // 👉 yeh line must hai for reactivity
+  companiesData = updated;
+}
+
+
+
+
+</script>
+
+<button onclick={handleProjects}> Add project ids</button>
