@@ -28511,11 +28511,14 @@
         "name": "Supertech Czar",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:44.790Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Omicron I, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbe509b2489bdd195fec",
@@ -28523,11 +28526,14 @@
         "name": "ECO VILLAGE-II (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:57.782Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fbeb09b2489bdd196000",
@@ -28535,11 +28541,14 @@
         "name": "Emerald Court Phase II (Apex & Ceyane)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:03.352Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 93A, Noida",
+        "pinCode": "201305"
       },
       {
         "_id": "69c0fc7d09b2489bdd196264",
@@ -28547,11 +28556,14 @@
         "name": "SPORTS VILLAGE (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:29.242Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Knowledge Park V, Greater Noida",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fc7d09b2489bdd196265",
@@ -28559,11 +28571,14 @@
         "name": "SPORTS VILLAGE (PHASE-II, VILLA)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:29.467Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Knowledge Park V, Greater Noida",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fc7d09b2489bdd196266",
@@ -28571,11 +28586,14 @@
         "name": "SPORTS VILLAGE (PHASE-III, Commercial)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:29.732Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Khodna Khurd, Noida Extension",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fc8309b2489bdd19627d",
@@ -28583,11 +28601,14 @@
         "name": "SUPERTECH CAPETOWN (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:34.917Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 74, Noida",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc8309b2489bdd19627f",
@@ -28595,11 +28616,14 @@
         "name": "Supertech Eco Village-3 Phase-3",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:35.427Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fc8309b2489bdd196280",
@@ -28607,11 +28631,14 @@
         "name": "SUPERTECH ECO VILLAGE-I (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:35.657Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida West",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fc8309b2489bdd196281",
@@ -28619,11 +28646,14 @@
         "name": "SUPERTECH ECO VILLAGE-I (PHASE-II)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:35.870Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8409b2489bdd196282",
@@ -28631,11 +28661,14 @@
         "name": "SUPERTECH ECO VILLAGE-I (PHASE-III)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:36.087Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8409b2489bdd196283",
@@ -28643,11 +28676,14 @@
         "name": "SUPERTECH ECO VILLAGE-I PHASE I-C",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:36.286Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 1, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8409b2489bdd196284",
@@ -28655,11 +28691,14 @@
         "name": "SUPERTECH ECO VILLAGE-II (PHASE-II)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:36.495Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8409b2489bdd196285",
@@ -28667,11 +28706,14 @@
         "name": "SUPERTECH ECO VILLAGE-II (PHASE-III)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:36.706Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8409b2489bdd196286",
@@ -28679,11 +28721,14 @@
         "name": "SUPERTECH ECO VILLAGE-II (PHASE-IV)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:36.925Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8509b2489bdd196287",
@@ -28691,11 +28736,14 @@
         "name": "SUPERTECH ECO VILLAGE-II PHASE I-C",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:37.152Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8509b2489bdd196288",
@@ -28703,11 +28751,14 @@
         "name": "SUPERTECH ECO VILLAGE-III (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:37.376Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8509b2489bdd196289",
@@ -28715,11 +28766,14 @@
         "name": "SUPERTECH ECO VILLAGE-III (PHASE-II)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:37.586Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 16B, Greater Noida West",
+        "pinCode": "201318"
       },
       {
         "_id": "69c0fc8509b2489bdd19628a",
@@ -28727,11 +28781,14 @@
         "name": "SUPERTECH ECOCITI - PHASE-1",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:37.801Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 137, Noida",
+        "pinCode": "201305"
       },
       {
         "_id": "69c0fc8609b2489bdd19628e",
@@ -28739,11 +28796,14 @@
         "name": "SUPERTECH NORTHEYE (PHASE-II)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:38.709Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 74, Noida",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc8709b2489bdd196290",
@@ -28751,11 +28811,14 @@
         "name": "SUPERTECH ORB-R (PHASE-III)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:39.162Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 74, Noida",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc8709b2489bdd196291",
@@ -28763,11 +28826,14 @@
         "name": "Supertech Upcountry (Plotted)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:39.380Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 17A, Yamuna Expressway",
+        "pinCode": "203201"
       },
       {
         "_id": "69c0fc8709b2489bdd196292",
@@ -28775,11 +28841,14 @@
         "name": "SUPERTECH UPCOUNTRY GH-01 (PHASE-I)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:39.670Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 17A, Yamuna Expressway",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc8709b2489bdd196293",
@@ -28787,11 +28856,14 @@
         "name": "Supertech Upcountry GH-01 Phase-02",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:39.890Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 17A, Yamuna Expressway",
+        "pinCode": "203201"
       },
       {
         "_id": "69c0fc8809b2489bdd196294",
@@ -28799,11 +28871,14 @@
         "name": "Supertech Upcountry GH-02 Phase-01",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:40.106Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Sector 17A, Yamuna Expressway",
+        "pinCode": "203201"
       },
       {
         "_id": "69c0fec609b2489bdd196ac1",
@@ -28811,11 +28886,14 @@
         "name": "GREEN VILLAGE (PHASE-I)",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:14.386Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Delhi Road, Jainpur",
+        "pinCode": "250002"
       },
       {
         "_id": "69c0feca09b2489bdd196ae1",
@@ -28823,11 +28901,14 @@
         "name": "MEERUT SPORTS CITY (PHASE-I)",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:18.080Z",
-        "builderId": "69c0f09c09b2489bdd195431"
+        "builderId": "69c0f09c09b2489bdd195431",
+        "lenderName": [],
+        "area": "Modipuram / Roorkee Road",
+        "pinCode": "250110"
       }
     ]
   },
@@ -48892,11 +48973,14 @@
         "name": "AJNARA CITY VILLA (Phase - 1)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:00.106Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Knowledge Park V",
+        "pinCode": "201306"
       },
       {
         "_id": "69c0fbad09b2489bdd195f0e",
@@ -48904,11 +48988,14 @@
         "name": "Ajnara Panorama (Phase-1: Twr A, B C & G)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:01.408Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Sector 22A, Yamuna Expressway",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbad09b2489bdd195f0f",
@@ -48916,11 +49003,14 @@
         "name": "Ajnara Panorama (Phase-2 Villas)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:01.680Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Sector 22A, Yamuna Expressway",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fbae09b2489bdd195f10",
@@ -48928,11 +49018,14 @@
         "name": "Ajnara Panorama (Phase-3 Studio & Convinient Shops",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:01.974Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Sector 22A, Yamuna Expressway",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc1409b2489bdd1960a7",
@@ -48940,11 +49033,14 @@
         "name": "HERITAGE TOWER K (Clock Tower & Central Plazza)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:44.030Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Sector 74, Noida",
+        "pinCode": "201301"
       },
       {
         "_id": "69c0fc3009b2489bdd196129",
@@ -48952,11 +49048,14 @@
         "name": "KHELGAON (Phase -1: Tower A B C & D)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:12.161Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Knowledge Park V, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc3009b2489bdd19612a",
@@ -48964,11 +49063,14 @@
         "name": "KHELGAON (Phase -2: Tower P Q & R)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:12.380Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Knowledge Park V, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc3009b2489bdd19612b",
@@ -48976,11 +49078,14 @@
         "name": "KHELGAON (Phase -3: CITY WALK)",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:12.603Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Sports City, Sector KP-V /  Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fcc209b2489bdd196334",
@@ -48988,11 +49093,14 @@
         "name": "Ajnara City Centre",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:38.217Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce709b2489bdd1963d4",
@@ -49000,11 +49108,14 @@
         "name": "INTEGRITY (Phase - 1: Tower L & M)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:15.101Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce709b2489bdd1963d5",
@@ -49012,11 +49123,14 @@
         "name": "INTEGRITY (Phase - 2: Tower N & O)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:15.301Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce709b2489bdd1963d6",
@@ -49024,11 +49138,14 @@
         "name": "INTEGRITY (Phase - 3: Tower P)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:15.509Z",
-        "builderId": "69c0f12709b2489bdd19563a"
+        "builderId": "69c0f12709b2489bdd19563a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -76666,11 +76783,14 @@
         "name": "Jaypee Greens Tanishq Square Phase II, Mirzapur",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:02.195Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Yamuna Expressway / CHI-5",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc2609b2489bdd1960fd",
@@ -76678,11 +76798,14 @@
         "name": "Jaypee Greens Udaan & Boulevard Court, Mirzapur",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:02.642Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Yamuna Expressway / Sector 22D",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc2709b2489bdd196100",
@@ -76690,11 +76813,14 @@
         "name": "Jaypee Greens Villa Sunnyvale Homes, Mirzapur",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:03.269Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Yamuna Expressway / Sector 18",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc2709b2489bdd196101",
@@ -76702,11 +76828,14 @@
         "name": "Jaypee Greens Wish Point, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:03.482Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Sector 134, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2709b2489bdd196102",
@@ -76714,11 +76843,14 @@
         "name": "Jaypee Greens Yamuna Vihar, Mirzapur",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:03.720Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Sector 22D, Yamuna Expressway",
+        "pinCode": "201308"
       },
       {
         "_id": "69c0fc5809b2489bdd1961d8",
@@ -76726,11 +76858,14 @@
         "name": "Pebble Court",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:52.247Z",
-        "builderId": "69c0f1d709b2489bdd1958ca"
+        "builderId": "69c0f1d709b2489bdd1958ca",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       }
     ]
   },
@@ -76818,11 +76953,14 @@
         "name": "aypee Greens Pavilion Courts & Heights (Phase II),",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:37:28.601Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc1e09b2489bdd1960d7",
@@ -76830,11 +76968,14 @@
         "name": "Jaypee Greens Boomerang Residences, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:54.333Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc1e09b2489bdd1960d8",
@@ -76842,11 +76983,14 @@
         "name": "Jaypee Greens Bougainvilleas, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:54.550Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc1e09b2489bdd1960d9",
@@ -76854,11 +76998,14 @@
         "name": "Jaypee Greens Buddh Circuit Studios - I, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:54.860Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Yamuna Expressway / SDZ",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc1f09b2489bdd1960db",
@@ -76866,11 +77013,14 @@
         "name": "Jaypee Greens Country Homes-I, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:55.274Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc1f09b2489bdd1960dc",
@@ -76878,11 +77028,14 @@
         "name": "Jaypee Greens Country Homes-II, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:55.481Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway (Sector 25, Sports City)",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc1f09b2489bdd1960de",
@@ -76890,11 +77043,14 @@
         "name": "Jaypee Greens Greencrest Homes, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:55.896Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway (Sports City, Sector 25 belt)",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2009b2489bdd1960df",
@@ -76902,11 +77058,14 @@
         "name": "Jaypee Greens Imperial Arcade, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:56.106Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2009b2489bdd1960e0",
@@ -76914,11 +77073,14 @@
         "name": "Jaypee Greens Kalypso Court (Phase II), Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:56.322Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2009b2489bdd1960e2",
@@ -76926,11 +77088,14 @@
         "name": "Jaypee Greens Kasablanca, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:56.747Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2109b2489bdd1960e3",
@@ -76938,11 +77103,14 @@
         "name": "Jaypee Greens Kassia I, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:56.965Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2109b2489bdd1960e4",
@@ -76950,11 +77118,14 @@
         "name": "Jaypee Greens Kassia II,III, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:57.176Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2209b2489bdd1960eb",
@@ -76962,11 +77133,14 @@
         "name": "Jaypee Greens Knight Court, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:58.711Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2309b2489bdd1960ef",
@@ -76974,11 +77148,14 @@
         "name": "Jaypee Greens Kove, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:59.581Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2409b2489bdd1960f1",
@@ -76986,11 +77163,14 @@
         "name": "Jaypee Greens Kristal, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:38:59.997Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2409b2489bdd1960f2",
@@ -76998,11 +77178,14 @@
         "name": "Jaypee Greens Krowns, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:00.213Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2509b2489bdd1960f6",
@@ -77010,11 +77193,14 @@
         "name": "Jaypee Greens Pavilion Heights Arcade, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:01.110Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2509b2489bdd1960f7",
@@ -77022,11 +77208,14 @@
         "name": "Jaypee Greens Sportsville, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:01.310Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2509b2489bdd1960f8",
@@ -77034,11 +77223,14 @@
         "name": "Jaypee Greens Sun Court - B, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:01.525Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2609b2489bdd1960fc",
@@ -77046,11 +77238,14 @@
         "name": "Jaypee Greens Town Homes, Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:02.435Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Sector 128, Noida",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2609b2489bdd1960fe",
@@ -77058,11 +77253,14 @@
         "name": "Jaypee Greens Villa Country Homes - II, SDZ, YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:02.849Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2709b2489bdd1960ff",
@@ -77070,11 +77268,14 @@
         "name": "Jaypee Greens Villa GreencrestHomes,SDZ YEW",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:03.055Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "SDZ / Yamuna Expressway",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2709b2489bdd196103",
@@ -77082,11 +77283,14 @@
         "name": "Jaypee Greens, E-1/14 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:03.939Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Greater Noida (Jaypee Greens Land 2)",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2809b2489bdd196104",
@@ -77094,11 +77298,14 @@
         "name": "Jaypee Greens, E-1/3 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:04.149Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2809b2489bdd196105",
@@ -77106,11 +77313,14 @@
         "name": "Jaypee Greens, E-10 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:04.355Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2809b2489bdd196106",
@@ -77118,11 +77328,14 @@
         "name": "Jaypee Greens, E-12 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:04.585Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "2013010"
       },
       {
         "_id": "69c0fc2809b2489bdd196107",
@@ -77130,11 +77343,14 @@
         "name": "Jaypee Greens, E-3/12a Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:04.798Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2909b2489bdd196108",
@@ -77142,11 +77358,14 @@
         "name": "Jaypee Greens, E-4/12a Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:05.016Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2909b2489bdd196109",
@@ -77154,11 +77373,14 @@
         "name": "Jaypee Greens, E-4/7 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:05.240Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2909b2489bdd19610a",
@@ -77166,11 +77388,14 @@
         "name": "Jaypee Greens, E-6 Land2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:05.452Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2909b2489bdd19610b",
@@ -77178,11 +77403,14 @@
         "name": "Jaypee Greens, E-6/4 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:05.684Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2909b2489bdd19610c",
@@ -77190,11 +77418,14 @@
         "name": "Jaypee Greens, E-6/7 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:05.899Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2a09b2489bdd19610d",
@@ -77202,11 +77433,14 @@
         "name": "Jaypee Greens, E-9 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:06.110Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2a09b2489bdd19610e",
@@ -77214,11 +77448,14 @@
         "name": "Jaypee Greens, SV-14 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:06.321Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2a09b2489bdd19610f",
@@ -77226,11 +77463,14 @@
         "name": "Jaypee Greens, SV-24 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:06.525Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2a09b2489bdd196110",
@@ -77238,11 +77478,14 @@
         "name": "Jaypee Greens, V-04 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:06.739Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2b09b2489bdd196111",
@@ -77250,11 +77493,14 @@
         "name": "Jaypee Greens, V-07 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:06.951Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2b09b2489bdd196112",
@@ -77262,11 +77508,14 @@
         "name": "Jaypee Greens, V-08 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:07.166Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2b09b2489bdd196113",
@@ -77274,11 +77523,14 @@
         "name": "Jaypee Greens, V-2/7 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:07.389Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens / Sector 128 belt",
+        "pinCode": "201304"
       },
       {
         "_id": "69c0fc2b09b2489bdd196114",
@@ -77286,11 +77538,14 @@
         "name": "Jaypee Greens, V-4/7 Land 1, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:07.593Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2b09b2489bdd196115",
@@ -77298,11 +77553,14 @@
         "name": "Jaypee Greens, V-5 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:07.822Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc2c09b2489bdd196116",
@@ -77310,11 +77568,14 @@
         "name": "Jaypee Greens, V-5/9 Land 2, Greater Noida",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:08.029Z",
-        "builderId": "69c0f1d809b2489bdd1958cd"
+        "builderId": "69c0f1d809b2489bdd1958cd",
+        "lenderName": [],
+        "area": "Jaypee Greens, Greater Noida",
+        "pinCode": "201310"
       }
     ]
   },
@@ -77639,11 +77900,14 @@
         "name": "ANSAL API SUSHANT TAJ CITY PLOTS ZONE-1",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:30:53.208Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Shastripuram",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa3d09b2489bdd195cfb",
@@ -77651,11 +77915,14 @@
         "name": "ANSAL API SUSHANT TAJ CITY PLOTS ZONE-2",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:30:53.549Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Taj City Township",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa3d09b2489bdd195cfc",
@@ -77663,11 +77930,14 @@
         "name": "ANSAL API SUSHANT TAJ CITY PLOTS ZONE-3",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:30:53.884Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sheetla Road side",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6d09b2489bdd195db5",
@@ -77675,11 +77945,14 @@
         "name": "SUSHANT TAJ CITY EWS LIG PHASE-1",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:41.308Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Jaupura / Kharbai",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6d09b2489bdd195db6",
@@ -77687,11 +77960,14 @@
         "name": "SUSHANT TAJ CITY AASTHA/KALPANA PHASE-1",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:41.540Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Shastripuram / Kiraoli",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6d09b2489bdd195db7",
@@ -77699,11 +77975,14 @@
         "name": "SUSHANT TAJ CITY BUILT UPS",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:41.754Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Shastripuram / Kiraoli",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6e09b2489bdd195db8",
@@ -77711,11 +77990,14 @@
         "name": "SUSHANT TAJ CITY PLOT ZONE-4",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:42.026Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Shastripuram / Kiraoli",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fc8809b2489bdd196296",
@@ -77723,11 +78005,14 @@
         "name": "SUSHANT SERENE RESIDENCY PH1 T7B1 & T6D",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:40.525Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector ETA 2, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc8809b2489bdd196297",
@@ -77735,11 +78020,14 @@
         "name": "SUSHANT SERENE RESIDENCY PH2 T3E,T4E,T5D",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:40.734Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector ETA 2",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc8909b2489bdd196298",
@@ -77747,11 +78035,14 @@
         "name": "SUSHANT SERENE RESIDENCY PHASE 3 TOWER 10 (D) & T",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:41.207Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "ETA 2, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fc8909b2489bdd196299",
@@ -77759,11 +78050,14 @@
         "name": "SUSHANT SERENE RESIDENCY PHASE 4 TOWER T8B & T12E&",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:40:41.439Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "ETA 2, Greater Noida",
+        "pinCode": "201310"
       },
       {
         "_id": "69c0fe1d09b2489bdd1966b1",
@@ -77771,11 +78065,14 @@
         "name": "ANSAL API - CELEBRITY GREENS (F&G) SUSHANT GOLF CI",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.360Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "206003"
       },
       {
         "_id": "69c0fe1d09b2489bdd1966b2",
@@ -77783,11 +78080,14 @@
         "name": "ANSAL API - CELEBRITY MEADOWS (F,G,K,L) Sec I Sush",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.476Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City / Sector I",
+        "pinCode": "206030"
       },
       {
         "_id": "69c0fe1d09b2489bdd1966b3",
@@ -77795,11 +78095,14 @@
         "name": "ANSAL API - EWS/LIG GH-6/K-3 SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.599Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1d09b2489bdd1966b4",
@@ -77807,11 +78110,14 @@
         "name": "ANSAL API - GOLF RESIDENCIA SECTOR - H SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.715Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City / Sector H",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1d09b2489bdd1966b6",
@@ -77819,11 +78125,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR A SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.945Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City / Sector A",
+        "pinCode": "206030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966b7",
@@ -77831,11 +78140,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.062Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City / Sector C",
+        "pinCode": "206030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966b8",
@@ -77843,11 +78155,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR f SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.177Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City / Sector F",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966b9",
@@ -77855,11 +78170,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR K SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.292Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966ba",
@@ -77867,11 +78185,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR L SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.408Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966bb",
@@ -77879,11 +78200,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR N SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.524Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966bc",
@@ -77891,11 +78215,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR O SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.665Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966bd",
@@ -77903,11 +78230,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR P SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.778Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1e09b2489bdd1966be",
@@ -77915,11 +78245,14 @@
         "name": "ANSAL API - POCKET 1 SECTOR Q SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:26.893Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966bf",
@@ -77927,11 +78260,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.007Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c0",
@@ -77939,11 +78275,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR F SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.125Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c1",
@@ -77951,11 +78290,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR K SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.246Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c2",
@@ -77963,11 +78305,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR L SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Resale",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.358Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c3",
@@ -77975,11 +78320,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR N SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Resale",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.474Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c4",
@@ -77987,11 +78335,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR O SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.587Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c5",
@@ -77999,11 +78350,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR P SUSHANT GOLF CITY(De-Registered Project)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.700Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sultanpur Road",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c6",
@@ -78011,11 +78365,14 @@
         "name": "ANSAL API - POCKET 2 SECTOR Q SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.834Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe1f09b2489bdd1966c7",
@@ -78023,11 +78380,14 @@
         "name": "ANSAL API - POCKET 3 SECTOR A",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:27.948Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966c8",
@@ -78035,11 +78395,14 @@
         "name": "ANSAL API - POCKET 3 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.061Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966c9",
@@ -78047,11 +78410,14 @@
         "name": "ANSAL API - POCKET 3 SECTOR L SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.178Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966ca",
@@ -78059,11 +78425,14 @@
         "name": "ANSAL API - POCKET 3 SECTOR N SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.293Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966cb",
@@ -78071,11 +78440,14 @@
         "name": "ANSAL API - POCKET 3 SECTOR P SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.406Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966cc",
@@ -78083,11 +78455,14 @@
         "name": "ANSAL API - POCKET 3A SECTOR O SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.522Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966cd",
@@ -78095,11 +78470,14 @@
         "name": "ANSAL API - POCKET 3A SECTOR Q SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.641Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966ce",
@@ -78107,11 +78485,14 @@
         "name": "ANSAL API - POCKET 3B SECTOR O SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.756Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2009b2489bdd1966cf",
@@ -78119,11 +78500,14 @@
         "name": "ANSAL API - POCKET 3B SECTOR Q SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.876Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d0",
@@ -78131,11 +78515,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR A SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:28.988Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d1",
@@ -78143,11 +78530,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.103Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d2",
@@ -78155,11 +78545,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR G SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.224Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d3",
@@ -78167,11 +78560,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR L SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.339Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d4",
@@ -78179,11 +78575,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR N SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.454Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d5",
@@ -78191,11 +78590,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR O SUSHANT GOLF CITY(Defaulter Project)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.572Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d6",
@@ -78203,11 +78605,14 @@
         "name": "ANSAL API - POCKET 4 SECTOR P SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.688Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d7",
@@ -78215,11 +78620,14 @@
         "name": "ANSAL API - POCKET 5 SECTOR A SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.815Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2109b2489bdd1966d8",
@@ -78227,11 +78635,14 @@
         "name": "ANSAL API - POCKET 5 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:29.928Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966d9",
@@ -78239,11 +78650,14 @@
         "name": "ANSAL API - POCKET 5 SECTOR N SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.040Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966da",
@@ -78251,11 +78665,14 @@
         "name": "ANSAL API - POCKET 6 SECTOR C SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.156Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966db",
@@ -78263,11 +78680,14 @@
         "name": "ANSAL API - POCKET 6 SECTOR G SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.272Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966dc",
@@ -78275,11 +78695,14 @@
         "name": "ANSAL API - POCKET 7 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.389Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966dd",
@@ -78287,11 +78710,14 @@
         "name": "ANSAL API - POCKET 7 SECTOR G SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.508Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966de",
@@ -78299,11 +78725,14 @@
         "name": "ANSAL API - POCKET 9 SECTOR C SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.625Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966df",
@@ -78311,11 +78740,14 @@
         "name": "ANSAL API - SECTOR-I",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.751Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2209b2489bdd1966e0",
@@ -78323,11 +78755,14 @@
         "name": "ANSAL API - SHOPPING SQUARE 1 SECTOR D",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:30.878Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e1",
@@ -78335,11 +78770,14 @@
         "name": "ANSAL API - ZENITH TOWERS, CONV. SHOP.SECTOR J, SU",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.012Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e2",
@@ -78347,11 +78785,14 @@
         "name": "ANSAL API- CELEBRITY MEADOWS (Towers Q,P,J,H)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.134Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e5",
@@ -78359,11 +78800,14 @@
         "name": "ANSAL API- GOLF GATEWAY TOWER-B-2, GH-3, SEC-H, SU",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.489Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e6",
@@ -78371,11 +78815,14 @@
         "name": "ANSAL API POCKET 2 SECTOR A SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.610Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e7",
@@ -78383,11 +78830,14 @@
         "name": "ANSAL API- SHOPPING SQUIRE BLOCK 2 SECTOR D",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.731Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2309b2489bdd1966e8",
@@ -78395,11 +78845,14 @@
         "name": "ANSAL API, POCKET-2, SECTOR-J, SUSHANT GOLF CITY(De-Registered Project)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.851Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966e9",
@@ -78407,11 +78860,14 @@
         "name": "ANSAL API-EWS, GH-1, SEC-L/1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:31.969Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "GH-1, Sector L/1, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966ea",
@@ -78419,11 +78875,14 @@
         "name": "ANSAL API-EWS/LIG-PKT 2-SEC K-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.091Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector K, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966eb",
@@ -78431,11 +78890,14 @@
         "name": "ANSAL API-EWS/LIG-PKT 5-SEC C -SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.210Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector C, Pocket 5, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966ec",
@@ -78443,11 +78905,14 @@
         "name": "ANSAL API-GH7(EWS/LIG)-PKT 3-SEC K-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.358Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector K, Pocket 3, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966ed",
@@ -78455,11 +78920,14 @@
         "name": "ANSAL API-GREEN FIELD RESIDENTIA TOWER C1 & C2, GH",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.475Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966ee",
@@ -78467,11 +78935,14 @@
         "name": "ANSAL API-MEDIA ENCLAVE, GH-1, SEC-J/3, SUSHANT GO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.592Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector J/3",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966ef",
@@ -78479,11 +78950,14 @@
         "name": "ANSAL API-PARADISE CRYSTAL TOWER-C & D, GH-1, SECT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.714Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector J / GH-1",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966f0",
@@ -78491,11 +78965,14 @@
         "name": "ANSAL API-POCKET 1-SECTOR D-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.831Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector D, Pocket 1, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2409b2489bdd1966f1",
@@ -78503,11 +78980,14 @@
         "name": "ANSAL API-POCKET 1-SECTOR E-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:32.955Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector E, Pocket 1, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f2",
@@ -78515,11 +78995,14 @@
         "name": "ANSAL API-POCKET 1-SECTOR G-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.071Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector G, Pocket 1, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f3",
@@ -78527,11 +79010,14 @@
         "name": "ANSAL API-POCKET 2A-SECTOR G-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.186Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector G, Pocket 2A, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f4",
@@ -78539,11 +79025,14 @@
         "name": "ANSAL API-POCKET 2-SECTOR D-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.299Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector D, Pocket 2, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f5",
@@ -78551,11 +79040,14 @@
         "name": "ANSAL API-POCKET 2-SECTOR E-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.411Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector E, Pocket 2, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f6",
@@ -78563,11 +79055,14 @@
         "name": "ANSAL API-POCKET 2-SECTOR G-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.523Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector G, Pocket 2, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f7",
@@ -78575,11 +79070,14 @@
         "name": "ANSAL API-POCKET 3A-SECTOR G-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.653Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector G, Pocket 3A, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f8",
@@ -78587,11 +79085,14 @@
         "name": "ANSAL API-POCKET 3-SECTOR B-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.765Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector B, Pocket 3, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2509b2489bdd1966f9",
@@ -78599,11 +79100,14 @@
         "name": "ANSAL API-POCKET 3-SECTOR D-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.882Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector D, Pocket 3, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966fa",
@@ -78611,11 +79115,14 @@
         "name": "ANSAL API-POCKET 3-SECTOR G-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:33.997Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector G, Pocket 3, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966fb",
@@ -78623,11 +79130,14 @@
         "name": "ANSAL API-POCKET 8-SECTOR C-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.112Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector C, Pocket 8, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966fc",
@@ -78635,11 +79145,14 @@
         "name": "ANSAL API-POCKET2-SECTOR B-SGC LKO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.246Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector B, Pocket 2, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966fd",
@@ -78647,11 +79160,14 @@
         "name": "ANSAL API-POCKET-3, SECTOR-J, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.361Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector J, Pocket 3, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966fe",
@@ -78659,11 +79175,14 @@
         "name": "ANSAL API-POCKET-4, SECTOR-J, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.478Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": ": Sector J, Pocket 4, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd1966ff",
@@ -78671,11 +79190,14 @@
         "name": "ANSAL API-POCKET-6, SECTOR-J, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.596Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector J, Pocket 6, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd196700",
@@ -78683,11 +79205,14 @@
         "name": "ANSAL API-POCKET-7, SECTOR-J, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.713Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector J, Pocket 7, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2609b2489bdd196701",
@@ -78695,11 +79220,14 @@
         "name": "ANSAL API-POCKET-8, SECTOR-J, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.862Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": ": Sector J, Pocket 8, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2709b2489bdd196702",
@@ -78707,11 +79235,14 @@
         "name": "ANSAL BUSINESS PARK 2",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:34.979Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2709b2489bdd196704",
@@ -78719,11 +79250,14 @@
         "name": "ANSALAPI-CELEBRITY WOODS, TOWER-B12 & B12A, GH-1B,",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:35.222Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "GH-1B, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2709b2489bdd196705",
@@ -78731,11 +79265,14 @@
         "name": "ANSALAPI-CONVIENENT SHOPPING SECTOR-J/8",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:35.341Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector J/8, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2709b2489bdd196707",
@@ -78743,11 +79280,14 @@
         "name": "ANSALAPI-GH-3, SECTOR-M, BLOCK-D, SUSHANT GOLF CIT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:35.578Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector M, Block D  Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe2709b2489bdd196708",
@@ -78755,11 +79295,14 @@
         "name": "ANSALAPI-GH-5, SECTOR-K, SUSHANT GOLF CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:35.700Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector K, GH-5, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe4409b2489bdd1967f4",
@@ -78767,11 +79310,14 @@
         "name": "GH-2 Sector M Towers B1 & B2 OLYMPUS LAKE VIEW APA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:04.922Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector M, GH-2 Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe4509b2489bdd1967f5",
@@ -78779,11 +79325,14 @@
         "name": "GH-2, Pocket-4, Sector-J (Jeevan Enclave)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:05.041Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector J, Pocket 4, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe4809b2489bdd196814",
@@ -78791,11 +79340,14 @@
         "name": "Group Housing-2, Pocket-3, Sector-B (Santushti Enc",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:08.846Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector B, Pocket 3, Santushti Enclave",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe7209b2489bdd19696b",
@@ -78803,11 +79355,14 @@
         "name": "Shopping Complex-1, Pocket-1, Sector-A",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:50.465Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector A, Pocket 1, Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe7209b2489bdd19696c",
@@ -78815,11 +79370,14 @@
         "name": "Shopping Complex-2, Pocket-2, Sector-A",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:50.584Z",
-        "builderId": "69c0f1d909b2489bdd1958d2"
+        "builderId": "69c0f1d909b2489bdd1958d2",
+        "lenderName": [],
+        "area": "Sector A, Pocket 2, Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
