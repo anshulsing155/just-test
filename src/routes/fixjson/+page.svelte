@@ -88,7 +88,7 @@ async function downloadZip() {
 
 
 <!-- make a projects file state wise script -->
-<!-- <script>
+<script>
 import companiesData from '../../lib/data/companies_with_projects_2026-04-06T06-27-43-033ZZ.json';
 
 let cleanedProjects = [];
@@ -155,12 +155,12 @@ function handleDownload() {
 </script>
 
 <button on:click={processProjects}>Process Projects</button>
-<button on:click={handleDownload}>Download Projects JSON</button> -->
+<button on:click={handleDownload}>Download Projects JSON</button>
 
 
 
-
-<script>
+<!-- add builder ids in projects -->
+<!-- <script>
 import rawData from '../../lib/data/companies_with_projects_2026-04-06T06-27-43-033Z.json';
 
 let companiesData = rawData;
@@ -203,4 +203,4 @@ function downloadJSON(data) {
 
 <button on:click={handleProjects}>
   Add project ids & Download
-</button>
+</button> -->
