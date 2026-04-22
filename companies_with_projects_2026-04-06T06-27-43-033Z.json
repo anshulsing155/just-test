@@ -1216,11 +1216,14 @@
         "name": "Andromida Planet One",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:39.490Z",
-        "builderId": "69be9bdfcf0d52217507fff1"
+        "builderId": "69be9bdfcf0d52217507fff1",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201005"
       }
     ]
   },
@@ -1677,11 +1680,14 @@
         "name": "RAMA HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:49.664Z",
-        "builderId": "69be9be1cf0d522175080009"
+        "builderId": "69be9be1cf0d522175080009",
+        "lenderName": [],
+        "area": "Raj Nagar / central belt)",
+        "pinCode": "201002"
       }
     ]
   },
@@ -1865,11 +1871,14 @@
         "name": "JASMINE GROVE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:17.439Z",
-        "builderId": "69be9be2cf0d522175080013"
+        "builderId": "69be9be2cf0d522175080013",
+        "lenderName": [],
+        "area": "NH-24 / Delhi–Meerut Expressway",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fce909b2489bdd1963e0",
@@ -1877,11 +1886,14 @@
         "name": "Jasmine Grove (Phase-II)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:17.649Z",
-        "builderId": "69be9be2cf0d522175080013"
+        "builderId": "69be9be2cf0d522175080013",
+        "lenderName": [],
+        "area": "NH-24 / Mahurali",
+        "pinCode": "201002"
       }
     ]
   },
@@ -2188,11 +2200,14 @@
         "name": "Vrinda Homes -1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:27.492Z",
-        "builderId": "69be9be3cf0d522175080023"
+        "builderId": "69be9be3cf0d522175080023",
+        "lenderName": [],
+        "area": "Lal Kuan / NH-24",
+        "pinCode": "201009"
       }
     ]
   },
@@ -3018,11 +3033,14 @@
         "name": "HITESHI hEIGHT",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:14.250Z",
-        "builderId": "69c0effe09b2489bdd1951d8"
+        "builderId": "69c0effe09b2489bdd1951d8",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -3401,11 +3419,14 @@
         "name": "SKARDI GREENS - PHASE-2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:05.324Z",
-        "builderId": "69c0f00109b2489bdd1951e1"
+        "builderId": "69c0f00109b2489bdd1951e1",
+        "lenderName": [],
+        "area": "NH-24 / Lal Kuan / Pandav Nagar",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd1909b2489bdd1964b1",
@@ -3413,11 +3434,14 @@
         "name": "SKARDI GREENS-PHASE-I",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:05.530Z",
-        "builderId": "69c0f00109b2489bdd1951e1"
+        "builderId": "69c0f00109b2489bdd1951e1",
+        "lenderName": [],
+        "area": "Pandav Nagar / NH-24 (Lal Kuan belt)",
+        "pinCode": "201002"
       }
     ]
   },
@@ -3869,11 +3893,14 @@
         "name": "RED APPLE RESIDENCY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:50.309Z",
-        "builderId": "69c0f00309b2489bdd1951ea"
+        "builderId": "69c0f00309b2489bdd1951ea",
+        "lenderName": [],
+        "area": "Raj Nagar Extension / NH-58",
+        "pinCode": "201003"
       }
     ]
   },
@@ -4051,11 +4078,14 @@
         "name": "APEX THE RIO",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:41.450Z",
-        "builderId": "69c0f00409b2489bdd1951ef"
+        "builderId": "69c0f00409b2489bdd1951ef",
+        "lenderName": [],
+        "area": "Indirapuram / Ahinsa Khand-2",
+        "pinCode": "201014"
       }
     ]
   },
@@ -4878,11 +4908,14 @@
         "name": "Nipun Saffron Valley",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:35.075Z",
-        "builderId": "69c0f00709b2489bdd1951fd"
+        "builderId": "69c0f00709b2489bdd1951fd",
+        "lenderName": [],
+        "area": "GT Road / Raj Bagh",
+        "pinCode": "201005"
       }
     ]
   },
@@ -5026,11 +5059,14 @@
         "name": "KDP GRAND SAVANNA BLOCK H, I",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:19.574Z",
-        "builderId": "69c0f00809b2489bdd195201"
+        "builderId": "69c0f00809b2489bdd195201",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -5060,11 +5096,14 @@
         "name": "NILAYA GREENS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:34.777Z",
-        "builderId": "69c0f00909b2489bdd195202"
+        "builderId": "69c0f00909b2489bdd195202",
+        "lenderName": [],
+        "area": "Raj Nagar Extension ",
+        "pinCode": "201003"
       }
     ]
   },
@@ -5115,11 +5154,14 @@
         "name": "SUSHANT AQUAPOLIS, GROUP HOUSING, PHASE-1 (B2B, D9",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:08.592Z",
-        "builderId": "69c0f00909b2489bdd195204"
+        "builderId": "69c0f00909b2489bdd195204",
+        "lenderName": [],
+        "area": "Dundahera / Chipiyana Buzurg",
+        "pinCode": "201016"
       },
       {
         "_id": "69c0fd1c09b2489bdd1964bd",
@@ -5127,11 +5169,14 @@
         "name": "SUSHANT AQUAPOLIS, GROUP HOUSING, PHASE-2 (D1, B2A",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:08.851Z",
-        "builderId": "69c0f00909b2489bdd195204"
+        "builderId": "69c0f00909b2489bdd195204",
+        "lenderName": [],
+        "area": "Chipiyana Buzurg / NH-24",
+        "pinCode": "201016"
       },
       {
         "_id": "69c0fd1d09b2489bdd1964be",
@@ -5139,11 +5184,14 @@
         "name": "SUSHANT AQUAPOLIS, GROUP HOUSING, PHASE-3 (D2, D3,",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:09.160Z",
-        "builderId": "69c0f00909b2489bdd195204"
+        "builderId": "69c0f00909b2489bdd195204",
+        "lenderName": [],
+        "area": "NH-24 / Chipiyana Buzurg",
+        "pinCode": "201016"
       }
     ]
   },
@@ -5833,11 +5881,14 @@
         "name": "The Sapphire",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:15.881Z",
-        "builderId": "69c0f00d09b2489bdd195214"
+        "builderId": "69c0f00d09b2489bdd195214",
+        "lenderName": [],
+        "area": "Shahpur Bamheta / NH-24",
+        "pinCode": "201002"
       }
     ]
   },
@@ -5993,11 +6044,14 @@
         "name": "kingswood court phase 1 completed / kings avenue p",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:19.791Z",
-        "builderId": "69c0f00f09b2489bdd195219"
+        "builderId": "69c0f00f09b2489bdd195219",
+        "lenderName": [],
+        "area": "Crossings Republik",
+        "pinCode": "201016"
       }
     ]
   },
@@ -6239,11 +6293,14 @@
         "name": "RAJ GARDEN CITY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:48.167Z",
-        "builderId": "69c0f01009b2489bdd19521f"
+        "builderId": "69c0f01009b2489bdd19521f",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd0809b2489bdd196462",
@@ -6251,11 +6308,14 @@
         "name": "RAJ GARDEN CITY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:48.374Z",
-        "builderId": "69c0f01009b2489bdd19521f"
+        "builderId": "69c0f01009b2489bdd19521f",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd0809b2489bdd196463",
@@ -6263,11 +6323,14 @@
         "name": "RAJ GARDEN CITY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:48.601Z",
-        "builderId": "69c0f01009b2489bdd19521f"
+        "builderId": "69c0f01009b2489bdd19521f",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -6451,11 +6514,14 @@
         "name": "Vedantam Minaret",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:26.006Z",
-        "builderId": "69c0f01109b2489bdd195224"
+        "builderId": "69c0f01109b2489bdd195224",
+        "lenderName": [],
+        "area": "Indirapuram (Abhay Khand-IV)",
+        "pinCode": "201014"
       }
     ]
   },
@@ -6939,11 +7005,14 @@
         "name": "SAVIOUR PARK (II).",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:54.565Z",
-        "builderId": "69c0f01509b2489bdd19522c"
+        "builderId": "69c0f01509b2489bdd19522c",
+        "lenderName": [],
+        "area": "Mohan Nagar / Loni Road",
+        "pinCode": "201007"
       },
       {
         "_id": "69c0fd0e09b2489bdd196480",
@@ -6951,11 +7020,14 @@
         "name": "SAVIOUR PARK (PH-3)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:54.769Z",
-        "builderId": "69c0f01509b2489bdd19522c"
+        "builderId": "69c0f01509b2489bdd19522c",
+        "lenderName": [],
+        "area": "Mohan Nagar / Loni Road",
+        "pinCode": "201007"
       },
       {
         "_id": "69c0fd0f09b2489bdd196481",
@@ -6963,11 +7035,14 @@
         "name": "SAVIOUR Park (PH-4)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:54.979Z",
-        "builderId": "69c0f01509b2489bdd19522c"
+        "builderId": "69c0f01509b2489bdd19522c",
+        "lenderName": [],
+        "area": "Mohan Nagar / Rajendra Nagar",
+        "pinCode": "201007"
       }
     ]
   },
@@ -6997,11 +7072,14 @@
         "name": "SUKH SAGAR COMPLEX",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:08.116Z",
-        "builderId": "69c0f01509b2489bdd19522d"
+        "builderId": "69c0f01509b2489bdd19522d",
+        "lenderName": [],
+        "area": "Vasundhara Sector 4",
+        "pinCode": "201012"
       }
     ]
   },
@@ -7112,13 +7190,15 @@
         "name": "Const. of 480 EWS (G+3) houses under PMAY scheme at Noornagar, Khasra no. 315, 343, 351, 352 in Raj nagar Extension",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:53.658Z",
         "area": "Noornagar",
         "location": "Noornagar, Khasra no. 315, 343, 351, 352 in Raj Nagar Extension, Ghaziabad",
-        "builderId": "69c0f01609b2489bdd19522f"
+        "builderId": "69c0f01609b2489bdd19522f",
+        "lenderName": [],
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcd109b2489bdd196375",
@@ -7170,11 +7250,14 @@
         "name": "Construction of 1200 EWS Units (G+3) Under PMAY Scheme, Pratap Vihar Scheme Pratap Vihar Ghaziabad.",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:54.516Z",
-        "builderId": "69c0f01609b2489bdd19522f"
+        "builderId": "69c0f01609b2489bdd19522f",
+        "lenderName": [],
+        "area": "Pratap Vihar, Sector 11",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fcd309b2489bdd19637a",
@@ -7386,11 +7469,14 @@
         "name": "MADHUBAN BAPUDHAM SCHEME POCKET D COMMERCIAL COMPLEX",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:24.669Z",
-        "builderId": "69c0f01609b2489bdd19522f"
+        "builderId": "69c0f01609b2489bdd19522f",
+        "lenderName": [],
+        "area": "Madhuban Bapudham",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd0a09b2489bdd19646e",
@@ -7771,11 +7857,14 @@
         "name": "Milan Earth",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:32.389Z",
-        "builderId": "69c0f01709b2489bdd195236"
+        "builderId": "69c0f01709b2489bdd195236",
+        "lenderName": [],
+        "area": "Raj Nagar Extension (NH-58)",
+        "pinCode": "201007"
       }
     ]
   },
@@ -8265,11 +8354,14 @@
         "name": "BLUE MOON HOMES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:49.004Z",
-        "builderId": "69c0f01b09b2489bdd195245"
+        "builderId": "69c0f01b09b2489bdd195245",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -8299,11 +8391,14 @@
         "name": "Cloud 9 Towers, Vaishali",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:53.238Z",
-        "builderId": "69c0f01b09b2489bdd195246"
+        "builderId": "69c0f01b09b2489bdd195246",
+        "lenderName": [],
+        "area": "Vaishali Sector 1",
+        "pinCode": "201014"
       }
     ]
   },
@@ -8471,11 +8566,14 @@
         "name": "RAJ VILLAS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:48.819Z",
-        "builderId": "69c0f01d09b2489bdd19524b"
+        "builderId": "69c0f01d09b2489bdd19524b",
+        "lenderName": [],
+        "area": "Morta / NH-58 (Raj Nagar Extension belt)",
+        "pinCode": "201017"
       }
     ]
   },
@@ -8709,11 +8807,14 @@
         "name": "Golf Links EWS & LIG",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:09.682Z",
-        "builderId": "69c0f01f09b2489bdd195253"
+        "builderId": "69c0f01f09b2489bdd195253",
+        "lenderName": [],
+        "area": "Pandav Nagar / NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fce109b2489bdd1963bd",
@@ -8721,11 +8822,14 @@
         "name": "Golf Links Phase 2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:09.899Z",
-        "builderId": "69c0f01f09b2489bdd195253"
+        "builderId": "69c0f01f09b2489bdd195253",
+        "lenderName": [],
+        "area": "Pandav Nagar / NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fce209b2489bdd1963be",
@@ -8733,11 +8837,14 @@
         "name": "Golf Links Tower 1A High End Apartments",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:10.136Z",
-        "builderId": "69c0f01f09b2489bdd195253"
+        "builderId": "69c0f01f09b2489bdd195253",
+        "lenderName": [],
+        "area": "Mehrauli / NH-24",
+        "pinCode": "201002"
       }
     ]
   },
@@ -9147,11 +9254,14 @@
         "name": "ARC ANGELS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:43.927Z",
-        "builderId": "69c0f02109b2489bdd195259"
+        "builderId": "69c0f02109b2489bdd195259",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -9236,11 +9346,14 @@
         "name": "Lakshya Aquapolis",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:22.613Z",
-        "builderId": "69c0f02209b2489bdd19525c"
+        "builderId": "69c0f02209b2489bdd19525c",
+        "lenderName": [],
+        "area": "Chipiyana Buzurg / NH-24",
+        "pinCode": "201015"
       },
       {
         "_id": "69c0fe5009b2489bdd196855",
@@ -9248,11 +9361,14 @@
         "name": "LAKSHYA AVENUE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:16.680Z",
-        "builderId": "69c0f02209b2489bdd19525c"
+        "builderId": "69c0f02209b2489bdd19525c",
+        "lenderName": [],
+        "area": "Omaxe City",
+        "pinCode": "226025"
       },
       {
         "_id": "69c0fe5009b2489bdd196857",
@@ -10476,11 +10592,14 @@
         "name": "DELHI 99 EWS AND LIG",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:59.526Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201001"
       },
       {
         "_id": "69c0fcd809b2489bdd196391",
@@ -10488,11 +10607,14 @@
         "name": "DELHI-99",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:59.941Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201005"
       },
       {
         "_id": "69c0fce009b2489bdd1963b8",
@@ -10500,11 +10622,14 @@
         "name": "GNB PHASE-1 (THE GREAT NORTHERN BAZAAR)",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:08.823Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce109b2489bdd1963b9",
@@ -10512,11 +10637,14 @@
         "name": "GNB PHASE-2 (THE GREAT NORTHERN BAZAAR",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:09.051Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcfc09b2489bdd19642c",
@@ -10524,11 +10652,14 @@
         "name": "Officer City-2 Phase-2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:36.227Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201001"
       },
       {
         "_id": "69c0fcfc09b2489bdd19642d",
@@ -10536,11 +10667,14 @@
         "name": "OFFICER CITY-2 (PHASE-1)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:36.464Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201001"
       },
       {
         "_id": "69c0fd1409b2489bdd19649c",
@@ -10548,11 +10682,14 @@
         "name": "Shalimar City",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:00.822Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Shalimar Garden Extension",
+        "pinCode": "201005"
       },
       {
         "_id": "69c0fd1509b2489bdd19649d",
@@ -10560,11 +10697,14 @@
         "name": "SHALIMAR CITY (PHASE-2)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:01.017Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Shalimar Garden Extension",
+        "pinCode": "201005"
       },
       {
         "_id": "69c0fd1509b2489bdd19649e",
@@ -10572,11 +10712,14 @@
         "name": "SHALIMAR CITY PHASE-1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:01.222Z",
-        "builderId": "69c0f02909b2489bdd195279"
+        "builderId": "69c0f02909b2489bdd195279",
+        "lenderName": [],
+        "area": "Pasaunda, Shalimar Garden Extension",
+        "pinCode": "201001"
       }
     ]
   },
@@ -12171,11 +12314,14 @@
         "name": "3 DIMENSION",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:35.702Z",
-        "builderId": "69c0f03309b2489bdd1952a1"
+        "builderId": "69c0f03309b2489bdd1952a1",
+        "lenderName": [],
+        "area": "Raj Nagar Extension / NH-58",
+        "pinCode": "201003"
       }
     ]
   },
@@ -12242,11 +12388,14 @@
         "name": "OXIRICH AVENUE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:37.084Z",
-        "builderId": "69c0f03409b2489bdd1952a3"
+        "builderId": "69c0f03409b2489bdd1952a3",
+        "lenderName": [],
+        "area": "Ahinsa Khand 2, Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -12482,11 +12631,14 @@
         "name": "AMAATRA CRYSTAL (Formerly CRYSTAL)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:38.641Z",
-        "builderId": "69c0f03509b2489bdd1952a9"
+        "builderId": "69c0f03509b2489bdd1952a9",
+        "lenderName": [],
+        "area": "NH-24 / Jaipuria Sunrise Greens",
+        "pinCode": "201002"
       }
     ]
   },
@@ -12641,11 +12793,14 @@
         "name": "UTOPIA ESTATE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:24.748Z",
-        "builderId": "69c0f03609b2489bdd1952ad"
+        "builderId": "69c0f03609b2489bdd1952ad",
+        "lenderName": [],
+        "area": "Dundahera / NH-24",
+        "pinCode": "201009"
       }
     ]
   },
@@ -12675,11 +12830,14 @@
         "name": "MAGNUM OASIS GREEN",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:24.879Z",
-        "builderId": "69c0f03709b2489bdd1952ae"
+        "builderId": "69c0f03709b2489bdd1952ae",
+        "lenderName": [],
+        "area": "Tronica City / Sector C-5",
+        "pinCode": "201102"
       },
       {
         "_id": "69c0fd0c09b2489bdd196474",
@@ -12687,11 +12845,14 @@
         "name": "RMS PLAZA",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:52.235Z",
-        "builderId": "69c0f03709b2489bdd1952ae"
+        "builderId": "69c0f03709b2489bdd1952ae",
+        "lenderName": [],
+        "area": "Tronica City / Sector A-5/6",
+        "pinCode": "201103"
       }
     ]
   },
@@ -13311,11 +13472,14 @@
         "name": "Himalaya City Center Phase-1",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:13.372Z",
-        "builderId": "69c0f03d09b2489bdd1952be"
+        "builderId": "69c0f03d09b2489bdd1952be",
+        "lenderName": [],
+        "area": "Morta / Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce509b2489bdd1963cd",
@@ -13323,11 +13487,14 @@
         "name": "Himalaya City Center Phase-2",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:13.582Z",
-        "builderId": "69c0f03d09b2489bdd1952be"
+        "builderId": "69c0f03d09b2489bdd1952be",
+        "lenderName": [],
+        "area": "Morta / Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -13696,11 +13863,14 @@
         "name": "SARVOTTAM PRIDE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:54.159Z",
-        "builderId": "69c0f03f09b2489bdd1952c5"
+        "builderId": "69c0f03f09b2489bdd1952c5",
+        "lenderName": [],
+        "area": "Vasundhara Sector 16",
+        "pinCode": "201012"
       }
     ]
   },
@@ -13856,11 +14026,14 @@
         "name": "KSN SQUARE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:21.371Z",
-        "builderId": "69c0f04009b2489bdd1952ca"
+        "builderId": "69c0f04009b2489bdd1952ca",
+        "lenderName": [],
+        "area": "Vasundhara Sector 3",
+        "pinCode": "201012"
       }
     ]
   },
@@ -13890,11 +14063,14 @@
         "name": "ALPHA HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:38.430Z",
-        "builderId": "69c0f04109b2489bdd1952cb"
+        "builderId": "69c0f04109b2489bdd1952cb",
+        "lenderName": [],
+        "area": "Dundahera / Crossing Republik",
+        "pinCode": "201009"
       }
     ]
   },
@@ -14030,11 +14206,14 @@
         "name": "DIYA GREENCITY, Raj Nagar Extn., Ghaziabad",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:02.398Z",
-        "builderId": "69c0f04109b2489bdd1952cd"
+        "builderId": "69c0f04109b2489bdd1952cd",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -14731,11 +14910,14 @@
         "name": "SARVOTTAM SHREE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:54.369Z",
-        "builderId": "69c0f04609b2489bdd1952df"
+        "builderId": "69c0f04609b2489bdd1952df",
+        "lenderName": [],
+        "area": "Shakti Khand IV, Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -14765,11 +14947,14 @@
         "name": "LA ROYALE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:22.424Z",
-        "builderId": "69c0f04709b2489bdd1952e0"
+        "builderId": "69c0f04709b2489bdd1952e0",
+        "lenderName": [],
+        "area": "Indirapuram, Ahinsa Khand-2",
+        "pinCode": "201014"
       }
     ]
   },
@@ -14836,11 +15021,14 @@
         "name": "lok sabha employees cooperative housing society",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:24.259Z",
-        "builderId": "69c0f04709b2489bdd1952e2"
+        "builderId": "69c0f04709b2489bdd1952e2",
+        "lenderName": [],
+        "area": "Siddharth Vihar Yojna",
+        "pinCode": "201009"
       }
     ]
   },
@@ -15515,11 +15703,14 @@
         "name": "SAWASDEE STREET",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:56.019Z",
-        "builderId": "69c0f04b09b2489bdd1952f2"
+        "builderId": "69c0f04b09b2489bdd1952f2",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -15583,11 +15774,14 @@
         "name": "_Iris Tower_ of project Cloud 9 Towers",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:33.946Z",
-        "builderId": "69c0f04c09b2489bdd1952f4"
+        "builderId": "69c0f04c09b2489bdd1952f4",
+        "lenderName": [],
+        "area": "Indirapuram, Ahinsa Khand-2",
+        "pinCode": "201014"
       }
     ]
   },
@@ -15672,11 +15866,14 @@
         "name": "color homes",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:53.441Z",
-        "builderId": "69c0f04d09b2489bdd1952f7"
+        "builderId": "69c0f04d09b2489bdd1952f7",
+        "lenderName": [],
+        "area": ": Near Wave City, Lal Kuan",
+        "pinCode": "201002"
       }
     ]
   },
@@ -15976,11 +16173,14 @@
         "name": "CHARMS CASTLE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:50.752Z",
-        "builderId": "69c0f04f09b2489bdd1952fe"
+        "builderId": "69c0f04f09b2489bdd1952fe",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -16242,11 +16442,14 @@
         "name": "bankey bihari sharnam",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:48.144Z",
-        "builderId": "69c0f05009b2489bdd195303"
+        "builderId": "69c0f05009b2489bdd195303",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -16552,11 +16755,14 @@
         "name": "ROYAL CREST",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:52.684Z",
-        "builderId": "69c0f05209b2489bdd19530a"
+        "builderId": "69c0f05209b2489bdd19530a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -16586,11 +16792,14 @@
         "name": "SENTOSA PARC",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:59.216Z",
-        "builderId": "69c0f05209b2489bdd19530b"
+        "builderId": "69c0f05209b2489bdd19530b",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -16782,11 +16991,14 @@
         "name": "KM ZINNIA HOTEL AND SERVICED APPARTMENT",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:21.125Z",
-        "builderId": "69c0f05309b2489bdd19530f"
+        "builderId": "69c0f05309b2489bdd19530f",
+        "lenderName": [],
+        "area": "Vaishali Sector-14",
+        "pinCode": "201012"
       }
     ]
   },
@@ -17020,11 +17232,14 @@
         "name": "URBAN HOMES PHASE 1A",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:22.939Z",
-        "builderId": "69c0f05509b2489bdd195316"
+        "builderId": "69c0f05509b2489bdd195316",
+        "lenderName": [],
+        "area": "Shahpur Bamhetta",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2b09b2489bdd1964f7",
@@ -17032,11 +17247,14 @@
         "name": "URBAN HOMES PHASE 1B",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:23.179Z",
-        "builderId": "69c0f05509b2489bdd195316"
+        "builderId": "69c0f05509b2489bdd195316",
+        "lenderName": [],
+        "area": "Aditya World City, NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2b09b2489bdd1964f8",
@@ -17044,11 +17262,14 @@
         "name": "URBAN HOMES PHASE 1C",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:23.467Z",
-        "builderId": "69c0f05509b2489bdd195316"
+        "builderId": "69c0f05509b2489bdd195316",
+        "lenderName": [],
+        "area": "Aditya World City, NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2b09b2489bdd1964f9",
@@ -17056,11 +17277,14 @@
         "name": "URBAN HOMES PHASE 1D",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:23.679Z",
-        "builderId": "69c0f05509b2489bdd195316"
+        "builderId": "69c0f05509b2489bdd195316",
+        "lenderName": [],
+        "area": "Shahpur Bamhetta",
+        "pinCode": "201002"
       }
     ]
   },
@@ -18073,11 +18297,14 @@
         "name": "The Core",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:12.426Z",
-        "builderId": "69c0f05c09b2489bdd195330"
+        "builderId": "69c0f05c09b2489bdd195330",
+        "lenderName": [],
+        "area": "Crossings Republik",
+        "pinCode": "201016"
       }
     ]
   },
@@ -18353,11 +18580,14 @@
         "name": "Sangwan Heights",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:53.751Z",
-        "builderId": "69c0f05d09b2489bdd195337"
+        "builderId": "69c0f05d09b2489bdd195337",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -18433,11 +18663,14 @@
         "name": "French Arcade",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:06.613Z",
-        "builderId": "69c0f05e09b2489bdd195339"
+        "builderId": "69c0f05e09b2489bdd195339",
+        "lenderName": [],
+        "area": "Kaushambi",
+        "pinCode": "201012"
       }
     ]
   },
@@ -18685,11 +18918,14 @@
         "name": "SHIPRA SRISHTI",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:02.041Z",
-        "builderId": "69c0f06009b2489bdd195340"
+        "builderId": "69c0f06009b2489bdd195340",
+        "lenderName": [],
+        "area": "Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -18942,11 +19178,14 @@
         "name": "LAROYALE II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:23.646Z",
-        "builderId": "69c0f06109b2489bdd195345"
+        "builderId": "69c0f06109b2489bdd195345",
+        "lenderName": [],
+        "area": "Shakti Khand 1, Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -20005,11 +20244,14 @@
         "name": "Ambika Apartment",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:39.056Z",
-        "builderId": "69c0f06809b2489bdd195361"
+        "builderId": "69c0f06809b2489bdd195361",
+        "lenderName": [],
+        "area": "Abhay Khand, Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -20248,11 +20490,14 @@
         "name": "21st Milestone Residency Ghaziabad",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:34.687Z",
-        "builderId": "69c0f06909b2489bdd195368"
+        "builderId": "69c0f06909b2489bdd195368",
+        "lenderName": [],
+        "area": "Raj Nagar Extension, NH-58",
+        "pinCode": "201017"
       }
     ]
   },
@@ -21313,11 +21558,14 @@
         "name": "MAGNUM STAR CRUISE MALL",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:25.079Z",
-        "builderId": "69c0f06d09b2489bdd19537a"
+        "builderId": "69c0f06d09b2489bdd19537a",
+        "lenderName": [],
+        "area": "Tronica City",
+        "pinCode": "201102"
       }
     ]
   },
@@ -22216,11 +22464,14 @@
         "name": "Park Drive",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:41.467Z",
-        "builderId": "69c0f07209b2489bdd19538e"
+        "builderId": "69c0f07209b2489bdd19538e",
+        "lenderName": [],
+        "area": "Crossings Republik, Dundahera",
+        "pinCode": "201016"
       }
     ]
   },
@@ -22560,11 +22811,14 @@
         "name": "Karyan Streetwalk",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:19.357Z",
-        "builderId": "69c0f07409b2489bdd195397"
+        "builderId": "69c0f07409b2489bdd195397",
+        "lenderName": [],
+        "area": "Wave City, NH-24",
+        "pinCode": "201002"
       }
     ]
   },
@@ -22731,11 +22985,14 @@
         "name": "Mehak Jeevan",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:30.031Z",
-        "builderId": "69c0f07509b2489bdd19539b"
+        "builderId": "69c0f07509b2489bdd19539b",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -22765,11 +23022,14 @@
         "name": "Mid Point Mart",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:31.372Z",
-        "builderId": "69c0f07609b2489bdd19539c"
+        "builderId": "69c0f07609b2489bdd19539c",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -23077,11 +23337,14 @@
         "name": "URBAN HOMES PHASE 2A",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:23.880Z",
-        "builderId": "69c0f07709b2489bdd1953a2"
+        "builderId": "69c0f07709b2489bdd1953a2",
+        "lenderName": [],
+        "area": "Bamheta, NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2c09b2489bdd1964fb",
@@ -23089,11 +23352,14 @@
         "name": "URBAN HOMES PHASE 2B",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:24.086Z",
-        "builderId": "69c0f07709b2489bdd1953a2"
+        "builderId": "69c0f07709b2489bdd1953a2",
+        "lenderName": [],
+        "area": "Bamheta, NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2c09b2489bdd1964fc",
@@ -23101,11 +23367,14 @@
         "name": "URBAN HOMES PHASE 2C",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:24.292Z",
-        "builderId": "69c0f07709b2489bdd1953a2"
+        "builderId": "69c0f07709b2489bdd1953a2",
+        "lenderName": [],
+        "area": "Bamheta, NH-24",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd2c09b2489bdd1964fd",
@@ -23113,11 +23382,14 @@
         "name": "URBAN ROYALE",
         "district": "Ghaziabad",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:24.502Z",
-        "builderId": "69c0f07709b2489bdd1953a2"
+        "builderId": "69c0f07709b2489bdd1953a2",
+        "lenderName": [],
+        "area": "Shahpur Bamheta",
+        "pinCode": "201002"
       }
     ]
   },
@@ -23294,11 +23566,14 @@
         "name": "RAKSHA VIGYAN ( SANSKRITI - PHASE -1)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:49.260Z",
-        "builderId": "69c0f07809b2489bdd1953a8"
+        "builderId": "69c0f07809b2489bdd1953a8",
+        "lenderName": [],
+        "area": "Raj Nagar",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fd0909b2489bdd196467",
@@ -23306,11 +23581,14 @@
         "name": "RAKSHA VIGYAN (SANSKRITI-PHASE-2)(De-Registered Project)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:49.465Z",
-        "builderId": "69c0f07809b2489bdd1953a8"
+        "builderId": "69c0f07809b2489bdd1953a8",
+        "lenderName": [],
+        "area": "Raj Nagar, Sector-23",
+        "pinCode": "201002"
       }
     ]
   },
@@ -23913,11 +24191,14 @@
         "name": "MR Homes Heritage Tower",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:34.093Z",
-        "builderId": "69c0f07d09b2489bdd1953ba"
+        "builderId": "69c0f07d09b2489bdd1953ba",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -24018,11 +24299,14 @@
         "name": "SIGNATURE STREET",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:03.667Z",
-        "builderId": "69c0f07e09b2489bdd1953bd"
+        "builderId": "69c0f07e09b2489bdd1953bd",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "201015"
       }
     ]
   },
@@ -24073,11 +24357,14 @@
         "name": "PARK TOWN COMMERCIAL COMPLEX PHASE 1(BLOCK B)",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:41.662Z",
-        "builderId": "69c0f07e09b2489bdd1953bf"
+        "builderId": "69c0f07e09b2489bdd1953bf",
+        "lenderName": [],
+        "area": "Raj Nagar Extension NH-24 belt",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fd0109b2489bdd196447",
@@ -24085,11 +24372,14 @@
         "name": "PARK TOWN COMMERCIAL COMPLEX PHASE 2(BLOCK A)",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:41.875Z",
-        "builderId": "69c0f07e09b2489bdd1953bf"
+        "builderId": "69c0f07e09b2489bdd1953bf",
+        "lenderName": [],
+        "area": "Raj Nagar Extension NH-24 belt",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fd0209b2489bdd196448",
@@ -24097,11 +24387,14 @@
         "name": "PARK TOWN COMMERCIAL COMPLEX PHASE 3(BLOCK C)",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:42.084Z",
-        "builderId": "69c0f07e09b2489bdd1953bf"
+        "builderId": "69c0f07e09b2489bdd1953bf",
+        "lenderName": [],
+        "area": "Raj Nagar Extension NH-24 belt",
+        "pinCode": "201003"
       }
     ]
   },
@@ -24357,11 +24650,14 @@
         "name": "Monk Monastery",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:32.815Z",
-        "builderId": "69c0f08009b2489bdd1953c6"
+        "builderId": "69c0f08009b2489bdd1953c6",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd2409b2489bdd1964d7",
@@ -24369,11 +24665,14 @@
         "name": "The Wonders of Geek",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:16.281Z",
-        "builderId": "69c0f08009b2489bdd1953c6"
+        "builderId": "69c0f08009b2489bdd1953c6",
+        "lenderName": [],
+        "area": "NH-24",
+        "pinCode": "201016"
       }
     ]
   },
@@ -24980,11 +25279,14 @@
         "name": "ADITYA SCO COMPLEX",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:37.369Z",
-        "builderId": "69c0f08509b2489bdd1953d6"
+        "builderId": "69c0f08509b2489bdd1953d6",
+        "lenderName": [],
+        "area": "Shahpur Bamheta",
+        "pinCode": "201002"
       }
     ]
   },
@@ -25189,11 +25491,14 @@
         "name": "Navrang Square",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:34.519Z",
-        "builderId": "69c0f08609b2489bdd1953dc"
+        "builderId": "69c0f08609b2489bdd1953dc",
+        "lenderName": [],
+        "area": "Nehru Nagar",
+        "pinCode": "201001"
       },
       {
         "_id": "69c0fd1b09b2489bdd1964b7",
@@ -25201,11 +25506,14 @@
         "name": "Srishti",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:07.428Z",
-        "builderId": "69c0f08609b2489bdd1953dc"
+        "builderId": "69c0f08609b2489bdd1953dc",
+        "lenderName": [],
+        "area": "Crossing Republik",
+        "pinCode": "201016"
       }
     ]
   },
@@ -26161,11 +26469,14 @@
         "name": "SHRIRAM HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:03.049Z",
-        "builderId": "69c0f08e09b2489bdd1953f7"
+        "builderId": "69c0f08e09b2489bdd1953f7",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -26330,11 +26641,14 @@
         "name": "VILASAA",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:27.291Z",
-        "builderId": "69c0f08f09b2489bdd1953fb"
+        "builderId": "69c0f08f09b2489bdd1953fb",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -26600,11 +26914,14 @@
         "name": "Opus",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:36.674Z",
-        "builderId": "69c0f08f09b2489bdd1953fe"
+        "builderId": "69c0f08f09b2489bdd1953fe",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201010"
       }
     ]
   },
@@ -27097,11 +27414,14 @@
         "name": "KM Residency",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:20.865Z",
-        "builderId": "69c0f09309b2489bdd19540d"
+        "builderId": "69c0f09309b2489bdd19540d",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -27131,11 +27451,14 @@
         "name": "The Merlin",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:15.459Z",
-        "builderId": "69c0f09309b2489bdd19540e"
+        "builderId": "69c0f09309b2489bdd19540e",
+        "lenderName": [],
+        "area": "Vasundhara Sector 13",
+        "pinCode": "201012"
       }
     ]
   },
@@ -28329,11 +28652,14 @@
         "name": "Sanchar arcade Sahkari awas samiti ltd",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:53.343Z",
-        "builderId": "69c0f09b09b2489bdd19542c"
+        "builderId": "69c0f09b09b2489bdd19542c",
+        "lenderName": [],
+        "area": "Wave City belt",
+        "pinCode": "201003"
       }
     ]
   },
@@ -29043,11 +29369,14 @@
         "name": "Aaradhayam",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:37.167Z",
-        "builderId": "69c0f09d09b2489bdd195435"
+        "builderId": "69c0f09d09b2489bdd195435",
+        "lenderName": [],
+        "area": "Jalalabad",
+        "pinCode": "201003"
       }
     ]
   },
@@ -29759,11 +30088,14 @@
         "name": "VVIP ADDRESSES PHASE 3",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:28.111Z",
-        "builderId": "69c0f0a209b2489bdd195447"
+        "builderId": "69c0f0a209b2489bdd195447",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3009b2489bdd19650f",
@@ -29771,11 +30103,14 @@
         "name": "VVIP asset",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:28.321Z",
-        "builderId": "69c0f0a209b2489bdd195447"
+        "builderId": "69c0f0a209b2489bdd195447",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3009b2489bdd196510",
@@ -29783,11 +30118,14 @@
         "name": "VVIP CLUB STUDIO APARTMENTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:28.533Z",
-        "builderId": "69c0f0a209b2489bdd195447"
+        "builderId": "69c0f0a209b2489bdd195447",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3109b2489bdd196513",
@@ -29795,11 +30133,14 @@
         "name": "VVIP NEST",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:29.508Z",
-        "builderId": "69c0f0a209b2489bdd195447"
+        "builderId": "69c0f0a209b2489bdd195447",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3109b2489bdd196514",
@@ -29807,11 +30148,14 @@
         "name": "VVIP NIWAS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:29.742Z",
-        "builderId": "69c0f0a209b2489bdd195447"
+        "builderId": "69c0f0a209b2489bdd195447",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -29841,11 +30185,14 @@
         "name": "CITY APARTMENTS PHASE-2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:51.153Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "Shahpur Bamheta",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fccf09b2489bdd19636e",
@@ -29853,11 +30200,14 @@
         "name": "CITY APARTMENTS PHASE-3",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:51.608Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "Shahpur Bamheta",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fcd009b2489bdd19636f",
@@ -29865,11 +30215,14 @@
         "name": "CITY GRACE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:51.823Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "NH-24 / Wave City belt",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fcf009b2489bdd1963fc",
@@ -29877,11 +30230,14 @@
         "name": "LIG/EWS BLOCK at Sector-3, Aditya World City, In",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:24.045Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "Sector-3, Aditya World City",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fcf009b2489bdd1963fe",
@@ -29889,11 +30245,14 @@
         "name": "LUXURIA ESTATE PHASE COMMERCIAL(BLOCK H)",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:24.460Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "Aditya / NH-24 corridor",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fd2309b2489bdd1964d4",
@@ -29901,11 +30260,14 @@
         "name": "THE RESORT",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:15.657Z",
-        "builderId": "69c0f0a209b2489bdd195448"
+        "builderId": "69c0f0a209b2489bdd195448",
+        "lenderName": [],
+        "area": "NH-24 / Aditya World City",
+        "pinCode": "201015"
       }
     ]
   },
@@ -34427,11 +34789,14 @@
         "name": "PRESTIGE HEIGHT",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:46.489Z",
-        "builderId": "69c0f0bf09b2489bdd1954b4"
+        "builderId": "69c0f0bf09b2489bdd1954b4",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -34461,11 +34826,14 @@
         "name": "THE ARTHAH",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:11.927Z",
-        "builderId": "69c0f0bf09b2489bdd1954b5"
+        "builderId": "69c0f0bf09b2489bdd1954b5",
+        "lenderName": [],
+        "area": "Vaishali Sector 4",
+        "pinCode": "201012"
       }
     ]
   },
@@ -34717,11 +35085,14 @@
         "name": "Aprameya Residency",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:42.536Z",
-        "builderId": "69c0f0c109b2489bdd1954bc"
+        "builderId": "69c0f0c109b2489bdd1954bc",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -34751,11 +35122,14 @@
         "name": "Aprameya Enclave",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:42.331Z",
-        "builderId": "69c0f0c109b2489bdd1954bd"
+        "builderId": "69c0f0c109b2489bdd1954bd",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -35588,11 +35962,14 @@
         "name": "SG Benefit",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:59.416Z",
-        "builderId": "69c0f0c709b2489bdd1954d4"
+        "builderId": "69c0f0c709b2489bdd1954d4",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "201013"
       },
       {
         "_id": "69c0fd1309b2489bdd196496",
@@ -35600,11 +35977,14 @@
         "name": "SG Grand",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:59.619Z",
-        "builderId": "69c0f0c709b2489bdd1954d4"
+        "builderId": "69c0f0c709b2489bdd1954d4",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1309b2489bdd196497",
@@ -35612,11 +35992,14 @@
         "name": "SG Oasis",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:59.830Z",
-        "builderId": "69c0f0c709b2489bdd1954d4"
+        "builderId": "69c0f0c709b2489bdd1954d4",
+        "lenderName": [],
+        "area": " Sector 2B, Vasundhara",
+        "pinCode": "201012"
       },
       {
         "_id": "69c0fd1409b2489bdd196498",
@@ -35624,11 +36007,14 @@
         "name": "SG ORCHARD",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:00.027Z",
-        "builderId": "69c0f0c709b2489bdd1954d4"
+        "builderId": "69c0f0c709b2489bdd1954d4",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1409b2489bdd19649a",
@@ -35636,11 +36022,14 @@
         "name": "SG VISTA",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:00.415Z",
-        "builderId": "69c0f0c709b2489bdd1954d4"
+        "builderId": "69c0f0c709b2489bdd1954d4",
+        "lenderName": [],
+        "area": "Raj Nagar Extension edge",
+        "pinCode": "201003"
       }
     ]
   },
@@ -36818,11 +37207,14 @@
         "name": "Fragrance Phase-I",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:06.399Z",
-        "builderId": "69c0f0d009b2489bdd1954f4"
+        "builderId": "69c0f0d009b2489bdd1954f4",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -37022,11 +37414,14 @@
         "name": "INDIRAPURAM HABITAT CENTER",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:14.685Z",
-        "builderId": "69c0f0d109b2489bdd1954fa"
+        "builderId": "69c0f0d109b2489bdd1954fa",
+        "lenderName": [],
+        "area": "Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -37661,11 +38056,14 @@
         "name": "SKA ARCADIA",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:05.091Z",
-        "builderId": "69c0f0d509b2489bdd19550c"
+        "builderId": "69c0f0d509b2489bdd19550c",
+        "lenderName": [],
+        "area": "Wave City / NH-24",
+        "pinCode": "201002"
       }
     ]
   },
@@ -40073,11 +40471,14 @@
         "name": "panchsheel premium -24",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:40.250Z",
-        "builderId": "69c0f0e709b2489bdd195550"
+        "builderId": "69c0f0e709b2489bdd195550",
+        "lenderName": [],
+        "area": "Lal Kuan",
+        "pinCode": "201003"
       }
     ]
   },
@@ -40201,11 +40602,14 @@
         "name": "A R DOMAIN",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:36.759Z",
-        "builderId": "69c0f0e709b2489bdd195552"
+        "builderId": "69c0f0e709b2489bdd195552",
+        "lenderName": [],
+        "area": "Raj Nagar Extension belt",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fcc109b2489bdd19632e",
@@ -40213,11 +40617,14 @@
         "name": "A R REFLECTIONS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:36.955Z",
-        "builderId": "69c0f0e709b2489bdd195552"
+        "builderId": "69c0f0e709b2489bdd195552",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -40438,11 +40845,14 @@
         "name": "Moti City",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:33.019Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Modinagar",
+        "pinCode": "201204"
       },
       {
         "_id": "69c0fcf909b2489bdd196420",
@@ -40450,11 +40860,14 @@
         "name": "Moti Residency",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:33.454Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fcf909b2489bdd196421",
@@ -40462,11 +40875,14 @@
         "name": "Moti Residency Phase II (Tower E)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:33.664Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fcf909b2489bdd196422",
@@ -40474,11 +40890,14 @@
         "name": "Moti Residency- Phase II (Tower H)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:33.874Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fea109b2489bdd196a10",
@@ -40486,11 +40905,14 @@
         "name": "Harsh Villa",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.215Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Techman Nilgiri",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea109b2489bdd196a11",
@@ -40498,11 +40920,14 @@
         "name": "Harsh Villa 2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.340Z",
-        "builderId": "69c0f0e909b2489bdd195559"
+        "builderId": "69c0f0e909b2489bdd195559",
+        "lenderName": [],
+        "area": "Chandanvan",
+        "pinCode": "281001"
       }
     ]
   },
@@ -41521,11 +41946,14 @@
         "name": "IRIS PRIME",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:15.730Z",
-        "builderId": "69c0f0f109b2489bdd195576"
+        "builderId": "69c0f0f109b2489bdd195576",
+        "lenderName": [],
+        "area": "Vaishali",
+        "pinCode": "201012"
       }
     ]
   },
@@ -42967,11 +43395,14 @@
         "name": "VIHAAN SHOPPING PLAZA",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:27.080Z",
-        "builderId": "69c0f0fd09b2489bdd1955a1"
+        "builderId": "69c0f0fd09b2489bdd1955a1",
+        "lenderName": [],
+        "area": "Pratap Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -43438,11 +43869,14 @@
         "name": "KARYAN SQUARE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:19.145Z",
-        "builderId": "69c0f10009b2489bdd1955af"
+        "builderId": "69c0f10009b2489bdd1955af",
+        "lenderName": [],
+        "area": "Wave City / NH-24",
+        "pinCode": "201002"
       }
     ]
   },
@@ -43677,11 +44111,14 @@
         "name": "SHIVOY HIGH STREET",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:02.239Z",
-        "builderId": "69c0f10309b2489bdd1955b7"
+        "builderId": "69c0f10309b2489bdd1955b7",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -44124,11 +44561,14 @@
         "name": "SCC BLOSSOM (PMAY) COMMERCIAL BLOCK, NURSING HOME AND NURSERY SCHOOL",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:56.824Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1109b2489bdd19648b",
@@ -44136,11 +44576,14 @@
         "name": "SCC BLOSSOM (PMAY) PH-1 BLOCK X",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:57.025Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1109b2489bdd19648c",
@@ -44148,11 +44591,14 @@
         "name": "SCC BLOSSOM (PMAY) PH-2 BLOCK C AND BLOCK D",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:57.231Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1109b2489bdd19648d",
@@ -44160,11 +44606,14 @@
         "name": "SCC BLOSSOM (PMAY) PH-3 BLOCK A AND BLOCK B",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:57.438Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1109b2489bdd19648e",
@@ -44172,11 +44621,14 @@
         "name": "SCC BLOSSOM BLOCK A AND B",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:57.637Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Noor Nagar",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1109b2489bdd19648f",
@@ -44184,11 +44636,14 @@
         "name": "SCC SAPPHIRE PH-2 ( BLOCK-A)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:57.849Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd1209b2489bdd196490",
@@ -44196,11 +44651,14 @@
         "name": "SCC SAPPHIRE PHASE-I BLOCK B,C,D & E",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:58.161Z",
-        "builderId": "69c0f10609b2489bdd1955c3"
+        "builderId": "69c0f10609b2489bdd1955c3",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -44324,11 +44782,14 @@
         "name": "Umesh Park Phase-1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:21.731Z",
-        "builderId": "69c0f10709b2489bdd1955c7"
+        "builderId": "69c0f10709b2489bdd1955c7",
+        "lenderName": [],
+        "area": "Sikri Khurd, Modinagar",
+        "pinCode": "201204"
       }
     ]
   },
@@ -44468,11 +44929,14 @@
         "name": "Central Avenue",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:50.333Z",
-        "builderId": "69c0f10709b2489bdd1955ca"
+        "builderId": "69c0f10709b2489bdd1955ca",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -44502,11 +44966,14 @@
         "name": "MIGSUN ROOF",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:32.191Z",
-        "builderId": "69c0f10809b2489bdd1955cb"
+        "builderId": "69c0f10809b2489bdd1955cb",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -44776,11 +45243,14 @@
         "name": "HAPPY MART",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:12.944Z",
-        "builderId": "69c0f10909b2489bdd1955d0"
+        "builderId": "69c0f10909b2489bdd1955d0",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "201002"
       }
     ]
   },
@@ -45713,11 +46183,14 @@
         "name": "PROVIEW MALLS",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:46.697Z",
-        "builderId": "69c0f10e09b2489bdd1955e2"
+        "builderId": "69c0f10e09b2489bdd1955e2",
+        "lenderName": [],
+        "area": "Raj Nagar",
+        "pinCode": "201002"
       }
     ]
   },
@@ -46940,11 +47413,14 @@
         "name": "CIVIL LINES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:52.790Z",
-        "builderId": "69c0f11809b2489bdd195602"
+        "builderId": "69c0f11809b2489bdd195602",
+        "lenderName": [],
+        "area": "Tila Shahbazpur",
+        "pinCode": "201102"
       }
     ]
   },
@@ -47504,11 +47980,14 @@
         "name": "Apex The Flours",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:41.656Z",
-        "builderId": "69c0f11d09b2489bdd195612"
+        "builderId": "69c0f11d09b2489bdd195612",
+        "lenderName": [],
+        "area": "Vasundhara",
+        "pinCode": "201012"
       }
     ]
   },
@@ -47580,11 +48059,14 @@
         "name": "PINNACLE TOWER",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:44.299Z",
-        "builderId": "69c0f11e09b2489bdd195615"
+        "builderId": "69c0f11e09b2489bdd195615",
+        "lenderName": [],
+        "area": "Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -47614,11 +48096,14 @@
         "name": "SIGNATURE GLOBAL MALL",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:03.470Z",
-        "builderId": "69c0f11e09b2489bdd195616"
+        "builderId": "69c0f11e09b2489bdd195616",
+        "lenderName": [],
+        "area": "Vaishali Sector 3",
+        "pinCode": "201010"
       }
     ]
   },
@@ -47783,11 +48268,14 @@
         "name": "PALM HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:39.034Z",
-        "builderId": "69c0f11f09b2489bdd19561a"
+        "builderId": "69c0f11f09b2489bdd19561a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -48087,11 +48575,14 @@
         "name": "LAXMI VILLAS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:23.844Z",
-        "builderId": "69c0f12109b2489bdd195623"
+        "builderId": "69c0f12109b2489bdd195623",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd0f09b2489bdd196483",
@@ -48099,11 +48590,14 @@
         "name": "SAVY HOMZ (SAMAJWADI AWAS YOGNA)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:55.409Z",
-        "builderId": "69c0f12109b2489bdd195623"
+        "builderId": "69c0f12109b2489bdd195623",
+        "lenderName": [],
+        "area": "Ghaziabad outskirts",
+        "pinCode": "201102"
       }
     ]
   },
@@ -48620,11 +49114,14 @@
         "name": "MARINA SUITES (Phase-I)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:26.536Z",
-        "builderId": "69c0f12509b2489bdd195632"
+        "builderId": "69c0f12509b2489bdd195632",
+        "lenderName": [],
+        "area": "Mahurali",
+        "pinCode": "201002"
       },
       {
         "_id": "69c0fcf209b2489bdd196409",
@@ -48632,11 +49129,14 @@
         "name": "MARINA SUITES (TOWER-EL)",
         "district": "Ghaziabad",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:26.836Z",
-        "builderId": "69c0f12509b2489bdd195632"
+        "builderId": "69c0f12509b2489bdd195632",
+        "lenderName": [],
+        "area": "Lal Kuan belt",
+        "pinCode": "201002"
       }
     ]
   },
@@ -48835,11 +49335,14 @@
         "name": "KAILASHA ARCADE 1",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:18.284Z",
-        "builderId": "69c0f12609b2489bdd195637"
+        "builderId": "69c0f12609b2489bdd195637",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcea09b2489bdd1963e4",
@@ -48847,11 +49350,14 @@
         "name": "KAILASHA ARCADE 2",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:18.492Z",
-        "builderId": "69c0f12609b2489bdd195637"
+        "builderId": "69c0f12609b2489bdd195637",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcea09b2489bdd1963e5",
@@ -48859,11 +49365,14 @@
         "name": "Kailasha Enclave",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:18.709Z",
-        "builderId": "69c0f12609b2489bdd195637"
+        "builderId": "69c0f12609b2489bdd195637",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcea09b2489bdd1963e6",
@@ -48871,11 +49380,14 @@
         "name": "KAILASHA ESTATE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:18.921Z",
-        "builderId": "69c0f12609b2489bdd195637"
+        "builderId": "69c0f12609b2489bdd195637",
+        "lenderName": [],
+        "area": "Noornagar, Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -48905,11 +49417,14 @@
         "name": "ROYCE VAISHALI",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:53.132Z",
-        "builderId": "69c0f12609b2489bdd195638"
+        "builderId": "69c0f12609b2489bdd195638",
+        "lenderName": [],
+        "area": "Vaishali Sector 3",
+        "pinCode": "201010"
       }
     ]
   },
@@ -49264,11 +49779,14 @@
         "name": "AROCON RAINBOW",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:44.484Z",
-        "builderId": "69c0f12809b2489bdd19563e"
+        "builderId": "69c0f12809b2489bdd19563e",
+        "lenderName": [],
+        "area": "NH-24 / Mahurali",
+        "pinCode": "201002"
       }
     ]
   },
@@ -49340,11 +49858,14 @@
         "name": "TGB Neel gagan (Tower-F)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:10.355Z",
-        "builderId": "69c0f12909b2489bdd195641"
+        "builderId": "69c0f12909b2489bdd195641",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fd1e09b2489bdd1964c5",
@@ -49352,11 +49873,14 @@
         "name": "TGB NEELGAGAN TOWER-D AND E",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:10.745Z",
-        "builderId": "69c0f12909b2489bdd195641"
+        "builderId": "69c0f12909b2489bdd195641",
+        "lenderName": [],
+        "area": "Siddharth Vihar / NH-24",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fd1f09b2489bdd1964c8",
@@ -49364,11 +49888,14 @@
         "name": "TGB NEELGAGAN TOWER-G",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:11.422Z",
-        "builderId": "69c0f12909b2489bdd195641"
+        "builderId": "69c0f12909b2489bdd195641",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -49662,11 +50189,14 @@
         "name": "TGB NEELGAGAN TOWER-D AND E",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:10.549Z",
-        "builderId": "69c0f12b09b2489bdd195649"
+        "builderId": "69c0f12b09b2489bdd195649",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fd1f09b2489bdd1964c6",
@@ -49674,11 +50204,14 @@
         "name": "TGB NEELGAGAN TOWER-F",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:10.949Z",
-        "builderId": "69c0f12b09b2489bdd195649"
+        "builderId": "69c0f12b09b2489bdd195649",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fd1f09b2489bdd1964c7",
@@ -49686,11 +50219,14 @@
         "name": "TGB NEELGAGAN TOWER-G",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:11.207Z",
-        "builderId": "69c0f12b09b2489bdd195649"
+        "builderId": "69c0f12b09b2489bdd195649",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -50607,11 +51143,14 @@
         "name": "ASTRUS SQUARE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:45.959Z",
-        "builderId": "69c0f13209b2489bdd195664"
+        "builderId": "69c0f13209b2489bdd195664",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "201002"
       }
     ]
   },
@@ -50795,11 +51334,14 @@
         "name": "ROYAL HEIGHT",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:52.935Z",
-        "builderId": "69c0f13309b2489bdd195669"
+        "builderId": "69c0f13309b2489bdd195669",
+        "lenderName": [],
+        "area": "Lal Kuan",
+        "pinCode": "201009"
       }
     ]
   },
@@ -51211,11 +51753,14 @@
         "name": "AVENUE IV",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:47.291Z",
-        "builderId": "69c0f13509b2489bdd195671"
+        "builderId": "69c0f13509b2489bdd195671",
+        "lenderName": [],
+        "area": "Springwood Enclave",
+        "pinCode": "201009"
       }
     ]
   },
@@ -51610,11 +52155,14 @@
         "name": "Orion Homes",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:36.879Z",
-        "builderId": "69c0f13909b2489bdd19567e"
+        "builderId": "69c0f13909b2489bdd19567e",
+        "lenderName": [],
+        "area": "Aditya World City",
+        "pinCode": "201002"
       }
     ]
   },
@@ -51779,11 +52327,14 @@
         "name": "SCC Sapphire Ph-II BLOCK - F",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:58.581Z",
-        "builderId": "69c0f13a09b2489bdd195682"
+        "builderId": "69c0f13a09b2489bdd195682",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -52129,11 +52680,14 @@
         "name": "MIGSUN KIAAN",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:31.979Z",
-        "builderId": "69c0f13d09b2489bdd19568d"
+        "builderId": "69c0f13d09b2489bdd19568d",
+        "lenderName": [],
+        "area": "Vasundhara Sector 13",
+        "pinCode": "201012"
       }
     ]
   },
@@ -52197,11 +52751,14 @@
         "name": "Sarvottam City Center",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:53.950Z",
-        "builderId": "69c0f13d09b2489bdd19568f"
+        "builderId": "69c0f13d09b2489bdd19568f",
+        "lenderName": [],
+        "area": "Nehru Nagar",
+        "pinCode": "201001"
       }
     ]
   },
@@ -52512,11 +53069,14 @@
         "name": "RADHA GOBIND PALACE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:47.564Z",
-        "builderId": "69c0f14009b2489bdd195699"
+        "builderId": "69c0f14009b2489bdd195699",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -53922,11 +54482,14 @@
         "name": "ARV ARCADE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:44.877Z",
-        "builderId": "69c0f14909b2489bdd1956bd"
+        "builderId": "69c0f14909b2489bdd1956bd",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -54177,11 +54740,14 @@
         "name": "Media Majestic Tower",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:29.821Z",
-        "builderId": "69c0f14b09b2489bdd1956c3"
+        "builderId": "69c0f14b09b2489bdd1956c3",
+        "lenderName": [],
+        "area": "Kaushambi",
+        "pinCode": "201012"
       }
     ]
   },
@@ -54633,11 +55199,14 @@
         "name": "Swarn City Centre",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:09.724Z",
-        "builderId": "69c0f14e09b2489bdd1956d1"
+        "builderId": "69c0f14e09b2489bdd1956d1",
+        "lenderName": [],
+        "area": "Swarn Jayanti Puram",
+        "pinCode": "201002"
       }
     ]
   },
@@ -57034,11 +57603,14 @@
         "name": "UNINAV RESIDENA",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:22.527Z",
-        "builderId": "69c0f16309b2489bdd195718"
+        "builderId": "69c0f16309b2489bdd195718",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -57528,11 +58100,14 @@
         "name": "THE KUTUMB",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:15.255Z",
-        "builderId": "69c0f16709b2489bdd195728"
+        "builderId": "69c0f16709b2489bdd195728",
+        "lenderName": [],
+        "area": "Raj Nagar Extension belt",
+        "pinCode": "201017"
       }
     ]
   },
@@ -57638,11 +58213,14 @@
         "name": "AVS CITY PALACE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:47.728Z",
-        "builderId": "69c0f16809b2489bdd19572c"
+        "builderId": "69c0f16809b2489bdd19572c",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -57796,11 +58374,14 @@
         "name": "STREET 45",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:07.851Z",
-        "builderId": "69c0f16909b2489bdd195730"
+        "builderId": "69c0f16909b2489bdd195730",
+        "lenderName": [],
+        "area": "Wave City, Sector-2",
+        "pinCode": "201019"
       }
     ]
   },
@@ -58076,11 +58657,14 @@
         "name": "OXIRICH SQUARE ONE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:37.486Z",
-        "builderId": "69c0f16b09b2489bdd195738"
+        "builderId": "69c0f16b09b2489bdd195738",
+        "lenderName": [],
+        "area": "Indirapuram (Ahinsa Khand II)",
+        "pinCode": "201014"
       }
     ]
   },
@@ -58764,11 +59348,14 @@
         "name": "CHURNING MONK",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:50.955Z",
-        "builderId": "69c0f17209b2489bdd19574d"
+        "builderId": "69c0f17209b2489bdd19574d",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -58979,11 +59566,14 @@
         "name": "Saya S Class",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:56.617Z",
-        "builderId": "69c0f17309b2489bdd195754"
+        "builderId": "69c0f17309b2489bdd195754",
+        "lenderName": [],
+        "area": "Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -59068,11 +59658,14 @@
         "name": "PEARL Residency",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:43.869Z",
-        "builderId": "69c0f17409b2489bdd195757"
+        "builderId": "69c0f17409b2489bdd195757",
+        "lenderName": [],
+        "area": "Koyal Enclave",
+        "pinCode": "201009"
       }
     ]
   },
@@ -59348,11 +59941,14 @@
         "name": "Meadows Vista",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:29.547Z",
-        "builderId": "69c0f17709b2489bdd195760"
+        "builderId": "69c0f17709b2489bdd195760",
+        "lenderName": [],
+        "area": "Raj Nagar Extension belt",
+        "pinCode": "201017"
       }
     ]
   },
@@ -59679,11 +60275,14 @@
         "name": "Windsor Majesty",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:29.967Z",
-        "builderId": "69c0f17a09b2489bdd19576b"
+        "builderId": "69c0f17a09b2489bdd19576b",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -60635,11 +61234,14 @@
         "name": "ROBUST HIGH STREET",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:52.448Z",
-        "builderId": "69c0f18309b2489bdd19578a"
+        "builderId": "69c0f18309b2489bdd19578a",
+        "lenderName": [],
+        "area": "Pratap Vihar",
+        "pinCode": "201010"
       }
     ]
   },
@@ -61255,11 +61857,14 @@
         "name": "Forest Walk Phase- 2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:05.160Z",
-        "builderId": "69c0f18709b2489bdd19579c"
+        "builderId": "69c0f18709b2489bdd19579c",
+        "lenderName": [],
+        "area": "Dasna / NH-24",
+        "pinCode": "201015"
       },
       {
         "_id": "69c0fcdd09b2489bdd1963a8",
@@ -61267,11 +61872,14 @@
         "name": "FOREST WALK PHASE-1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:05.379Z",
-        "builderId": "69c0f18709b2489bdd19579c"
+        "builderId": "69c0f18709b2489bdd19579c",
+        "lenderName": [],
+        "area": "Dasna / NH-24",
+        "pinCode": "201015"
       }
     ]
   },
@@ -61461,11 +62069,14 @@
         "name": "ASTRUS CAPELLA",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:45.752Z",
-        "builderId": "69c0f18909b2489bdd1957a2"
+        "builderId": "69c0f18909b2489bdd1957a2",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -61626,11 +62237,14 @@
         "name": "INDRAPRASTHA ELITE ESTATES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:14.900Z",
-        "builderId": "69c0f18a09b2489bdd1957a8"
+        "builderId": "69c0f18a09b2489bdd1957a8",
+        "lenderName": [],
+        "area": "Narayan Nagar belt",
+        "pinCode": "201102"
       }
     ]
   },
@@ -61734,11 +62348,14 @@
         "name": "ATLAS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:46.163Z",
-        "builderId": "69c0f18b09b2489bdd1957ab"
+        "builderId": "69c0f18b09b2489bdd1957ab",
+        "lenderName": [],
+        "pinCode": "201017",
+        "area": "Raj Nagar Extension"
       }
     ]
   },
@@ -62256,11 +62873,14 @@
         "name": "CLASSIC RESIDENCY (BLOCK-J)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:53.002Z",
-        "builderId": "69c0f18f09b2489bdd1957bb"
+        "builderId": "69c0f18f09b2489bdd1957bb",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fead09b2489bdd196a75",
@@ -62268,11 +62888,14 @@
         "name": "VRINDA KUNJ",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:49.112Z",
-        "builderId": "69c0f18f09b2489bdd1957bb"
+        "builderId": "69c0f18f09b2489bdd1957bb",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fead09b2489bdd196a76",
@@ -62280,11 +62903,14 @@
         "name": "Vrinda Kunj",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:49.242Z",
-        "builderId": "69c0f18f09b2489bdd1957bb"
+        "builderId": "69c0f18f09b2489bdd1957bb",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -63448,11 +64074,14 @@
         "name": "THE ESTATES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:12.962Z",
-        "builderId": "69c0f19709b2489bdd1957dc"
+        "builderId": "69c0f19709b2489bdd1957dc",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -64590,11 +65219,14 @@
         "name": "AERO HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:37.579Z",
-        "builderId": "69c0f19f09b2489bdd1957f8"
+        "builderId": "69c0f19f09b2489bdd1957f8",
+        "lenderName": [],
+        "area": "Bhopura",
+        "pinCode": "201005"
       }
     ]
   },
@@ -64624,11 +65256,14 @@
         "name": "Dronagiri",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:02.639Z",
-        "builderId": "69c0f19f09b2489bdd1957f9"
+        "builderId": "69c0f19f09b2489bdd1957f9",
+        "lenderName": [],
+        "area": "Vasundhara",
+        "pinCode": "201012"
       }
     ]
   },
@@ -65027,11 +65662,14 @@
         "name": "Klassic Homez",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:20.223Z",
-        "builderId": "69c0f1a209b2489bdd195804"
+        "builderId": "69c0f1a209b2489bdd195804",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -65129,11 +65767,14 @@
         "name": "LANDCRAFT METRO HOMES",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:22.829Z",
-        "builderId": "69c0f1a309b2489bdd195807"
+        "builderId": "69c0f1a309b2489bdd195807",
+        "lenderName": [],
+        "area": "NH-58 / Duhai",
+        "pinCode": "201206"
       },
       {
         "_id": "69c0fcef09b2489bdd1963f7",
@@ -65141,11 +65782,14 @@
         "name": "LANDCRAFT METRO HOMES PHASE-4",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:23.035Z",
-        "builderId": "69c0f1a309b2489bdd195807"
+        "builderId": "69c0f1a309b2489bdd195807",
+        "lenderName": [],
+        "area": "Muradnagar",
+        "pinCode": "201206"
       },
       {
         "_id": "69c0fcef09b2489bdd1963f8",
@@ -65153,11 +65797,14 @@
         "name": "LANDCRAFT METROHOMES PHASE-2",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:23.249Z",
-        "builderId": "69c0f1a309b2489bdd195807"
+        "builderId": "69c0f1a309b2489bdd195807",
+        "lenderName": [],
+        "area": "NH-58 / Basantpur Saitli",
+        "pinCode": "201206"
       },
       {
         "_id": "69c0fcef09b2489bdd1963f9",
@@ -65165,11 +65812,14 @@
         "name": "LANDCRAFT METROHOMES PHASE-3",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:23.454Z",
-        "builderId": "69c0f1a309b2489bdd195807"
+        "builderId": "69c0f1a309b2489bdd195807",
+        "lenderName": [],
+        "area": "NH-58 / Basantpur Saitli",
+        "pinCode": "201206"
       }
     ]
   },
@@ -65325,11 +65975,14 @@
         "name": "Divyansh Onyx",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:01.981Z",
-        "builderId": "69c0f1a409b2489bdd19580c"
+        "builderId": "69c0f1a409b2489bdd19580c",
+        "lenderName": [],
+        "area": "NH-24 Highway, Bamheta",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fcda09b2489bdd196399",
@@ -65337,11 +65990,14 @@
         "name": "Divyansh Onyx Phase-II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:02.191Z",
-        "builderId": "69c0f1a409b2489bdd19580c"
+        "builderId": "69c0f1a409b2489bdd19580c",
+        "lenderName": [],
+        "area": "Gyan Khand / NH-24",
+        "pinCode": "201014"
       }
     ]
   },
@@ -65484,11 +66140,14 @@
         "name": "Phoenix Manssions",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:44.098Z",
-        "builderId": "69c0f1a609b2489bdd195810"
+        "builderId": "69c0f1a609b2489bdd195810",
+        "lenderName": [],
+        "area": "Hindan Residential Area",
+        "pinCode": "201005"
       }
     ]
   },
@@ -65518,11 +66177,14 @@
         "name": "SAVY VILLE DE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:55.611Z",
-        "builderId": "69c0f1a609b2489bdd195811"
+        "builderId": "69c0f1a609b2489bdd195811",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -69073,11 +69735,14 @@
         "name": "MCC Signature Heights - Phase I",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:27.609Z",
-        "builderId": "69c0f1af09b2489bdd195832"
+        "builderId": "69c0f1af09b2489bdd195832",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcf409b2489bdd19640c",
@@ -69085,11 +69750,14 @@
         "name": "MCC Signature Heights - Phase II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:28.651Z",
-        "builderId": "69c0f1af09b2489bdd195832"
+        "builderId": "69c0f1af09b2489bdd195832",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcf509b2489bdd19640d",
@@ -69097,11 +69765,14 @@
         "name": "MCC Signature Heights - Phase III",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:29.317Z",
-        "builderId": "69c0f1af09b2489bdd195832"
+        "builderId": "69c0f1af09b2489bdd195832",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -69773,11 +70444,14 @@
         "name": "La Gracia",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:22.224Z",
-        "builderId": "69c0f1b209b2489bdd19583c"
+        "builderId": "69c0f1b209b2489bdd19583c",
+        "lenderName": [],
+        "area": "Crossings Republik",
+        "pinCode": "201016"
       }
     ]
   },
@@ -69890,11 +70564,14 @@
         "name": "MGI GHARAUNDA",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:30.935Z",
-        "builderId": "69c0f1b309b2489bdd19583f"
+        "builderId": "69c0f1b309b2489bdd19583f",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcf709b2489bdd196415",
@@ -69902,11 +70579,14 @@
         "name": "MGI GREENS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:31.160Z",
-        "builderId": "69c0f1b309b2489bdd19583f"
+        "builderId": "69c0f1b309b2489bdd19583f",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -69936,11 +70616,14 @@
         "name": "THE GOLDEN GATE",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:13.629Z",
-        "builderId": "69c0f1b309b2489bdd195840"
+        "builderId": "69c0f1b309b2489bdd195840",
+        "lenderName": [],
+        "area": "Lal Kuan",
+        "pinCode": "201002"
       }
     ]
   },
@@ -70099,11 +70782,14 @@
         "name": "SHAKTI PLAZA",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:00.619Z",
-        "builderId": "69c0f1b409b2489bdd195844"
+        "builderId": "69c0f1b409b2489bdd195844",
+        "lenderName": [],
+        "area": "Shakti Khand III, Indirapuram",
+        "pinCode": "201014"
       }
     ]
   },
@@ -70392,11 +71078,14 @@
         "name": "SG Shikhar Height",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:00.224Z",
-        "builderId": "69c0f1b609b2489bdd19584c"
+        "builderId": "69c0f1b609b2489bdd19584c",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -71631,11 +72320,14 @@
         "name": "T HOMES PHASE-1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:09.959Z",
-        "builderId": "69c0f1bd09b2489bdd195868"
+        "builderId": "69c0f1bd09b2489bdd195868",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -71665,11 +72357,14 @@
         "name": "APEX THE KREMLIN",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:41.861Z",
-        "builderId": "69c0f1be09b2489bdd195869"
+        "builderId": "69c0f1be09b2489bdd195869",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -71962,11 +72657,14 @@
         "name": "Vaastu Homes",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:24.959Z",
-        "builderId": "69c0f1bf09b2489bdd195870"
+        "builderId": "69c0f1bf09b2489bdd195870",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fd2d09b2489bdd196500",
@@ -71974,11 +72672,14 @@
         "name": "VAASTU HOMES (PHASE-I)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:25.156Z",
-        "builderId": "69c0f1bf09b2489bdd195870"
+        "builderId": "69c0f1bf09b2489bdd195870",
+        "lenderName": [],
+        "area": "Siddharth Vihar",
+        "pinCode": "201009"
       }
     ]
   },
@@ -72045,11 +72746,14 @@
         "name": "River Heights Tower 17",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:52.000Z",
-        "builderId": "69c0f1c009b2489bdd195872"
+        "builderId": "69c0f1c009b2489bdd195872",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -72150,11 +72854,14 @@
         "name": "SHRI LAXMI CELEBRATION RESIDENCY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:02.836Z",
-        "builderId": "69c0f1c109b2489bdd195875"
+        "builderId": "69c0f1c109b2489bdd195875",
+        "lenderName": [],
+        "area": "Sector 2B, Vasundhara",
+        "pinCode": "201012"
       }
     ]
   },
@@ -72338,11 +73045,14 @@
         "name": "OFFICER CITY 1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:36.003Z",
-        "builderId": "69c0f1c209b2489bdd19587a"
+        "builderId": "69c0f1c209b2489bdd19587a",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -72666,11 +73376,14 @@
         "name": "WINDSOR PREMIUM TOWER",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:31.290Z",
-        "builderId": "69c0f1c409b2489bdd195882"
+        "builderId": "69c0f1c409b2489bdd195882",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -72912,11 +73625,14 @@
         "name": "Nitya Homes",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:35.520Z",
-        "builderId": "69c0f1c609b2489bdd195888"
+        "builderId": "69c0f1c609b2489bdd195888",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       }
     ]
   },
@@ -73744,11 +74460,14 @@
         "name": "GULMOHAR GARDEN PHASE II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:11.627Z",
-        "builderId": "69c0f1c809b2489bdd195893"
+        "builderId": "69c0f1c809b2489bdd195893",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fce409b2489bdd1963c6",
@@ -73756,11 +74475,14 @@
         "name": "GULMOHUR GARDEN PHASE III",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:12.047Z",
-        "builderId": "69c0f1c809b2489bdd195893"
+        "builderId": "69c0f1c809b2489bdd195893",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fce409b2489bdd1963c9",
@@ -73768,11 +74490,14 @@
         "name": "GULMOHUR RESIDENCY",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:12.684Z",
-        "builderId": "69c0f1c809b2489bdd195893"
+        "builderId": "69c0f1c809b2489bdd195893",
+        "lenderName": [],
+        "area": "Ahinsa Khand 2, Indirapuram",
+        "pinCode": "201014"
       },
       {
         "_id": "69c0fd2309b2489bdd1964d1",
@@ -73780,11 +74505,14 @@
         "name": "THE IMPERIAL (GULMOHUR VASANT)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:15.060Z",
-        "builderId": "69c0f1c809b2489bdd195893"
+        "builderId": "69c0f1c809b2489bdd195893",
+        "lenderName": [],
+        "area": "Nehru Nagar",
+        "pinCode": "201001"
       }
     ]
   },
@@ -74789,11 +75517,14 @@
         "name": "ANANDAM SQUARE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:39.281Z",
-        "builderId": "69c0f1cd09b2489bdd1958a4"
+        "builderId": "69c0f1cd09b2489bdd1958a4",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fce409b2489bdd1963c7",
@@ -74801,11 +75532,14 @@
         "name": "GULMOHUR GREENS PHASE II",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:12.252Z",
-        "builderId": "69c0f1cd09b2489bdd1958a4"
+        "builderId": "69c0f1cd09b2489bdd1958a4",
+        "lenderName": [],
+        "area": "Mohan Nagar",
+        "pinCode": "201007"
       },
       {
         "_id": "69c0fce409b2489bdd1963c8",
@@ -74813,11 +75547,14 @@
         "name": "GULMOHUR GREENS PHASE III",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:12.468Z",
-        "builderId": "69c0f1cd09b2489bdd1958a4"
+        "builderId": "69c0f1cd09b2489bdd1958a4",
+        "lenderName": [],
+        "area": "Mohan Nagar",
+        "pinCode": "201007"
       }
     ]
   },
@@ -75523,11 +76260,14 @@
         "name": "DINESH NAGAR",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:01.686Z",
-        "builderId": "69c0f1d109b2489bdd1958b3"
+        "builderId": "69c0f1d109b2489bdd1958b3",
+        "lenderName": [],
+        "area": "Pilkhuwa",
+        "pinCode": "245304"
       },
       {
         "_id": "69c0fd9209b2489bdd196577",
@@ -75535,11 +76275,14 @@
         "name": "DINESH NAGAR TOWER 29",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.087Z",
-        "builderId": "69c0f1d109b2489bdd1958b3"
+        "builderId": "69c0f1d109b2489bdd1958b3",
+        "lenderName": [],
+        "area": "Pilkhuwa",
+        "pinCode": "245304"
       },
       {
         "_id": "69c0fd9209b2489bdd196578",
@@ -75547,11 +76290,14 @@
         "name": "DINESH NAGAR TOWER 30,31",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.201Z",
-        "builderId": "69c0f1d109b2489bdd1958b3"
+        "builderId": "69c0f1d109b2489bdd1958b3",
+        "lenderName": [],
+        "area": "Pilkhuwa, Pabla Modinagar Road",
+        "pinCode": "245304"
       },
       {
         "_id": "69c0fd9209b2489bdd196579",
@@ -75559,11 +76305,14 @@
         "name": "DINESH NAGAR-44",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.335Z",
-        "builderId": "69c0f1d109b2489bdd1958b3"
+        "builderId": "69c0f1d109b2489bdd1958b3",
+        "lenderName": [],
+        "area": "Pilkhuwa, Pabla Modinagar Road",
+        "pinCode": "245304"
       }
     ]
   },
@@ -75593,11 +76342,14 @@
         "name": "RAJ EMPIRE ( PHASE-II BLOCK B & C )",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:47.765Z",
-        "builderId": "69c0f1d109b2489bdd1958b4"
+        "builderId": "69c0f1d109b2489bdd1958b4",
+        "lenderName": [],
+        "area": "Sahibabad",
+        "pinCode": "201005"
       },
       {
         "_id": "69c0fd0809b2489bdd196460",
@@ -75605,11 +76357,14 @@
         "name": "RAJ EMPIRE (PHASE-I)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:47.963Z",
-        "builderId": "69c0f1d109b2489bdd1958b4"
+        "builderId": "69c0f1d109b2489bdd1958b4",
+        "lenderName": [],
+        "area": "Sahibabad",
+        "pinCode": "201005"
       }
     ]
   },
@@ -75691,11 +76446,14 @@
         "name": "DELHI HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:59.738Z",
-        "builderId": "69c0f1d209b2489bdd1958b6"
+        "builderId": "69c0f1d209b2489bdd1958b6",
+        "lenderName": [],
+        "area": "Kaushambi, Sector-14",
+        "pinCode": "201012"
       }
     ]
   },
@@ -75830,11 +76588,14 @@
         "name": "WINDSOR PARADISE-II (BLOCK A & CONVINENT)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:30.188Z",
-        "builderId": "69c0f1d309b2489bdd1958ba"
+        "builderId": "69c0f1d309b2489bdd1958ba",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3209b2489bdd196517",
@@ -75842,11 +76603,14 @@
         "name": "WINDSOR PARADISE-II (BLOCK D & E)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:30.398Z",
-        "builderId": "69c0f1d309b2489bdd1958ba"
+        "builderId": "69c0f1d309b2489bdd1958ba",
+        "lenderName": [],
+        "area": "Noor Nagar",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fd3209b2489bdd196518",
@@ -75854,11 +76618,14 @@
         "name": "WINDSOR PARADISE-II (BLOCK F)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:30.611Z",
-        "builderId": "69c0f1d309b2489bdd1958ba"
+        "builderId": "69c0f1d309b2489bdd1958ba",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201003"
       },
       {
         "_id": "69c0fd3209b2489bdd196519",
@@ -75866,11 +76633,14 @@
         "name": "WINDSOR PARADISE-II (BLOCK NO:B,C,H & SCHOOL)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:30.876Z",
-        "builderId": "69c0f1d309b2489bdd1958ba"
+        "builderId": "69c0f1d309b2489bdd1958ba",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fd3309b2489bdd19651a",
@@ -75878,11 +76648,14 @@
         "name": "WINDSOR PARADISE-II (BLOCK-G)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:31.080Z",
-        "builderId": "69c0f1d309b2489bdd1958ba"
+        "builderId": "69c0f1d309b2489bdd1958ba",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -75949,11 +76722,14 @@
         "name": "DEVIKA SKYPERS (TOWER 1-6, 6A & 7)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:00.713Z",
-        "builderId": "69c0f1d309b2489bdd1958bc"
+        "builderId": "69c0f1d309b2489bdd1958bc",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       },
       {
         "_id": "69c0fcd809b2489bdd196394",
@@ -75961,11 +76737,14 @@
         "name": "DEVIKA SKYPERS (TOWER 8, 9 & 10)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:00.929Z",
-        "builderId": "69c0f1d309b2489bdd1958bc"
+        "builderId": "69c0f1d309b2489bdd1958bc",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -76032,11 +76811,14 @@
         "name": "Bliss Homes and Bliss Square",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:48.776Z",
-        "builderId": "69c0f1d409b2489bdd1958be"
+        "builderId": "69c0f1d409b2489bdd1958be",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "201013"
       }
     ]
   },
@@ -77832,11 +78614,14 @@
         "name": "MANGAL HEIGHTS",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:26.130Z",
-        "builderId": "69c0f1d909b2489bdd1958d0"
+        "builderId": "69c0f1d909b2489bdd1958d0",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -79759,11 +80544,14 @@
         "name": "SPOTLITE",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:06.557Z",
-        "builderId": "69c0f1db09b2489bdd1958da"
+        "builderId": "69c0f1db09b2489bdd1958da",
+        "lenderName": [],
+        "area": "Raj Nagar Extension",
+        "pinCode": "201017"
       }
     ]
   },
@@ -80085,11 +80873,14 @@
         "name": "Bharat city EWS LIG 1",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:48.345Z",
-        "builderId": "69c0f1dc09b2489bdd1958dc"
+        "builderId": "69c0f1dc09b2489bdd1958dc",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201102"
       },
       {
         "_id": "69c0fccc09b2489bdd196361",
@@ -80097,11 +80888,14 @@
         "name": "Bharat City-2A",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:48.556Z",
-        "builderId": "69c0f1dc09b2489bdd1958dc"
+        "builderId": "69c0f1dc09b2489bdd1958dc",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201102"
       },
       {
         "_id": "69c0fcce09b2489bdd19636a",
@@ -80109,11 +80903,14 @@
         "name": "Central Walk",
         "district": "Ghaziabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:41:50.541Z",
-        "builderId": "69c0f1dc09b2489bdd1958dc"
+        "builderId": "69c0f1dc09b2489bdd1958dc",
+        "lenderName": [],
+        "area": "Indraprastha Yojna",
+        "pinCode": "201005"
       }
     ]
   },
@@ -80338,11 +81135,14 @@
         "name": "Saya Gold Avenue (Phase 1)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:56.219Z",
-        "builderId": "69c0f1dd09b2489bdd1958e1"
+        "builderId": "69c0f1dd09b2489bdd1958e1",
+        "lenderName": [],
+        "area": "Vaibhav Khand",
+        "pinCode": "201014"
       },
       {
         "_id": "69c0fd1009b2489bdd196488",
@@ -80350,11 +81150,14 @@
         "name": "Saya Gold Avenue (Phase 2)",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:42:56.424Z",
-        "builderId": "69c0f1dd09b2489bdd1958e1"
+        "builderId": "69c0f1dd09b2489bdd1958e1",
+        "lenderName": [],
+        "area": "Vaibhav Khand",
+        "pinCode": "201014"
       }
     ]
   },
@@ -80885,11 +81688,14 @@
         "name": "VASUNDHARA GRAND",
         "district": "Ghaziabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:25.773Z",
-        "builderId": "69c0f1e109b2489bdd1958ec"
+        "builderId": "69c0f1e109b2489bdd1958ec",
+        "lenderName": [],
+        "area": "Sector 15, Vasundhara",
+        "pinCode": "201012"
       }
     ]
   },
