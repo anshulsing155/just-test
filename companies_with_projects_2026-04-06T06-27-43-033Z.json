@@ -67075,11 +67075,14 @@
         "name": "Construction of 19 No. 45/75 type SFS Houses at S",
         "district": "Hardoi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:14.073Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Shahabad",
+        "pinCode": "241124"
       },
       {
         "_id": "69c0fd9a09b2489bdd196583",
@@ -67087,11 +67090,14 @@
         "name": "Construction of 33 No. 18/40 type SFS Houses at Sh",
         "district": "Hardoi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:14.186Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Shahabad",
+        "pinCode": "241124"
       },
       {
         "_id": "69c0fd9a09b2489bdd196584",
@@ -67099,11 +67105,14 @@
         "name": "CONSTRUCTION OF 96 NOS (G+3) HOUSES UNDER PMAY AT TATYURA DIST. HARDOI",
         "district": "Hardoi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:14.299Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Tatyura, Bawan Road",
+        "pinCode": "241001"
       },
       {
         "_id": "69c0fda309b2489bdd196585",
@@ -67111,11 +67120,14 @@
         "name": "Construction of 48 Houses Under P.M.A.Y. at Vill.-Ramanpur, Tehsil-Hathras, Hathras",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:23.352Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Ramanpur",
+        "pinCode": "204101"
       },
       {
         "_id": "69c0fdb909b2489bdd196596",
@@ -67123,11 +67135,14 @@
         "name": "Bhumi Vikas ewam grah sthaan Yjna no-03 jhansi Kanpur gwalior bypass near Sakhi ke hanumaan Temple Jhansi",
         "district": "Jhansi",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.132Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Gwalior–Kanpur Bypass",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdb909b2489bdd196598",
@@ -67135,11 +67150,14 @@
         "name": "CONSTRUCTION OF 108 NOS 36/75 TYPES HOUSES SELF FINNACE SCHEME AT BHUMI VIKAS EWAM GRAH STHAN YOJNA NO-03 JHANSI UP",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.364Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Bhumi Vikas Evam Grah Sthan Yojna No-03",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdb909b2489bdd19659b",
@@ -67147,11 +67165,14 @@
         "name": "CONSTRUCTION OF 90 NOS RESIDENCIAL AND 46 NOS PREMIUM HOUSING PLOTS AT BHUMI VIKAS EWAM GRAHSTHAAN YOJNA NO-03 JHANSI",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.726Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Bhumi Vikas Evam",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdb909b2489bdd19659d",
@@ -67159,11 +67180,14 @@
         "name": "DEVELOPING OF 53 NOS PLOTS AT BHUMI VIKAS EWAM GRAH STHAN YOJNA NO-03 JHANSI",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.966Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Gwalior–Kanpur Bypass",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdca09b2489bdd1965e6",
@@ -67171,11 +67195,14 @@
         "name": "Prandhan Mantri Awas Yojna \"AHP\" Phase-I at Chhibramau Distt. Kannauj",
         "district": "Kannauj",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:01.971Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Chhibramau",
+        "pinCode": "209721"
       },
       {
         "_id": "69c0fdd009b2489bdd1965e8",
@@ -67183,11 +67210,14 @@
         "name": "Pradhan Mantri Awas Yojna ,AHP,Phase1 at village Alamchandpur Disst. Kanpur Dehat",
         "district": "Kanpur Dehat",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:08.842Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Alamchandpur, Akbarpur",
+        "pinCode": "209101"
       },
       {
         "_id": "69c0fdd809b2489bdd1965eb",
@@ -67195,11 +67225,14 @@
         "name": "274 FLATS GANGA ENCLAVE",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:16.909Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Kanpur Nagar",
+        "pinCode": "288001"
       },
       {
         "_id": "69c0fddc09b2489bdd196608",
@@ -67207,11 +67240,14 @@
         "name": "BRAHMAVART APARTMENT",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:20.403Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Kalyanpur",
+        "pinCode": "208017"
       },
       {
         "_id": "69c0fddd09b2489bdd19660f",
@@ -67219,11 +67255,14 @@
         "name": "Construction of 38 Nos 18/40 Type Houses at sector 1A",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:21.263Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector 1A, Kanpur Nagar",
+        "pinCode": "208001"
       },
       {
         "_id": "69c0fddd09b2489bdd196610",
@@ -67231,11 +67270,14 @@
         "name": "Construction of 9 No.s 128/200 Type Houses at sector 6B",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:21.374Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector 6B, Kanpur Nagar",
+        "pinCode": "208023"
       },
       {
         "_id": "69c0fe1709b2489bdd19667d",
@@ -67243,11 +67285,14 @@
         "name": "48 Nos. EWS Houses in Sec-7A at Awadh Vihar Yojna, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:19.171Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": " Sector-7A, Awadh Vihar Yojna,",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe1709b2489bdd19667f",
@@ -67255,11 +67300,14 @@
         "name": "74 Nos. L.I.G Finished Houses and 28 Nos. M.I.G. Semi Finished Houses at Sector-4, Avadh Vihar Yojna, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:19.432Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-4, Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe1909b2489bdd196694",
@@ -67267,11 +67315,14 @@
         "name": "Alaknanda Enclave, GH 2 and GH 3, Sector 3, Awadh",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:21.945Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-3, Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe1a09b2489bdd19669c",
@@ -67279,11 +67330,14 @@
         "name": "Amrapali Enclave (Part-1), Hardoi Road",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:22.869Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Amrapali Yojna, Hardoi Road",
+        "pinCode": "226017"
       },
       {
         "_id": "69c0fe2809b2489bdd196712",
@@ -67291,11 +67345,14 @@
         "name": "ARAVALI ENCLAVE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:36.908Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe2c09b2489bdd196733",
@@ -67303,11 +67360,14 @@
         "name": "BASERA-1 AWADH VIHAR YOJNA, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:40.841Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe2c09b2489bdd196734",
@@ -67315,11 +67375,14 @@
         "name": "Basera-2 (G+3) LIG, Sect. 8 (Fage-1) Avadh Vihar Y",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:40.959Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-8, Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe2d09b2489bdd196735",
@@ -67327,11 +67390,14 @@
         "name": "BASERA-2, AWADH VIHAR YOJNA, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:41.071Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-3, Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe2e09b2489bdd19673f",
@@ -67339,11 +67405,14 @@
         "name": "BHAGIRATHI ENCLAVE (AWADH VIHAR YOJNA)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:42.271Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Awadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3409b2489bdd196773",
@@ -67351,11 +67420,14 @@
         "name": "Const. oF 1656 Nos. Flats in Goverdhan Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.457Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3409b2489bdd196774",
@@ -67363,11 +67435,14 @@
         "name": "Const. of 224 no EWS (G+3) Type houses at Sec-13,",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.572Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3409b2489bdd196775",
@@ -67375,11 +67450,14 @@
         "name": "Const. of 672 Nos. (G+3) Houses under PMAY (Urban) at Village-Anaura, Tahsil-Sadar, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.691Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Anaura, Sadar",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3409b2489bdd196776",
@@ -67387,11 +67465,14 @@
         "name": "Construction of 10 nos 106/162 type houses",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.809Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3409b2489bdd196777",
@@ -67399,11 +67480,14 @@
         "name": "Construction of 16 nos 128/200 type houses",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.930Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "206014"
       },
       {
         "_id": "69c0fe3509b2489bdd196778",
@@ -67411,11 +67495,14 @@
         "name": "Construction of 256 no. EWS type houses in Sec-13",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.046Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3509b2489bdd196779",
@@ -67423,11 +67510,14 @@
         "name": "Construction of 32 No. EWS (G+3) (Amaltas) Houses",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.158Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Rajajipuram",
+        "pinCode": "226017"
       },
       {
         "_id": "69c0fe3509b2489bdd19677a",
@@ -67435,11 +67525,14 @@
         "name": "Construction of 432 Nos Flats (G+3) Under Pradhanmantri Awas Yojna (AHP) At Kankaha, Mohanlalganj Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.273Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Kankaha",
+        "pinCode": "226302"
       },
       {
         "_id": "69c0fe3509b2489bdd19677b",
@@ -67447,11 +67540,14 @@
         "name": "CONSTRUCTION OF 480 EWS 01 BHK TYPE-1 (G+3) HOUSES IN SEC-13 VRINDAVAN YOJNA LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.390Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3509b2489bdd19677c",
@@ -67459,11 +67555,14 @@
         "name": "Construction of 480 Nos LIG (G+3) Houses at Gokul",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.512Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Gokul Gram",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3509b2489bdd19677d",
@@ -67471,11 +67570,14 @@
         "name": "CONSTRUCTION OF 480 NOS(G+3) HOUSES UNDER PMAY AT JAHIRPUR, KURSHI ROAD LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.626Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jahirpur, Kursi Road",
+        "pinCode": "226026"
       },
       {
         "_id": "69c0fe3509b2489bdd19677e",
@@ -67483,11 +67585,14 @@
         "name": "Construction of 480 Nos. (G+3) Type-I EWS Houses at Sector-13, Vrindavan Yojna-4, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.750Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna-4",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3509b2489bdd19677f",
@@ -67495,11 +67600,14 @@
         "name": "Construction of 576 Nos (G+3) LIG Flats at Sector-13, Vrindavan Yojna no-4, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:49.882Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna-4",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196780",
@@ -67507,11 +67615,14 @@
         "name": "Construction of 576 Nos. LIG G+3 type Houses at sector-13, Vrindavan Yojna No.-4, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.019Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": " Sector-13, Vrindavan Yojna-4",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196781",
@@ -67519,11 +67630,14 @@
         "name": "Construction of 640 Nos F-82 Type G+3 Houses at Ne",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.141Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196782",
@@ -67531,11 +67645,14 @@
         "name": "Construction of 672 LIG (G+3) Houses at Gokul Gram",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.261Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Gokul Gram",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196783",
@@ -67543,11 +67660,14 @@
         "name": "Construction of 80 No. (G+3) F-30 Type Houses at G",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.384Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196784",
@@ -67555,11 +67675,14 @@
         "name": "Construction of 80 Nos (Parijat) (G+3) Houses at S",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.502Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3609b2489bdd196785",
@@ -67567,11 +67690,14 @@
         "name": "Construction of 864 No. EWS (G+3) Houses at Gokul",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.625Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Gokul Gram",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe3709b2489bdd196786",
@@ -67579,11 +67705,14 @@
         "name": "Construction of EWS Houses (G+3 Floor) under PM AVAS YOJNA, at KANKAHA, MOHANLALGANJ, LUCKNOW (PHASE-2).",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:50.965Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Kankaha, Mohanlalganj",
+        "pinCode": "226302"
       },
       {
         "_id": "69c0fe3709b2489bdd196787",
@@ -67591,11 +67720,14 @@
         "name": "Construction of Pradhan Mantri (Sahari) Avas Yojna in Sector-7A, Avadh Vihar Yojna, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:51.277Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Avadh Vihar Yojna, Sector-7A",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3f09b2489bdd1967ca",
@@ -67603,11 +67735,14 @@
         "name": "Everest Enclave (Construction of Multi Storeyed Re",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:59.954Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-18, Vrindavan Yojna No. 4",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4209b2489bdd1967dd",
@@ -67615,11 +67750,14 @@
         "name": "Gangotri Enclave (F-84 Types 448 Nos and F-64 Type",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:02.203Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Roberts Lines, Sector-7",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4709b2489bdd196809",
@@ -67627,11 +67765,14 @@
         "name": "Gomti Enclave (Affordable Housing Samajvadi Yojna)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:07.450Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Awadh Vihar Yojna, Sector-6",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4909b2489bdd19681c",
@@ -67639,11 +67780,14 @@
         "name": "Himalaya Enclave Phase I & III",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:09.778Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-18, Vrindavan Yojna No. 4",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe4909b2489bdd19681d",
@@ -67651,11 +67795,14 @@
         "name": "Himalaya Enclave Phase-2 (Sector-17)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:09.900Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-17, Vrindavan Yojna Phase-4",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe4d09b2489bdd196837",
@@ -67663,11 +67810,14 @@
         "name": "JANHWI ENCLAVE, EWS FLATS, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:13.030Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Bijnor",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4d09b2489bdd196838",
@@ -67675,11 +67825,14 @@
         "name": "JANHWI ENCLAVE, LIG FLATS, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:13.160Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Bijnor",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4e09b2489bdd196846",
@@ -67687,11 +67840,14 @@
         "name": "Kailash Enclave, at Sector-18, Vrindavan Yojana-4,",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:14.811Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-18, Vrindavan Yojna-4",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe5109b2489bdd19685b",
@@ -67699,11 +67855,14 @@
         "name": "LIG HOUSES IN SECTOR-13, VRINDAVAN YOJNA, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:17.435Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-13, Vrindavan Yojna Phase-4",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe5409b2489bdd196872",
@@ -67711,11 +67870,14 @@
         "name": "Mandakini Enclave Awadh Vihar Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:20.357Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-2A, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5709b2489bdd19688a",
@@ -67723,11 +67885,14 @@
         "name": "Nandani Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:23.417Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Mohanlalganj belt",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6209b2489bdd1968e8",
@@ -67735,11 +67900,14 @@
         "name": "PMAY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:34.713Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Avadh Vihar belt",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6309b2489bdd1968ee",
@@ -67747,11 +67915,14 @@
         "name": "PMAY EWS 672 Flats Awadh vihar Sec-3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:35.399Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-3, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6309b2489bdd1968ef",
@@ -67759,11 +67930,14 @@
         "name": "PMAY Phase-I, Village-Miranpur Pinvat, Sarojni Nagar, Lucknow.",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:35.513Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Miranpur Pinvat",
+        "pinCode": "226401"
       },
       {
         "_id": "69c0fe6409b2489bdd1968f8",
@@ -67771,11 +67945,14 @@
         "name": "Pradhan Mantri Awas Yojna, Avadh Vihar Yojna, Pocket-2, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:36.643Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Pocket-2, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6409b2489bdd1968fa",
@@ -67783,11 +67960,14 @@
         "name": "PradhanMantri Awas Yojna, Sector-10B, Avadh Vihar Yojna, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:36.923Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-10B, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6609b2489bdd196908",
@@ -67795,11 +67975,14 @@
         "name": "Rapti Enclave, 288 Nos. (G+3) LIG Houses, At Sect-",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:38.641Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lucknow",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6709b2489bdd196911",
@@ -67807,11 +67990,14 @@
         "name": "RESIDENTIAL PLOT (58 NOS.) IN SECTOR-09, AWADH VIHAR YOJNA, LUCKNOW",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:39.734Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-9, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6709b2489bdd196912",
@@ -67819,11 +68005,14 @@
         "name": "Residential Plots (86 Nos.) in Sector-8 of Awadh vihar Yojna, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:39.860Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-8, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6809b2489bdd196913",
@@ -67831,11 +68020,14 @@
         "name": "Residential plots in gated colony at Sec-20(B), Vrindavan Yojna no-04, Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:39.987Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-20(B), Vrindavan Yojna-4",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe6f09b2489bdd196953",
@@ -67843,11 +68035,14 @@
         "name": "Saryu Enclave (Phase-1)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:47.561Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Ghuswal Kalan",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6f09b2489bdd196954",
@@ -67855,11 +68050,14 @@
         "name": "SARYU ENCLAVE PHASE-2 (PART-1)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:47.682Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Ghuswal Kalan",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe7009b2489bdd196957",
@@ -67867,11 +68065,14 @@
         "name": "SBI Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:48.056Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-5, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe7009b2489bdd196958",
@@ -67879,11 +68080,14 @@
         "name": "SBI ENCLAVE PHASE-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:48.173Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-5, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe7009b2489bdd19695d",
@@ -67891,11 +68095,14 @@
         "name": "Sector-7C, Plotted Development, Awadh Vihar Yojna Lucknow",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:48.766Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-7C, Avadh Vihar Yojna",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe9409b2489bdd1969de",
@@ -67903,11 +68110,14 @@
         "name": "Const. of 96 Nos. (G+3) Houses under PMAY (Urban) at Village-Audenya Padariya, Karhal Road, Distt.-Mainpuri",
         "district": "Mainpuri",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:24.148Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Audenya Padariya",
+        "pinCode": "205001"
       },
       {
         "_id": "69c0feb409b2489bdd196a79",
@@ -67915,11 +68125,14 @@
         "name": "Construction of 48 Nos. (G+3) EWS houses under PMAY (AHP)at Badua Godam, Mau",
         "district": "Mau",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:56.081Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Badua Godam",
+        "pinCode": "275101"
       },
       {
         "_id": "69c0febe09b2489bdd196a7c",
@@ -67927,11 +68140,14 @@
         "name": "131/144 Type Duplex and 69/142 Type Residential Houses in Sector-3, Scheme No. 11, Jagriti Vihar (Ext.), Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:06.307Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-3, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec109b2489bdd196a98",
@@ -67939,11 +68155,14 @@
         "name": "Bhagirathi Enclave F-32 type 384 Nos (G+3) Houses",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:09.593Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250002"
       },
       {
         "_id": "69c0fec109b2489bdd196a99",
@@ -67951,11 +68170,14 @@
         "name": "Bhagirathi Enclave F-32 type 64 Nos (G+3) Houses i",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:09.710Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec109b2489bdd196a9a",
@@ -67963,11 +68185,14 @@
         "name": "Bhagirathi Enclave F-32 type 768 Nos (G+3) Houses",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:09.821Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250002"
       },
       {
         "_id": "69c0fec109b2489bdd196a9b",
@@ -67975,11 +68200,14 @@
         "name": "Bhagirathi Enclave, F-64 Type 160 Nos (G+3) Houses",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:09.954Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec209b2489bdd196a9c",
@@ -67987,11 +68215,14 @@
         "name": "Bhagirathi Enclave, F-64 Type 32 Nos (G+3) SFS-201",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:10.073Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension  Sector-3",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec209b2489bdd196a9d",
@@ -67999,11 +68230,14 @@
         "name": "Bhagirathi Enclave, F-64 Type 384 Nos (G+3) Houses",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:10.185Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension ",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec209b2489bdd196aa3",
@@ -68011,11 +68245,14 @@
         "name": "Const. of 432 Nos F-57 Type Houses (G+3) In Bhagir",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:10.865Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension, Sector-3",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aa4",
@@ -68023,11 +68260,14 @@
         "name": "Construction of 480 nos EWS Houses ( G+3) under Pradhan Mantri Avas Yojna at Sec-2 Jagriti Vihar (Ext.) Yojna No-11, Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:10.994Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-2, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aa5",
@@ -68035,11 +68275,14 @@
         "name": "Construction of 252 Nos 45/75 type Semi Finished Houses in Sector-5 at Jagriti Vihar Extension Scheme No-11 Meerut.",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:11.124Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-5, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aa6",
@@ -68047,11 +68290,14 @@
         "name": "Construction of 31/63 Type 19 Nos Semi Finished Houses in Sector-5 Jagriti Vihar Extension Scheme No 11, Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:11.237Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-5, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aa7",
@@ -68059,11 +68305,14 @@
         "name": "Construction of 96 Nos 31/63 type Semi Finished Houses in Sector-5 at Jagriti Vihar Extension Scheme No-11 Meerut.",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:11.349Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-5, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aa8",
@@ -68071,11 +68320,14 @@
         "name": "Construction of EWS Houses under PMAY Project at Sector-8A in Scheme No. 11, Jagriti Vihar (Ext.), Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:11.460Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-8A, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec309b2489bdd196aac",
@@ -68083,11 +68335,14 @@
         "name": "Different Type 30 Nos. Residential Plot Sector-4, Madhavpuram Scheme No.-10, Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:11.914Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec409b2489bdd196aad",
@@ -68095,11 +68350,14 @@
         "name": "Different type of plots in Sector-3, Jagriti Vihar (Vistar), Yojna No. 11, Meerut",
         "district": "Meerut",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:12.031Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec709b2489bdd196ac7",
@@ -68107,11 +68365,14 @@
         "name": "Himalaya Enclave F-127 Type (S+10) 40 Nos Houses i",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:15.085Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fec709b2489bdd196ac8",
@@ -68119,11 +68380,14 @@
         "name": "Himalaya Enclave, F-100 Type 40 Nos (S+10) Houses",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:15.230Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fecb09b2489bdd196af0",
@@ -68131,11 +68395,14 @@
         "name": "PMAY Flats 96 Nos in Sector-8A at Scheme No-11, Jagriti Vihar (Ext.), Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:19.842Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector 8A ,Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fecb09b2489bdd196af1",
@@ -68143,11 +68410,14 @@
         "name": "PMAY Yojna (Urban) in Sector-4, Jagriti Vihar (Ext.) Yojna No-11, Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:19.955Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector 4, Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fecd09b2489bdd196afb",
@@ -68155,11 +68425,14 @@
         "name": "Residential Plots in Sector-2 and 3 in Scheme No. 11 at Jagriti Vihar (Ext.), Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:21.105Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fecd09b2489bdd196afc",
@@ -68167,11 +68440,14 @@
         "name": "Residential Plots in Sector-3 at Jagriti Vihar Extension Scheme No. 11 Meerut",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:21.248Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fecd09b2489bdd196afd",
@@ -68179,11 +68455,14 @@
         "name": "Residential Plots In Sector-5 at Jagriti Vihar Extension Scheme No-11 in Meerut.",
         "district": "Meerut",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:21.366Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Jagriti Vihar Extension",
+        "pinCode": "250001"
       },
       {
         "_id": "69c0fee109b2489bdd196b2b",
@@ -68191,11 +68470,14 @@
         "name": "137 NO SFS HOUSE IN SECT 14 OF MAJHOLA YOJ. NO 04 VISTAAR MORADABAD",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.319Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-14, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee109b2489bdd196b2d",
@@ -68203,11 +68485,14 @@
         "name": "2BHK (S+4) TYPE FLAT SECTOR-9A, MAJHOLA YOJNA-4, P",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.610Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-9A, Majhola Yojna ",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee209b2489bdd196b30",
@@ -68215,11 +68500,14 @@
         "name": "59 NO SFS HOUS SEC 12A MAJHOLA YOJ 4 VISTAR MBD",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.002Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-12A, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee309b2489bdd196b3f",
@@ -68227,11 +68515,14 @@
         "name": "Construction of 144 nos Flats ( G+3) under PM Avas Yojna at Sec-15 Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.737Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee309b2489bdd196b40",
@@ -68239,11 +68530,14 @@
         "name": "Construction of 16 Nos 75/200 Type Semi Finished Houses in Sector 10 Under Self Finance Scheme 2018 at Majhola Yojna No 4 Phase-2 Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.861Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-10",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee409b2489bdd196b41",
@@ -68251,11 +68545,14 @@
         "name": "Construction of 192 nos Flats ( G+3) under PM Avas Yojna at Sec-16 Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.977Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee409b2489bdd196b45",
@@ -68263,11 +68560,14 @@
         "name": "Construction of 288 Nos Flats (G+3) Multystoried under Pradhanmantri Avas Yojna at Sector-16, Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.434Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-16",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee409b2489bdd196b46",
@@ -68275,11 +68575,14 @@
         "name": "Construction of 36 Nos 57/128 type semifinished ho",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.553Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee409b2489bdd196b47",
@@ -68287,11 +68590,14 @@
         "name": "Construction of 38 Nos 75/200 type semifinished ho",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.671Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee409b2489bdd196b49",
@@ -68299,11 +68605,14 @@
         "name": "Construction of 384 nos Flats ( G+3) under PM Avas Yojna at Sec-15 Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.915Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee509b2489bdd196b4b",
@@ -68311,11 +68620,14 @@
         "name": "Construction of 432 No Flat (G+3) under PMAY at Sector-15 Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.148Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee509b2489bdd196b4c",
@@ -68323,11 +68635,14 @@
         "name": "Construction of 48 Nos. (S+4) 1BHK Flats in Sector",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.266Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee509b2489bdd196b4d",
@@ -68335,11 +68650,14 @@
         "name": "Construction of 61 Nos. 72/162 Type Semi Finished",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.383Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee509b2489bdd196b4e",
@@ -68347,11 +68665,14 @@
         "name": "Construction of 96 nos Flats ( G+3) under PM Avas Yojna at Sec-16 Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.503Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": " Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0fee909b2489bdd196b6f",
@@ -68359,11 +68680,14 @@
         "name": "Residential Plots 370 in Sector-15 and Residential Plots 70 in Sector-16 Total Residential Plots 440 No in Majhola Yojna No-4, Ph-2 (Vistar) Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:49.350Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector-15, Majhola Yojna",
+        "pinCode": "244103"
       },
       {
         "_id": "69c0ff0809b2489bdd196b9c",
@@ -68371,11 +68695,14 @@
         "name": "PMAY, Construction of 96 nos Flats G+3 Type at Vill-Devanandpur, Raebareli.",
         "district": "Raebareli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:19.976Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Devanandpur",
+        "pinCode": "229001"
       },
       {
         "_id": "69c0ff1609b2489bdd196ba9",
@@ -68383,11 +68710,14 @@
         "name": "12 Nos. Residential Plots in Shakumbhari Vihar Yojna, Saharanpur.",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:34.376Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Shakumbhari",
+        "pinCode": "247001"
       },
       {
         "_id": "69c0ff1609b2489bdd196baa",
@@ -68395,11 +68725,14 @@
         "name": "Construction of 128 Nos F-45 (G+3) Type Flats in Self Finance Scheme in Sector 2A of Shakumbhari Vihar Yojna, Saharanpur",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:34.488Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Sector 2A, Shakumbhari",
+        "pinCode": "247001"
       },
       {
         "_id": "69c0ff1609b2489bdd196bab",
@@ -68407,11 +68740,14 @@
         "name": "CONSTRUCTION OF 160 No. F-70 TYPE (G+3) STOREY FLA",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:34.603Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Shakumbhari",
+        "pinCode": "247001"
       },
       {
         "_id": "69c0ff1609b2489bdd196bac",
@@ -68419,11 +68755,14 @@
         "name": "Construction of 80 No. F-45 Type (G+3) Storey Flat",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:34.717Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Shakumbhari",
+        "pinCode": "247001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bc8",
@@ -68431,11 +68770,14 @@
         "name": "(G+3) Type EWS Flats",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.118Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bc9",
@@ -68443,11 +68785,14 @@
         "name": "(G+3) Type LIG Flats",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.240Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bca",
@@ -68455,11 +68800,14 @@
         "name": "34 No LIG Finished Houses in Lohramau Yojna Sultanpur",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.407Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bcb",
@@ -68467,11 +68815,14 @@
         "name": "42 No. MIG 45/75 Type finished houses at Lohramau Yojna Sultanpur",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.532Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bcc",
@@ -68479,11 +68830,14 @@
         "name": "Construction of 21 Nos 29/60 LIG Type Finished Houses At Lohramau Yojna Distt Sultanpur",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.659Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bcd",
@@ -68491,11 +68845,14 @@
         "name": "M.I.G (80/122) Type Semi finished Houses at Lohramau Yojna, Sultanpur",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.789Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6309b2489bdd196bce",
@@ -68503,11 +68860,14 @@
         "name": "PMAY EWS 192 no. Flats Lohramau Yojna",
         "district": "Sultanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:51.911Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff6409b2489bdd196bcf",
@@ -68515,11 +68875,14 @@
         "name": "Residential Plot (Different Type) at Lohramau Yojna Sulatanpur",
         "district": "Sultanpur",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:52.054Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Lohramau Yojna",
+        "pinCode": "228001"
       },
       {
         "_id": "69c0ff7509b2489bdd196bd1",
@@ -68527,11 +68890,14 @@
         "name": "CONSTRUCTION OF 48 NOS PMAY UNITS",
         "district": "Unnao",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:09.563Z",
-        "builderId": "69c0f1a609b2489bdd195812"
+        "builderId": "69c0f1a609b2489bdd195812",
+        "lenderName": [],
+        "area": "Devanandpur",
+        "pinCode": "209801"
       }
     ]
   },
