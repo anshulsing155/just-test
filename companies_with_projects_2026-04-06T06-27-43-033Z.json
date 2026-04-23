@@ -121,14 +121,15 @@
         "name": "PHOOL NARAYAN PARK",
         "district": "Bareilly",
         "projectType": "Plot",
-        "constructionStatus": "Completed",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:28.130Z",
         "area": "Harunagla",
         "pinCode": "243006",
         "location": "Behind Green Park, Harunagla, Bisalpur Road, Bareilly - 243006, Uttar Pradesh",
-        "builderId": "69be9bddcf0d52217507ffdf"
+        "builderId": "69be9bddcf0d52217507ffdf",
+        "lenderName": []
       }
     ]
   },
@@ -158,11 +159,14 @@
         "name": "AMILTUS LUXURIA",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:12.285Z",
-        "builderId": "69be9bddcf0d52217507ffe1"
+        "builderId": "69be9bddcf0d52217507ffe1",
+        "lenderName": [],
+        "area": "Pilibhit Bypass",
+        "pinCode": "243006"
       }
     ]
   },
@@ -355,11 +359,14 @@
         "name": "HARMONY",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:17.814Z",
-        "builderId": "69be9bdecf0d52217507ffeb"
+        "builderId": "69be9bdecf0d52217507ffeb",
+        "lenderName": [],
+        "area": "Suresh Sharma Nagar",
+        "pinCode": "243006"
       }
     ]
   },
@@ -2772,11 +2779,14 @@
         "name": "KAMLA MANNSIONS",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:21.487Z",
-        "builderId": "69be9be4cf0d52217508003a"
+        "builderId": "69be9be4cf0d52217508003a",
+        "lenderName": [],
+        "area": "Alakhnath Road",
+        "pinCode": "243003"
       }
     ]
   },
@@ -2864,11 +2874,14 @@
         "name": "Jeevan Sukh",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:19.939Z",
-        "builderId": "69c0effd09b2489bdd1951d4"
+        "builderId": "69c0effd09b2489bdd1951d4",
+        "lenderName": [],
+        "area": "Mundia Ahmed Nagar",
+        "pinCode": "243122"
       }
     ]
   },
@@ -8025,11 +8038,14 @@
         "name": "sparsh greens",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:37.043Z",
-        "builderId": "69c0f01909b2489bdd19523c"
+        "builderId": "69c0f01909b2489bdd19523c",
+        "lenderName": [],
+        "area": "Green Park Colony",
+        "pinCode": "243006"
       }
     ]
   },
@@ -10536,11 +10552,14 @@
         "name": "tulip grace",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:39.438Z",
-        "builderId": "69c0f02809b2489bdd195277"
+        "builderId": "69c0f02809b2489bdd195277",
+        "lenderName": [],
+        "area": "Sanjay Nagar",
+        "pinCode": "243005"
       }
     ]
   },
@@ -12154,11 +12173,14 @@
         "name": "NANDI BELLA VISTA",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:24.882Z",
-        "builderId": "69c0f03209b2489bdd19529d"
+        "builderId": "69c0f03209b2489bdd19529d",
+        "lenderName": [],
+        "area": "Rajendra Nagar",
+        "pinCode": "243001"
       },
       {
         "_id": "69c0fb1109b2489bdd195e57",
@@ -12166,11 +12188,14 @@
         "name": "NANDI HEIGHTS",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:25.178Z",
-        "builderId": "69c0f03209b2489bdd19529d"
+        "builderId": "69c0f03209b2489bdd19529d",
+        "lenderName": [],
+        "area": "Indra Nagar",
+        "pinCode": "243122"
       }
     ]
   },
@@ -18167,11 +18192,14 @@
         "name": "PARK LIFE",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:27.872Z",
-        "builderId": "69c0f05b09b2489bdd19532c"
+        "builderId": "69c0f05b09b2489bdd19532c",
+        "lenderName": [],
+        "area": "Kargaina",
+        "pinCode": "262621"
       }
     ]
   },
@@ -18392,11 +18420,14 @@
         "name": "MEGA DREAM HOMES (PHASE-3)",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:23.153Z",
-        "builderId": "69c0f05c09b2489bdd195332"
+        "builderId": "69c0f05c09b2489bdd195332",
+        "lenderName": [],
+        "area": "Karamchari Nagar",
+        "pinCode": "243122"
       },
       {
         "_id": "69c0fb0f09b2489bdd195e4f",
@@ -18404,11 +18435,14 @@
         "name": "MEGA DREAMS HOMES (PHASE-2)",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:23.367Z",
-        "builderId": "69c0f05c09b2489bdd195332"
+        "builderId": "69c0f05c09b2489bdd195332",
+        "lenderName": [],
+        "area": "Karamchari Nagar",
+        "pinCode": "243122"
       }
     ]
   },
@@ -19107,11 +19141,14 @@
         "name": "33 AVENUE",
         "district": "Bareilly",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:11.218Z",
-        "builderId": "69c0f06009b2489bdd195343"
+        "builderId": "69c0f06009b2489bdd195343",
+        "lenderName": [],
+        "area": "Chandpur Bichpuri",
+        "pinCode": "243006"
       }
     ]
   },
@@ -19236,11 +19273,14 @@
         "name": "SHRI GANESH PARK",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:35.613Z",
-        "builderId": "69c0f06109b2489bdd195346"
+        "builderId": "69c0f06109b2489bdd195346",
+        "lenderName": [],
+        "area": "Green Park Colony",
+        "pinCode": "243006"
       }
     ]
   },
@@ -19477,11 +19517,14 @@
         "name": "Mega Heights",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:23.986Z",
-        "builderId": "69c0f06209b2489bdd19534a"
+        "builderId": "69c0f06209b2489bdd19534a",
+        "lenderName": [],
+        "area": "Model Town",
+        "pinCode": "243005"
       }
     ]
   },
@@ -20037,11 +20080,14 @@
         "name": "Avante",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:13.112Z",
-        "builderId": "69c0f06609b2489bdd19535b"
+        "builderId": "69c0f06609b2489bdd19535b",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "243001"
       }
     ]
   },
@@ -20864,11 +20910,14 @@
         "name": "KAVERI ENTERPRISES",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:21.737Z",
-        "builderId": "69c0f06b09b2489bdd195372"
+        "builderId": "69c0f06b09b2489bdd195372",
+        "lenderName": [],
+        "area": "Kargana",
+        "pinCode": "243001"
       },
       {
         "_id": "69c0fb1c09b2489bdd195e84",
@@ -20876,11 +20925,14 @@
         "name": "SOUTH CITY GREENS",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:36.423Z",
-        "builderId": "69c0f06b09b2489bdd195372"
+        "builderId": "69c0f06b09b2489bdd195372",
+        "lenderName": [],
+        "pinCode": "243003",
+        "area": "Behti Deh Jagir"
       }
     ]
   },
@@ -21276,11 +21328,14 @@
         "name": "Construction of 1500 (G+3) EWS houses in Raptinagar Extension scheme under PMAY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:01.080Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Raptinagar Extension",
+        "pinCode": "273003"
       },
       {
         "_id": "69c0fd5509b2489bdd196537",
@@ -21288,11 +21343,14 @@
         "name": "GREENWOOD RESIDENTIAL SCHEME",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:05.809Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Ramgarh Taal",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5709b2489bdd19653f",
@@ -21300,11 +21358,14 @@
         "name": "Khorabar EWS/LIG Group Housing",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:07.518Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Subabazar",
+        "pinCode": "273010"
       },
       {
         "_id": "69c0fd5809b2489bdd196541",
@@ -21312,11 +21373,14 @@
         "name": "KHORABAR TOWNSHIP AND MEDICITY PROPOSED GROUP HOUSING MMIG AND MIG FLATS",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:07.955Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Khorabar Township & Medicity",
+        "pinCode": "273010"
       },
       {
         "_id": "69c0fd5809b2489bdd196542",
@@ -21324,11 +21388,14 @@
         "name": "KUSHMI ENCLAVE GROUP HOUSING",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:08.161Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Lacchipur",
+        "pinCode": "273007"
       },
       {
         "_id": "69c0fd5809b2489bdd196543",
@@ -21336,11 +21403,14 @@
         "name": "Lake View Apartments, Taramandal",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:08.407Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Taramandal",
+        "pinCode": "273010"
       },
       {
         "_id": "69c0fd5809b2489bdd196544",
@@ -21348,11 +21418,14 @@
         "name": "LOHIA ENCLAVE - PHASE - II",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:08.653Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Deoria Bypass Road",
+        "pinCode": "273010"
       },
       {
         "_id": "69c0fd5809b2489bdd196545",
@@ -21360,11 +21433,14 @@
         "name": "LOHIA ENCLAVE - PHASE - III",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:08.863Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Taramandal",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5909b2489bdd196546",
@@ -21372,11 +21448,14 @@
         "name": "LOHIA ENCLAVE - PHASE-1",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:09.111Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Taramandal",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5909b2489bdd196549",
@@ -21384,11 +21463,14 @@
         "name": "NEW ROHINI MIG GROUP HOUSING SCHEME AT RAPTINAGAR VISTAR",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:09.875Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Raptinagar Vistar",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5c09b2489bdd196553",
@@ -21396,11 +21478,14 @@
         "name": "PATRAKARPURAM SEMI FINISHED AFFORDABLE HOUSING",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:12.342Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Patrakarpuram",
+        "pinCode": "273016"
       },
       {
         "_id": "69c0fd5c09b2489bdd196554",
@@ -21408,11 +21493,14 @@
         "name": "PATRAKARPURAM VISTAR 4 STORY AFFORDABLE (G+3) SEMI FINISHED HOUSING SCHEME",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:12.545Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Manbela",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd6009b2489bdd196559",
@@ -21420,11 +21508,14 @@
         "name": "RAPTINAGAR VISTAR TOWNSHIP AND SPORTS CITY",
         "district": "Gorakhpur",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:16.637Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Raptinagar Extension",
+        "pinCode": "273016"
       },
       {
         "_id": "69c0fd6709b2489bdd196568",
@@ -21432,11 +21523,14 @@
         "name": "VASUNDHARA ENCLAVE ( PHASE-II )",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:23.823Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Vasundhara Enclave",
+        "pinCode": "273016"
       },
       {
         "_id": "69c0fd6809b2489bdd196569",
@@ -21444,11 +21538,14 @@
         "name": "Vasundhara Enclave - III",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:24.589Z",
-        "builderId": "69c0f06c09b2489bdd195376"
+        "builderId": "69c0f06c09b2489bdd195376",
+        "lenderName": [],
+        "area": "Taramandal",
+        "pinCode": "273016"
       }
     ]
   },
@@ -22095,11 +22192,14 @@
         "name": "KAVYANJALI HEIGHTS",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:07.300Z",
-        "builderId": "69c0f06f09b2489bdd195383"
+        "builderId": "69c0f06f09b2489bdd195383",
+        "lenderName": [],
+        "area": "Mohaddipur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -24830,11 +24930,14 @@
         "name": "JHM ACE",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:20.388Z",
-        "builderId": "69c0f08109b2489bdd1953ca"
+        "builderId": "69c0f08109b2489bdd1953ca",
+        "lenderName": [],
+        "area": "Chandpur Bichpuri",
+        "pinCode": "243502"
       }
     ]
   },
@@ -25910,11 +26013,14 @@
         "name": "GOBIND DHAM",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:16.894Z",
-        "builderId": "69c0f08909b2489bdd1953e6"
+        "builderId": "69c0f08909b2489bdd1953e6",
+        "lenderName": [],
+        "area": "Izatnagar",
+        "pinCode": "243122"
       }
     ]
   },
@@ -26339,11 +26445,14 @@
         "name": "DREAM HOMES",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:14.545Z",
-        "builderId": "69c0f08d09b2489bdd1953f3"
+        "builderId": "69c0f08d09b2489bdd1953f3",
+        "lenderName": [],
+        "area": "Marwari Ganj",
+        "pinCode": "243005"
       }
     ]
   },
@@ -26699,11 +26808,14 @@
         "name": "G.D. ENCLAVE",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:01.941Z",
-        "builderId": "69c0f08f09b2489bdd1953fc"
+        "builderId": "69c0f08f09b2489bdd1953fc",
+        "lenderName": [],
+        "area": "Daudpur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -27800,11 +27912,14 @@
         "name": "HARISH CHANDRA ENCLAVE",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:06.242Z",
-        "builderId": "69c0f09609b2489bdd195417"
+        "builderId": "69c0f09609b2489bdd195417",
+        "lenderName": [],
+        "area": "Bargadwa",
+        "pinCode": "273001"
       }
     ]
   },
@@ -29322,11 +29437,14 @@
         "name": "Giriraj Greens",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:16.635Z",
-        "builderId": "69c0f09c09b2489bdd195433"
+        "builderId": "69c0f09c09b2489bdd195433",
+        "lenderName": [],
+        "area": "Chandpur Bichpur",
+        "pinCode": "243502"
       }
     ]
   },
@@ -29939,11 +30057,14 @@
         "name": "Paalm Paradise Phase-1",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:10.986Z",
-        "builderId": "69c0f0a009b2489bdd195442"
+        "builderId": "69c0f0a009b2489bdd195442",
+        "lenderName": [],
+        "area": "Rampur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -29973,11 +30094,14 @@
         "name": "SHREE JEE APARTMENTS",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:21.613Z",
-        "builderId": "69c0f0a009b2489bdd195443"
+        "builderId": "69c0f0a009b2489bdd195443",
+        "lenderName": [],
+        "area": "Bargadwa",
+        "pinCode": "273001"
       }
     ]
   },
@@ -30488,11 +30612,14 @@
         "name": "ROYAL RESIDENCY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:17.997Z",
-        "builderId": "69c0f0a309b2489bdd19544e"
+        "builderId": "69c0f0a309b2489bdd19544e",
+        "lenderName": [],
+        "area": "Mohaddipur belt",
+        "pinCode": "273005"
       }
     ]
   },
@@ -30924,11 +31051,14 @@
         "name": "ORION MALL",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:10.437Z",
-        "builderId": "69c0f0a709b2489bdd19545c"
+        "builderId": "69c0f0a709b2489bdd19545c",
+        "lenderName": [],
+        "area": "Mohaddipur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -31542,11 +31672,14 @@
         "name": "GREEN VALLEY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:05.393Z",
-        "builderId": "69c0f0aa09b2489bdd195464"
+        "builderId": "69c0f0aa09b2489bdd195464",
+        "lenderName": [],
+        "area": "Gorakhnath",
+        "pinCode": "273004"
       }
     ]
   },
@@ -32283,11 +32416,14 @@
         "name": "ASHTA SIDDHI TRADE CENTER",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:00.424Z",
-        "builderId": "69c0f0af09b2489bdd195476"
+        "builderId": "69c0f0af09b2489bdd195476",
+        "lenderName": [],
+        "area": "Purdilpur",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5109b2489bdd19652d",
@@ -32295,11 +32431,14 @@
         "name": "G. K. TOWER",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:01.707Z",
-        "builderId": "69c0f0af09b2489bdd195476"
+        "builderId": "69c0f0af09b2489bdd195476",
+        "lenderName": [],
+        "area": "Mohaddipur",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5909b2489bdd196548",
@@ -32307,11 +32446,14 @@
         "name": "MUKHARJEE TOWER",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:09.630Z",
-        "builderId": "69c0f0af09b2489bdd195476"
+        "builderId": "69c0f0af09b2489bdd195476",
+        "lenderName": [],
+        "area": "Mohaddipur",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd6009b2489bdd196558",
@@ -32319,11 +32461,14 @@
         "name": "RAMA COMPLEX",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:15.832Z",
-        "builderId": "69c0f0af09b2489bdd195476"
+        "builderId": "69c0f0af09b2489bdd195476",
+        "lenderName": [],
+        "area": "Chargawa",
+        "pinCode": "273001"
       }
     ]
   },
@@ -32445,11 +32590,14 @@
         "name": "S K COMPLEX",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:18.836Z",
-        "builderId": "69c0f0b009b2489bdd19547a"
+        "builderId": "69c0f0b009b2489bdd19547a",
+        "lenderName": [],
+        "area": "Betiahata",
+        "pinCode": "273001"
       }
     ]
   },
@@ -33409,11 +33557,14 @@
         "name": "AMBESHWARI BUILD CON",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:43:59.854Z",
-        "builderId": "69c0f0b509b2489bdd19548f"
+        "builderId": "69c0f0b509b2489bdd19548f",
+        "lenderName": [],
+        "area": "Mahuesugharpur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -34373,11 +34524,14 @@
         "name": "ANANDAM HOMES",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:12.492Z",
-        "builderId": "69c0f0bb09b2489bdd1954a7"
+        "builderId": "69c0f0bb09b2489bdd1954a7",
+        "lenderName": [],
+        "area": "Mahanagar Colony",
+        "pinCode": "243006"
       }
     ]
   },
@@ -35180,11 +35334,14 @@
         "name": "G K COMPLEX",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:01.503Z",
-        "builderId": "69c0f0c109b2489bdd1954be"
+        "builderId": "69c0f0c109b2489bdd1954be",
+        "lenderName": [],
+        "area": "Mohaddipur",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5609b2489bdd19653c",
@@ -35192,11 +35349,14 @@
         "name": "J R COMPLEX",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:06.879Z",
-        "builderId": "69c0f0c109b2489bdd1954be"
+        "builderId": "69c0f0c109b2489bdd1954be",
+        "lenderName": [],
+        "area": "Golghar belt ",
+        "pinCode": "273001"
       }
     ]
   },
@@ -35752,11 +35912,14 @@
         "name": "GOVIND COMPLEX",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:04.167Z",
-        "builderId": "69c0f0c509b2489bdd1954ce"
+        "builderId": "69c0f0c509b2489bdd1954ce",
+        "lenderName": [],
+        "area": "Shahpur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -35786,11 +35949,14 @@
         "name": "GALAXY TOWER",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:02.217Z",
-        "builderId": "69c0f0c609b2489bdd1954cf"
+        "builderId": "69c0f0c609b2489bdd1954cf",
+        "lenderName": [],
+        "area": "Mahuesugharpur",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5209b2489bdd196530",
@@ -35798,11 +35964,14 @@
         "name": "GALAXY TOWER",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:02.528Z",
-        "builderId": "69c0f0c609b2489bdd1954cf"
+        "builderId": "69c0f0c609b2489bdd1954cf",
+        "lenderName": [],
+        "area": "Rustampur",
+        "pinCode": "273001"
       }
     ]
   },
@@ -36874,11 +37043,14 @@
         "name": "gorakhdham enclave",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:03.755Z",
-        "builderId": "69c0f0cd09b2489bdd1954ea"
+        "builderId": "69c0f0cd09b2489bdd1954ea",
+        "lenderName": [],
+        "area": "Dayanand Nagar",
+        "pinCode": "273015"
       }
     ]
   },
@@ -37105,11 +37277,14 @@
         "name": "SILVER HEIGHTS",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:22.530Z",
-        "builderId": "69c0f0ce09b2489bdd1954f0"
+        "builderId": "69c0f0ce09b2489bdd1954f0",
+        "lenderName": [],
+        "area": "Jungle Dhusan",
+        "pinCode": "273013"
       }
     ]
   },
@@ -37892,11 +38067,14 @@
         "name": "Golghar Central",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:03.275Z",
-        "builderId": "69c0f0d409b2489bdd195507"
+        "builderId": "69c0f0d409b2489bdd195507",
+        "lenderName": [],
+        "area": "Golghar (City Centre)",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5a09b2489bdd19654a",
@@ -37904,11 +38082,14 @@
         "name": "ORCHID GREEN",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:10.160Z",
-        "builderId": "69c0f0d409b2489bdd195507"
+        "builderId": "69c0f0d409b2489bdd195507",
+        "lenderName": [],
+        "area": "Golghar ",
+        "pinCode": "273001"
       }
     ]
   },
@@ -38009,11 +38190,14 @@
         "name": "ASHISH ROYAL TOWER",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:12.690Z",
-        "builderId": "69c0f0d509b2489bdd19550a"
+        "builderId": "69c0f0d509b2489bdd19550a",
+        "lenderName": [],
+        "area": "Pawan Vihar",
+        "pinCode": "243006"
       }
     ]
   },
@@ -38114,11 +38298,14 @@
         "name": "NEEL GAGAN PARK",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:26.057Z",
-        "builderId": "69c0f0d609b2489bdd19550d"
+        "builderId": "69c0f0d609b2489bdd19550d",
+        "lenderName": [],
+        "area": "Pilibhit Bypass Road",
+        "pinCode": "243006"
       },
       {
         "_id": "69c0fb1609b2489bdd195e6d",
@@ -38126,11 +38313,14 @@
         "name": "ROYAL RESIDENCY",
         "district": "Bareilly",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:30.512Z",
-        "builderId": "69c0f0d609b2489bdd19550d"
+        "builderId": "69c0f0d609b2489bdd19550d",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "243001"
       },
       {
         "_id": "69c0fb3d09b2489bdd195e97",
@@ -38138,11 +38328,14 @@
         "name": "NAGLA SERKI CIVIL LINES BADAUN",
         "district": "Budaun",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:09.032Z",
-        "builderId": "69c0f0d609b2489bdd19550d"
+        "builderId": "69c0f0d609b2489bdd19550d",
+        "lenderName": [],
+        "pinCode": "243601",
+        "area": "Nagla Serki"
       }
     ]
   },
@@ -38322,11 +38515,14 @@
         "name": "gokuldham",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:17.115Z",
-        "builderId": "69c0f0d709b2489bdd195511"
+        "builderId": "69c0f0d709b2489bdd195511",
+        "lenderName": [],
+        "area": "Rajendra Nagar",
+        "pinCode": "243001"
       }
     ]
   },
@@ -38377,11 +38573,14 @@
         "name": "Sapphire Apartments",
         "district": "Bareilly",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:31.562Z",
-        "builderId": "69c0f0d709b2489bdd195513"
+        "builderId": "69c0f0d709b2489bdd195513",
+        "lenderName": [],
+        "area": "Pilibhit Bypass Road",
+        "pinCode": "243006"
       }
     ]
   },
@@ -42423,11 +42622,14 @@
         "name": "SHREE KUNJ",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:22.094Z",
-        "builderId": "69c0f0f509b2489bdd195583"
+        "builderId": "69c0f0f509b2489bdd195583",
+        "lenderName": [],
+        "area": "Basharatpur",
+        "pinCode": "273004"
       }
     ]
   },
@@ -45770,11 +45972,14 @@
         "name": "VASTUVIHAR",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:03.223Z",
-        "builderId": "69c0f10b09b2489bdd1955d6"
+        "builderId": "69c0f10b09b2489bdd1955d6",
+        "lenderName": [],
+        "area": "Barabanki city",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0fd6709b2489bdd196567",
@@ -45782,11 +45987,14 @@
         "name": "Vastu Vihar Phase-2",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:23.525Z",
-        "builderId": "69c0f10b09b2489bdd1955d6"
+        "builderId": "69c0f10b09b2489bdd1955d6",
+        "lenderName": [],
+        "area": "Siktaur",
+        "pinCode": "270008"
       }
     ]
   },
@@ -52419,11 +52627,14 @@
         "name": "Sector-11 Commercial Scheme",
         "district": "Gorakhpur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:20.961Z",
-        "builderId": "69c0f13a09b2489bdd195684"
+        "builderId": "69c0f13a09b2489bdd195684",
+        "lenderName": [],
+        "area": "GIDA Sector-11",
+        "pinCode": "273212"
       },
       {
         "_id": "69c0fd6509b2489bdd196561",
@@ -52431,11 +52642,14 @@
         "name": "Sector-11 Residential Scheme",
         "district": "Gorakhpur",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:21.327Z",
-        "builderId": "69c0f13a09b2489bdd195684"
+        "builderId": "69c0f13a09b2489bdd195684",
+        "lenderName": [],
+        "area": "GIDA Sector-11",
+        "pinCode": "273212"
       }
     ]
   },
@@ -61492,11 +61706,14 @@
         "name": "PRABHA GREEN CITY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:12.778Z",
-        "builderId": "69c0f18409b2489bdd195791"
+        "builderId": "69c0f18409b2489bdd195791",
+        "lenderName": [],
+        "area": "Rajhi",
+        "pinCode": "273013"
       },
       {
         "_id": "69c0fd6309b2489bdd19655d",
@@ -61504,11 +61721,14 @@
         "name": "SAAV CITY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:19.713Z",
-        "builderId": "69c0f18409b2489bdd195791"
+        "builderId": "69c0f18409b2489bdd195791",
+        "lenderName": [],
+        "area": "Rajhi",
+        "pinCode": "273013"
       }
     ]
   },
@@ -61807,11 +62027,14 @@
         "name": "Gallantt Anandam",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:02.927Z",
-        "builderId": "69c0f18709b2489bdd19579a"
+        "builderId": "69c0f18709b2489bdd19579a",
+        "lenderName": [],
+        "area": "Vikas Nagar",
+        "pinCode": "273013"
       }
     ]
   },
@@ -71265,11 +71488,14 @@
         "name": "RIDDHI RESIDENCY",
         "district": "Gorakhpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:44:17.054Z",
-        "builderId": "69c0f1b309b2489bdd195841"
+        "builderId": "69c0f1b309b2489bdd195841",
+        "lenderName": [],
+        "area": "Mahuesugharpur",
+        "pinCode": "273001"
       }
     ]
   },
