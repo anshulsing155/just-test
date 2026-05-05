@@ -1380,7 +1380,7 @@
         "scrapedAt": "2026-03-23T08:39:31.091Z",
         "lenderName": [],
         "area": "Sector 4, Noida  Extension",
-        "pinCode": "201009",
+        "pinCode": "201318",
         "builderId": "69be9bdfcf0d52217507fff7"
       }
     ]
@@ -2244,11 +2244,14 @@
         "name": "MADHAVAS",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:56.182Z",
-        "builderId": "69be9be2cf0d52217508001f"
+        "builderId": "69be9be2cf0d52217508001f",
+        "lenderName": [],
+        "area": "Masoodabad",
+        "pinCode": "202001"
       }
     ]
   },
@@ -4341,11 +4344,14 @@
         "name": "shri krisna tower",
         "district": "Mirzapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:34.201Z",
-        "builderId": "69c0f00409b2489bdd1951f0"
+        "builderId": "69c0f00409b2489bdd1951f0",
+        "lenderName": [],
+        "area": "Mirzapur City",
+        "pinCode": "231001"
       },
       {
         "_id": "69c0feda09b2489bdd196b29",
@@ -4353,11 +4359,14 @@
         "name": "SHRI RADHEY KRISHNA TOWER",
         "district": "Mirzapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:34.314Z",
-        "builderId": "69c0f00409b2489bdd1951f0"
+        "builderId": "69c0f00409b2489bdd1951f0",
+        "lenderName": [],
+        "area": "Mirzapur City",
+        "pinCode": "231001"
       }
     ]
   },
@@ -4387,11 +4396,14 @@
         "name": "PARADISE HEIGHTS",
         "district": "Etah",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:56.913Z",
-        "builderId": "69c0f00409b2489bdd1951f1"
+        "builderId": "69c0f00409b2489bdd1951f1",
+        "lenderName": [],
+        "area": "Aruna Nagar",
+        "pinCode": "207002"
       }
     ]
   },
@@ -4599,11 +4611,14 @@
         "name": "JANNAT E AWADH GANJ",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:56.864Z",
-        "builderId": "69c0f00609b2489bdd1951f6"
+        "builderId": "69c0f00609b2489bdd1951f6",
+        "lenderName": [],
+        "area": "Jinholi",
+        "pinCode": "225001"
       }
     ]
   },
@@ -5237,11 +5252,14 @@
         "name": "TWINSPIRE",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:01.170Z",
-        "builderId": "69c0f00809b2489bdd1951fe"
+        "builderId": "69c0f00809b2489bdd1951fe",
+        "lenderName": [],
+        "area": "Jamalpur",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2dcf0d5221750800ae",
@@ -5249,11 +5267,14 @@
         "name": "TWINSPIRE PHASE II",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:01.420Z",
-        "builderId": "69c0f00809b2489bdd1951fe"
+        "builderId": "69c0f00809b2489bdd1951fe",
+        "lenderName": [],
+        "area": "Koil",
+        "pinCode": "202001"
       }
     ]
   },
@@ -5701,11 +5722,14 @@
         "name": "Rudra Dream Cottage",
         "district": "Mirzapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:33.968Z",
-        "builderId": "69c0f00b09b2489bdd19520a"
+        "builderId": "69c0f00b09b2489bdd19520a",
+        "lenderName": [],
+        "area": "Chunar",
+        "pinCode": "231001"
       }
     ]
   },
@@ -7332,11 +7356,14 @@
         "name": "Anand Dham Society",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:52.198Z",
-        "builderId": "69c0f01409b2489bdd19522b"
+        "builderId": "69c0f01409b2489bdd19522b",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -8472,11 +8499,14 @@
         "name": "Cape Town",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:53.193Z",
-        "builderId": "69c0f01909b2489bdd19523e"
+        "builderId": "69c0f01909b2489bdd19523e",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -9085,11 +9115,14 @@
         "name": "Sai Village Phase-1",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:59.296Z",
-        "builderId": "69c0f01e09b2489bdd19524f"
+        "builderId": "69c0f01e09b2489bdd19524f",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -9963,11 +9996,14 @@
         "name": "IMPERIAL ASHIYANA PHASE-1",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:56.126Z",
-        "builderId": "69c0f02309b2489bdd195261"
+        "builderId": "69c0f02309b2489bdd195261",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -10787,11 +10823,14 @@
         "name": "Rudra Garden City Phase-2",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:30.632Z",
-        "builderId": "69c0f02709b2489bdd195272"
+        "builderId": "69c0f02709b2489bdd195272",
+        "lenderName": [],
+        "area": " Godhana",
+        "pinCode": "261303"
       },
       {
         "_id": "69c0fb5309b2489bdd195eb7",
@@ -10799,11 +10838,14 @@
         "name": "RUDRA GARDEN CITY, PHASE - 1",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:31.699Z",
-        "builderId": "69c0f02709b2489bdd195272"
+        "builderId": "69c0f02709b2489bdd195272",
+        "lenderName": [],
+        "area": "Godhana",
+        "pinCode": "261303"
       }
     ]
   },
@@ -10944,11 +10986,14 @@
         "name": "JEET RIVERA - AVYAKTA (T-4)",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:29.078Z",
-        "builderId": "69c0f02809b2489bdd195276"
+        "builderId": "69c0f02809b2489bdd195276",
+        "lenderName": [],
+        "area": "Ramnagar",
+        "pinCode": "232104"
       },
       {
         "_id": "69c0fb5109b2489bdd195eb0",
@@ -10956,11 +11001,14 @@
         "name": "JEET RIVERA . BLOCK - C. TRIVENI",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:29.311Z",
-        "builderId": "69c0f02809b2489bdd195276"
+        "builderId": "69c0f02809b2489bdd195276",
+        "lenderName": [],
+        "area": "Ramnagar",
+        "pinCode": "232104"
       },
       {
         "_id": "69c0fb5109b2489bdd195eb1",
@@ -10968,11 +11016,14 @@
         "name": "JEET RIVERA Block - B , MANDAKINI",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:29.553Z",
-        "builderId": "69c0f02809b2489bdd195276"
+        "builderId": "69c0f02809b2489bdd195276",
+        "lenderName": [],
+        "area": "Chandoli",
+        "pinCode": "232104"
       }
     ]
   },
@@ -11590,11 +11641,14 @@
         "name": "AANAND VIHAR RESIDENTIAL SCHEME",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:04.419Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd19656f",
@@ -11602,11 +11656,14 @@
         "name": "Construction of 264 EWS Houses Hindalpur Hapur Under PMAY",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.145Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Hindalpur",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd196570",
@@ -11614,11 +11671,14 @@
         "name": "Construction of 408 EWS Houses in Anand Vihar Housing Scheme Hapur Under PMAY",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.257Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd196571",
@@ -11626,11 +11686,14 @@
         "name": "CONSTRUCTION OF 96 EWS, 96 LIG HOUSES AT PREET VIH",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.374Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Preet Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd196572",
@@ -11638,11 +11701,14 @@
         "name": "Construction of Affordable Multi storied houses at",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.485Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Preet Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd196573",
@@ -11650,11 +11716,14 @@
         "name": "CONSTRUCTION OF AFFORDABLE MULTI STORIED HOUSES AT",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.624Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Preet Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9109b2489bdd196575",
@@ -11662,11 +11731,14 @@
         "name": "CONSTRUCTION OF LIG, MIG & HIG HOUSES UNDER SABKE",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.854Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Preet Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9209b2489bdd19657b",
@@ -11674,11 +11746,14 @@
         "name": "FOUR STORIED EWS & LIG HOUSES AT ANAND VIHAR SCHEM",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.560Z",
-        "builderId": "69c0f02b09b2489bdd195283"
+        "builderId": "69c0f02b09b2489bdd195283",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       }
     ]
   },
@@ -12582,11 +12657,14 @@
         "name": "ROSE COUNTY EAST",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:58.617Z",
-        "builderId": "69c0f03209b2489bdd19529b"
+        "builderId": "69c0f03209b2489bdd19529b",
+        "lenderName": [],
+        "area": "Safedabad",
+        "pinCode": "225001"
       }
     ]
   },
@@ -13300,11 +13378,14 @@
         "name": "MEHROTRA GOLF RESIDENCES",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:47.460Z",
-        "builderId": "69c0f03609b2489bdd1952ab"
+        "builderId": "69c0f03609b2489bdd1952ab",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -14752,11 +14833,14 @@
         "name": "Anandkunj Phase-1",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:28.347Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Vibhab Nagar",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8c09b2489bdd195ec1",
@@ -14764,11 +14848,14 @@
         "name": "Anandkunj Phase-2",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:28.565Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Gandhi Nagar",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8c09b2489bdd195ec2",
@@ -14776,11 +14863,14 @@
         "name": "Anandkunj Phase-3",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:28.892Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Gandhi Nagar",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8d09b2489bdd195ec3",
@@ -14788,11 +14878,14 @@
         "name": "Anandkunj Phase-4",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:29.121Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Gandhi Nagar",
+        "pinCode": "283201"
       },
       {
         "_id": "69c0fb8d09b2489bdd195ec4",
@@ -14800,11 +14893,14 @@
         "name": "Anandkunj Phase-5",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:29.335Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": " Raja Ka Taal",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8d09b2489bdd195ec5",
@@ -14812,11 +14908,14 @@
         "name": "Anandkunj Phase-6",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:29.561Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Raja Ka Taal",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8d09b2489bdd195ec6",
@@ -14824,11 +14923,14 @@
         "name": "Anandlok",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:29.879Z",
-        "builderId": "69c0f04109b2489bdd1952cc"
+        "builderId": "69c0f04109b2489bdd1952cc",
+        "lenderName": [],
+        "area": "Tundla",
+        "pinCode": "283203"
       }
     ]
   },
@@ -14947,11 +15049,14 @@
         "name": "GREEN ORCHID",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.201Z",
-        "builderId": "69c0f04209b2489bdd1952cf"
+        "builderId": "69c0f04209b2489bdd1952cf",
+        "lenderName": [],
+        "area": "Sector 13New Moradabad ",
+        "pinCode": "244102"
       }
     ]
   },
@@ -14981,11 +15086,14 @@
         "name": "Galaxy Apartment",
         "district": "Amroha",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:33.151Z",
-        "builderId": "69c0f04209b2489bdd1952d0"
+        "builderId": "69c0f04209b2489bdd1952d0",
+        "lenderName": [],
+        "area": "Joya",
+        "pinCode": "244221"
       }
     ]
   },
@@ -15147,11 +15255,14 @@
         "name": "Sun City Apartments",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:01.371Z",
-        "builderId": "69c0f04409b2489bdd1952d5"
+        "builderId": "69c0f04409b2489bdd1952d5",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0faf909b2489bdd195e15",
@@ -15159,11 +15270,14 @@
         "name": "Suncity",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:01.644Z",
-        "builderId": "69c0f04409b2489bdd1952d5"
+        "builderId": "69c0f04409b2489bdd1952d5",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -16248,11 +16362,14 @@
         "name": "Aarush Greens",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.234Z",
-        "builderId": "69c0f04a09b2489bdd1952ed"
+        "builderId": "69c0f04a09b2489bdd1952ed",
+        "lenderName": [],
+        "area": "New Moradabad",
+        "pinCode": "244102"
       }
     ]
   },
@@ -17298,11 +17415,14 @@
         "name": "CONSTRUCTION OF 160 EWS HOUSES AT GRAM PANCHAYAT RAMPURA,BULANDSHAHR UNDER PMAY (URBAN)",
         "district": "Bulandshahr",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:19.101Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": "Rampura",
+        "pinCode": "203001"
       },
       {
         "_id": "69c0fb4709b2489bdd195ea6",
@@ -17310,11 +17430,14 @@
         "name": "KALINDI TOWER KALINDI KUNJ",
         "district": "Bulandshahr",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:19.754Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": "Kalindi Kunj ",
+        "pinCode": "203131"
       },
       {
         "_id": "69c0fb4809b2489bdd195ea7",
@@ -17322,11 +17445,14 @@
         "name": "SANSKRITI ENCLAVE",
         "district": "Bulandshahr",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:19.952Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": "Bulandshahr",
+        "pinCode": "203001"
       },
       {
         "_id": "69c0fb4809b2489bdd195ea8",
@@ -17334,11 +17460,14 @@
         "name": "SHOPPING COMPLEX GANGA NAGAR",
         "district": "Bulandshahr",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:20.169Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": "Ganga Nagar",
+        "pinCode": "203001"
       },
       {
         "_id": "69c0fb4809b2489bdd195ea9",
@@ -17346,11 +17475,14 @@
         "name": "SHOPPING COMPLEX TRANSPORT NAGAR",
         "district": "Bulandshahr",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:20.394Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": " Old G.T. Road",
+        "pinCode": "203001"
       },
       {
         "_id": "69c0fb4809b2489bdd195eaa",
@@ -17358,11 +17490,14 @@
         "name": "TRANSPORT NAGAR",
         "district": "Bulandshahr",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:20.589Z",
-        "builderId": "69c0f05109b2489bdd195306"
+        "builderId": "69c0f05109b2489bdd195306",
+        "lenderName": [],
+        "area": " Transport Nagar",
+        "pinCode": "203001"
       }
     ]
   },
@@ -17794,11 +17929,14 @@
         "name": "GSP Divine Homes",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:54.798Z",
-        "builderId": "69c0f05309b2489bdd195310"
+        "builderId": "69c0f05309b2489bdd195310",
+        "lenderName": [],
+        "area": "Tala Nagri",
+        "pinCode": "202001"
       }
     ]
   },
@@ -18655,11 +18793,14 @@
         "name": "Paradise Home",
         "district": "Bahraich",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:14.823Z",
-        "builderId": "69c0f05809b2489bdd195323"
+        "builderId": "69c0f05809b2489bdd195323",
+        "lenderName": [],
+        "area": "Ghasiyaripura",
+        "pinCode": "271801"
       }
     ]
   },
@@ -18689,11 +18830,14 @@
         "name": "FORTUNE RESIDENCY",
         "district": "Bulandshahr",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:19.549Z",
-        "builderId": "69c0f05909b2489bdd195324"
+        "builderId": "69c0f05909b2489bdd195324",
+        "lenderName": [],
+        "area": "Yamunapuram",
+        "pinCode": "203001"
       }
     ]
   },
@@ -18760,11 +18904,14 @@
         "name": "AMAN BASERA",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:51.932Z",
-        "builderId": "69c0f05909b2489bdd195326"
+        "builderId": "69c0f05909b2489bdd195326",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -19982,11 +20129,14 @@
         "name": "Sangwan Greens-Sangwan City Aligarh",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:59.491Z",
-        "builderId": "69c0f06109b2489bdd195344"
+        "builderId": "69c0f06109b2489bdd195344",
+        "lenderName": [],
+        "area": "Asadpur Kayam",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2ccf0d5221750800a7",
@@ -19994,11 +20144,14 @@
         "name": "Sangwan Silver Street-Sangwan City Aligarh",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:59.711Z",
-        "builderId": "69c0f06109b2489bdd195344"
+        "builderId": "69c0f06109b2489bdd195344",
+        "lenderName": [],
+        "area": "Asadpur Kayam",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2ccf0d5221750800a8",
@@ -20006,11 +20159,14 @@
         "name": "Sangwan West Avenue Apartment (LIG & EWS)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:59.947Z",
-        "builderId": "69c0f06109b2489bdd195344"
+        "builderId": "69c0f06109b2489bdd195344",
+        "lenderName": [],
+        "area": "Asadpur Kayam",
+        "pinCode": "202001"
       }
     ]
   },
@@ -20358,11 +20514,14 @@
         "name": "STELLAR VATIKA",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:07.028Z",
-        "builderId": "69c0f06209b2489bdd19534b"
+        "builderId": "69c0f06209b2489bdd19534b",
+        "lenderName": [],
+        "area": "Pilkhuwa",
+        "pinCode": "245304"
       }
     ]
   },
@@ -20463,11 +20622,14 @@
         "name": "BULAND CITY CENTER",
         "district": "Bulandshahr",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:18.901Z",
-        "builderId": "69c0f06309b2489bdd19534e"
+        "builderId": "69c0f06309b2489bdd19534e",
+        "lenderName": [],
+        "area": "Laxmi Nagar",
+        "pinCode": "203001"
       }
     ]
   },
@@ -21274,11 +21436,14 @@
         "name": "FORTUNE CITY SQUARE MALL",
         "district": "Bulandshahr",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:19.321Z",
-        "builderId": "69c0f06809b2489bdd195364"
+        "builderId": "69c0f06809b2489bdd195364",
+        "lenderName": [],
+        "area": "Sheetal Ganj",
+        "pinCode": "203001"
       }
     ]
   },
@@ -23463,11 +23628,14 @@
         "name": "Rudra Vindhyadham",
         "district": "Mirzapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:34.084Z",
-        "builderId": "69c0f07209b2489bdd19538d"
+        "builderId": "69c0f07209b2489bdd19538d",
+        "lenderName": [],
+        "area": "Teliyaganj",
+        "pinCode": "231001"
       }
     ]
   },
@@ -24931,11 +25099,14 @@
         "name": "Rishi Greens",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:58.411Z",
-        "builderId": "69c0f07a09b2489bdd1953b0"
+        "builderId": "69c0f07a09b2489bdd1953b0",
+        "lenderName": [],
+        "area": "Safedabad",
+        "pinCode": "225001"
       }
     ]
   },
@@ -26349,11 +26520,14 @@
         "name": "City Homes",
         "district": "Amroha",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:32.941Z",
-        "builderId": "69c0f08409b2489bdd1953d3"
+        "builderId": "69c0f08409b2489bdd1953d3",
+        "lenderName": [],
+        "area": "Rampur Ghana",
+        "pinCode": "244221"
       }
     ]
   },
@@ -27574,11 +27748,14 @@
         "name": "ARYAN CITY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:52.425Z",
-        "builderId": "69c0f08d09b2489bdd1953f4"
+        "builderId": "69c0f08d09b2489bdd1953f4",
+        "lenderName": [],
+        "area": "Haidargarh Road",
+        "pinCode": "225001"
       }
     ]
   },
@@ -28451,11 +28628,14 @@
         "name": "AASTHA DREAM LAND",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:50.932Z",
-        "builderId": "69c0f09209b2489bdd195407"
+        "builderId": "69c0f09209b2489bdd195407",
+        "lenderName": [],
+        "area": "Safedabad",
+        "pinCode": "225001"
       }
     ]
   },
@@ -28758,11 +28938,14 @@
         "name": "CENTRAL COURT",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.502Z",
-        "builderId": "69c0f09409b2489bdd19540f"
+        "builderId": "69c0f09409b2489bdd19540f",
+        "lenderName": [],
+        "area": " Pakbara",
+        "pinCode": "244001"
       }
     ]
   },
@@ -30828,11 +31011,14 @@
         "name": "GANPATI ESTATE- BLOCK- A, B, C",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:28.669Z",
-        "builderId": "69c0f09e09b2489bdd195438"
+        "builderId": "69c0f09e09b2489bdd195438",
+        "lenderName": [],
+        "area": "Naubatpur",
+        "pinCode": "232104"
       }
     ]
   },
@@ -31352,11 +31538,14 @@
         "name": "LAJPAT NAGAR - 2",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:47.234Z",
-        "builderId": "69c0f0a109b2489bdd195444"
+        "builderId": "69c0f0a109b2489bdd195444",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -31706,11 +31895,14 @@
         "name": "GANPATI DEVELOPERS",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:28.449Z",
-        "builderId": "69c0f0a209b2489bdd19544a"
+        "builderId": "69c0f0a209b2489bdd19544a",
+        "lenderName": [],
+        "area": "Katesar",
+        "pinCode": "221008"
       }
     ]
   },
@@ -31777,11 +31969,14 @@
         "name": "CENTRAL PARK",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:54.339Z",
-        "builderId": "69c0f0a309b2489bdd19544c"
+        "builderId": "69c0f0a309b2489bdd19544c",
+        "lenderName": [],
+        "area": "Swarn Jayanti Nagar",
+        "pinCode": "202001"
       }
     ]
   },
@@ -32934,11 +33129,14 @@
         "name": "Akash Meghdutam",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.350Z",
-        "builderId": "69c0f0a909b2489bdd195461"
+        "builderId": "69c0f0a909b2489bdd195461",
+        "lenderName": [],
+        "area": "Ram Ganga Vihar",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee209b2489bdd196b35",
@@ -32946,11 +33144,14 @@
         "name": "AKASH SAPPHIRE",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.582Z",
-        "builderId": "69c0f0a909b2489bdd195461"
+        "builderId": "69c0f0a909b2489bdd195461",
+        "lenderName": [],
+        "area": "Harthala",
+        "pinCode": "244001"
       }
     ]
   },
@@ -34928,11 +35129,14 @@
         "name": "Vashishth Kunj Phase-1",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:50.657Z",
-        "builderId": "69c0f0b409b2489bdd19548b"
+        "builderId": "69c0f0b409b2489bdd19548b",
+        "lenderName": [],
+        "area": "Ferozepur Uperhar",
+        "pinCode": "224001"
       }
     ]
   },
@@ -34983,11 +35187,14 @@
         "name": "TIRUPATI RESIDENCY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:02.645Z",
-        "builderId": "69c0f0b509b2489bdd19548d"
+        "builderId": "69c0f0b509b2489bdd19548d",
+        "lenderName": [],
+        "area": "Banki",
+        "pinCode": "225001"
       }
     ]
   },
@@ -35943,11 +36150,14 @@
         "name": "Amroha Greens Group Housing",
         "district": "Amroha",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:32.741Z",
-        "builderId": "69c0f0bb09b2489bdd1954a4"
+        "builderId": "69c0f0bb09b2489bdd1954a4",
+        "lenderName": [],
+        "area": "Rampur Ghana",
+        "pinCode": "244221"
       }
     ]
   },
@@ -37044,11 +37254,14 @@
         "name": "ORCHID HOMES",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:31.332Z",
-        "builderId": "69c0f0c209b2489bdd1954c2"
+        "builderId": "69c0f0c209b2489bdd1954c2",
+        "lenderName": [],
+        "area": "Dholpura",
+        "pinCode": "283203"
       }
     ]
   },
@@ -38416,11 +38629,14 @@
         "name": "ORCHID GINGER 2",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:30.881Z",
-        "builderId": "69c0f0cb09b2489bdd1954e3"
+        "builderId": "69c0f0cb09b2489bdd1954e3",
+        "lenderName": [],
+        "area": "Gandhi Nagar",
+        "pinCode": "283203"
       }
     ]
   },
@@ -39345,11 +39561,14 @@
         "name": "STALLION VALLEY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:01.145Z",
-        "builderId": "69c0f0d109b2489bdd1954fc"
+        "builderId": "69c0f0d109b2489bdd1954fc",
+        "lenderName": [],
+        "area": "Satrikh Road",
+        "pinCode": "225001"
       }
     ]
   },
@@ -39572,11 +39791,14 @@
         "name": "Sai NIWAS",
         "district": "Jaunpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:37.372Z",
-        "builderId": "69c0f0d309b2489bdd195501"
+        "builderId": "69c0f0d309b2489bdd195501",
+        "lenderName": [],
+        "area": "Husainabad",
+        "pinCode": "222001"
       }
     ]
   },
@@ -39848,11 +40070,14 @@
         "name": "PLATINA HEIGHTS",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:32.253Z",
-        "builderId": "69c0f0d509b2489bdd195509"
+        "builderId": "69c0f0d509b2489bdd195509",
+        "lenderName": [],
+        "area": " Dholpura",
+        "pinCode": "283203"
       }
     ]
   },
@@ -40057,11 +40282,14 @@
         "name": "Akash Residency",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.468Z",
-        "builderId": "69c0f0d609b2489bdd19550e"
+        "builderId": "69c0f0d609b2489bdd19550e",
+        "lenderName": [],
+        "area": "Adarsh Colony",
+        "pinCode": "244001"
       }
     ]
   },
@@ -40575,11 +40803,14 @@
         "name": "Happy Homes Appartment",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:55.042Z",
-        "builderId": "69c0f0d909b2489bdd19551b"
+        "builderId": "69c0f0d909b2489bdd19551b",
+        "lenderName": [],
+        "area": "Sarsol",
+        "pinCode": "202001"
       }
     ]
   },
@@ -40703,11 +40934,14 @@
         "name": "ISHANT PALM CITY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:56.398Z",
-        "builderId": "69c0f0da09b2489bdd19551f"
+        "builderId": "69c0f0da09b2489bdd19551f",
+        "lenderName": [],
+        "area": "Fatehpur",
+        "pinCode": "225305"
       }
     ]
   },
@@ -41856,11 +42090,14 @@
         "name": "PRADHAN MANTRI AWAS YOJNA (SHEHRI)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:57.564Z",
-        "builderId": "69c0f0e209b2489bdd19553e"
+        "builderId": "69c0f0e209b2489bdd19553e",
+        "lenderName": [],
+        "area": "Koil",
+        "pinCode": "202001"
       }
     ]
   },
@@ -42016,11 +42253,14 @@
         "name": "GOOD LUCK CITY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:55.182Z",
-        "builderId": "69c0f0e309b2489bdd195542"
+        "builderId": "69c0f0e309b2489bdd195542",
+        "lenderName": [],
+        "area": "Kurshi",
+        "pinCode": "225001"
       }
     ]
   },
@@ -42050,11 +42290,14 @@
         "name": "TIRUPATI PARADISE",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:02.399Z",
-        "builderId": "69c0f0e309b2489bdd195543"
+        "builderId": "69c0f0e309b2489bdd195543",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -43007,11 +43250,14 @@
         "name": "SAMRIDHI TOWN SHIP (SHEKHAR THE REAL ESTATE)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:58.767Z",
-        "builderId": "69c0f0e909b2489bdd19555a"
+        "builderId": "69c0f0e909b2489bdd19555a",
+        "lenderName": [],
+        "area": "Sasni Gate",
+        "pinCode": "202001"
       }
     ]
   },
@@ -43352,11 +43598,14 @@
         "name": "VAISHNO MANOR APARTMENT DIMOND TOWER",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:02.337Z",
-        "builderId": "69c0f0ec09b2489bdd195564"
+        "builderId": "69c0f0ec09b2489bdd195564",
+        "lenderName": [],
+        "area": "Industrial Estate",
+        "pinCode": "202001"
       }
     ]
   },
@@ -43423,11 +43672,14 @@
         "name": "ORCHID GINGER 3",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:31.120Z",
-        "builderId": "69c0f0ed09b2489bdd195566"
+        "builderId": "69c0f0ed09b2489bdd195566",
+        "lenderName": [],
+        "area": "Alinagar Kainjra",
+        "pinCode": "283203"
       },
       {
         "_id": "69c0fb8f09b2489bdd195ece",
@@ -43435,11 +43687,14 @@
         "name": "ORCHID TWIN TOWER",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:31.783Z",
-        "builderId": "69c0f0ed09b2489bdd195566"
+        "builderId": "69c0f0ed09b2489bdd195566",
+        "lenderName": [],
+        "pinCode": "283203",
+        "area": "Dholpura"
       }
     ]
   },
@@ -43609,11 +43864,14 @@
         "name": "S S Point",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:58.517Z",
-        "builderId": "69c0f0ee09b2489bdd19556a"
+        "builderId": "69c0f0ee09b2489bdd19556a",
+        "lenderName": [],
+        "area": "Asadpur Kayam",
+        "pinCode": "202002"
       }
     ]
   },
@@ -43899,11 +44157,14 @@
         "name": "GAURIYA GREEN",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:54.688Z",
-        "builderId": "69c0f0f009b2489bdd195572"
+        "builderId": "69c0f0f009b2489bdd195572",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -44155,11 +44416,14 @@
         "name": "Mansarovar",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:30.123Z",
-        "builderId": "69c0f0f209b2489bdd195579"
+        "builderId": "69c0f0f209b2489bdd195579",
+        "lenderName": [],
+        "area": "Naubatpur",
+        "pinCode": "232104"
       }
     ]
   },
@@ -44484,11 +44748,14 @@
         "name": "JADON REAL ESTATE AND DEVELOPERS (Phase-2)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:55.492Z",
-        "builderId": "69c0f0f509b2489bdd195582"
+        "builderId": "69c0f0f509b2489bdd195582",
+        "lenderName": [],
+        "area": "Ramghat Road",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c29cf0d522175080096",
@@ -44496,11 +44763,14 @@
         "name": "JADON REAL ESTATE AND DEVELOPERS (Phase-3)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:55.703Z",
-        "builderId": "69c0f0f509b2489bdd195582"
+        "builderId": "69c0f0f509b2489bdd195582",
+        "lenderName": [],
+        "area": "Ramghat Road",
+        "pinCode": "202001"
       }
     ]
   },
@@ -45341,11 +45611,14 @@
         "name": "Om Heights 01",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:30.642Z",
-        "builderId": "69c0f0fb09b2489bdd19559a"
+        "builderId": "69c0f0fb09b2489bdd19559a",
+        "lenderName": [],
+        "area": " Kakrau",
+        "pinCode": "283203"
       }
     ]
   },
@@ -45396,11 +45669,14 @@
         "name": "VRINDAVAN VIHAR",
         "district": "Bulandshahr",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:20.803Z",
-        "builderId": "69c0f0fc09b2489bdd19559c"
+        "builderId": "69c0f0fc09b2489bdd19559c",
+        "lenderName": [],
+        "area": "Kalindi Kunj",
+        "pinCode": "203131"
       }
     ]
   },
@@ -47089,11 +47365,14 @@
         "name": "GLORY GARDEN PHASE 6",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:23.476Z",
-        "builderId": "69c0f10709b2489bdd1955c9"
+        "builderId": "69c0f10709b2489bdd1955c9",
+        "lenderName": [],
+        "area": "Hatisa Bhagawantpur",
+        "pinCode": "204101"
       },
       {
         "_id": "69c0fda309b2489bdd196587",
@@ -47101,11 +47380,14 @@
         "name": "GLORY GARDEN PHASE II TO V",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:23.592Z",
-        "builderId": "69c0f10709b2489bdd1955c9"
+        "builderId": "69c0f10709b2489bdd1955c9",
+        "lenderName": [],
+        "area": "Hatisa Bhagawantpur",
+        "pinCode": "204101"
       },
       {
         "_id": "69c0fda409b2489bdd19658b",
@@ -47113,11 +47395,14 @@
         "name": "VASUNDHARA ESTATE",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:24.057Z",
-        "builderId": "69c0f10709b2489bdd1955c9"
+        "builderId": "69c0f10709b2489bdd1955c9",
+        "lenderName": [],
+        "area": "Hatisa Bhagawantpur",
+        "pinCode": "204101"
       }
     ]
   },
@@ -49591,11 +49876,14 @@
         "name": "sunrise homes (Phase-1)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:00.448Z",
-        "builderId": "69c0f11509b2489bdd1955fc"
+        "builderId": "69c0f11509b2489bdd1955fc",
+        "lenderName": [],
+        "area": "Swarn Jayanti Nagar",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2dcf0d5221750800ab",
@@ -49603,11 +49891,14 @@
         "name": "SUNRISE HOMES (PHASE-2)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:00.679Z",
-        "builderId": "69c0f11509b2489bdd1955fc"
+        "builderId": "69c0f11509b2489bdd1955fc",
+        "lenderName": [],
+        "area": "Swarn Jayanti Nagar",
+        "pinCode": "202001"
       }
     ]
   },
@@ -50700,11 +50991,14 @@
         "name": "Nakshatra Green",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:23.297Z",
-        "builderId": "69c0f11f09b2489bdd19561b"
+        "builderId": "69c0f11f09b2489bdd19561b",
+        "lenderName": [],
+        "area": " Sarojini Nagar",
+        "pinCode": "226008"
       }
     ]
   },
@@ -50776,11 +51070,14 @@
         "name": "ALLAYAH HERITAGE APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:22.640Z",
-        "builderId": "69c0f12009b2489bdd19561e"
+        "builderId": "69c0f12009b2489bdd19561e",
+        "lenderName": [],
+        "area": "Butler Colony",
+        "pinCode": "226001"
       }
     ]
   },
@@ -50810,11 +51107,14 @@
         "name": "Kailasha Awadh",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:15.090Z",
-        "builderId": "69c0f12009b2489bdd19561f"
+        "builderId": "69c0f12009b2489bdd19561f",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226008"
       }
     ]
   },
@@ -51108,11 +51408,14 @@
         "name": "ISHANIKA TOWNEE-PHASE-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:12.780Z",
-        "builderId": "69c0f12209b2489bdd195626"
+        "builderId": "69c0f12209b2489bdd195626",
+        "lenderName": [],
+        "area": "Madiyava",
+        "pinCode": "226021"
       }
     ]
   },
@@ -51179,11 +51482,14 @@
         "name": "CHANDRA KANTA RESIDENCY",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.034Z",
-        "builderId": "69c0f12209b2489bdd195628"
+        "builderId": "69c0f12209b2489bdd195628",
+        "lenderName": [],
+        "area": "Pilkhuwa Dehat",
+        "pinCode": "245304"
       }
     ]
   },
@@ -51293,11 +51599,14 @@
         "name": "GOMTINAGAR LUCKNOW REDEVELOPMENT OF RAILWAY STATION",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:08.064Z",
-        "builderId": "69c0f12309b2489bdd19562b"
+        "builderId": "69c0f12309b2489bdd19562b",
+        "lenderName": [],
+        "area": "Gomti Nagar",
+        "pinCode": "226010"
       }
     ]
   },
@@ -51585,11 +51894,14 @@
         "name": "IVANKA PRATHAM",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:56.617Z",
-        "builderId": "69c0f12509b2489bdd195633"
+        "builderId": "69c0f12509b2489bdd195633",
+        "lenderName": [],
+        "area": "Barel",
+        "pinCode": "225001"
       }
     ]
   },
@@ -51619,11 +51931,14 @@
         "name": "Vidhi Estate Extension 2nd",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:02.092Z",
-        "builderId": "69c0f12509b2489bdd195634"
+        "builderId": "69c0f12509b2489bdd195634",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226501"
       }
     ]
   },
@@ -51876,11 +52191,14 @@
         "name": "AZEA BOTANICA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:40.019Z",
-        "builderId": "69c0f12709b2489bdd195639"
+        "builderId": "69c0f12709b2489bdd195639",
+        "lenderName": [],
+        "area": "Sector 11, Vrindavan Yojna",
+        "pinCode": "226029"
       }
     ]
   },
@@ -52112,11 +52430,14 @@
         "name": "Eldeco Trinity",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:58.868Z",
-        "builderId": "69c0f12709b2489bdd19563b"
+        "builderId": "69c0f12709b2489bdd19563b",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226002"
       }
     ]
   },
@@ -52167,11 +52488,14 @@
         "name": "Srinivasa City",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:53.692Z",
-        "builderId": "69c0f12809b2489bdd19563d"
+        "builderId": "69c0f12809b2489bdd19563d",
+        "lenderName": [],
+        "area": " Nizampur",
+        "pinCode": "226501"
       }
     ]
   },
@@ -52347,11 +52671,14 @@
         "name": "The Sarayu 3",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:49.660Z",
-        "builderId": "69c0f12909b2489bdd195642"
+        "builderId": "69c0f12909b2489bdd195642",
+        "lenderName": [],
+        "area": "Tihura Manjha",
+        "pinCode": "224001"
       },
       {
         "_id": "69c0fab209b2489bdd195dd5",
@@ -52359,11 +52686,14 @@
         "name": "The Sarayu 4",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:50.000Z",
-        "builderId": "69c0f12909b2489bdd195642"
+        "builderId": "69c0f12909b2489bdd195642",
+        "lenderName": [],
+        "area": "Tihura Manjha",
+        "pinCode": "224001"
       },
       {
         "_id": "69c0fab209b2489bdd195dd6",
@@ -52371,11 +52701,14 @@
         "name": "The Sarayu 5 (The Sarayu Phase 2C)",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:50.209Z",
-        "builderId": "69c0f12909b2489bdd195642"
+        "builderId": "69c0f12909b2489bdd195642",
+        "lenderName": [],
+        "area": "Tihura Manjha",
+        "pinCode": "224001"
       },
       {
         "_id": "69c0fab209b2489bdd195dd7",
@@ -52383,11 +52716,14 @@
         "name": "The Sarayu-2",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:50.430Z",
-        "builderId": "69c0f12909b2489bdd195642"
+        "builderId": "69c0f12909b2489bdd195642",
+        "lenderName": [],
+        "area": "Tihura Manjha",
+        "pinCode": "224001"
       }
     ]
   },
@@ -52583,11 +52919,14 @@
         "name": "ORCHID SIGNATURE TOWER",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:31.552Z",
-        "builderId": "69c0f12a09b2489bdd195648"
+        "builderId": "69c0f12a09b2489bdd195648",
+        "lenderName": [],
+        "area": "Ali Nagar Kainjra",
+        "pinCode": "283203"
       }
     ]
   },
@@ -52924,11 +53263,14 @@
         "name": "PARK ROYAL APARTMENT",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:33.071Z",
-        "builderId": "69c0f12d09b2489bdd195651"
+        "builderId": "69c0f12d09b2489bdd195651",
+        "lenderName": [],
+        "area": "Madiyanva",
+        "pinCode": "226021"
       }
     ]
   },
@@ -53010,11 +53352,14 @@
         "name": "LA-VISTA Height",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:55.935Z",
-        "builderId": "69c0f12d09b2489bdd195653"
+        "builderId": "69c0f12d09b2489bdd195653",
+        "lenderName": [],
+        "area": "Quarsi",
+        "pinCode": "202001"
       }
     ]
   },
@@ -53065,11 +53410,14 @@
         "name": "Kanta Green",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:15.851Z",
-        "builderId": "69c0f12e09b2489bdd195655"
+        "builderId": "69c0f12e09b2489bdd195655",
+        "lenderName": [],
+        "area": "Kalli Paschim",
+        "pinCode": "206024"
       }
     ]
   },
@@ -53099,11 +53447,14 @@
         "name": "AFTEK GREENS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:20.812Z",
-        "builderId": "69c0f12e09b2489bdd195656"
+        "builderId": "69c0f12e09b2489bdd195656",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       }
     ]
   },
@@ -53410,11 +53761,14 @@
         "name": "GHAR PARIVAR",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:06.260Z",
-        "builderId": "69c0f13009b2489bdd19565f"
+        "builderId": "69c0f13009b2489bdd19565f",
+        "lenderName": [],
+        "area": "Jankipuram",
+        "pinCode": "226021"
       }
     ]
   },
@@ -53444,11 +53798,14 @@
         "name": "Hari Pearl Heights",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:55.265Z",
-        "builderId": "69c0f13009b2489bdd195660"
+        "builderId": "69c0f13009b2489bdd195660",
+        "lenderName": [],
+        "area": "Begpur",
+        "pinCode": "202001"
       }
     ]
   },
@@ -53515,11 +53872,14 @@
         "name": "BHAVYA CORPORATE TOWER",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:42.614Z",
-        "builderId": "69c0f13109b2489bdd195662"
+        "builderId": "69c0f13109b2489bdd195662",
+        "lenderName": [],
+        "area": "Gomti Nagar",
+        "pinCode": "226010"
       }
     ]
   },
@@ -53697,11 +54057,14 @@
         "name": "ARSHA SUMANGALAM",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:37.987Z",
-        "builderId": "69c0f13209b2489bdd195667"
+        "builderId": "69c0f13209b2489bdd195667",
+        "lenderName": [],
+        "area": "Sector 14, Vrindavan Yojna",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe5309b2489bdd196869",
@@ -53709,11 +54072,14 @@
         "name": "MADHAV RESIDENCY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:19.216Z",
-        "builderId": "69c0f13209b2489bdd195667"
+        "builderId": "69c0f13209b2489bdd195667",
+        "lenderName": [],
+        "area": "Kishan Path",
+        "pinCode": "226010"
       }
     ]
   },
@@ -54349,11 +54715,14 @@
         "name": "CRYSTAL CITY CENTRE",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:52.685Z",
-        "builderId": "69c0f13609b2489bdd195674"
+        "builderId": "69c0f13609b2489bdd195674",
+        "lenderName": [],
+        "area": " Ratan Khand",
+        "pinCode": "226012"
       }
     ]
   },
@@ -54404,11 +54773,14 @@
         "name": "MIGSUN LUCKNOW CENTRAL",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.947Z",
-        "builderId": "69c0f13609b2489bdd195676"
+        "builderId": "69c0f13609b2489bdd195676",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "229010"
       }
     ]
   },
@@ -54438,11 +54810,14 @@
         "name": "MANGALAM G HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:20.482Z",
-        "builderId": "69c0f13709b2489bdd195677"
+        "builderId": "69c0f13709b2489bdd195677",
+        "lenderName": [],
+        "area": "Parsahia",
+        "pinCode": "226203"
       }
     ]
   },
@@ -54551,11 +54926,14 @@
         "name": "NIRVANA HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:25.125Z",
-        "builderId": "69c0f13809b2489bdd19567b"
+        "builderId": "69c0f13809b2489bdd19567b",
+        "lenderName": [],
+        "area": "Uattardhona",
+        "pinCode": "226028"
       }
     ]
   },
@@ -54784,11 +55162,14 @@
         "name": "NMBPL TOWER",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:25.397Z",
-        "builderId": "69c0f13909b2489bdd195681"
+        "builderId": "69c0f13909b2489bdd195681",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226029"
       }
     ]
   },
@@ -55146,11 +55527,14 @@
         "name": "T Rose",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:56.045Z",
-        "builderId": "69c0f13d09b2489bdd19568c"
+        "builderId": "69c0f13d09b2489bdd19568c",
+        "lenderName": [],
+        "area": "Jankipuram",
+        "pinCode": "226021"
       }
     ]
   },
@@ -55217,11 +55601,14 @@
         "name": "RADHA ENCLAVE",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:32.711Z",
-        "builderId": "69c0f13d09b2489bdd19568e"
+        "builderId": "69c0f13d09b2489bdd19568e",
+        "lenderName": [],
+        "area": "Tundla",
+        "pinCode": "283204"
       }
     ]
   },
@@ -55529,11 +55916,14 @@
         "name": "DHRONA ENCLAVE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:53.993Z",
-        "builderId": "69c0f13f09b2489bdd195697"
+        "builderId": "69c0f13f09b2489bdd195697",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226002"
       }
     ]
   },
@@ -55658,11 +56048,14 @@
         "name": "ROLEX ESTATE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:43.406Z",
-        "builderId": "69c0f14109b2489bdd19569b"
+        "builderId": "69c0f14109b2489bdd19569b",
+        "lenderName": [],
+        "area": "Kamta",
+        "pinCode": "226016"
       }
     ]
   },
@@ -55692,11 +56085,14 @@
         "name": "DEVDEVARSHI ENCLAVE JAIL ROAD",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:53.530Z",
-        "builderId": "69c0f14109b2489bdd19569c"
+        "builderId": "69c0f14109b2489bdd19569c",
+        "lenderName": [],
+        "area": "Jail Road",
+        "pinCode": "226005"
       },
       {
         "_id": "69c0fe3909b2489bdd196795",
@@ -55704,11 +56100,14 @@
         "name": "DEVDEVRSHI INFRABUILD PRIVATE LIMITED",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:53.649Z",
-        "builderId": "69c0f14109b2489bdd19569c"
+        "builderId": "69c0f14109b2489bdd19569c",
+        "lenderName": [],
+        "area": "Jail Road",
+        "pinCode": "226010"
       }
     ]
   },
@@ -55738,11 +56137,14 @@
         "name": "ARADHANA BUILDING",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:36.793Z",
-        "builderId": "69c0f14109b2489bdd19569d"
+        "builderId": "69c0f14109b2489bdd19569d",
+        "lenderName": [],
+        "area": "Semra",
+        "pinCode": "226002"
       }
     ]
   },
@@ -56119,11 +56521,14 @@
         "name": "Mukhya Mantri Shahari Vistarikaran Yojna (Gram- Mahokhar) Banda",
         "district": "Banda",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:41.125Z",
-        "builderId": "69c0f14409b2489bdd1956a7"
+        "builderId": "69c0f14409b2489bdd1956a7",
+        "lenderName": [],
+        "area": "Mahokhar Village",
+        "pinCode": "210001"
       },
       {
         "_id": "69c0fae509b2489bdd195de6",
@@ -56131,11 +56536,14 @@
         "name": "Pandit Deendayal Puram Housing Scheme , Naraini Road",
         "district": "Banda",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:41.355Z",
-        "builderId": "69c0f14409b2489bdd1956a7"
+        "builderId": "69c0f14409b2489bdd1956a7",
+        "lenderName": [],
+        "area": "Naraini Road",
+        "pinCode": "210001"
       },
       {
         "_id": "69c0fae509b2489bdd195de7",
@@ -56143,11 +56551,14 @@
         "name": "Tulsi Nagar Housing Scheme",
         "district": "Banda",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:41.570Z",
-        "builderId": "69c0f14409b2489bdd1956a7"
+        "builderId": "69c0f14409b2489bdd1956a7",
+        "lenderName": [],
+        "area": "Tulsi Nagar",
+        "pinCode": "210001"
       }
     ]
   },
@@ -56229,11 +56640,14 @@
         "name": "Palacio Imperial White",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:31.641Z",
-        "builderId": "69c0f14409b2489bdd1956a9"
+        "builderId": "69c0f14409b2489bdd1956a9",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       }
     ]
   },
@@ -56330,11 +56744,14 @@
         "name": "Signature heights",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:51.423Z",
-        "builderId": "69c0f14509b2489bdd1956ab"
+        "builderId": "69c0f14509b2489bdd1956ab",
+        "lenderName": [],
+        "area": "Matiyari",
+        "pinCode": "226010"
       }
     ]
   },
@@ -56364,11 +56781,14 @@
         "name": "PARAS GREEN CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:32.711Z",
-        "builderId": "69c0f14509b2489bdd1956ac"
+        "builderId": "69c0f14509b2489bdd1956ac",
+        "lenderName": [],
+        "area": "Miranpur Pinvat",
+        "pinCode": "226008"
       }
     ]
   },
@@ -56432,11 +56852,14 @@
         "name": "Roshan Vihar",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:23.828Z",
-        "builderId": "69c0f14509b2489bdd1956ae"
+        "builderId": "69c0f14509b2489bdd1956ae",
+        "lenderName": [],
+        "area": "Navipur Kalan",
+        "pinCode": "204101"
       }
     ]
   },
@@ -56598,11 +57021,14 @@
         "name": "M AND M ANANTA PROJECT K-2(2) BLOCK-K ANAND VIHAR AAWASIYA YOJNA HAPUR",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.680Z",
-        "builderId": "69c0f14709b2489bdd1956b3"
+        "builderId": "69c0f14709b2489bdd1956b3",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fd9209b2489bdd19657d",
@@ -56610,11 +57036,14 @@
         "name": "M AND M PLAZA",
         "district": "Hapur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.797Z",
-        "builderId": "69c0f14709b2489bdd1956b3"
+        "builderId": "69c0f14709b2489bdd1956b3",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       }
     ]
   },
@@ -56736,11 +57165,14 @@
         "name": "URBAN HEIGHTS",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:01.646Z",
-        "builderId": "69c0f14809b2489bdd1956b7"
+        "builderId": "69c0f14809b2489bdd1956b7",
+        "lenderName": [],
+        "area": "ADA Colony",
+        "pinCode": "202001"
       }
     ]
   },
@@ -57008,11 +57440,14 @@
         "name": "HERITAGE GREEN",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:55.437Z",
-        "builderId": "69c0f14909b2489bdd1956bc"
+        "builderId": "69c0f14909b2489bdd1956bc",
+        "lenderName": [],
+        "area": "Sursanda",
+        "pinCode": "225001"
       }
     ]
   },
@@ -57269,11 +57704,14 @@
         "name": "ROSHAN ENCLAVE",
         "district": "Hathras",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:23.714Z",
-        "builderId": "69c0f14b09b2489bdd1956c2"
+        "builderId": "69c0f14b09b2489bdd1956c2",
+        "lenderName": [],
+        "area": "Nayee Nagla",
+        "pinCode": "204101"
       }
     ]
   },
@@ -57598,11 +58036,14 @@
         "name": "Atal Square",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:38.948Z",
-        "builderId": "69c0f14d09b2489bdd1956cc"
+        "builderId": "69c0f14d09b2489bdd1956cc",
+        "lenderName": [],
+        "area": "Jankipuram Extension ",
+        "pinCode": "226031"
       }
     ]
   },
@@ -57632,11 +58073,14 @@
         "name": "Sanjeevani Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.974Z",
-        "builderId": "69c0f14d09b2489bdd1956cd"
+        "builderId": "69c0f14d09b2489bdd1956cd",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -57703,11 +58147,14 @@
         "name": "ICONIC BANJARA FARMS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:11.126Z",
-        "builderId": "69c0f14e09b2489bdd1956cf"
+        "builderId": "69c0f14e09b2489bdd1956cf",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -57737,11 +58184,14 @@
         "name": "SUNRISE GREEN VALLEY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:55.333Z",
-        "builderId": "69c0f14e09b2489bdd1956d0"
+        "builderId": "69c0f14e09b2489bdd1956d0",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226501"
       }
     ]
   },
@@ -57939,11 +58389,14 @@
         "name": "Dream Mall",
         "district": "Bijnor",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:00.693Z",
-        "builderId": "69c0f15009b2489bdd1956d6"
+        "builderId": "69c0f15009b2489bdd1956d6",
+        "lenderName": [],
+        "area": "Manoharwala",
+        "pinCode": "246763"
       }
     ]
   },
@@ -58260,11 +58713,14 @@
         "name": "Sparsh Gateway",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:52.855Z",
-        "builderId": "69c0f15209b2489bdd1956de"
+        "builderId": "69c0f15209b2489bdd1956de",
+        "lenderName": [],
+        "area": "Vrindavan Yojana",
+        "pinCode": "226014"
       }
     ]
   },
@@ -58294,11 +58750,14 @@
         "name": "Felix Sqaure",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:01.357Z",
-        "builderId": "69c0f15209b2489bdd1956df"
+        "builderId": "69c0f15209b2489bdd1956df",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -58546,11 +59005,14 @@
         "name": "Kahlon Emporium - 1",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:14.457Z",
-        "builderId": "69c0f15409b2489bdd1956e7"
+        "builderId": "69c0f15409b2489bdd1956e7",
+        "lenderName": [],
+        "area": "Vrindavan Yojana",
+        "pinCode": "226014"
       }
     ]
   },
@@ -58699,11 +59161,14 @@
         "name": "LIBERTY ENCLAVE",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:57.102Z",
-        "builderId": "69c0f15609b2489bdd1956eb"
+        "builderId": "69c0f15609b2489bdd1956eb",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -58954,11 +59419,14 @@
         "name": "THE WOODS KOHINOOR JANKIPURAM",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:58.355Z",
-        "builderId": "69c0f15809b2489bdd1956f3"
+        "builderId": "69c0f15809b2489bdd1956f3",
+        "lenderName": [],
+        "area": "Jankipuram Extension",
+        "pinCode": "226021"
       }
     ]
   },
@@ -59025,11 +59493,14 @@
         "name": "NBCC COMMERCIAL COMPLEX LUCKNOW",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:23.904Z",
-        "builderId": "69c0f15909b2489bdd1956f5"
+        "builderId": "69c0f15909b2489bdd1956f5",
+        "lenderName": [],
+        "area": " Sector 1, Gomti Nagar",
+        "pinCode": "226010"
       }
     ]
   },
@@ -59059,11 +59530,14 @@
         "name": "Millenium Square",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:23.069Z",
-        "builderId": "69c0f15909b2489bdd1956f6"
+        "builderId": "69c0f15909b2489bdd1956f6",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -59130,11 +59604,14 @@
         "name": "DSL GREENCITY- G+4- 48",
         "district": "Bahraich",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:14.602Z",
-        "builderId": "69c0f15a09b2489bdd1956f8"
+        "builderId": "69c0f15a09b2489bdd1956f8",
+        "lenderName": [],
+        "area": "Bakshi Pura",
+        "pinCode": "271801"
       }
     ]
   },
@@ -59164,11 +59641,14 @@
         "name": "ORCHID VALLEY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:30.140Z",
-        "builderId": "69c0f15a09b2489bdd1956f9"
+        "builderId": "69c0f15a09b2489bdd1956f9",
+        "lenderName": [],
+        "area": " Gosainganj",
+        "pinCode": "226002"
       }
     ]
   },
@@ -59344,11 +59824,14 @@
         "name": "Sudarshan Prakriti Vihar",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:54.154Z",
-        "builderId": "69c0f15c09b2489bdd1956ff"
+        "builderId": "69c0f15c09b2489bdd1956ff",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226501"
       }
     ]
   },
@@ -59592,11 +60075,14 @@
         "name": "Central-square",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.140Z",
-        "builderId": "69c0f15d09b2489bdd195706"
+        "builderId": "69c0f15d09b2489bdd195706",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -59788,11 +60274,14 @@
         "name": "TRUSTUS QUEBIC CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:59.059Z",
-        "builderId": "69c0f15f09b2489bdd19570b"
+        "builderId": "69c0f15f09b2489bdd19570b",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -60101,11 +60590,14 @@
         "name": "SHUBOTSAV HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:51.185Z",
-        "builderId": "69c0f16109b2489bdd195715"
+        "builderId": "69c0f16109b2489bdd195715",
+        "lenderName": [],
+        "area": "  Matiyari, Kamta",
+        "pinCode": "226028"
       }
     ]
   },
@@ -60287,11 +60779,14 @@
         "name": "IMPERIAL RESIDENCIA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:11.713Z",
-        "builderId": "69c0f16309b2489bdd19571b"
+        "builderId": "69c0f16309b2489bdd19571b",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226029"
       }
     ]
   },
@@ -60358,11 +60853,14 @@
         "name": "ISCON GREEN CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:12.664Z",
-        "builderId": "69c0f16409b2489bdd19571d"
+        "builderId": "69c0f16409b2489bdd19571d",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226501"
       }
     ]
   },
@@ -60392,11 +60890,14 @@
         "name": "Abhyudaya Celestial",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:20.579Z",
-        "builderId": "69c0f16409b2489bdd19571e"
+        "builderId": "69c0f16409b2489bdd19571e",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -60518,11 +61019,14 @@
         "name": "VEDIC VILLAGE PHASE-1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:01.316Z",
-        "builderId": "69c0f16509b2489bdd195722"
+        "builderId": "69c0f16509b2489bdd195722",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226501"
       },
       {
         "_id": "69c0fe7d09b2489bdd1969c7",
@@ -60530,11 +61034,14 @@
         "name": "VEDIC VILLAGE PHASE-1 EXTENSION",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:01.454Z",
-        "builderId": "69c0f16509b2489bdd195722"
+        "builderId": "69c0f16509b2489bdd195722",
+        "lenderName": [],
+        "area": "Gosainganj",
+        "pinCode": "226501"
       }
     ]
   },
@@ -60564,11 +61071,14 @@
         "name": "BALAJI GREENS",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:52.702Z",
-        "builderId": "69c0f16509b2489bdd195723"
+        "builderId": "69c0f16509b2489bdd195723",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -60619,11 +61129,14 @@
         "name": "Shree Vijay Green Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:50.830Z",
-        "builderId": "69c0f16609b2489bdd195725"
+        "builderId": "69c0f16609b2489bdd195725",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -61074,11 +61587,14 @@
         "name": "PRISTINE TOWER",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:37.526Z",
-        "builderId": "69c0f16a09b2489bdd195732"
+        "builderId": "69c0f16a09b2489bdd195732",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -61150,11 +61666,14 @@
         "name": "URBANAC BUSINESS PARK",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:59.905Z",
-        "builderId": "69c0f16a09b2489bdd195735"
+        "builderId": "69c0f16a09b2489bdd195735",
+        "lenderName": [],
+        "area": "Vibhuti Khand",
+        "pinCode": "226010"
       }
     ]
   },
@@ -61184,11 +61703,14 @@
         "name": "Zenith Vista",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.881Z",
-        "builderId": "69c0f16b09b2489bdd195736"
+        "builderId": "69c0f16b09b2489bdd195736",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226029"
       }
     ]
   },
@@ -61565,11 +62087,14 @@
         "name": "EDEN AT 1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:55.196Z",
-        "builderId": "69c0f16e09b2489bdd195741"
+        "builderId": "69c0f16e09b2489bdd195741",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -61749,11 +62274,14 @@
         "name": "Shubh Kamna Heights Phase I",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:31.901Z",
-        "builderId": "69c0f17009b2489bdd195747"
+        "builderId": "69c0f17009b2489bdd195747",
+        "lenderName": [],
+        "area": "Godhana",
+        "pinCode": "232101"
       }
     ]
   },
@@ -61946,11 +62474,14 @@
         "name": "DPS PALLADIO",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:54.339Z",
-        "builderId": "69c0f17109b2489bdd19574c"
+        "builderId": "69c0f17109b2489bdd19574c",
+        "lenderName": [],
+        "area": " Mastemau",
+        "pinCode": "226030"
       }
     ]
   },
@@ -62051,11 +62582,14 @@
         "name": "DREAM GALAXY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:54.612Z",
-        "builderId": "69c0f17209b2489bdd19574f"
+        "builderId": "69c0f17209b2489bdd19574f",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -62259,11 +62793,14 @@
         "name": "MERIDIAN HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.087Z",
-        "builderId": "69c0f17409b2489bdd195756"
+        "builderId": "69c0f17409b2489bdd195756",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       }
     ]
   },
@@ -62401,11 +62938,14 @@
         "name": "DARSHNA ENCLAVE",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:05.974Z",
-        "builderId": "69c0f17509b2489bdd19575a"
+        "builderId": "69c0f17509b2489bdd19575a",
+        "lenderName": [],
+        "area": "Pilkhuwa",
+        "pinCode": "245304"
       }
     ]
   },
@@ -62472,11 +63012,14 @@
         "name": "Elite Square",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:59.361Z",
-        "builderId": "69c0f17609b2489bdd19575c"
+        "builderId": "69c0f17609b2489bdd19575c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -62506,11 +63049,14 @@
         "name": "DH3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:53.880Z",
-        "builderId": "69c0f17609b2489bdd19575d"
+        "builderId": "69c0f17609b2489bdd19575d",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -62656,11 +63202,14 @@
         "name": "Trigold Shubhkamana",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:58.824Z",
-        "builderId": "69c0f17709b2489bdd195762"
+        "builderId": "69c0f17709b2489bdd195762",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       }
     ]
   },
@@ -62727,11 +63276,14 @@
         "name": "Kanti Niketan",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:15.969Z",
-        "builderId": "69c0f17809b2489bdd195764"
+        "builderId": "69c0f17809b2489bdd195764",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -63098,11 +63650,14 @@
         "name": "FLORET TOWN",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:54.405Z",
-        "builderId": "69c0f17c09b2489bdd195772"
+        "builderId": "69c0f17c09b2489bdd195772",
+        "lenderName": [],
+        "area": " Mati, Pargana Deva",
+        "pinCode": "225001"
       }
     ]
   },
@@ -63743,11 +64298,14 @@
         "name": "The Royal Retreat",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:57.755Z",
-        "builderId": "69c0f18209b2489bdd195786"
+        "builderId": "69c0f18209b2489bdd195786",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -63927,11 +64485,14 @@
         "name": "SHRI RAM RAJYAM",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:49.434Z",
-        "builderId": "69c0f18309b2489bdd19578b"
+        "builderId": "69c0f18309b2489bdd19578b",
+        "lenderName": [],
+        "area": "Haripur Jalalabad",
+        "pinCode": "224001"
       }
     ]
   },
@@ -64362,11 +64923,14 @@
         "name": "Purvanchal Kings Court",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:38.023Z",
-        "builderId": "69c0f18609b2489bdd195797"
+        "builderId": "69c0f18609b2489bdd195797",
+        "lenderName": [],
+        "area": "Vinamra Khand",
+        "pinCode": "226010"
       }
     ]
   },
@@ -64417,11 +64981,14 @@
         "name": "ROOPALI PEARL HEIGHTS APPARTMENTS",
         "district": "Azamgarh",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:58.344Z",
-        "builderId": "69c0f18609b2489bdd195799"
+        "builderId": "69c0f18609b2489bdd195799",
+        "lenderName": [],
+        "area": "Azamgarh City",
+        "pinCode": "276001"
       }
     ]
   },
@@ -64706,11 +65273,14 @@
         "name": "SUNRISE ESTATE",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:07.140Z",
-        "builderId": "69c0f18809b2489bdd1957a1"
+        "builderId": "69c0f18809b2489bdd1957a1",
+        "lenderName": [],
+        "area": "Shahmahi-uddinpur",
+        "pinCode": "245101"
       }
     ]
   },
@@ -64853,11 +65423,14 @@
         "name": "NEHA CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:24.398Z",
-        "builderId": "69c0f18a09b2489bdd1957a6"
+        "builderId": "69c0f18a09b2489bdd1957a6",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226025"
       }
     ]
   },
@@ -65130,11 +65703,14 @@
         "name": "Kashi Gateways",
         "district": "Chandauli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:35:29.909Z",
-        "builderId": "69c0f18c09b2489bdd1957ae"
+        "builderId": "69c0f18c09b2489bdd1957ae",
+        "lenderName": [],
+        "area": "Harishankarpur",
+        "pinCode": "232101"
       }
     ]
   },
@@ -65280,11 +65856,14 @@
         "name": "DREAM TOWN",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:30.388Z",
-        "builderId": "69c0f18d09b2489bdd1957b3"
+        "builderId": "69c0f18d09b2489bdd1957b3",
+        "lenderName": [],
+        "area": "Jaroli Kalan",
+        "pinCode": "283203"
       }
     ]
   },
@@ -65366,11 +65945,14 @@
         "name": "NEO DOWNTOWN",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:24.515Z",
-        "builderId": "69c0f18d09b2489bdd1957b5"
+        "builderId": "69c0f18d09b2489bdd1957b5",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226030"
       }
     ]
   },
@@ -65455,11 +66037,14 @@
         "name": "VIRASAT UDAI GRAND",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:02.564Z",
-        "builderId": "69c0f18e09b2489bdd1957b8"
+        "builderId": "69c0f18e09b2489bdd1957b8",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -65666,11 +66251,14 @@
         "name": "ANAM HOMES",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:23.723Z",
-        "builderId": "69c0f18f09b2489bdd1957bd"
+        "builderId": "69c0f18f09b2489bdd1957bd",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226016"
       }
     ]
   },
@@ -65989,11 +66577,14 @@
         "name": "SIGNATURE PARK SECTOR 1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:51.539Z",
-        "builderId": "69c0f19209b2489bdd1957c5"
+        "builderId": "69c0f19209b2489bdd1957c5",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       },
       {
         "_id": "69c0fe7309b2489bdd196975",
@@ -66001,11 +66592,14 @@
         "name": "Signature Park Sector 2 & 3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:51.660Z",
-        "builderId": "69c0f19209b2489bdd1957c5"
+        "builderId": "69c0f19209b2489bdd1957c5",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -66316,11 +66910,14 @@
         "name": "Aero Vista City",
         "district": "Ayodhya",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:48.004Z",
-        "builderId": "69c0f19409b2489bdd1957ce"
+        "builderId": "69c0f19409b2489bdd1957ce",
+        "lenderName": [],
+        "area": "Sarethi",
+        "pinCode": "224001"
       }
     ]
   },
@@ -66689,11 +67286,14 @@
         "name": "PINTAIL PARK CITY (PH 1 PLOTS)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:34.248Z",
-        "builderId": "69c0f19709b2489bdd1957da"
+        "builderId": "69c0f19709b2489bdd1957da",
+        "lenderName": [],
+        "area": "Sultanpur Road",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6209b2489bdd1968e5",
@@ -66701,11 +67301,14 @@
         "name": "Pintail Park City Ph2 Plots",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:34.364Z",
-        "builderId": "69c0f19709b2489bdd1957da"
+        "builderId": "69c0f19709b2489bdd1957da",
+        "lenderName": [],
+        "area": "Sultanpur Road",
+        "pinCode": "226002"
       }
     ]
   },
@@ -66809,11 +67412,14 @@
         "name": "ANANTTAM GREENS",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:04.681Z",
-        "builderId": "69c0f19809b2489bdd1957dd"
+        "builderId": "69c0f19809b2489bdd1957dd",
+        "lenderName": [],
+        "area": "Anand Vihar",
+        "pinCode": "245101"
       }
     ]
   },
@@ -66843,11 +67449,14 @@
         "name": "EASTERN MALL",
         "district": "Mau",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:56.203Z",
-        "builderId": "69c0f19809b2489bdd1957de"
+        "builderId": "69c0f19809b2489bdd1957de",
+        "lenderName": [],
+        "area": "Maunath Bhanjan",
+        "pinCode": "276402"
       }
     ]
   },
@@ -67251,11 +67860,14 @@
         "name": "VIVEK VIHAR",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:03.451Z",
-        "builderId": "69c0f19b09b2489bdd1957e9"
+        "builderId": "69c0f19b09b2489bdd1957e9",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -67356,11 +67968,14 @@
         "name": "BCC GREENS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:41.540Z",
-        "builderId": "69c0f19c09b2489bdd1957ec"
+        "builderId": "69c0f19c09b2489bdd1957ec",
+        "lenderName": [],
+        "area": "Naubasta Kala",
+        "pinCode": "226028"
       }
     ]
   },
@@ -67605,11 +68220,14 @@
         "name": "Eden",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:54.183Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Sandauli Umarpur",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0faf809b2489bdd195e0e",
@@ -67617,11 +68235,14 @@
         "name": "Shalimar Paradise Phase-1",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:00.008Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Juggaur",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0faf809b2489bdd195e0f",
@@ -67629,11 +68250,14 @@
         "name": "Shere Shalimar Mannat Extension",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:00.258Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Juggaur",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0faf809b2489bdd195e10",
@@ -67641,11 +68265,14 @@
         "name": "Shere Shalimar Mannat Extension-2",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:00.494Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Barabanki",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0faf809b2489bdd195e12",
@@ -67653,11 +68280,14 @@
         "name": "Sheres Shalimar Mannat Phase-1",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:00.933Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Barabanki",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0faf909b2489bdd195e16",
@@ -67665,11 +68295,14 @@
         "name": "Tamanna Aarzoo",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:01.881Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Barabanki",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0fafa09b2489bdd195e17",
@@ -67677,11 +68310,14 @@
         "name": "Tamanna Aarzoo",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:02.153Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Barabanki",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0fafb09b2489bdd195e1a",
@@ -67689,11 +68325,14 @@
         "name": "Umang Tarang",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:34:02.956Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Barabanki",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0fe4c09b2489bdd196833",
@@ -67701,11 +68340,14 @@
         "name": "Iridium",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:12.537Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe6809b2489bdd196915",
@@ -67713,11 +68355,14 @@
         "name": "Revised Group Housing-Shalimar Gallant Phase-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:40.218Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Mahanagar Extension",
+        "pinCode": "226006"
       },
       {
         "_id": "69c0fe7109b2489bdd196962",
@@ -67725,11 +68370,14 @@
         "name": "Shalimar Gallant West",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:49.357Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Mahanagar",
+        "pinCode": "226006"
       },
       {
         "_id": "69c0fe7b09b2489bdd1969b5",
@@ -67737,11 +68385,14 @@
         "name": "Twenty One",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:59.299Z",
-        "builderId": "69c0f19d09b2489bdd1957f3"
+        "builderId": "69c0f19d09b2489bdd1957f3",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -68006,11 +68657,14 @@
         "name": "BCC BLUE MOUNTAIN",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:41.306Z",
-        "builderId": "69c0f19f09b2489bdd1957fa"
+        "builderId": "69c0f19f09b2489bdd1957fa",
+        "lenderName": [],
+        "area": "Vrindavan Yojna Sector 17",
+        "pinCode": "226029"
       }
     ]
   },
@@ -68040,11 +68694,14 @@
         "name": "APNA GHAR",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:36.663Z",
-        "builderId": "69c0f19f09b2489bdd1957fb"
+        "builderId": "69c0f19f09b2489bdd1957fb",
+        "lenderName": [],
+        "area": "Charbagh",
+        "pinCode": "226004"
       }
     ]
   },
@@ -68111,11 +68768,14 @@
         "name": "Naturre Valley Residency",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:56.639Z",
-        "builderId": "69c0f1a009b2489bdd1957fd"
+        "builderId": "69c0f1a009b2489bdd1957fd",
+        "lenderName": [],
+        "area": "Tappal",
+        "pinCode": "202001"
       }
     ]
   },
@@ -68145,11 +68805,14 @@
         "name": "AUMORA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.408Z",
-        "builderId": "69c0f1a009b2489bdd1957fe"
+        "builderId": "69c0f1a009b2489bdd1957fe",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -68179,11 +68842,14 @@
         "name": "COSMOS",
         "district": "Firozabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:30.156Z",
-        "builderId": "69c0f1a109b2489bdd1957ff"
+        "builderId": "69c0f1a109b2489bdd1957ff",
+        "lenderName": [],
+        "area": "Tundla",
+        "pinCode": "283204"
       }
     ]
   },
@@ -68427,11 +69093,14 @@
         "name": "Sikka Riverside Residency",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:51.778Z",
-        "builderId": "69c0f1a209b2489bdd195805"
+        "builderId": "69c0f1a209b2489bdd195805",
+        "lenderName": [],
+        "area": "Hasanganj",
+        "pinCode": "226007"
       }
     ]
   },
@@ -68461,11 +69130,14 @@
         "name": "Y2R HEIGHTS",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.647Z",
-        "builderId": "69c0f1a209b2489bdd195806"
+        "builderId": "69c0f1a209b2489bdd195806",
+        "lenderName": [],
+        "area": "Jankipuram Extension",
+        "pinCode": "226021"
       }
     ]
   },
@@ -68813,11 +69485,14 @@
         "name": "RASIK GREENS",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:57.792Z",
-        "builderId": "69c0f1a509b2489bdd19580f"
+        "builderId": "69c0f1a509b2489bdd19580f",
+        "lenderName": [],
+        "area": "Harduaganj",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2bcf0d5221750800a0",
@@ -68825,11 +69500,14 @@
         "name": "RASIK TOWER",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:58.027Z",
-        "builderId": "69c0f1a509b2489bdd19580f"
+        "builderId": "69c0f1a509b2489bdd19580f",
+        "lenderName": [],
+        "area": "Tala Nagri",
+        "pinCode": "202001"
       },
       {
         "_id": "69be9c2bcf0d5221750800a1",
@@ -68837,11 +69515,14 @@
         "name": "Rasik Tower (Block C and D)",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:58.289Z",
-        "builderId": "69c0f1a509b2489bdd19580f"
+        "builderId": "69c0f1a509b2489bdd19580f",
+        "lenderName": [],
+        "area": "Tala Nagri",
+        "pinCode": "202001"
       }
     ]
   },
@@ -72087,11 +72768,14 @@
         "name": "Rishita Mulberry Heights Phase-6",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:40.450Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City belt",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6809b2489bdd196918",
@@ -72099,11 +72783,14 @@
         "name": "RISHITA CELEBRITY GREENS (BLOCK B & C)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:40.566Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Amar Shaheed Path",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6809b2489bdd196919",
@@ -72111,11 +72798,14 @@
         "name": "RISHITA MANHATTAN (PHASE-I)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:40.684Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6809b2489bdd19691a",
@@ -72123,11 +72813,14 @@
         "name": "RISHITA MANHATTAN (PHASE-II)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:40.803Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd19691c",
@@ -72135,11 +72828,14 @@
         "name": "RISHITA MULBERRY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.044Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd19691d",
@@ -72147,11 +72843,14 @@
         "name": "Rishita Mulberry Heights Phase 1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.162Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd19691e",
@@ -72159,11 +72858,14 @@
         "name": "Rishita Mulberry Heights Phase 2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.277Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd19691f",
@@ -72171,11 +72873,14 @@
         "name": "Rishita Mulberry Heights Phase 3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.394Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd196920",
@@ -72183,11 +72888,14 @@
         "name": "Rishita Mulberry Heights Phase 4",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.532Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd196921",
@@ -72195,11 +72903,14 @@
         "name": "Rishita Mulberry Heights Phase 5",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.649Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd196922",
@@ -72207,11 +72918,14 @@
         "name": "Rishita Serenity Phase - 3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.765Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6909b2489bdd196923",
@@ -72219,11 +72933,14 @@
         "name": "Rishita Serenity Phase 2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.881Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6a09b2489bdd196924",
@@ -72231,11 +72948,14 @@
         "name": "Rishita Serenity Phase I",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:41.996Z",
-        "builderId": "69c0f1a909b2489bdd19581c"
+        "builderId": "69c0f1a909b2489bdd19581c",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       }
     ]
   },
@@ -72413,11 +73133,14 @@
         "name": "SAMIAH GARDEN CITY",
         "district": "Hapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:06.911Z",
-        "builderId": "69c0f1aa09b2489bdd195821"
+        "builderId": "69c0f1aa09b2489bdd195821",
+        "lenderName": [],
+        "area": "Brijghat",
+        "pinCode": "245101"
       },
       {
         "_id": "69c0fe2e09b2489bdd196740",
@@ -72425,11 +73148,14 @@
         "name": "BHARAT OVERSEAS CASTLE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:42.387Z",
-        "builderId": "69c0f1aa09b2489bdd195821"
+        "builderId": "69c0f1aa09b2489bdd195821",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe6e09b2489bdd196949",
@@ -72437,11 +73163,14 @@
         "name": "SAMIAH MELROSE AVENUE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.387Z",
-        "builderId": "69c0f1aa09b2489bdd195821"
+        "builderId": "69c0f1aa09b2489bdd195821",
+        "lenderName": [],
+        "area": "Shaheed Path extension",
+        "pinCode": "226029"
       },
       {
         "_id": "69c0fe6e09b2489bdd19694a",
@@ -72449,11 +73178,14 @@
         "name": "SAMIAH MELROSE SQUARE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.502Z",
-        "builderId": "69c0f1aa09b2489bdd195821"
+        "builderId": "69c0f1aa09b2489bdd195821",
+        "lenderName": [],
+        "area": "Vrindavan Yojna Sector 6",
+        "pinCode": "226029"
       }
     ]
   },
@@ -72947,11 +73679,14 @@
         "name": "DREAMZ AISHWARYA HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:54.731Z",
-        "builderId": "69c0f1af09b2489bdd195830"
+        "builderId": "69c0f1af09b2489bdd195830",
+        "lenderName": [],
+        "area": "Jaitikhera",
+        "pinCode": "226030"
       }
     ]
   },
@@ -73196,11 +73931,14 @@
         "name": "AJANTA TOWER",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:21.297Z",
-        "builderId": "69c0f1b009b2489bdd195836"
+        "builderId": "69c0f1b009b2489bdd195836",
+        "lenderName": [],
+        "area": "Alambagh",
+        "pinCode": "226005"
       }
     ]
   },
@@ -73319,11 +74057,14 @@
         "name": "Periwinkle and Glory",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:33.780Z",
-        "builderId": "69c0f1b109b2489bdd195839"
+        "builderId": "69c0f1b109b2489bdd195839",
+        "lenderName": [],
+        "area": "Jaitikhera",
+        "pinCode": "226030"
       }
     ]
   },
@@ -74242,11 +74983,14 @@
         "name": "ANSAL API - MISTY HOMES GH-3 POCKET-5 SECTOR G SUS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:25.832Z",
-        "builderId": "69c0f1b409b2489bdd195847"
+        "builderId": "69c0f1b409b2489bdd195847",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector G",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe5009b2489bdd196850",
@@ -74254,11 +74998,14 @@
         "name": "KIARA RESIDENCY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:16.082Z",
-        "builderId": "69c0f1b409b2489bdd195847"
+        "builderId": "69c0f1b409b2489bdd195847",
+        "lenderName": [],
+        "area": "Sushant Golf City, GH-3",
+        "pinCode": "226030"
       }
     ]
   },
@@ -74703,11 +75450,14 @@
         "name": "Samriddhi Ujwala Awas Yojna",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.621Z",
-        "builderId": "69c0f1b709b2489bdd195852"
+        "builderId": "69c0f1b709b2489bdd195852",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -74975,11 +75725,14 @@
         "name": "SAI KOHINOOR",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:45.417Z",
-        "builderId": "69c0f1b909b2489bdd195857"
+        "builderId": "69c0f1b909b2489bdd195857",
+        "lenderName": [],
+        "area": "Semra",
+        "pinCode": "226028"
       }
     ]
   },
@@ -75009,11 +75762,14 @@
         "name": "BCC SAPPHIRE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:41.688Z",
-        "builderId": "69c0f1b909b2489bdd195858"
+        "builderId": "69c0f1b909b2489bdd195858",
+        "lenderName": [],
+        "area": "Sultanpur Road",
+        "pinCode": "226002"
       }
     ]
   },
@@ -75279,11 +76035,14 @@
         "name": "INDRAPRASTHA ANAND",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:11.951Z",
-        "builderId": "69c0f1bb09b2489bdd19585f"
+        "builderId": "69c0f1bb09b2489bdd19585f",
+        "lenderName": [],
+        "area": "Indira Nagar, Sector 24",
+        "pinCode": "226016"
       }
     ]
   },
@@ -75350,11 +76109,14 @@
         "name": "GALAXY MALL",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:02.086Z",
-        "builderId": "69c0f1bc09b2489bdd195861"
+        "builderId": "69c0f1bc09b2489bdd195861",
+        "lenderName": [],
+        "area": "Hariharpur",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe5d09b2489bdd1968ba",
@@ -75362,11 +76124,14 @@
         "name": "OMEGA URBAN GREENS\"SAMAJWADI AWAS YOJNA\"",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:29.141Z",
-        "builderId": "69c0f1bc09b2489bdd195861"
+        "builderId": "69c0f1bc09b2489bdd195861",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -75522,11 +76287,14 @@
         "name": "ROHIT GRAND",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:42.555Z",
-        "builderId": "69c0f1bd09b2489bdd195865"
+        "builderId": "69c0f1bd09b2489bdd195865",
+        "lenderName": [],
+        "area": "Jankipuram Extension",
+        "pinCode": "226021"
       }
     ]
   },
@@ -76171,11 +76939,14 @@
         "name": "Venessa Enfinity Heights",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:01.595Z",
-        "builderId": "69c0f1c009b2489bdd195873"
+        "builderId": "69c0f1c009b2489bdd195873",
+        "lenderName": [],
+        "area": "Banthra Sikander Pur",
+        "pinCode": "226401"
       }
     ]
   },
@@ -76353,11 +77124,14 @@
         "name": "THE GRACE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:57.165Z",
-        "builderId": "69c0f1c209b2489bdd195878"
+        "builderId": "69c0f1c209b2489bdd195878",
+        "lenderName": [],
+        "area": "Sushant Golf City, Sector C",
+        "pinCode": "226030"
       }
     ]
   },
@@ -76387,11 +77161,14 @@
         "name": "OZONE CITY PHASE-4",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:56.887Z",
-        "builderId": "69c0f1c209b2489bdd195879"
+        "builderId": "69c0f1c209b2489bdd195879",
+        "lenderName": [],
+        "area": " Asadpur Kayam",
+        "pinCode": "202002"
       },
       {
         "_id": "69be9c2ccf0d5221750800a4",
@@ -76399,11 +77176,14 @@
         "name": "Samsara Studio Apartments Phase - IV",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:59.013Z",
-        "builderId": "69c0f1c209b2489bdd195879"
+        "builderId": "69c0f1c209b2489bdd195879",
+        "lenderName": [],
+        "area": "Yakutpur",
+        "pinCode": "202001"
       }
     ]
   },
@@ -76580,11 +77360,14 @@
         "name": "ROHIT HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:42.690Z",
-        "builderId": "69c0f1c309b2489bdd19587e"
+        "builderId": "69c0f1c309b2489bdd19587e",
+        "lenderName": [],
+        "area": "Vardan Khand",
+        "pinCode": "226010"
       }
     ]
   },
@@ -77071,11 +77854,14 @@
         "name": "SHIVRATAN HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:50.351Z",
-        "builderId": "69c0f1c609b2489bdd195889"
+        "builderId": "69c0f1c609b2489bdd195889",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226029"
       }
     ]
   },
@@ -77105,11 +77891,14 @@
         "name": "Aligarh Greens",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:54.106Z",
-        "builderId": "69c0f1c609b2489bdd19588a"
+        "builderId": "69c0f1c609b2489bdd19588a",
+        "lenderName": [],
+        "area": "Manjur Garh",
+        "pinCode": "202001"
       }
     ]
   },
@@ -77316,11 +78105,14 @@
         "name": "Malgudi Homes",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:19.761Z",
-        "builderId": "69c0f1c709b2489bdd19588f"
+        "builderId": "69c0f1c709b2489bdd19588f",
+        "lenderName": [],
+        "area": "Anora Kala",
+        "pinCode": "226028"
       }
     ]
   },
@@ -77960,11 +78752,14 @@
         "name": "GOMTI PARADISE",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:54.944Z",
-        "builderId": "69c0f1c909b2489bdd195894"
+        "builderId": "69c0f1c909b2489bdd195894",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       }
     ]
   },
@@ -78350,11 +79145,14 @@
         "name": "RAJ RESIDENCY",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:58.198Z",
-        "builderId": "69c0f1cb09b2489bdd19589d"
+        "builderId": "69c0f1cb09b2489bdd19589d",
+        "lenderName": [],
+        "area": "Barethi",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0fe4709b2489bdd19680c",
@@ -78362,11 +79160,14 @@
         "name": "GOMTI GREEN CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:07.800Z",
-        "builderId": "69c0f1cb09b2489bdd19589d"
+        "builderId": "69c0f1cb09b2489bdd19589d",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -79500,11 +80301,14 @@
         "name": "ANSALAPI-BLISS DELIGHT, BLOCK-1,2,3 & 4, GH-2, SEC",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:35.096Z",
-        "builderId": "69c0f1d009b2489bdd1958af"
+        "builderId": "69c0f1d009b2489bdd1958af",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3209b2489bdd19675f",
@@ -79512,11 +80316,14 @@
         "name": "Celebrity Meadows Block C",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:46.098Z",
-        "builderId": "69c0f1d009b2489bdd1958af"
+        "builderId": "69c0f1d009b2489bdd1958af",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3209b2489bdd196760",
@@ -79524,11 +80331,14 @@
         "name": "Celebrity Meadows Block D",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:46.216Z",
-        "builderId": "69c0f1d009b2489bdd1958af"
+        "builderId": "69c0f1d009b2489bdd1958af",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3209b2489bdd196761",
@@ -79536,11 +80346,14 @@
         "name": "Celebrity Meadows Block E",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:46.331Z",
-        "builderId": "69c0f1d009b2489bdd1958af"
+        "builderId": "69c0f1d009b2489bdd1958af",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe3209b2489bdd196764",
@@ -79548,11 +80361,14 @@
         "name": "Celebrity Medows Block E",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:46.683Z",
-        "builderId": "69c0f1d009b2489bdd1958af"
+        "builderId": "69c0f1d009b2489bdd1958af",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       }
     ]
   },
@@ -79619,11 +80435,14 @@
         "name": "INDRAPRASTHA GRAND",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:12.068Z",
-        "builderId": "69c0f1d009b2489bdd1958b1"
+        "builderId": "69c0f1d009b2489bdd1958b1",
+        "lenderName": [],
+        "area": "Sector 4A, Vrindavan Colony",
+        "pinCode": "226029"
       }
     ]
   },
@@ -79913,11 +80732,14 @@
         "name": "AWADH AWAS YOJNA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.782Z",
-        "builderId": "69c0f1d209b2489bdd1958b7"
+        "builderId": "69c0f1d209b2489bdd1958b7",
+        "lenderName": [],
+        "area": " Gosainganj",
+        "pinCode": "226002"
       }
     ]
   },
@@ -80523,11 +81345,14 @@
         "name": "SAHU CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:44.817Z",
-        "builderId": "69c0f1d609b2489bdd1958c6"
+        "builderId": "69c0f1d609b2489bdd1958c6",
+        "lenderName": [],
+        "area": "Moazzamnagar",
+        "pinCode": "226002"
       }
     ]
   },
@@ -80661,11 +81486,14 @@
         "name": "River View Arcade",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:42.108Z",
-        "builderId": "69c0f1d709b2489bdd1958c9"
+        "builderId": "69c0f1d709b2489bdd1958c9",
+        "lenderName": [],
+        "area": "Sector 4, Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -82096,11 +82924,14 @@
         "name": "Europa Tower",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:59.840Z",
-        "builderId": "69c0f1d909b2489bdd1958d1"
+        "builderId": "69c0f1d909b2489bdd1958d1",
+        "lenderName": [],
+        "area": "Vikalp Khand",
+        "pinCode": "226010"
       }
     ]
   },
@@ -83674,11 +84505,14 @@
         "name": "TRANSPORT NAGAR SCEHME",
         "district": "Firozabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:36:32.927Z",
-        "builderId": "69c0f1da09b2489bdd1958d4"
+        "builderId": "69c0f1da09b2489bdd1958d4",
+        "lenderName": [],
+        "area": "Tundla",
+        "pinCode": "283203"
       }
     ]
   },
@@ -83708,11 +84542,14 @@
         "name": "Celebrity Garden Block J",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:43.995Z",
-        "builderId": "69c0f1da09b2489bdd1958d5"
+        "builderId": "69c0f1da09b2489bdd1958d5",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd19674e",
@@ -83720,11 +84557,14 @@
         "name": "Celebrity Garden Block K",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.113Z",
-        "builderId": "69c0f1da09b2489bdd1958d5"
+        "builderId": "69c0f1da09b2489bdd1958d5",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd19674f",
@@ -83732,11 +84572,14 @@
         "name": "Celebrity Garden Block N",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.228Z",
-        "builderId": "69c0f1da09b2489bdd1958d5"
+        "builderId": "69c0f1da09b2489bdd1958d5",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd196750",
@@ -83744,11 +84587,14 @@
         "name": "Celebrity Garden Block P",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.345Z",
-        "builderId": "69c0f1da09b2489bdd1958d5"
+        "builderId": "69c0f1da09b2489bdd1958d5",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -83778,11 +84624,14 @@
         "name": "GOMTI GREENS INTEGRATED TOWNSHIP",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:07.929Z",
-        "builderId": "69c0f1da09b2489bdd1958d6"
+        "builderId": "69c0f1da09b2489bdd1958d6",
+        "lenderName": [],
+        "area": "Sector-7, Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe6e09b2489bdd196948",
@@ -83790,11 +84639,14 @@
         "name": "SAMARTH at Emaar Gomti Greens",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.270Z",
-        "builderId": "69c0f1da09b2489bdd1958d6"
+        "builderId": "69c0f1da09b2489bdd1958d6",
+        "lenderName": [],
+        "area": "Sector-7, Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -83824,11 +84676,14 @@
         "name": "Sapphire Royale",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:47.207Z",
-        "builderId": "69c0f1db09b2489bdd1958d7"
+        "builderId": "69c0f1db09b2489bdd1958d7",
+        "lenderName": [],
+        "area": " Kisan Path, Near IT City",
+        "pinCode": "226001"
       },
       {
         "_id": "69c0fe7509b2489bdd196987",
@@ -83836,11 +84691,14 @@
         "name": "Srishti",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:53.807Z",
-        "builderId": "69c0f1db09b2489bdd1958d7"
+        "builderId": "69c0f1db09b2489bdd1958d7",
+        "lenderName": [],
+        "area": " Dalibagh",
+        "pinCode": "226001"
       }
     ]
   },
@@ -84518,11 +85376,14 @@
         "name": "ATMOS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.063Z",
-        "builderId": "69c0f1dd09b2489bdd1958df"
+        "builderId": "69c0f1dd09b2489bdd1958df",
+        "lenderName": [],
+        "area": " Gomti Nagar Ext",
+        "pinCode": "226010"
       }
     ]
   },
@@ -84650,11 +85511,14 @@
         "name": "GREEN PARK APARTMENTS 3rd",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:54.564Z",
-        "builderId": "69c0f1de09b2489bdd1958e2"
+        "builderId": "69c0f1de09b2489bdd1958e2",
+        "lenderName": [],
+        "area": "Quarsi",
+        "pinCode": "202001"
       }
     ]
   },
@@ -85446,11 +86310,14 @@
         "name": "SPRING GARDEN-II",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:53.089Z",
-        "builderId": "69c0f1e309b2489bdd1958f5"
+        "builderId": "69c0f1e309b2489bdd1958f5",
+        "lenderName": [],
+        "area": " Uttardhona",
+        "pinCode": "226028"
       }
     ]
   },
@@ -85598,11 +86465,14 @@
         "name": "WOODLAND MOHANLALGANJ",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:18.920Z",
-        "builderId": "69c0f1e409b2489bdd1958f8"
+        "builderId": "69c0f1e409b2489bdd1958f8",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       },
       {
         "_id": "69c0fe7f09b2489bdd1969d7",
@@ -85610,11 +86480,14 @@
         "name": "WOODLAND PARADISE RUDRAKSH KALPTARU",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.382Z",
-        "builderId": "69c0f1e409b2489bdd1958f8"
+        "builderId": "69c0f1e409b2489bdd1958f8",
+        "lenderName": [],
+        "area": "Kursi Road",
+        "pinCode": "226026"
       },
       {
         "_id": "69c0fe7f09b2489bdd1969d8",
@@ -85622,11 +86495,14 @@
         "name": "WOODLAND PARADISE VILA (LIG)",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.503Z",
-        "builderId": "69c0f1e409b2489bdd1958f8"
+        "builderId": "69c0f1e409b2489bdd1958f8",
+        "lenderName": [],
+        "area": "Kursi Road",
+        "pinCode": "226026"
       }
     ]
   },
@@ -85693,11 +86569,14 @@
         "name": "Hamilton Court",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:09.310Z",
-        "builderId": "69c0f1e409b2489bdd1958fa"
+        "builderId": "69c0f1e409b2489bdd1958fa",
+        "lenderName": [],
+        "area": " Jankipuram Vistar",
+        "pinCode": "226021"
       }
     ]
   },
@@ -86090,11 +86969,14 @@
         "name": "Oranje Castel Phase-I Tower G to L",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:29.661Z",
-        "builderId": "69c0f1e709b2489bdd195902"
+        "builderId": "69c0f1e709b2489bdd195902",
+        "lenderName": [],
+        "area": "Sector 7, Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe5d09b2489bdd1968bf",
@@ -86102,11 +86984,14 @@
         "name": "ORANJE CASTLE PHASE-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:29.784Z",
-        "builderId": "69c0f1e709b2489bdd195902"
+        "builderId": "69c0f1e709b2489bdd195902",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe5d09b2489bdd1968c0",
@@ -86114,11 +86999,14 @@
         "name": "Oranje Castle Phase-2 Towers A to F , M, N, O, P",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:29.901Z",
-        "builderId": "69c0f1e709b2489bdd195902"
+        "builderId": "69c0f1e709b2489bdd195902",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe5e09b2489bdd1968c1",
@@ -86126,11 +87014,14 @@
         "name": "ORANJE CASTLE PHASE-3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:30.024Z",
-        "builderId": "69c0f1e709b2489bdd195902"
+        "builderId": "69c0f1e709b2489bdd195902",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -86285,11 +87176,14 @@
         "name": "Sai Yash Recidencey",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:46.140Z",
-        "builderId": "69c0f1e809b2489bdd195906"
+        "builderId": "69c0f1e809b2489bdd195906",
+        "lenderName": [],
+        "area": "Uattardhona",
+        "pinCode": "226028"
       }
     ]
   },
@@ -86484,11 +87378,14 @@
         "name": "Crescent Mall & Heights",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:51.974Z",
-        "builderId": "69c0f1e909b2489bdd19590c"
+        "builderId": "69c0f1e909b2489bdd19590c",
+        "lenderName": [],
+        "area": "Amar Shaheed Path",
+        "pinCode": "226030"
       }
     ]
   },
@@ -87719,11 +88616,14 @@
         "name": "Central Park 2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.027Z",
-        "builderId": "69c0f1f009b2489bdd195923"
+        "builderId": "69c0f1f009b2489bdd195923",
+        "lenderName": [],
+        "area": "Arjunganj",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe4809b2489bdd196810",
@@ -87731,11 +88631,14 @@
         "name": "Gordon By MI",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:08.317Z",
-        "builderId": "69c0f1f009b2489bdd195923"
+        "builderId": "69c0f1f009b2489bdd195923",
+        "lenderName": [],
+        "area": " Ahmamau",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5309b2489bdd196868",
@@ -87743,11 +88646,14 @@
         "name": "M I Central Park - Phase I",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:19.076Z",
-        "builderId": "69c0f1f009b2489bdd195923"
+        "builderId": "69c0f1f009b2489bdd195923",
+        "lenderName": [],
+        "area": "Arjunganj,",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe6a09b2489bdd196927",
@@ -87755,11 +88661,14 @@
         "name": "Riviera Residency Phase III",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:42.331Z",
-        "builderId": "69c0f1f009b2489bdd195923"
+        "builderId": "69c0f1f009b2489bdd195923",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -87789,11 +88698,14 @@
         "name": "THE HIVE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:57.410Z",
-        "builderId": "69c0f1f009b2489bdd195924"
+        "builderId": "69c0f1f009b2489bdd195924",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -87875,11 +88787,14 @@
         "name": "Kalpana Residency",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:15.475Z",
-        "builderId": "69c0f1f109b2489bdd195926"
+        "builderId": "69c0f1f109b2489bdd195926",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -88526,11 +89441,14 @@
         "name": "INAAYA ROYAL HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:11.829Z",
-        "builderId": "69c0f1f409b2489bdd195933"
+        "builderId": "69c0f1f409b2489bdd195933",
+        "lenderName": [],
+        "area": "Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -88701,11 +89619,14 @@
         "name": "Boprai Estate Phase I",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:42.866Z",
-        "builderId": "69c0f1f509b2489bdd195937"
+        "builderId": "69c0f1f509b2489bdd195937",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -89256,11 +90177,14 @@
         "name": "August Avenue",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.294Z",
-        "builderId": "69c0f1f809b2489bdd195942"
+        "builderId": "69c0f1f809b2489bdd195942",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226014"
       }
     ]
   },
@@ -89290,11 +90214,14 @@
         "name": "Jugal_s Emerald Court",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:13.869Z",
-        "builderId": "69c0f1f809b2489bdd195943"
+        "builderId": "69c0f1f809b2489bdd195943",
+        "lenderName": [],
+        "area": "Hazratganj",
+        "pinCode": "226001"
       }
     ]
   },
@@ -89324,11 +90251,14 @@
         "name": "CHANDRA ARCADE",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.368Z",
-        "builderId": "69c0f1f809b2489bdd195944"
+        "builderId": "69c0f1f809b2489bdd195944",
+        "lenderName": [],
+        "area": "Sector 4, Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe3309b2489bdd19676b",
@@ -89336,11 +90266,14 @@
         "name": "Chandra Panorama",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.489Z",
-        "builderId": "69c0f1f809b2489bdd195944"
+        "builderId": "69c0f1f809b2489bdd195944",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226002"
       }
     ]
   },
@@ -89480,11 +90413,14 @@
         "name": "HARISH ARCADE",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:09.546Z",
-        "builderId": "69c0f1f909b2489bdd195948"
+        "builderId": "69c0f1f909b2489bdd195948",
+        "lenderName": [],
+        "area": "Alambagh",
+        "pinCode": "226005"
       }
     ]
   },
@@ -90245,11 +91181,14 @@
         "name": "VAISHNO CRYSTAL",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:32:01.892Z",
-        "builderId": "69c0f1fe09b2489bdd195959"
+        "builderId": "69c0f1fe09b2489bdd195959",
+        "lenderName": [],
+        "area": "Naurangabad",
+        "pinCode": "202001"
       }
     ]
   },
@@ -90279,11 +91218,14 @@
         "name": "ATTALIKA PALMS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.180Z",
-        "builderId": "69c0f1fe09b2489bdd19595a"
+        "builderId": "69c0f1fe09b2489bdd19595a",
+        "lenderName": [],
+        "area": "Mohanlalganj",
+        "pinCode": "226301"
       }
     ]
   },
@@ -90313,11 +91255,14 @@
         "name": "THE SAGE CITY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:57.869Z",
-        "builderId": "69c0f1fe09b2489bdd19595b"
+        "builderId": "69c0f1fe09b2489bdd19595b",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226008"
       }
     ]
   },
@@ -91039,11 +91984,14 @@
         "name": "Eiffel Vivassa Estate Phase 1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:55.310Z",
-        "builderId": "69c0f20409b2489bdd19596c"
+        "builderId": "69c0f20409b2489bdd19596c",
+        "lenderName": [],
+        "area": "Sector 7, Gomti Nagar Extension",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe3b09b2489bdd1967a4",
@@ -91051,11 +91999,14 @@
         "name": "Eiffel Vivassa Estate Phase 2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:55.422Z",
-        "builderId": "69c0f20409b2489bdd19596c"
+        "builderId": "69c0f20409b2489bdd19596c",
+        "lenderName": [],
+        "area": "Sector 7, Gomti Nagar Extension",
+        "pinCode": "226010"
       }
     ]
   },
@@ -91106,11 +92057,14 @@
         "name": "NAGAR NIGAM SKY TOWER",
         "district": "Aligarh",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:56.414Z",
-        "builderId": "69c0f20509b2489bdd19596e"
+        "builderId": "69c0f20509b2489bdd19596e",
+        "lenderName": [],
+        "area": "Sasni Gate",
+        "pinCode": "202001"
       }
     ]
   },
@@ -91140,11 +92094,14 @@
         "name": "AWADHPURAM",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:39.896Z",
-        "builderId": "69c0f20509b2489bdd19596f"
+        "builderId": "69c0f20509b2489bdd19596f",
+        "lenderName": [],
+        "area": "Bakshi Ka Talab",
+        "pinCode": "226201"
       }
     ]
   },
@@ -91400,11 +92357,14 @@
         "name": "MANJARI HEIGHTS",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:20.607Z",
-        "builderId": "69c0f20709b2489bdd195975"
+        "builderId": "69c0f20709b2489bdd195975",
+        "lenderName": [],
+        "area": "Gomti Nagar",
+        "pinCode": "226010"
       }
     ]
   },
@@ -92175,11 +93135,14 @@
         "name": "Sahara Plaza Extension",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:44.451Z",
-        "builderId": "69c0f20b09b2489bdd195986"
+        "builderId": "69c0f20b09b2489bdd195986",
+        "lenderName": [],
+        "area": "Indira Nagar",
+        "pinCode": "226016"
       }
     ]
   },
@@ -92334,11 +93297,14 @@
         "name": "OMEGA PRESIDENCY",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:29.023Z",
-        "builderId": "69c0f20c09b2489bdd19598a"
+        "builderId": "69c0f20c09b2489bdd19598a",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0fe7e09b2489bdd1969d3",
@@ -92346,11 +93312,14 @@
         "name": "Windsor Greens Phase -3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:02.914Z",
-        "builderId": "69c0f20c09b2489bdd19598a"
+        "builderId": "69c0f20c09b2489bdd19598a",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0fe7f09b2489bdd1969d4",
@@ -92358,11 +93327,14 @@
         "name": "Windsor Greens Phase-1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.035Z",
-        "builderId": "69c0f20c09b2489bdd19598a"
+        "builderId": "69c0f20c09b2489bdd19598a",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0fe7f09b2489bdd1969d5",
@@ -92370,11 +93342,14 @@
         "name": "Windsor Greens Phase-2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.149Z",
-        "builderId": "69c0f20c09b2489bdd19598a"
+        "builderId": "69c0f20c09b2489bdd19598a",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       },
       {
         "_id": "69c0fe7f09b2489bdd1969d6",
@@ -92382,11 +93357,14 @@
         "name": "Windsor Greens Phase-4",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:03.266Z",
-        "builderId": "69c0f20c09b2489bdd19598a"
+        "builderId": "69c0f20c09b2489bdd19598a",
+        "lenderName": [],
+        "area": "Chinhat",
+        "pinCode": "226028"
       }
     ]
   },
@@ -92999,11 +93977,14 @@
         "name": "GREENBERRY SIGNATURES",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:08.726Z",
-        "builderId": "69c0f21109b2489bdd19599a"
+        "builderId": "69c0f21109b2489bdd19599a",
+        "lenderName": [],
+        "area": "Vrindavan Yojna",
+        "pinCode": "226029"
       }
     ]
   },
@@ -93470,11 +94451,14 @@
         "name": "THE WOODS AISHBAGH",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:58.122Z",
-        "builderId": "69c0f21309b2489bdd1959a4"
+        "builderId": "69c0f21309b2489bdd1959a4",
+        "lenderName": [],
+        "area": "Aishbagh",
+        "pinCode": "226004"
       },
       {
         "_id": "69c0fe7a09b2489bdd1969ae",
@@ -93482,11 +94466,14 @@
         "name": "THEWOODS NAUBASTA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:58.471Z",
-        "builderId": "69c0f21309b2489bdd1959a4"
+        "builderId": "69c0f21309b2489bdd1959a4",
+        "lenderName": [],
+        "area": "Naubasta Kala",
+        "pinCode": "226023"
       }
     ]
   },
@@ -94357,11 +95344,14 @@
         "name": "CELESTIA",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:46.912Z",
-        "builderId": "69c0f21709b2489bdd1959b2"
+        "builderId": "69c0f21709b2489bdd1959b2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -94984,11 +95974,14 @@
         "name": "7th Avenue",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:19.550Z",
-        "builderId": "69c0f21c09b2489bdd1959c5"
+        "builderId": "69c0f21c09b2489bdd1959c5",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
@@ -95163,11 +96156,14 @@
         "name": "Miracle Homes",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:57.571Z",
-        "builderId": "69c0f21d09b2489bdd1959ca"
+        "builderId": "69c0f21d09b2489bdd1959ca",
+        "lenderName": [],
+        "area": "Nawabganj",
+        "pinCode": "225001"
       },
       {
         "_id": "69c0faf609b2489bdd195e05",
@@ -95175,11 +96171,14 @@
         "name": "MIRACLE HOMES PHASE II",
         "district": "Barabanki",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:33:57.970Z",
-        "builderId": "69c0f21d09b2489bdd1959ca"
+        "builderId": "69c0f21d09b2489bdd1959ca",
+        "lenderName": [],
+        "area": "Safedabad",
+        "pinCode": "225003"
       }
     ]
   },
@@ -96113,11 +97112,14 @@
         "name": "RAMRAJA RESIDENCY",
         "district": "Lalitpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:11.396Z",
-        "builderId": "69c0f22409b2489bdd1959dd"
+        "builderId": "69c0f22409b2489bdd1959dd",
+        "lenderName": [],
+        "area": "Budwar Road ",
+        "pinCode": "284403"
       }
     ]
   },
@@ -96295,11 +97297,14 @@
         "name": "ASTHA AURUM",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:38.709Z",
-        "builderId": "69c0f22509b2489bdd1959e2"
+        "builderId": "69c0f22509b2489bdd1959e2",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
