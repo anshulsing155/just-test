@@ -1943,11 +1943,14 @@
         "name": "Shiv Vardan Vihar",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.835Z",
-        "builderId": "69be9be1cf0d522175080011"
+        "builderId": "69be9be1cf0d522175080011",
+        "lenderName": [],
+        "area": "Pali Pahari",
+        "pinCode": "284003"
       }
     ]
   },
@@ -2620,11 +2623,14 @@
         "name": "Golden Gateway",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.136Z",
-        "builderId": "69be9be3cf0d52217508002e"
+        "builderId": "69be9be3cf0d52217508002e",
+        "lenderName": [],
+        "area": "Vrindavan-Govardhan belt",
+        "pinCode": "281001"
       }
     ]
   },
@@ -3165,11 +3171,14 @@
         "name": "Anand Nagar Sector-1",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.606Z",
-        "builderId": "69c0effe09b2489bdd1951d7"
+        "builderId": "69c0effe09b2489bdd1951d7",
+        "lenderName": [],
+        "area": "Anand Nagar",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fe9c09b2489bdd1969e9",
@@ -3177,11 +3186,14 @@
         "name": "Anand Nagar Sector-2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.718Z",
-        "builderId": "69c0effe09b2489bdd1951d7"
+        "builderId": "69c0effe09b2489bdd1951d7",
+        "lenderName": [],
+        "area": "Krishna Nagar",
+        "pinCode": "281004"
       }
     ]
   },
@@ -3470,11 +3482,14 @@
         "name": "Rahul Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.090Z",
-        "builderId": "69c0f00009b2489bdd1951dd"
+        "builderId": "69c0f00009b2489bdd1951dd",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284003"
       }
     ]
   },
@@ -3883,11 +3898,14 @@
         "name": "Heritage Greens",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.459Z",
-        "builderId": "69c0f00209b2489bdd1951e5"
+        "builderId": "69c0f00209b2489bdd1951e5",
+        "lenderName": [],
+        "area": "Anand Nagar",
+        "pinCode": "281004"
       }
     ]
   },
@@ -4199,11 +4217,14 @@
         "name": "Sivanta Homes",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.151Z",
-        "builderId": "69c0f00309b2489bdd1951ec"
+        "builderId": "69c0f00309b2489bdd1951ec",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284001"
       }
     ]
   },
@@ -5651,11 +5672,14 @@
         "name": "NAMO HOMES",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.255Z",
-        "builderId": "69c0f00b09b2489bdd195208"
+        "builderId": "69c0f00b09b2489bdd195208",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284003"
       }
     ]
   },
@@ -6086,11 +6110,14 @@
         "name": "Radhe Kunj",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.255Z",
-        "builderId": "69c0f00d09b2489bdd195211"
+        "builderId": "69c0f00d09b2489bdd195211",
+        "lenderName": [],
+        "area": "Lalpur",
+        "pinCode": "242001"
       },
       {
         "_id": "69c0ff2f09b2489bdd196bba",
@@ -6098,11 +6125,14 @@
         "name": "Radhe Kunj Extension",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.373Z",
-        "builderId": "69c0f00d09b2489bdd195211"
+        "builderId": "69c0f00d09b2489bdd195211",
+        "lenderName": [],
+        "area": "Navada Indaypur",
+        "pinCode": "242001"
       }
     ]
   },
@@ -8536,11 +8566,14 @@
         "name": "ALPHA SKY VILLAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.358Z",
-        "builderId": "69c0f01909b2489bdd19523f"
+        "builderId": "69c0f01909b2489bdd19523f",
+        "lenderName": [],
+        "area": "Sunrakh Road",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea009b2489bdd196a0c",
@@ -8548,11 +8581,14 @@
         "name": "Hare Krishana Orchid",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.724Z",
-        "builderId": "69c0f01909b2489bdd19523f"
+        "builderId": "69c0f01909b2489bdd19523f",
+        "lenderName": [],
+        "area": "Sunrakh Road",
+        "pinCode": "281121"
       }
     ]
   },
@@ -8692,11 +8728,14 @@
         "name": "BRAJ DHAM RESIDENTIAL COLONY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.291Z",
-        "builderId": "69c0f01b09b2489bdd195243"
+        "builderId": "69c0f01b09b2489bdd195243",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -9715,11 +9754,14 @@
         "name": "BRAJ GANGA RESIDENCY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.403Z",
-        "builderId": "69c0f02109b2489bdd19525a"
+        "builderId": "69c0f02109b2489bdd19525a",
+        "lenderName": [],
+        "area": "Krishna Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -11909,11 +11951,14 @@
         "name": "OM SAHNTI GARDEN",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.873Z",
-        "builderId": "69c0f02d09b2489bdd195288"
+        "builderId": "69c0f02d09b2489bdd195288",
+        "lenderName": [],
+        "area": "Sipri Bazar",
+        "pinCode": "284003"
       }
     ]
   },
@@ -11980,11 +12025,14 @@
         "name": "Ashok Trade Centre",
         "district": "Jhansi",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.016Z",
-        "builderId": "69c0f02d09b2489bdd19528a"
+        "builderId": "69c0f02d09b2489bdd19528a",
+        "lenderName": [],
+        "area": "Shivpuri Rd",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965c8",
@@ -11992,11 +12040,14 @@
         "name": "SANFRAN ASHOK VALLEY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.139Z",
-        "builderId": "69c0f02d09b2489bdd19528a"
+        "builderId": "69c0f02d09b2489bdd19528a",
+        "lenderName": [],
+        "area": "Gwalior Road",
+        "pinCode": "284003"
       }
     ]
   },
@@ -12100,11 +12151,14 @@
         "name": "DWARIKA",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:46.086Z",
-        "builderId": "69c0f02e09b2489bdd19528d"
+        "builderId": "69c0f02e09b2489bdd19528d",
+        "lenderName": [],
+        "area": "Master Colony",
+        "pinCode": "284003"
       }
     ]
   },
@@ -12134,11 +12188,14 @@
         "name": "KANHA TULSI HEIGHTS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.948Z",
-        "builderId": "69c0f02e09b2489bdd19528e"
+        "builderId": "69c0f02e09b2489bdd19528e",
+        "lenderName": [],
+        "area": "Sunrakh Banger",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea709b2489bdd196a49",
@@ -12146,11 +12203,14 @@
         "name": "Shree Krishna Vaas",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.865Z",
-        "builderId": "69c0f02e09b2489bdd19528e"
+        "builderId": "69c0f02e09b2489bdd19528e",
+        "lenderName": [],
+        "area": "Sunrakh Road, Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -12358,11 +12418,14 @@
         "name": "HIDE AWAY SUITES",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.587Z",
-        "builderId": "69c0f03009b2489bdd195293"
+        "builderId": "69c0f03009b2489bdd195293",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -12429,11 +12492,14 @@
         "name": "om shanti heights",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.226Z",
-        "builderId": "69c0f03009b2489bdd195295"
+        "builderId": "69c0f03009b2489bdd195295",
+        "lenderName": [],
+        "area": "Masatara",
+        "pinCode": "284003"
       }
     ]
   },
@@ -12537,11 +12603,14 @@
         "name": "Pitambra Avenue",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.487Z",
-        "builderId": "69c0f03109b2489bdd195298"
+        "builderId": "69c0f03109b2489bdd195298",
+        "lenderName": [],
+        "area": "Pitambra Nagar",
+        "pinCode": "284002"
       },
       {
         "_id": "69c0fdbd09b2489bdd1965bb",
@@ -12549,11 +12618,14 @@
         "name": "Pitambra Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.614Z",
-        "builderId": "69c0f03109b2489bdd195298"
+        "builderId": "69c0f03109b2489bdd195298",
+        "lenderName": [],
+        "pinCode": "284003",
+        "area": "Jhansi Khas"
       }
     ]
   },
@@ -12865,11 +12937,14 @@
         "name": "The Pitambra Town Phase II",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:54.278Z",
-        "builderId": "69c0f03309b2489bdd19529f"
+        "builderId": "69c0f03309b2489bdd19529f",
+        "lenderName": [],
+        "area": "Bhojla",
+        "pinCode": "284001"
       }
     ]
   },
@@ -12899,11 +12974,14 @@
         "name": "The River Castel Phase-1",
         "district": "Sitapur",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:30.256Z",
-        "builderId": "69c0f03309b2489bdd1952a0"
+        "builderId": "69c0f03309b2489bdd1952a0",
+        "lenderName": [],
+        "area": "Naimisharanya",
+        "pinCode": "261402"
       }
     ]
   },
@@ -14556,11 +14634,14 @@
         "name": "Country Studio",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:34.447Z",
-        "builderId": "69c0f03f09b2489bdd1952c4"
+        "builderId": "69c0f03f09b2489bdd1952c4",
+        "lenderName": [],
+        "area": "Raman Reiti",
+        "pinCode": "281121"
       }
     ]
   },
@@ -15418,11 +15499,14 @@
         "name": "DWARIKA BALAJI PHASE- 4",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.109Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b82",
@@ -15430,11 +15514,14 @@
         "name": "DWARIKA CITY PHASE I",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.337Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Arya Puri",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b83",
@@ -15442,11 +15529,14 @@
         "name": "DWARIKA CITY PHASE-II ONGOING",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.458Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b84",
@@ -15454,11 +15544,14 @@
         "name": "DWARIKA CITY PHASE-III",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.571Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Arya Puri",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b85",
@@ -15466,11 +15559,14 @@
         "name": "DWARIKA CITY PHASE-IV",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.685Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b86",
@@ -15478,11 +15574,14 @@
         "name": "DWARIKA CITY PHASE-V",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.799Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef409b2489bdd196b87",
@@ -15490,11 +15589,14 @@
         "name": "DWARIKA CITY PHASE-VI",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:00.920Z",
-        "builderId": "69c0f04509b2489bdd1952d9"
+        "builderId": "69c0f04509b2489bdd1952d9",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       }
     ]
   },
@@ -17169,11 +17271,14 @@
         "name": "VISION HEIGHTS",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:54.516Z",
-        "builderId": "69c0f05009b2489bdd195300"
+        "builderId": "69c0f05009b2489bdd195300",
+        "lenderName": [],
+        "area": "Satish Nagar",
+        "pinCode": "284003"
       }
     ]
   },
@@ -17527,11 +17632,14 @@
         "name": "Ganesh Vihar",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:47.287Z",
-        "builderId": "69c0f05109b2489bdd195307"
+        "builderId": "69c0f05109b2489bdd195307",
+        "lenderName": [],
+        "area": "Shivpuri Road",
+        "pinCode": "284003"
       }
     ]
   },
@@ -17724,11 +17832,14 @@
         "name": "ANAND GOOBA GARDEN T1",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:18.322Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Sitapur",
+        "pinCode": "261001"
       },
       {
         "_id": "69c0fdda09b2489bdd1965f8",
@@ -17736,11 +17847,14 @@
         "name": "ANAND GOOBA GARDEN T2",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:18.450Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Kalyanpur",
+        "pinCode": "208001"
       },
       {
         "_id": "69c0fdda09b2489bdd1965f9",
@@ -17748,11 +17862,14 @@
         "name": "ANAND GOOBA GARDEN T3",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:18.565Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Kalyanpur",
+        "pinCode": "208017"
       },
       {
         "_id": "69c0fddb09b2489bdd1965fe",
@@ -17760,11 +17877,14 @@
         "name": "ANAND SHEETAL KALYANPUR",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:19.165Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Kalyanpur",
+        "pinCode": "208001"
       },
       {
         "_id": "69c0fddb09b2489bdd1965ff",
@@ -17772,11 +17892,14 @@
         "name": "ANAND SOUTH CITY RESIDENTIAL PLOTTING",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:19.288Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Barra",
+        "pinCode": "208027"
       },
       {
         "_id": "69c0ff7509b2489bdd196bd0",
@@ -17784,11 +17907,14 @@
         "name": "ANAND PURAM RESIDENTIAL PLOTTING",
         "district": "Unnao",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:09.444Z",
-        "builderId": "69c0f05209b2489bdd19530c"
+        "builderId": "69c0f05209b2489bdd19530c",
+        "lenderName": [],
+        "area": "Lok Nagar",
+        "pinCode": "209801"
       }
     ]
   },
@@ -18003,11 +18129,14 @@
         "name": "Keshav Green Valley",
         "district": "Sitapur",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:30.007Z",
-        "builderId": "69c0f05409b2489bdd195312"
+        "builderId": "69c0f05409b2489bdd195312",
+        "lenderName": [],
+        "area": "Akbar Ganj",
+        "pinCode": "261131"
       }
     ]
   },
@@ -19221,11 +19350,14 @@
         "name": "Garden Heights",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.023Z",
-        "builderId": "69c0f05b09b2489bdd19532f"
+        "builderId": "69c0f05b09b2489bdd19532f",
+        "lenderName": [],
+        "area": "Girdharpur",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea709b2489bdd196a47",
@@ -19233,11 +19365,14 @@
         "name": "Shivasha Heights",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.640Z",
-        "builderId": "69c0f05b09b2489bdd19532f"
+        "builderId": "69c0f05b09b2489bdd19532f",
+        "lenderName": [],
+        "area": "Mathura outskirts",
+        "pinCode": "281004"
       }
     ]
   },
@@ -19519,11 +19654,14 @@
         "name": "South City Extension Block- AB",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.957Z",
-        "builderId": "69c0f05d09b2489bdd195336"
+        "builderId": "69c0f05d09b2489bdd195336",
+        "lenderName": [],
+        "area": "Lalpur",
+        "pinCode": "242001"
       },
       {
         "_id": "69c0ff3009b2489bdd196bc1",
@@ -19531,11 +19669,14 @@
         "name": "South City Extension Phase 1",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:00.205Z",
-        "builderId": "69c0f05d09b2489bdd195336"
+        "builderId": "69c0f05d09b2489bdd195336",
+        "lenderName": [],
+        "area": "Lalpur",
+        "pinCode": "242001"
       }
     ]
   },
@@ -19743,11 +19884,14 @@
         "name": "Krishna Orchid Phase 2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.208Z",
-        "builderId": "69c0f05e09b2489bdd19533b"
+        "builderId": "69c0f05e09b2489bdd19533b",
+        "lenderName": [],
+        "area": "Vishwalaxmi Nagar",
+        "pinCode": "281004"
       }
     ]
   },
@@ -19961,11 +20105,14 @@
         "name": "SHRI Square",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.448Z",
-        "builderId": "69c0f06009b2489bdd195341"
+        "builderId": "69c0f06009b2489bdd195341",
+        "lenderName": [],
+        "area": "NH-19, Mathura",
+        "pinCode": "281004"
       }
     ]
   },
@@ -20270,11 +20417,14 @@
         "name": "SHRI RADHA AVENUE",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.890Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Govardhan",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea909b2489bdd196a53",
@@ -20282,11 +20432,14 @@
         "name": "SHRI RADHA CITY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.004Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Goverdhan",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea909b2489bdd196a54",
@@ -20294,11 +20447,14 @@
         "name": "Shri Radha Golf-Sector 2 (Phase II)",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.130Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": " Goverdhan Road",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea909b2489bdd196a55",
@@ -20306,11 +20462,14 @@
         "name": "SHRI RADHA GOLF-SECTOR-3",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.244Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Goverdhan Road",
+        "pinCode": "281502"
       },
       {
         "_id": "69c0fea909b2489bdd196a56",
@@ -20318,11 +20477,14 @@
         "name": "Shri Radha Gulmohar",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.364Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Goverdhan",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea909b2489bdd196a58",
@@ -20330,11 +20492,14 @@
         "name": "SHRI RADHA GULMOHAR-3",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.619Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Nagla Sadola",
+        "pinCode": "281104"
       },
       {
         "_id": "69c0fea909b2489bdd196a59",
@@ -20342,11 +20507,14 @@
         "name": "SHRI RADHA GULMOHAR-4",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.747Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Jamuna Dham",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea909b2489bdd196a5a",
@@ -20354,11 +20522,14 @@
         "name": "SHRI RADHA GULMOHAR-4 EWS AND LIG",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:45.860Z",
-        "builderId": "69c0f06109b2489bdd195347"
+        "builderId": "69c0f06109b2489bdd195347",
+        "lenderName": [],
+        "area": "Satoha Asgarpur",
+        "pinCode": "281004"
       }
     ]
   },
@@ -20551,11 +20722,14 @@
         "name": "GURU KRIPA VILLAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.496Z",
-        "builderId": "69c0f06309b2489bdd19534c"
+        "builderId": "69c0f06309b2489bdd19534c",
+        "lenderName": [],
+        "area": "Govindpur",
+        "pinCode": "281001"
       }
     ]
   },
@@ -20796,11 +20970,14 @@
         "name": "SWASTIK CITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.690Z",
-        "builderId": "69c0f06509b2489bdd195354"
+        "builderId": "69c0f06509b2489bdd195354",
+        "lenderName": [],
+        "area": "Mauja Budha",
+        "pinCode": "284003"
       }
     ]
   },
@@ -21171,11 +21348,14 @@
         "name": "GREEN HEIGHT",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.268Z",
-        "builderId": "69c0f06709b2489bdd19535d"
+        "builderId": "69c0f06709b2489bdd19535d",
+        "lenderName": [],
+        "area": "Sujroo",
+        "pinCode": "251003"
       }
     ]
   },
@@ -21353,11 +21533,14 @@
         "name": "VEDANTA ESTATE",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:03.029Z",
-        "builderId": "69c0f06809b2489bdd195362"
+        "builderId": "69c0f06809b2489bdd195362",
+        "lenderName": [],
+        "area": "Sujroo",
+        "pinCode": "251003"
       },
       {
         "_id": "69c0fef709b2489bdd196b99",
@@ -21365,11 +21548,14 @@
         "name": "VEDANTA RESIDENCY PHASE 1",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:03.143Z",
-        "builderId": "69c0f06809b2489bdd195362"
+        "builderId": "69c0f06809b2489bdd195362",
+        "lenderName": [],
+        "area": "Sujroo",
+        "pinCode": "251003"
       }
     ]
   },
@@ -21899,11 +22085,14 @@
         "name": "Sudha Vihar",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.386Z",
-        "builderId": "69c0f06b09b2489bdd195371"
+        "builderId": "69c0f06b09b2489bdd195371",
+        "lenderName": [],
+        "area": "Pichhor",
+        "pinCode": "284003"
       }
     ]
   },
@@ -23573,11 +23762,14 @@
         "name": "South City Extension Block-A",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:00.082Z",
-        "builderId": "69c0f07109b2489bdd19538b"
+        "builderId": "69c0f07109b2489bdd19538b",
+        "lenderName": [],
+        "area": "Kunj Bihari Colony",
+        "pinCode": "242001"
       }
     ]
   },
@@ -23865,11 +24057,14 @@
         "name": "GREENWOOD ESTATE",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.383Z",
-        "builderId": "69c0f07309b2489bdd195393"
+        "builderId": "69c0f07309b2489bdd195393",
+        "lenderName": [],
+        "area": "Saharanpur Tiraha",
+        "pinCode": "247776"
       }
     ]
   },
@@ -24499,11 +24694,14 @@
         "name": "Shri Radha Vintage (Phase-1)",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.206Z",
-        "builderId": "69c0f07609b2489bdd19539f"
+        "builderId": "69c0f07609b2489bdd19539f",
+        "lenderName": [],
+        "area": "Govardhan Road",
+        "pinCode": "281001"
       }
     ]
   },
@@ -24533,11 +24731,14 @@
         "name": "Nirmal Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.752Z",
-        "builderId": "69c0f07709b2489bdd1953a0"
+        "builderId": "69c0f07709b2489bdd1953a0",
+        "lenderName": [],
+        "area": "Budha",
+        "pinCode": "284003"
       }
     ]
   },
@@ -24928,11 +25129,14 @@
         "name": "Ambrosia City",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:44.441Z",
-        "builderId": "69c0f07909b2489bdd1953aa"
+        "builderId": "69c0f07909b2489bdd1953aa",
+        "lenderName": [],
+        "area": "Hansari",
+        "pinCode": "284001"
       }
     ]
   },
@@ -25157,11 +25361,14 @@
         "name": "SAINATH INFRACITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.549Z",
-        "builderId": "69c0f07b09b2489bdd1953b2"
+        "builderId": "69c0f07b09b2489bdd1953b2",
+        "lenderName": [],
+        "area": "Kanpur–Gwalior Bypass Road",
+        "pinCode": "284128"
       }
     ]
   },
@@ -25390,11 +25597,14 @@
         "name": "GANESH ENCLAVE PHASE 1",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:46.675Z",
-        "builderId": "69c0f07c09b2489bdd1953b8"
+        "builderId": "69c0f07c09b2489bdd1953b8",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "244128"
       },
       {
         "_id": "69c0fdba09b2489bdd1965a4",
@@ -25402,11 +25612,14 @@
         "name": "GANESH ENCLAVE PHASE 2",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:46.794Z",
-        "builderId": "69c0f07c09b2489bdd1953b8"
+        "builderId": "69c0f07c09b2489bdd1953b8",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "244128"
       }
     ]
   },
@@ -25724,11 +25937,14 @@
         "name": "Sanskarcity",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.528Z",
-        "builderId": "69c0f07e09b2489bdd1953c0"
+        "builderId": "69c0f07e09b2489bdd1953c0",
+        "lenderName": [],
+        "area": "Govardhan Road",
+        "pinCode": "281004"
       }
     ]
   },
@@ -26229,11 +26445,14 @@
         "name": "Nandani Gowlok Dham",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.681Z",
-        "builderId": "69c0f08309b2489bdd1953cd"
+        "builderId": "69c0f08309b2489bdd1953cd",
+        "lenderName": [],
+        "area": "Govardhan Road",
+        "pinCode": "281004"
       }
     ]
   },
@@ -26315,11 +26534,14 @@
         "name": "Vrindapuram",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:49.360Z",
-        "builderId": "69c0f08309b2489bdd1953cf"
+        "builderId": "69c0f08309b2489bdd1953cf",
+        "lenderName": [],
+        "area": "Vrindavan corridor",
+        "pinCode": "281121"
       }
     ]
   },
@@ -26946,11 +27168,14 @@
         "name": "Kaushiki Tower",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.064Z",
-        "builderId": "69c0f08709b2489bdd1953df"
+        "builderId": "69c0f08709b2489bdd1953df",
+        "lenderName": [],
+        "area": "Badri Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -26980,11 +27205,14 @@
         "name": "PUSHPANJALI ANANDAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.275Z",
-        "builderId": "69c0f08709b2489bdd1953e0"
+        "builderId": "69c0f08709b2489bdd1953e0",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea609b2489bdd196a3c",
@@ -26992,11 +27220,14 @@
         "name": "PUSHPANJALI ANANTA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.387Z",
-        "builderId": "69c0f08709b2489bdd1953e0"
+        "builderId": "69c0f08709b2489bdd1953e0",
+        "lenderName": [],
+        "area": "Baikunth",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea609b2489bdd196a41",
@@ -27004,11 +27235,14 @@
         "name": "PUSHPANJALI MANDAPAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.952Z",
-        "builderId": "69c0f08709b2489bdd1953e0"
+        "builderId": "69c0f08709b2489bdd1953e0",
+        "lenderName": [],
+        "area": "Baikunth",
+        "pinCode": "281121"
       }
     ]
   },
@@ -27457,11 +27691,14 @@
         "name": "Rudraksh Residiential Scheme",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:35.290Z",
-        "builderId": "69c0f08b09b2489bdd1953ec"
+        "builderId": "69c0f08b09b2489bdd1953ec",
+        "lenderName": [],
+        "area": "Awas Vikas Colony",
+        "pinCode": "247001"
       }
     ]
   },
@@ -29586,11 +29823,14 @@
         "name": "SHRI VRINDA ENCLAVE-EWS AND LIG",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.566Z",
-        "builderId": "69c0f09809b2489bdd19541f"
+        "builderId": "69c0f09809b2489bdd19541f",
+        "lenderName": [],
+        "area": "Mauza Chharora",
+        "pinCode": "281121"
       }
     ]
   },
@@ -29620,11 +29860,14 @@
         "name": "Anantam Kunj - EWS and LIG",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.944Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9d09b2489bdd1969ec",
@@ -29632,11 +29875,14 @@
         "name": "Anantam Kunj 2 EWS and LIG",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.056Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9f09b2489bdd1969ff",
@@ -29644,11 +29890,14 @@
         "name": "Govind Sharnam 2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.249Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0feab09b2489bdd196a65",
@@ -29656,11 +29905,14 @@
         "name": "SUNCITY ANANTAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.149Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Vrindavan–Jait",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0feab09b2489bdd196a66",
@@ -29668,11 +29920,14 @@
         "name": "Suncity Anantam Vrindavan",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.297Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Vrindavan, Jait",
+        "pinCode": "281406"
       },
       {
         "_id": "69c0feab09b2489bdd196a67",
@@ -29680,11 +29935,14 @@
         "name": "Suncity Antara",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.414Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "NH-2 / Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0feab09b2489bdd196a68",
@@ -29692,11 +29950,14 @@
         "name": "Suncity Govind Sharnam",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.537Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281402"
       },
       {
         "_id": "69c0feab09b2489bdd196a69",
@@ -29704,11 +29965,14 @@
         "name": "Suncity Madhavam",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.651Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "NH-2, Chaumuhan",
+        "pinCode": "281406"
       },
       {
         "_id": "69c0feab09b2489bdd196a6a",
@@ -29716,11 +29980,14 @@
         "name": "Suncity Vrindavan",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.764Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Jait, Vrindavan",
+        "pinCode": "281406"
       },
       {
         "_id": "69c0feab09b2489bdd196a6b",
@@ -29728,11 +29995,14 @@
         "name": "Suncity Vrindavan Anantam",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.876Z",
-        "builderId": "69c0f09809b2489bdd195420"
+        "builderId": "69c0f09809b2489bdd195420",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281402"
       }
     ]
   },
@@ -30094,11 +30364,14 @@
         "name": "CITY PARK",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:58.656Z",
-        "builderId": "69c0f09a09b2489bdd19542a"
+        "builderId": "69c0f09a09b2489bdd19542a",
+        "lenderName": [],
+        "area": "Lodhipur",
+        "pinCode": "242001"
       }
     ]
   },
@@ -30128,11 +30401,14 @@
         "name": "CITY PARK",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:58.782Z",
-        "builderId": "69c0f09a09b2489bdd19542b"
+        "builderId": "69c0f09a09b2489bdd19542b",
+        "lenderName": [],
+        "area": "Rasoolpur Jahanganj",
+        "pinCode": "242001"
       }
     ]
   },
@@ -31145,11 +31421,14 @@
         "name": "BALWANT ENCLAVE",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:26.727Z",
-        "builderId": "69c0f09e09b2489bdd19543a"
+        "builderId": "69c0f09e09b2489bdd19543a",
+        "lenderName": [],
+        "area": "Bilaspur",
+        "pinCode": "244923"
       },
       {
         "_id": "69c0ff0f09b2489bdd196ba5",
@@ -31157,11 +31436,14 @@
         "name": "SAVERA",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:27.547Z",
-        "builderId": "69c0f09e09b2489bdd19543a"
+        "builderId": "69c0f09e09b2489bdd19543a",
+        "lenderName": [],
+        "area": "Bilaspur",
+        "pinCode": "244921"
       }
     ]
   },
@@ -32306,11 +32588,14 @@
         "name": "NEW GOKUL CITY",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.553Z",
-        "builderId": "69c0f0a509b2489bdd195456"
+        "builderId": "69c0f0a509b2489bdd195456",
+        "lenderName": [],
+        "area": "Almaspur",
+        "pinCode": "251001"
       }
     ]
   },
@@ -33688,11 +33973,14 @@
         "name": "Pradhan Mantri AwasYojana (Shahari)",
         "district": "Unnao",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:09.809Z",
-        "builderId": "69c0f0ad09b2489bdd19546f"
+        "builderId": "69c0f0ad09b2489bdd19546f",
+        "lenderName": [],
+        "area": "Unnao",
+        "pinCode": "209801"
       }
     ]
   },
@@ -33908,11 +34196,14 @@
         "name": "MAYUR VIHAR",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:26.804Z",
-        "builderId": "69c0f0ae09b2489bdd195473"
+        "builderId": "69c0f0ae09b2489bdd195473",
+        "lenderName": [],
+        "area": "Mayur Vihar",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea709b2489bdd196a42",
@@ -33920,11 +34211,14 @@
         "name": "Pushpanjali Upvan Extension",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.064Z",
-        "builderId": "69c0f0ae09b2489bdd195473"
+        "builderId": "69c0f0ae09b2489bdd195473",
+        "lenderName": [],
+        "area": "Dharamlok Nagar",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea809b2489bdd196a4b",
@@ -33932,11 +34226,14 @@
         "name": "SHRI DHAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.086Z",
-        "builderId": "69c0f0ae09b2489bdd195473"
+        "builderId": "69c0f0ae09b2489bdd195473",
+        "lenderName": [],
+        "area": "Mathura urban",
+        "pinCode": "281001"
       }
     ]
   },
@@ -34164,11 +34461,14 @@
         "name": "SHREE ARDHYA ESTATE",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.754Z",
-        "builderId": "69c0f0b009b2489bdd195479"
+        "builderId": "69c0f0b009b2489bdd195479",
+        "lenderName": [],
+        "area": "Vishwalaxmi Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -34404,11 +34704,14 @@
         "name": "Chitvan",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.986Z",
-        "builderId": "69c0f0b209b2489bdd195480"
+        "builderId": "69c0f0b209b2489bdd195480",
+        "lenderName": [],
+        "area": "Gopalgarh Tehra Road",
+        "pinCode": "281121"
       }
     ]
   },
@@ -34475,11 +34778,14 @@
         "name": "Maharaja Park",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.234Z",
-        "builderId": "69c0f0b209b2489bdd195482"
+        "builderId": "69c0f0b209b2489bdd195482",
+        "lenderName": [],
+        "area": "Vishwalaxmi Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -34546,11 +34852,14 @@
         "name": "KISHORI KUNJ",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.646Z",
-        "builderId": "69c0f0b309b2489bdd195484"
+        "builderId": "69c0f0b309b2489bdd195484",
+        "lenderName": [],
+        "area": "Raman Reti",
+        "pinCode": "281121"
       }
     ]
   },
@@ -35095,11 +35404,14 @@
         "name": "SUN CITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.504Z",
-        "builderId": "69c0f0b409b2489bdd19548a"
+        "builderId": "69c0f0b409b2489bdd19548a",
+        "lenderName": [],
+        "area": "Bijoli",
+        "pinCode": "284001"
       }
     ]
   },
@@ -35224,11 +35536,14 @@
         "name": "Shri Krishna Florence",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.434Z",
-        "builderId": "69c0f0b509b2489bdd19548e"
+        "builderId": "69c0f0b509b2489bdd19548e",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -35537,11 +35852,14 @@
         "name": "1BHK (4 story) Houses, Rukmani Vihar Awasiya Yojan",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:31.514Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9b09b2489bdd1969e0",
@@ -35549,11 +35867,14 @@
         "name": "2BHK flats in Rukmani Vihar Awasiya Yojana, Vrinda",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:31.625Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Goda Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9e09b2489bdd1969fa",
@@ -35561,11 +35882,14 @@
         "name": "EWS (4th Story) Houses at Rukmani Vihar Awasiya Yo",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:34.685Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Sector 3, Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9f09b2489bdd196a00",
@@ -35573,11 +35897,14 @@
         "name": "GOVIND VIHAR AVASIYA YOJNA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.360Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Mauza Jait",
+        "pinCode": "281406"
       },
       {
         "_id": "69c0fea009b2489bdd196a0b",
@@ -35585,11 +35912,14 @@
         "name": "HANUMAT VIHAR AVASIYA YOJNA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.608Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Maghera",
+        "pinCode": "281504"
       },
       {
         "_id": "69c0fea409b2489bdd196a29",
@@ -35597,11 +35927,14 @@
         "name": "LIG (H/P 4 story) Houses, Rukmani Vihar Awasiya Yo",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:40.129Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea409b2489bdd196a2a",
@@ -35609,11 +35942,14 @@
         "name": "LIG (S/F 4 story) Houses, Rukmani Vihar Awasiya Yo",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:40.261Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": " Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea709b2489bdd196a45",
@@ -35621,11 +35957,14 @@
         "name": "Residential Plots in Sec. 1, 2, 3, Rukmani Vihar A",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.398Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0feab09b2489bdd196a64",
@@ -35633,11 +35972,14 @@
         "name": "Studio Apartment at Rukmani Vihar Awasiya Yojna, V",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.032Z",
-        "builderId": "69c0f0b709b2489bdd195497"
+        "builderId": "69c0f0b709b2489bdd195497",
+        "lenderName": [],
+        "area": "Sector-3, Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -35815,11 +36157,14 @@
         "name": "SIGNATURE TOWER",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.038Z",
-        "builderId": "69c0f0b909b2489bdd19549c"
+        "builderId": "69c0f0b909b2489bdd19549c",
+        "lenderName": [],
+        "area": "Hansari",
+        "pinCode": "284001"
       }
     ]
   },
@@ -36079,11 +36424,14 @@
         "name": "VEDANTA CITY",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.906Z",
-        "builderId": "69c0f0ba09b2489bdd1954a2"
+        "builderId": "69c0f0ba09b2489bdd1954a2",
+        "lenderName": [],
+        "area": "Sujroo",
+        "pinCode": "251003"
       }
     ]
   },
@@ -36540,11 +36888,14 @@
         "name": "SHREE VISHWAPURAM",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.308Z",
-        "builderId": "69c0f0be09b2489bdd1954af"
+        "builderId": "69c0f0be09b2489bdd1954af",
+        "lenderName": [],
+        "area": "Master Colony",
+        "pinCode": "284001"
       }
     ]
   },
@@ -37291,11 +37642,14 @@
         "name": "Chanda Greens Residency",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.741Z",
-        "builderId": "69c0f0c309b2489bdd1954c3"
+        "builderId": "69c0f0c309b2489bdd1954c3",
+        "lenderName": [],
+        "area": "Dharamlok Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -37635,11 +37989,14 @@
         "name": "P D CITY MALL",
         "district": "Kushinagar",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:57.299Z",
-        "builderId": "69c0f0c509b2489bdd1954cc"
+        "builderId": "69c0f0c509b2489bdd1954cc",
+        "lenderName": [],
+        "area": "Padrauna",
+        "pinCode": "274304"
       }
     ]
   },
@@ -37669,11 +38026,14 @@
         "name": "shri radhe radhe developers and builders",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.673Z",
-        "builderId": "69c0f0c509b2489bdd1954cd"
+        "builderId": "69c0f0c509b2489bdd1954cd",
+        "lenderName": [],
+        "area": "CP Mission Compound / Mastara",
+        "pinCode": "284003"
       }
     ]
   },
@@ -37918,11 +38278,14 @@
         "name": "PASHUPATIS THE GRANDE",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.348Z",
-        "builderId": "69c0f0c709b2489bdd1954d3"
+        "builderId": "69c0f0c709b2489bdd1954d3",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284001"
       }
     ]
   },
@@ -38353,11 +38716,14 @@
         "name": "Construction of 2BHK and 3BHK Flat (Group Housing) at Betwa Vihar Awasiya Yojna, Jhansi",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.493Z",
-        "builderId": "69c0f0c909b2489bdd1954dc"
+        "builderId": "69c0f0c909b2489bdd1954dc",
+        "lenderName": [],
+        "area": "Budha",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdb909b2489bdd19659a",
@@ -38365,11 +38731,14 @@
         "name": "Construction of 756 EWS DUs under AHP component of PMAY - U at Village - KARARI",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.607Z",
-        "builderId": "69c0f0c909b2489bdd1954dc"
+        "builderId": "69c0f0c909b2489bdd1954dc",
+        "lenderName": [],
+        "area": "Karari",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdbc09b2489bdd1965ae",
@@ -38377,11 +38746,14 @@
         "name": "Manniya Mukhyamantri Shehari Vistarikaran Yojana (New Jhansi) Phase-1",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.011Z",
-        "builderId": "69c0f0c909b2489bdd1954dc"
+        "builderId": "69c0f0c909b2489bdd1954dc",
+        "lenderName": [],
+        "area": "Rund Karari",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdc209b2489bdd1965e3",
@@ -38389,11 +38761,14 @@
         "name": "Transport Nagar Yojna Phase-1",
         "district": "Jhansi",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:54.402Z",
-        "builderId": "69c0f0c909b2489bdd1954dc"
+        "builderId": "69c0f0c909b2489bdd1954dc",
+        "lenderName": [],
+        "area": "Karari",
+        "pinCode": "284003"
       }
     ]
   },
@@ -38666,11 +39041,14 @@
         "name": "Radhika Orchid",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.964Z",
-        "builderId": "69c0f0cb09b2489bdd1954e4"
+        "builderId": "69c0f0cb09b2489bdd1954e4",
+        "lenderName": [],
+        "area": "Burha",
+        "pinCode": "284002"
       }
     ]
   },
@@ -39395,11 +39773,14 @@
         "name": "S M TOWERS",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.437Z",
-        "builderId": "69c0f0d009b2489bdd1954f7"
+        "builderId": "69c0f0d009b2489bdd1954f7",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284001"
       }
     ]
   },
@@ -40144,11 +40525,14 @@
         "name": "KRISHNA VALLEY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.434Z",
-        "builderId": "69c0f0d509b2489bdd19550b"
+        "builderId": "69c0f0d509b2489bdd19550b",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -40591,11 +40975,14 @@
         "name": "SANFRAN ASHOK CITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.895Z",
-        "builderId": "69c0f0d809b2489bdd195516"
+        "builderId": "69c0f0d809b2489bdd195516",
+        "lenderName": [],
+        "area": "Mastara",
+        "pinCode": "244128"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965c7",
@@ -40603,11 +40990,14 @@
         "name": "SANFRAN ASHOK CITY EXTENSION",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.015Z",
-        "builderId": "69c0f0d809b2489bdd195516"
+        "builderId": "69c0f0d809b2489bdd195516",
+        "lenderName": [],
+        "area": "Mastara",
+        "pinCode": "244128"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965ca",
@@ -40615,11 +41005,14 @@
         "name": "SANFRAN PLAZA",
         "district": "Jhansi",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.369Z",
-        "builderId": "69c0f0d809b2489bdd195516"
+        "builderId": "69c0f0d809b2489bdd195516",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "284001"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965cb",
@@ -40627,11 +41020,14 @@
         "name": "Sanfran Sarovar Heights",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.487Z",
-        "builderId": "69c0f0d809b2489bdd195516"
+        "builderId": "69c0f0d809b2489bdd195516",
+        "lenderName": [],
+        "area": "Lahargird",
+        "pinCode": "284003"
       }
     ]
   },
@@ -40769,11 +41165,14 @@
         "name": "Mero Braj Phase-1",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.568Z",
-        "builderId": "69c0f0d909b2489bdd19551a"
+        "builderId": "69c0f0d909b2489bdd19551a",
+        "lenderName": [],
+        "area": "Chaumuhan ",
+        "pinCode": "281406"
       }
     ]
   },
@@ -40971,11 +41370,14 @@
         "name": "SHREE KRISHNA TOWERS",
         "district": "Sambhal",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:43.073Z",
-        "builderId": "69c0f0db09b2489bdd195520"
+        "builderId": "69c0f0db09b2489bdd195520",
+        "lenderName": [],
+        "area": "Baghau",
+        "pinCode": "244412"
       }
     ]
   },
@@ -41720,11 +42122,14 @@
         "name": "Krishna Bhumi Arcade",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.762Z",
-        "builderId": "69c0f0e009b2489bdd195534"
+        "builderId": "69c0f0e009b2489bdd195534",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea309b2489bdd196a25",
@@ -41732,11 +42137,14 @@
         "name": "KRISHNABHUMI - GOVERDHAN VAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.660Z",
-        "builderId": "69c0f0e009b2489bdd195534"
+        "builderId": "69c0f0e009b2489bdd195534",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea309b2489bdd196a26",
@@ -41744,11 +42152,14 @@
         "name": "KRISHNABHUMI - TULSI VAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.770Z",
-        "builderId": "69c0f0e009b2489bdd195534"
+        "builderId": "69c0f0e009b2489bdd195534",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea309b2489bdd196a27",
@@ -41756,11 +42167,14 @@
         "name": "KRISHNABHUMI-VILLAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.886Z",
-        "builderId": "69c0f0e009b2489bdd195534"
+        "builderId": "69c0f0e009b2489bdd195534",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       }
     ]
   },
@@ -42443,11 +42857,14 @@
         "name": "RAJAN GREEN",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:49.013Z",
-        "builderId": "69c0f0e509b2489bdd195548"
+        "builderId": "69c0f0e509b2489bdd195548",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -42935,11 +43352,14 @@
         "name": "SHRIJI CREATIVE APARTMENT",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.917Z",
-        "builderId": "69c0f0e809b2489bdd195553"
+        "builderId": "69c0f0e809b2489bdd195553",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -43435,11 +43855,14 @@
         "name": "VASUNDHARA EXTENSION",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.447Z",
-        "builderId": "69c0f0eb09b2489bdd19555f"
+        "builderId": "69c0f0eb09b2489bdd19555f",
+        "lenderName": [],
+        "area": "Shamli",
+        "pinCode": "251001"
       }
     ]
   },
@@ -43564,11 +43987,14 @@
         "name": "PEARL GREEN",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:48.409Z",
-        "builderId": "69c0f0ec09b2489bdd195563"
+        "builderId": "69c0f0ec09b2489bdd195563",
+        "lenderName": [],
+        "area": "Ram Ganga Vihar,",
+        "pinCode": "244001"
       }
     ]
   },
@@ -43901,11 +44327,14 @@
         "name": "Shri Radha Nikunj",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.088Z",
-        "builderId": "69c0f0ee09b2489bdd19556b"
+        "builderId": "69c0f0ee09b2489bdd19556b",
+        "lenderName": [],
+        "area": "Raman Rati, Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -45011,11 +45440,14 @@
         "name": "SHREEJI SHAKUNTLA DHAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.975Z",
-        "builderId": "69c0f0f709b2489bdd19558a"
+        "builderId": "69c0f0f709b2489bdd19558a",
+        "lenderName": [],
+        "area": " Krishna Nagar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -45193,11 +45625,14 @@
         "name": "AARNA VATIKA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:31.863Z",
-        "builderId": "69c0f0f809b2489bdd19558f"
+        "builderId": "69c0f0f809b2489bdd19558f",
+        "lenderName": [],
+        "area": "Kosi Kalan",
+        "pinCode": "281403"
       }
     ]
   },
@@ -45801,11 +46236,14 @@
         "name": "Krishna Greens",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.984Z",
-        "builderId": "69c0f0fd09b2489bdd1955a0"
+        "builderId": "69c0f0fd09b2489bdd1955a0",
+        "lenderName": [],
+        "area": "Goverdhan Road",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea309b2489bdd196a20",
@@ -45813,11 +46251,14 @@
         "name": "KRISHNA GREENS RESIDENCY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.096Z",
-        "builderId": "69c0f0fd09b2489bdd1955a0"
+        "builderId": "69c0f0fd09b2489bdd1955a0",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -46651,11 +47092,14 @@
         "name": "ADJ HOMES PVT LTD",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:44.210Z",
-        "builderId": "69c0f10309b2489bdd1955b9"
+        "builderId": "69c0f10309b2489bdd1955b9",
+        "lenderName": [],
+        "area": "Pitambra Nagar",
+        "pinCode": "284002"
       },
       {
         "_id": "69c0fdb809b2489bdd19658f",
@@ -46663,11 +47107,14 @@
         "name": "ADJ HOMES PVT LTD",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:44.325Z",
-        "builderId": "69c0f10309b2489bdd1955b9"
+        "builderId": "69c0f10309b2489bdd1955b9",
+        "lenderName": [],
+        "area": "Pitambra Nagar",
+        "pinCode": "284002"
       }
     ]
   },
@@ -46887,11 +47334,14 @@
         "name": "YLS DREAMS",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:54.841Z",
-        "builderId": "69c0f10509b2489bdd1955c0"
+        "builderId": "69c0f10509b2489bdd1955c0",
+        "lenderName": [],
+        "area": "Bhojla",
+        "pinCode": "284002"
       }
     ]
   },
@@ -48502,11 +48952,14 @@
         "name": "GANESH ENCLAVE PHASE 3",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:46.912Z",
-        "builderId": "69c0f10c09b2489bdd1955da"
+        "builderId": "69c0f10c09b2489bdd1955da",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "284128"
       },
       {
         "_id": "69c0fdbb09b2489bdd1965a7",
@@ -48514,11 +48967,14 @@
         "name": "GANESH ENCLAVE PHASE-4",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:47.176Z",
-        "builderId": "69c0f10c09b2489bdd1955da"
+        "builderId": "69c0f10c09b2489bdd1955da",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "284128"
       }
     ]
   },
@@ -48763,11 +49219,14 @@
         "name": "Vasundhara Apartment",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:27.777Z",
-        "builderId": "69c0f10d09b2489bdd1955e1"
+        "builderId": "69c0f10d09b2489bdd1955e1",
+        "lenderName": [],
+        "area": "Dibdiba",
+        "pinCode": "244923"
       }
     ]
   },
@@ -49208,11 +49667,14 @@
         "name": "TARANG DIVINE CITY PHASE 2 EXTENSION",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:47.989Z",
-        "builderId": "69c0f11109b2489bdd1955ee"
+        "builderId": "69c0f11109b2489bdd1955ee",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0feac09b2489bdd196a6d",
@@ -49220,11 +49682,14 @@
         "name": "TARANG DIVINE CITY PHASE-2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.107Z",
-        "builderId": "69c0f11109b2489bdd1955ee"
+        "builderId": "69c0f11109b2489bdd1955ee",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       }
     ]
   },
@@ -49428,11 +49893,14 @@
         "name": "112 EWS HOUSES AT SECTOR-15A NEW MORADABAD",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.202Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Sector-15A, New Moradabad",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee109b2489bdd196b2c",
@@ -49440,11 +49908,14 @@
         "name": "176 LIG HOUSES AT SECTOR-15A NEW MORADABAD",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.478Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Sector-15A, New Moradabad",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee109b2489bdd196b2e",
@@ -49452,11 +49923,14 @@
         "name": "32 MMIG HOUSES AT SECTOR-15A NEW MORADABAD",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.750Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Sector-15A, New Moradabad",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee109b2489bdd196b2f",
@@ -49464,11 +49938,14 @@
         "name": "48 MIG HOUSES AT GATA NO 387 HARTHALA (RAMGANGA VIHAR)",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:41.881Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Ramganga Vihar",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee209b2489bdd196b38",
@@ -49476,11 +49953,14 @@
         "name": "AMRITKUNJ, EKTA VIHAR (SOUTH) SCHEME",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.928Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Ekta Vihar",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee309b2489bdd196b3e",
@@ -49488,11 +49968,14 @@
         "name": "Construction of 144 EWS Houses under PMAY (Urban) Scheme at Dhakka Gata No. 271, 399, Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.615Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Dhakka",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee409b2489bdd196b43",
@@ -49500,11 +49983,14 @@
         "name": "Construction of 288 EWS Houses under PMAY scheme at Gata No. 357 Shahpur Tigri, Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.208Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Shahpur Tigri",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee409b2489bdd196b44",
@@ -49512,11 +49998,14 @@
         "name": "Construction of 288 EWS Houses under PMAY scheme at New Moradabad Scheme sector 10A Pocket-1",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.320Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Sector-10A, New Moradabad",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee409b2489bdd196b48",
@@ -49524,11 +50013,14 @@
         "name": "Construction of 384 EWS Houses under PMAY (Urban) Scheme at Lakri Fazalpur Gata No. 2407/1, Moradabad",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:44.795Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Lakri Fazalpur",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee509b2489bdd196b4a",
@@ -49536,11 +50028,14 @@
         "name": "Construction of 432 EWS Houses under PMAY scheme at New Moradabad Scheme sector 10A Pocket-2",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.026Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Sector-10A, New Moradabad",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee509b2489bdd196b52",
@@ -49548,11 +50043,14 @@
         "name": "GATISHAKTINAGAR (TRANSPORTNAGAR YOJNA, SAMBHAL ROAD)",
         "district": "Moradabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:45.962Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Transport Nagar",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee609b2489bdd196b53",
@@ -49560,11 +50058,14 @@
         "name": "Govindpuram Housing Scheme (Phase-1)",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.076Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Govindpuram",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee609b2489bdd196b55",
@@ -49572,11 +50073,14 @@
         "name": "GROUP HOUSING AT DEHRI MUSTAKAM",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.315Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Dehri Mustahkam",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee609b2489bdd196b56",
@@ -49584,11 +50088,14 @@
         "name": "GROUP HOUSING AT KUNDANPUR DHAKKA GATA NO 209",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.432Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Kundanpur Dhakka",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee609b2489bdd196b57",
@@ -49596,11 +50103,14 @@
         "name": "GROUP HOUSING AT KUNDANPUR DHAKKA GATA NO 381 & 382",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.545Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Kundanpur Dhakka",
+        "pinCode": "244001"
       },
       {
         "_id": "69c0fee609b2489bdd196b58",
@@ -49608,11 +50118,14 @@
         "name": "GROUP HOUSING AT KUNDANPUR DHAKKA GATA NO 402 & 413",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.659Z",
-        "builderId": "69c0f11309b2489bdd1955f5"
+        "builderId": "69c0f11309b2489bdd1955f5",
+        "lenderName": [],
+        "area": "Kundanpur Dhakka",
+        "pinCode": "244001"
       }
     ]
   },
@@ -49694,11 +50207,14 @@
         "name": "PEARL RESIDENCY",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:48.643Z",
-        "builderId": "69c0f11409b2489bdd1955f7"
+        "builderId": "69c0f11409b2489bdd1955f7",
+        "lenderName": [],
+        "area": " Gagan Vihar",
+        "pinCode": "244001"
       }
     ]
   },
@@ -49965,11 +50481,14 @@
         "name": "RAMA SHREE GARDEN",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:49.124Z",
-        "builderId": "69c0f11609b2489bdd1955fe"
+        "builderId": "69c0f11609b2489bdd1955fe",
+        "lenderName": [],
+        "area": " Ram Ganga Vihar Phase II",
+        "pinCode": "244001"
       }
     ]
   },
@@ -50497,11 +51016,14 @@
         "name": "Namo County",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.134Z",
-        "builderId": "69c0f11b09b2489bdd19560d"
+        "builderId": "69c0f11b09b2489bdd19560d",
+        "lenderName": [],
+        "area": "Simardha",
+        "pinCode": "284003"
       }
     ]
   },
@@ -50531,11 +51053,14 @@
         "name": "Affordable housing scheme in Barkhapur Raebareli (Phase I) in PM Awas (Urban) yojna",
         "district": "Raebareli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:19.746Z",
-        "builderId": "69c0f11c09b2489bdd19560e"
+        "builderId": "69c0f11c09b2489bdd19560e",
+        "lenderName": [],
+        "area": "Barkhapur",
+        "pinCode": "229001"
       }
     ]
   },
@@ -51248,11 +51773,14 @@
         "name": "HIGHWAY PLATINUM - TOWER D",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.712Z",
-        "builderId": "69c0f12109b2489bdd195622"
+        "builderId": "69c0f12109b2489bdd195622",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       }
     ]
   },
@@ -51519,11 +52047,14 @@
         "name": "JHANSI EMPIRE",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:47.531Z",
-        "builderId": "69c0f12309b2489bdd195629"
+        "builderId": "69c0f12309b2489bdd195629",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdbb09b2489bdd1965ab",
@@ -51531,11 +52062,14 @@
         "name": "JHANSI HOMES",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:47.645Z",
-        "builderId": "69c0f12309b2489bdd195629"
+        "builderId": "69c0f12309b2489bdd195629",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "284003"
       }
     ]
   },
@@ -51565,11 +52099,14 @@
         "name": "BRAJ VILAS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.630Z",
-        "builderId": "69c0f12309b2489bdd19562a"
+        "builderId": "69c0f12309b2489bdd19562a",
+        "lenderName": [],
+        "area": "Rukmani Vihar Extension",
+        "pinCode": "281121"
       }
     ]
   },
@@ -52790,11 +53327,14 @@
         "name": "Kings Palace",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:47.118Z",
-        "builderId": "69c0f12909b2489bdd195644"
+        "builderId": "69c0f12909b2489bdd195644",
+        "lenderName": [],
+        "area": "Karula",
+        "pinCode": "244001"
       }
     ]
   },
@@ -53097,11 +53637,14 @@
         "name": "KRISHNA TOWN",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.323Z",
-        "builderId": "69c0f12b09b2489bdd19564c"
+        "builderId": "69c0f12b09b2489bdd19564c",
+        "lenderName": [],
+        "area": " Krishna Nagar",
+        "pinCode": "281004"
       }
     ]
   },
@@ -53579,11 +54122,14 @@
         "name": "Shubham Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.916Z",
-        "builderId": "69c0f12f09b2489bdd19565a"
+        "builderId": "69c0f12f09b2489bdd19565a",
+        "lenderName": [],
+        "area": "Gram Bhojla",
+        "pinCode": "284002"
       }
     ]
   },
@@ -54518,11 +55064,14 @@
         "name": "SHRI KRISHNA ANANDAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.311Z",
-        "builderId": "69c0f13509b2489bdd19566f"
+        "builderId": "69c0f13509b2489bdd19566f",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       }
     ]
   },
@@ -55236,11 +55785,14 @@
         "name": "Be Together Courtyard",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:33.176Z",
-        "builderId": "69c0f13a09b2489bdd195683"
+        "builderId": "69c0f13a09b2489bdd195683",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -55343,11 +55895,14 @@
         "name": "Lohia One",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:47.346Z",
-        "builderId": "69c0f13b09b2489bdd195686"
+        "builderId": "69c0f13b09b2489bdd195686",
+        "lenderName": [],
+        "area": "opp. Sector 5, New Moradabad",
+        "pinCode": "244102"
       }
     ]
   },
@@ -55493,11 +56048,14 @@
         "name": "AKASH SHOPPING COMPLEX",
         "district": "Moradabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.697Z",
-        "builderId": "69c0f13c09b2489bdd19568b"
+        "builderId": "69c0f13c09b2489bdd19568b",
+        "lenderName": [],
+        "area": "Sector-5, New Moradabad",
+        "pinCode": "244001"
       }
     ]
   },
@@ -56818,11 +57376,14 @@
         "name": "MAHARAJA MADHUVAN",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:40.627Z",
-        "builderId": "69c0f14509b2489bdd1956ad"
+        "builderId": "69c0f14509b2489bdd1956ad",
+        "lenderName": [],
+        "area": "Naugaon",
+        "pinCode": "281004"
       }
     ]
   },
@@ -57110,11 +57671,14 @@
         "name": "Amit Puri",
         "district": "Sitapur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:52:29.867Z",
-        "builderId": "69c0f14709b2489bdd1956b5"
+        "builderId": "69c0f14709b2489bdd1956b5",
+        "lenderName": [],
+        "area": "Khairabad",
+        "pinCode": "261131"
       }
     ]
   },
@@ -57596,11 +58160,14 @@
         "name": "MAHARAJA VAISHALI",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.344Z",
-        "builderId": "69c0f14a09b2489bdd1956bf"
+        "builderId": "69c0f14a09b2489bdd1956bf",
+        "lenderName": [],
+        "area": "Salempur",
+        "pinCode": "281004"
       }
     ]
   },
@@ -57852,11 +58419,14 @@
         "name": "Amrapali Kanha",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.484Z",
-        "builderId": "69c0f14c09b2489bdd1956c6"
+        "builderId": "69c0f14c09b2489bdd1956c6",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -57907,11 +58477,14 @@
         "name": "URBAN STREET",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.736Z",
-        "builderId": "69c0f14c09b2489bdd1956c8"
+        "builderId": "69c0f14c09b2489bdd1956c8",
+        "lenderName": [],
+        "area": "Mathura Bangar",
+        "pinCode": "281001"
       }
     ]
   },
@@ -58787,11 +59360,14 @@
         "name": "AARAT MITTAL COLONY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:31.736Z",
-        "builderId": "69c0f15209b2489bdd1956e0"
+        "builderId": "69c0f15209b2489bdd1956e0",
+        "lenderName": [],
+        "area": "Jaisinghpura",
+        "pinCode": "281001"
       }
     ]
   },
@@ -58855,11 +59431,14 @@
         "name": "VILASAA BY RAHEJAS",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:50.648Z",
-        "builderId": "69c0f15309b2489bdd1956e2"
+        "builderId": "69c0f15309b2489bdd1956e2",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -59042,11 +59621,14 @@
         "name": "GREEN ESTATE COLONY",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.035Z",
-        "builderId": "69c0f15509b2489bdd1956e8"
+        "builderId": "69c0f15509b2489bdd1956e8",
+        "lenderName": [],
+        "area": "Kukra",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef509b2489bdd196b89",
@@ -59054,11 +59636,14 @@
         "name": "GREEN ESTATE COLONY PHASE-III PART-I",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.152Z",
-        "builderId": "69c0f15509b2489bdd1956e8"
+        "builderId": "69c0f15509b2489bdd1956e8",
+        "lenderName": [],
+        "area": "Laxman Vihar Colony",
+        "pinCode": "251001"
       }
     ]
   },
@@ -59198,11 +59783,14 @@
         "name": "Maharaja Mansarovar-3",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.123Z",
-        "builderId": "69c0f15609b2489bdd1956ec"
+        "builderId": "69c0f15609b2489bdd1956ec",
+        "lenderName": [],
+        "area": "Satoha Asgarpur",
+        "pinCode": "281405"
       }
     ]
   },
@@ -59348,11 +59936,14 @@
         "name": "Akhilesh Plaza",
         "district": "Moradabad",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:42.809Z",
-        "builderId": "69c0f15709b2489bdd1956f1"
+        "builderId": "69c0f15709b2489bdd1956f1",
+        "lenderName": [],
+        "area": "Arya Nagar",
+        "pinCode": "244001"
       }
     ]
   },
@@ -59757,11 +60348,14 @@
         "name": "GURU KRIPA HEIGHTS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.826Z",
-        "builderId": "69c0f15b09b2489bdd1956fd"
+        "builderId": "69c0f15b09b2489bdd1956fd",
+        "lenderName": [],
+        "area": "Rukmani Vihar, Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea009b2489bdd196a08",
@@ -59769,11 +60363,14 @@
         "name": "GURU KRIPA SKY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.270Z",
-        "builderId": "69c0f15b09b2489bdd1956fd"
+        "builderId": "69c0f15b09b2489bdd1956fd",
+        "lenderName": [],
+        "area": "Sunrak Banger",
+        "pinCode": "281121"
       }
     ]
   },
@@ -59986,11 +60583,14 @@
         "name": "Shiv Vardan Enclave",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.714Z",
-        "builderId": "69c0f15d09b2489bdd195703"
+        "builderId": "69c0f15d09b2489bdd195703",
+        "lenderName": [],
+        "area": "Pali Pahari",
+        "pinCode": "284003"
       }
     ]
   },
@@ -60041,11 +60641,14 @@
         "name": "LALIT KUMAR AGRAWAL COLONY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:40.005Z",
-        "builderId": "69c0f15d09b2489bdd195705"
+        "builderId": "69c0f15d09b2489bdd195705",
+        "lenderName": [],
+        "area": "Jaisinghpura Banger",
+        "pinCode": "281121"
       }
     ]
   },
@@ -60385,11 +60988,14 @@
         "name": "CRYSTAL VALLEY",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:26.843Z",
-        "builderId": "69c0f15f09b2489bdd19570e"
+        "builderId": "69c0f15f09b2489bdd19570e",
+        "lenderName": [],
+        "area": "Dibdiba",
+        "pinCode": "244923"
       }
     ]
   },
@@ -60556,11 +61162,14 @@
         "name": "GANESH ENCLAVE PHASE 5",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:47.034Z",
-        "builderId": "69c0f16109b2489bdd195714"
+        "builderId": "69c0f16109b2489bdd195714",
+        "lenderName": [],
+        "area": "Meri",
+        "pinCode": "284128"
       }
     ]
   },
@@ -60927,11 +61536,14 @@
         "name": "HARE KRISHNA ASHIYANA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.840Z",
-        "builderId": "69c0f16509b2489bdd19571f"
+        "builderId": "69c0f16509b2489bdd19571f",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -61261,11 +61873,14 @@
         "name": "TULSI WINGS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.616Z",
-        "builderId": "69c0f16709b2489bdd195729"
+        "builderId": "69c0f16709b2489bdd195729",
+        "lenderName": [],
+        "area": "Sunrakh Bangar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -61921,11 +62536,14 @@
         "name": "green paradise",
         "district": "Saharanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:34.832Z",
-        "builderId": "69c0f16d09b2489bdd19573c"
+        "builderId": "69c0f16d09b2489bdd19573c",
+        "lenderName": [],
+        "area": "Khalasi Lines",
+        "pinCode": "247001"
       }
     ]
   },
@@ -62240,11 +62858,14 @@
         "name": "SHRI VRINDA ORCHIDS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.795Z",
-        "builderId": "69c0f17009b2489bdd195746"
+        "builderId": "69c0f17009b2489bdd195746",
+        "lenderName": [],
+        "area": "Jaint Sunrakh Road",
+        "pinCode": "281406"
       }
     ]
   },
@@ -62548,11 +63169,14 @@
         "name": "NEW CIVIL LINES, PHASE 1",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:27.316Z",
-        "builderId": "69c0f17209b2489bdd19574e"
+        "builderId": "69c0f17209b2489bdd19574e",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "244901"
       }
     ]
   },
@@ -62867,11 +63491,14 @@
         "name": "GANGOTRI RAMTAL",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:34.800Z",
-        "builderId": "69c0f17409b2489bdd195758"
+        "builderId": "69c0f17409b2489bdd195758",
+        "lenderName": [],
+        "area": "Sunrakh Bangar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -63976,11 +64603,14 @@
         "name": "YAMUNA CITY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:49.493Z",
-        "builderId": "69c0f17f09b2489bdd19577d"
+        "builderId": "69c0f17f09b2489bdd19577d",
+        "lenderName": [],
+        "area": "Aatas Bangar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -64163,11 +64793,14 @@
         "name": "AGASTYAS AVENUE",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:32.210Z",
-        "builderId": "69c0f18109b2489bdd195783"
+        "builderId": "69c0f18109b2489bdd195783",
+        "lenderName": [],
+        "area": "Raman Reiti",
+        "pinCode": "281121"
       }
     ]
   },
@@ -64847,11 +65480,14 @@
         "name": "VYOMKESH AVASIYE YOJNA",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:27.893Z",
-        "builderId": "69c0f18509b2489bdd195794"
+        "builderId": "69c0f18509b2489bdd195794",
+        "lenderName": [],
+        "area": "Tashka",
+        "pinCode": "244901"
       }
     ]
   },
@@ -65239,11 +65875,14 @@
         "name": "Shri Ganesh Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.430Z",
-        "builderId": "69c0f18809b2489bdd1957a0"
+        "builderId": "69c0f18809b2489bdd1957a0",
+        "lenderName": [],
+        "area": "Shivpuri Road",
+        "pinCode": "284003"
       }
     ]
   },
@@ -65368,11 +66007,14 @@
         "name": "Radha Kripa Nikunj",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.176Z",
-        "builderId": "69c0f18909b2489bdd1957a4"
+        "builderId": "69c0f18909b2489bdd1957a4",
+        "lenderName": [],
+        "area": "Barsana",
+        "pinCode": "281405"
       }
     ]
   },
@@ -66003,11 +66645,14 @@
         "name": "Sara Enclave",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:49.815Z",
-        "builderId": "69c0f18e09b2489bdd1957b7"
+        "builderId": "69c0f18e09b2489bdd1957b7",
+        "lenderName": [],
+        "area": " Mughalpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -66486,11 +67131,14 @@
         "name": "KESHAV MAJESTIC (Phase-1)",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.175Z",
-        "builderId": "69c0f19109b2489bdd1957c3"
+        "builderId": "69c0f19109b2489bdd1957c3",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea209b2489bdd196a19",
@@ -66498,11 +67146,14 @@
         "name": "KESHAV MAJESTIC (PHASE-2)",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.292Z",
-        "builderId": "69c0f19109b2489bdd1957c3"
+        "builderId": "69c0f19109b2489bdd1957c3",
+        "lenderName": [],
+        "area": "Gotam Nagar",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea209b2489bdd196a1a",
@@ -66510,11 +67161,14 @@
         "name": "KESHAV MAJESTIC PHASE-4",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.405Z",
-        "builderId": "69c0f19109b2489bdd1957c3"
+        "builderId": "69c0f19109b2489bdd1957c3",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea209b2489bdd196a1b",
@@ -66522,11 +67176,14 @@
         "name": "KESHAV MAJESTIC-PHASE-3",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:38.528Z",
-        "builderId": "69c0f19109b2489bdd1957c3"
+        "builderId": "69c0f19109b2489bdd1957c3",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -66666,11 +67323,14 @@
         "name": "The Raas",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.346Z",
-        "builderId": "69c0f19209b2489bdd1957c7"
+        "builderId": "69c0f19209b2489bdd1957c7",
+        "lenderName": [],
+        "area": "Junhaidi",
+        "pinCode": "281121"
       }
     ]
   },
@@ -66700,11 +67360,14 @@
         "name": "RAIBARELI ROYAL",
         "district": "Raebareli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:20.093Z",
-        "builderId": "69c0f19209b2489bdd1957c8"
+        "builderId": "69c0f19209b2489bdd1957c8",
+        "lenderName": [],
+        "area": "Civil Lines",
+        "pinCode": "229001"
       }
     ]
   },
@@ -66734,11 +67397,14 @@
         "name": "Royal Estate Phase 1",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.603Z",
-        "builderId": "69c0f19309b2489bdd1957c9"
+        "builderId": "69c0f19309b2489bdd1957c9",
+        "lenderName": [],
+        "area": "Nawada Indaypur",
+        "pinCode": "242001"
       }
     ]
   },
@@ -66768,11 +67434,14 @@
         "name": "Royal Estate Phase 2",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.717Z",
-        "builderId": "69c0f19309b2489bdd1957ca"
+        "builderId": "69c0f19309b2489bdd1957ca",
+        "lenderName": [],
+        "area": "Azizganj",
+        "pinCode": "242001"
       }
     ]
   },
@@ -66802,11 +67471,14 @@
         "name": "Royal Estate Extension",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.487Z",
-        "builderId": "69c0f19309b2489bdd1957cb"
+        "builderId": "69c0f19309b2489bdd1957cb",
+        "lenderName": [],
+        "area": "Azizganj",
+        "pinCode": "242001"
       }
     ]
   },
@@ -67215,11 +67887,14 @@
         "name": "KRISHNA VATIKA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:39.546Z",
-        "builderId": "69c0f19609b2489bdd1957d8"
+        "builderId": "69c0f19609b2489bdd1957d8",
+        "lenderName": [],
+        "area": "Datiya",
+        "pinCode": "281001"
       }
     ]
   },
@@ -67486,11 +68161,14 @@
         "name": "SANSKAR VALLEY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.601Z",
-        "builderId": "69c0f19809b2489bdd1957df"
+        "builderId": "69c0f19809b2489bdd1957df",
+        "lenderName": [],
+        "area": "Bhojla",
+        "pinCode": "284002"
       }
     ]
   },
@@ -67703,11 +68381,14 @@
         "name": "HIGHWAY RESIDENCY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.836Z",
-        "builderId": "69c0f19a09b2489bdd1957e5"
+        "builderId": "69c0f19a09b2489bdd1957e5",
+        "lenderName": [],
+        "area": "Sarai Azamabad",
+        "pinCode": "281004"
       },
       {
         "_id": "69c0fea709b2489bdd196a44",
@@ -67715,11 +68396,14 @@
         "name": "RESIDENCY HIGHWAY",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:43.286Z",
-        "builderId": "69c0f19a09b2489bdd1957e5"
+        "builderId": "69c0f19a09b2489bdd1957e5",
+        "lenderName": [],
+        "area": "Sarai Azamabad",
+        "pinCode": "281001"
       }
     ]
   },
@@ -67897,11 +68581,14 @@
         "name": "SHRI KRISHNARPANAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.777Z",
-        "builderId": "69c0f19b09b2489bdd1957ea"
+        "builderId": "69c0f19b09b2489bdd1957ea",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -68005,11 +68692,14 @@
         "name": "SALASAR CITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.665Z",
-        "builderId": "69c0f19c09b2489bdd1957ed"
+        "builderId": "69c0f19c09b2489bdd1957ed",
+        "lenderName": [],
+        "area": "Karguan Gaon",
+        "pinCode": "284128"
       }
     ]
   },
@@ -68097,11 +68787,14 @@
         "name": "ARDAS HOMES",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:43.389Z",
-        "builderId": "69c0f19d09b2489bdd1957f0"
+        "builderId": "69c0f19d09b2489bdd1957f0",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -69249,11 +69942,14 @@
         "name": "GREEN INDIA BIOTECH FORESTRY LIMITED",
         "district": "Raebareli",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:19.858Z",
-        "builderId": "69c0f1a309b2489bdd195808"
+        "builderId": "69c0f1a309b2489bdd195808",
+        "lenderName": [],
+        "area": "Jawahar Vihar Colony",
+        "pinCode": "229001"
       }
     ]
   },
@@ -69341,11 +70037,14 @@
         "name": "TRINITY VRINDAVAN",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.464Z",
-        "builderId": "69c0f1a409b2489bdd19580b"
+        "builderId": "69c0f1a409b2489bdd19580b",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281121"
       }
     ]
   },
@@ -72355,11 +73054,14 @@
         "name": "Gulab Enclave",
         "district": "Moradabad",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:46.771Z",
-        "builderId": "69c0f1a709b2489bdd195814"
+        "builderId": "69c0f1a709b2489bdd195814",
+        "lenderName": [],
+        "area": "Manoharpur",
+        "pinCode": "244001"
       }
     ]
   },
@@ -73215,11 +73917,14 @@
         "name": "Hare Krishna Resort and Suites",
         "district": "Mathura",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:37.086Z",
-        "builderId": "69c0f1ab09b2489bdd195822"
+        "builderId": "69c0f1ab09b2489bdd195822",
+        "lenderName": [],
+        "area": "Aatas Bangar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -73286,11 +73991,14 @@
         "name": "Shri Ganesh Residency",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.555Z",
-        "builderId": "69c0f1ab09b2489bdd195824"
+        "builderId": "69c0f1ab09b2489bdd195824",
+        "lenderName": [],
+        "area": "Shivpuri",
+        "pinCode": "284003"
       }
     ]
   },
@@ -74780,11 +75488,14 @@
         "name": "Shree Developers Shree Royal City",
         "district": "Jhansi",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:51.953Z",
-        "builderId": "69c0f1b309b2489bdd195842"
+        "builderId": "69c0f1b309b2489bdd195842",
+        "lenderName": [],
+        "area": "Sipri Bazar",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdc009b2489bdd1965d0",
@@ -74792,11 +75503,14 @@
         "name": "shree royal city",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.071Z",
-        "builderId": "69c0f1b309b2489bdd195842"
+        "builderId": "69c0f1b309b2489bdd195842",
+        "lenderName": [],
+        "area": "Sipri Bazar",
+        "pinCode": "284003"
       },
       {
         "_id": "69c0fdc009b2489bdd1965d1",
@@ -74804,11 +75518,14 @@
         "name": "SHREE ROYAL COMPLEX",
         "district": "Jhansi",
         "projectType": "Mixed",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:52.193Z",
-        "builderId": "69c0f1b309b2489bdd195842"
+        "builderId": "69c0f1b309b2489bdd195842",
+        "lenderName": [],
+        "area": "Shivpuri ",
+        "pinCode": "284003"
       }
     ]
   },
@@ -74949,11 +75666,14 @@
         "name": "South City Extension",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.830Z",
-        "builderId": "69c0f1b409b2489bdd195846"
+        "builderId": "69c0f1b409b2489bdd195846",
+        "lenderName": [],
+        "area": "Lalpur",
+        "pinCode": "242001"
       }
     ]
   },
@@ -77516,11 +78236,14 @@
         "name": "SHRI KRISHNA HEIGHTS",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.545Z",
-        "builderId": "69c0f1c409b2489bdd195881"
+        "builderId": "69c0f1c409b2489bdd195881",
+        "lenderName": [],
+        "area": "Bakalpur",
+        "pinCode": "281004"
       }
     ]
   },
@@ -79077,11 +79800,14 @@
         "name": "THE COURTYARD",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.923Z",
-        "builderId": "69c0f1ca09b2489bdd19589b"
+        "builderId": "69c0f1ca09b2489bdd19589b",
+        "lenderName": [],
+        "area": "Shivaji Nagar",
+        "pinCode": "284001"
       }
     ]
   },
@@ -79197,11 +79923,14 @@
         "name": "ANSAL BASERA CITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:44.554Z",
-        "builderId": "69c0f1cb09b2489bdd19589e"
+        "builderId": "69c0f1cb09b2489bdd19589e",
+        "lenderName": [],
+        "area": "Mastara",
+        "pinCode": "284003"
       }
     ]
   },
@@ -79702,11 +80431,14 @@
         "name": "COUNTRY HOMES @ MAYAVAN",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:34.324Z",
-        "builderId": "69c0f1cc09b2489bdd1958a3"
+        "builderId": "69c0f1cc09b2489bdd1958a3",
+        "lenderName": [],
+        "area": "Sakraya Bangar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea509b2489bdd196a34",
@@ -79714,11 +80446,14 @@
         "name": "Mayavan Project- Plotted",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:41.455Z",
-        "builderId": "69c0f1cc09b2489bdd1958a3"
+        "builderId": "69c0f1cc09b2489bdd1958a3",
+        "lenderName": [],
+        "area": "Sakraya Bangar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -86664,11 +87399,14 @@
         "name": "GURU KRIPA DHAM EXTENTION",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.711Z",
-        "builderId": "69c0f1e509b2489bdd1958fd"
+        "builderId": "69c0f1e509b2489bdd1958fd",
+        "lenderName": [],
+        "area": "Rukmani Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fe9f09b2489bdd196a05",
@@ -86676,11 +87414,14 @@
         "name": "GURU KRIPA KUTIR",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:35.937Z",
-        "builderId": "69c0f1e509b2489bdd1958fd"
+        "builderId": "69c0f1e509b2489bdd1958fd",
+        "lenderName": [],
+        "area": "Chhata",
+        "pinCode": "281401"
       },
       {
         "_id": "69c0fea009b2489bdd196a06",
@@ -86688,11 +87429,14 @@
         "name": "GURU KRIPA KUTIR EXTENSION",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.047Z",
-        "builderId": "69c0f1e509b2489bdd1958fd"
+        "builderId": "69c0f1e509b2489bdd1958fd",
+        "lenderName": [],
+        "area": "Chatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea009b2489bdd196a07",
@@ -86700,11 +87444,14 @@
         "name": "GURU KRIPA SANGAM",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.158Z",
-        "builderId": "69c0f1e509b2489bdd1958fd"
+        "builderId": "69c0f1e509b2489bdd1958fd",
+        "lenderName": [],
+        "area": "Chatikara",
+        "pinCode": "281001"
       },
       {
         "_id": "69c0fea009b2489bdd196a09",
@@ -86712,11 +87459,14 @@
         "name": "GURU KRIPA VATIKA",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:36.384Z",
-        "builderId": "69c0f1e509b2489bdd1958fd"
+        "builderId": "69c0f1e509b2489bdd1958fd",
+        "lenderName": [],
+        "area": "Govindpur",
+        "pinCode": "281004"
       }
     ]
   },
@@ -87286,11 +88036,14 @@
         "name": "OM SHANTI GREEN",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.110Z",
-        "builderId": "69c0f1e909b2489bdd195909"
+        "builderId": "69c0f1e909b2489bdd195909",
+        "lenderName": [],
+        "area": "Rajghat Colony",
+        "pinCode": "284003"
       }
     ]
   },
@@ -87696,11 +88449,14 @@
         "name": "PARAS ENCLAVE",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:01.931Z",
-        "builderId": "69c0f1eb09b2489bdd195913"
+        "builderId": "69c0f1eb09b2489bdd195913",
+        "lenderName": [],
+        "area": " Sujroo",
+        "pinCode": "251003"
       },
       {
         "_id": "69c0fef609b2489bdd196b90",
@@ -87708,11 +88464,14 @@
         "name": "PARAS ENCLAVE PHASE 1",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.064Z",
-        "builderId": "69c0f1eb09b2489bdd195913"
+        "builderId": "69c0f1eb09b2489bdd195913",
+        "lenderName": [],
+        "area": "Amba Vihar",
+        "pinCode": "251003"
       },
       {
         "_id": "69c0fef609b2489bdd196b91",
@@ -87720,11 +88479,14 @@
         "name": "PARAS ENCLAVE PHASE-2",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.183Z",
-        "builderId": "69c0f1eb09b2489bdd195913"
+        "builderId": "69c0f1eb09b2489bdd195913",
+        "lenderName": [],
+        "area": " Sujroo",
+        "pinCode": "251003"
       }
     ]
   },
@@ -88482,11 +89244,14 @@
         "name": "TRANS GANGA CITY",
         "district": "Unnao",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:09.930Z",
-        "builderId": "69c0f1ef09b2489bdd19591e"
+        "builderId": "69c0f1ef09b2489bdd19591e",
+        "lenderName": [],
+        "area": "Trans Ganga City",
+        "pinCode": "209801"
       }
     ]
   },
@@ -89172,11 +89937,14 @@
         "name": "VASUNDHARA SMART CITY",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.680Z",
-        "builderId": "69c0f1f309b2489bdd19592e"
+        "builderId": "69c0f1f309b2489bdd19592e",
+        "lenderName": [],
+        "area": "Rajwaha Road",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef609b2489bdd196b96",
@@ -89184,11 +89952,14 @@
         "name": "VASUNDHARA SMART CITY PHASE-II",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:02.792Z",
-        "builderId": "69c0f1f309b2489bdd19592e"
+        "builderId": "69c0f1f309b2489bdd19592e",
+        "lenderName": [],
+        "area": "Rajwaha Road",
+        "pinCode": "251001"
       }
     ]
   },
@@ -89846,11 +90617,14 @@
         "name": "224 E.W.S HOUSES UNDER PANDIT DEENDAYAL UPADHAYAY NAGAR MEERUT ROAD MUZAFFARNAGAR",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:59.515Z",
-        "builderId": "69c0f1f709b2489bdd19593e"
+        "builderId": "69c0f1f709b2489bdd19593e",
+        "lenderName": [],
+        "area": "Meerut Road",
+        "pinCode": "251001"
       },
       {
         "_id": "69c0fef309b2489bdd196b7c",
@@ -89858,11 +90632,14 @@
         "name": "256 E.W.S houses under PMAY at Begrajpur",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:59.629Z",
-        "builderId": "69c0f1f709b2489bdd19593e"
+        "builderId": "69c0f1f709b2489bdd19593e",
+        "lenderName": [],
+        "area": "Begrajpur",
+        "pinCode": "251203"
       },
       {
         "_id": "69c0fef309b2489bdd196b7d",
@@ -89870,11 +90647,14 @@
         "name": "256 E.W.S houses under PMAY at Budhana",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:59.765Z",
-        "builderId": "69c0f1f709b2489bdd19593e"
+        "builderId": "69c0f1f709b2489bdd19593e",
+        "lenderName": [],
+        "area": "Budhana",
+        "pinCode": "251309"
       },
       {
         "_id": "69c0fef309b2489bdd196b7e",
@@ -89882,11 +90662,14 @@
         "name": "448 E.W.S houses under PMAY at Bhopa road byepass crossing",
         "district": "Muzaffarnagar",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:59.881Z",
-        "builderId": "69c0f1f709b2489bdd19593e"
+        "builderId": "69c0f1f709b2489bdd19593e",
+        "lenderName": [],
+        "area": "Bhopa Road Bypass",
+        "pinCode": "251002"
       }
     ]
   },
@@ -91005,11 +91788,14 @@
         "name": "Shri Sadhna Dham",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:46.323Z",
-        "builderId": "69c0f1fc09b2489bdd195954"
+        "builderId": "69c0f1fc09b2489bdd195954",
+        "lenderName": [],
+        "area": "Gaura Nagar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -91076,11 +91862,14 @@
         "name": "R S CITY - 1 SITE 2",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.728Z",
-        "builderId": "69c0f1fd09b2489bdd195956"
+        "builderId": "69c0f1fd09b2489bdd195956",
+        "lenderName": [],
+        "area": "Rund Karari",
+        "pinCode": "284003"
       }
     ]
   },
@@ -91110,11 +91899,14 @@
         "name": "RS CITY 2",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:50.320Z",
-        "builderId": "69c0f1fd09b2489bdd195957"
+        "builderId": "69c0f1fd09b2489bdd195957",
+        "lenderName": [],
+        "area": "Ambabai",
+        "pinCode": "284001"
       }
     ]
   },
@@ -91950,11 +92742,14 @@
         "name": "Model Town",
         "district": "Shahjahanpur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:59.138Z",
-        "builderId": "69c0f20409b2489bdd19596b"
+        "builderId": "69c0f20409b2489bdd19596b",
+        "lenderName": [],
+        "area": "Sadar Bazar",
+        "pinCode": "242001"
       }
     ]
   },
@@ -92302,11 +93097,14 @@
         "name": "SHRI KRISHNA SHARNAM EXTENSION (RESIDENTIAL)",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:44.657Z",
-        "builderId": "69c0f20609b2489bdd195973"
+        "builderId": "69c0f20609b2489bdd195973",
+        "lenderName": [],
+        "area": "Chhatikara",
+        "pinCode": "281001"
       }
     ]
   },
@@ -95118,11 +95916,14 @@
         "name": "Pushpanjali Baikunth Phase-1",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.502Z",
-        "builderId": "69c0f21609b2489bdd1959ae"
+        "builderId": "69c0f21609b2489bdd1959ae",
+        "lenderName": [],
+        "area": "Chaitanya Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea609b2489bdd196a3e",
@@ -95130,11 +95931,14 @@
         "name": "Pushpanjali Baikunth Phase-2",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.617Z",
-        "builderId": "69c0f21609b2489bdd1959ae"
+        "builderId": "69c0f21609b2489bdd1959ae",
+        "lenderName": [],
+        "area": "Chaitanya Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea609b2489bdd196a3f",
@@ -95142,11 +95946,14 @@
         "name": "Pushpanjali Baikunth Phase-4",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.730Z",
-        "builderId": "69c0f21609b2489bdd1959ae"
+        "builderId": "69c0f21609b2489bdd1959ae",
+        "lenderName": [],
+        "area": "Chaitanya Vihar",
+        "pinCode": "281121"
       },
       {
         "_id": "69c0fea609b2489bdd196a40",
@@ -95154,11 +95961,14 @@
         "name": "Pushpanjali Gopnanda",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:42.840Z",
-        "builderId": "69c0f21609b2489bdd1959ae"
+        "builderId": "69c0f21609b2489bdd1959ae",
+        "lenderName": [],
+        "area": "Chaitanya Vihar",
+        "pinCode": "281121"
       }
     ]
   },
@@ -95940,11 +96750,14 @@
         "name": "R S RESIDENCY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:49.847Z",
-        "builderId": "69c0f21c09b2489bdd1959c4"
+        "builderId": "69c0f21c09b2489bdd1959c4",
+        "lenderName": [],
+        "area": "Raksa",
+        "pinCode": "284419"
       }
     ]
   },
@@ -96085,11 +96898,14 @@
         "name": "Vrinda Gateway",
         "district": "Mathura",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:49:48.981Z",
-        "builderId": "69c0f21d09b2489bdd1959c8"
+        "builderId": "69c0f21d09b2489bdd1959c8",
+        "lenderName": [],
+        "area": "Vrindavan",
+        "pinCode": "281001"
       }
     ]
   },
@@ -96208,11 +97024,14 @@
         "name": "Merry Gold City",
         "district": "Rampur",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:51:27.202Z",
-        "builderId": "69c0f21e09b2489bdd1959cb"
+        "builderId": "69c0f21e09b2489bdd1959cb",
+        "lenderName": [],
+        "area": "Rampur City",
+        "pinCode": "244901"
       }
     ]
   },
@@ -96242,11 +97061,14 @@
         "name": "Narayan Prem Colony",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:48.617Z",
-        "builderId": "69c0f21e09b2489bdd1959cc"
+        "builderId": "69c0f21e09b2489bdd1959cc",
+        "lenderName": [],
+        "area": "Simraha",
+        "pinCode": "284003"
       }
     ]
   },
@@ -96386,11 +97208,14 @@
         "name": "SPACE MOONCITY",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:53.265Z",
-        "builderId": "69c0f22009b2489bdd1959d0"
+        "builderId": "69c0f22009b2489bdd1959d0",
+        "lenderName": [],
+        "area": "Bhagwantpura",
+        "pinCode": "284003"
       }
     ]
   },
@@ -96532,11 +97357,14 @@
         "name": "CENTRAL PARK APARTMENT",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:45.252Z",
-        "builderId": "69c0f22009b2489bdd1959d2"
+        "builderId": "69c0f22009b2489bdd1959d2",
+        "lenderName": [],
+        "area": "Khatibaba",
+        "pinCode": "284003"
       }
     ]
   },
@@ -96713,11 +97541,14 @@
         "name": "Esquire Group Housing Complex",
         "district": "Jhansi",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:45:46.555Z",
-        "builderId": "69c0f22209b2489bdd1959d7"
+        "builderId": "69c0f22209b2489bdd1959d7",
+        "lenderName": [],
+        "area": "Hansari",
+        "pinCode": "283145"
       }
     ]
   },
