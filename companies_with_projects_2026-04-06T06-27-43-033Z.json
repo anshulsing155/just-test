@@ -79997,11 +79997,14 @@
         "name": "Chandra Shekhar Azad & Khudiram Bose Enclave",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.611Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": " Sarojini Nagar",
+        "pinCode": "226001"
       },
       {
         "_id": "69c0fe3309b2489bdd19676f",
@@ -80009,11 +80012,14 @@
         "name": "Commercial-3 (Block-4)",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:47.955Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Gomti Nagar",
+        "pinCode": "226010"
       },
       {
         "_id": "69c0fe3409b2489bdd196770",
@@ -80021,11 +80027,14 @@
         "name": "Commercial-3 (Block-5)",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.080Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Indira Nagar ",
+        "pinCode": "226016"
       },
       {
         "_id": "69c0fe3409b2489bdd196771",
@@ -80033,11 +80042,14 @@
         "name": "Commercial-3, Block-1 and Block 2",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:48.218Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe5609b2489bdd196880",
@@ -80045,11 +80057,14 @@
         "name": "METRO CITY P-2 A",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.209Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Metro City extension",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe5609b2489bdd196881",
@@ -80057,11 +80072,14 @@
         "name": "METRO CITY P-8B",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.340Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Metro City extension",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe5609b2489bdd196882",
@@ -80069,11 +80087,14 @@
         "name": "Metro City Phase 10",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.470Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5609b2489bdd196883",
@@ -80081,11 +80102,14 @@
         "name": "Metro City Phase 11",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:22.592Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe5a09b2489bdd1968a2",
@@ -80093,11 +80117,14 @@
         "name": "Omaxe Cassia GH II, Phase I",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:26.314Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli Road",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5a09b2489bdd1968a3",
@@ -80105,11 +80132,14 @@
         "name": "Omaxe Cassia GH II, Phase II",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:26.427Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli Road",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5a09b2489bdd1968a7",
@@ -80117,11 +80147,14 @@
         "name": "Omaxe Metro City (Hitech Township) P1",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:26.882Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968a8",
@@ -80129,11 +80162,14 @@
         "name": "Omaxe Metro City (Hitech Township) P2",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:26.996Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968a9",
@@ -80141,11 +80177,14 @@
         "name": "Omaxe Metro City (Hitech Township) P3",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.115Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli Road belt",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968aa",
@@ -80153,11 +80192,14 @@
         "name": "Omaxe Metro City (Hitech Township) P6",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.232Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968ab",
@@ -80165,11 +80207,14 @@
         "name": "Omaxe Metro City (Hitech Township) P7",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.350Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli Road",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968ac",
@@ -80177,11 +80222,14 @@
         "name": "Omaxe Metro City (Hitech Township) P8",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.467Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968ad",
@@ -80189,11 +80237,14 @@
         "name": "Omaxe Metro City Commercial - 16",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.582Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": " Kalli Pashchim",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968ae",
@@ -80201,11 +80252,14 @@
         "name": "Omaxe Metro City Commercial -2 Phase -3",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.696Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Metro City Hi-Street",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5b09b2489bdd1968b0",
@@ -80213,11 +80267,14 @@
         "name": "Omaxe Metro City Commercial-2 Phase-4",
         "district": "Lucknow",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:27.930Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli Road",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b1",
@@ -80225,11 +80282,14 @@
         "name": "Omaxe Metro City P-1 A",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.051Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b2",
@@ -80237,11 +80297,14 @@
         "name": "Omaxe Metro City P-1 B",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.178Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b3",
@@ -80249,11 +80312,14 @@
         "name": "Omaxe Metro City P-1 C",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.295Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Metro City Phase-1",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b4",
@@ -80261,11 +80327,14 @@
         "name": "Omaxe Metro City P1 Villa",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.417Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b5",
@@ -80273,11 +80342,14 @@
         "name": "Omaxe Metro City P-8 A",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.532Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Sarojini Nagar",
+        "pinCode": "226014"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b6",
@@ -80285,11 +80357,14 @@
         "name": "Omaxe Metro City Phase - 5",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.651Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Raebareli",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe5c09b2489bdd1968b8",
@@ -80297,11 +80372,14 @@
         "name": "Omaxe Metro City Phase-9",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:28.905Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Kalli Pashchim",
+        "pinCode": "226002"
       },
       {
         "_id": "69c0fe7909b2489bdd1969a6",
@@ -80309,11 +80387,14 @@
         "name": "The Nest",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:48:57.524Z",
-        "builderId": "69c0f1cc09b2489bdd1958a0"
+        "builderId": "69c0f1cc09b2489bdd1958a0",
+        "lenderName": [],
+        "area": "Metro City vicinity",
+        "pinCode": "226002"
       }
     ]
   },
@@ -83395,11 +83476,14 @@
         "name": "Celebrity Gardens Block A",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.465Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd196752",
@@ -83407,11 +83491,14 @@
         "name": "Celebrity Gardens Block B",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.586Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd196753",
@@ -83419,11 +83506,14 @@
         "name": "Celebrity Gardens Block C",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.704Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd196754",
@@ -83431,11 +83521,14 @@
         "name": "Celebrity Gardens Block D",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.821Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3009b2489bdd196755",
@@ -83443,11 +83536,14 @@
         "name": "Celebrity Gardens Block E",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:44.937Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3109b2489bdd196756",
@@ -83455,11 +83551,14 @@
         "name": "Celebrity Gardens Block L",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:45.050Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3109b2489bdd196757",
@@ -83467,11 +83566,14 @@
         "name": "Celebrity Gardens Block M",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:45.165Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3109b2489bdd196758",
@@ -83479,11 +83581,14 @@
         "name": "Celebrity Gardens Block Q",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Under Construction",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:45.279Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       },
       {
         "_id": "69c0fe3109b2489bdd196759",
@@ -83491,11 +83596,14 @@
         "name": "Celebrity Gardens Block R",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:45.393Z",
-        "builderId": "69c0f1d809b2489bdd1958ce"
+        "builderId": "69c0f1d809b2489bdd1958ce",
+        "lenderName": [],
+        "area": "Sushant Golf City",
+        "pinCode": "226030"
       }
     ]
   },
