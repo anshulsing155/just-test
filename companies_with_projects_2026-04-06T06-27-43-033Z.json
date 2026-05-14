@@ -25,7 +25,7 @@
         "name": "Raj Residency / Raksha Addela",
         "district": "Gautam Buddha Nagar",
         "projectType": "Residential",
-        "constructionStatus": "Completed",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:39:58.719Z",
@@ -91,7 +91,8 @@
         "area": "Tindola",
         "pinCode": "226029",
         "location": "Deva Road, Kisan Path, Tindola, Lucknow",
-        "builderId": "69be9bddcf0d52217507ffdd"
+        "builderId": "69be9bddcf0d52217507ffdd",
+        "lenderName": []
       }
     ]
   },
@@ -427,7 +428,7 @@
         "name": "Aishbagh Heights",
         "district": "Lucknow",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:21.179Z",
@@ -451,7 +452,7 @@
         "location": "Kaliya Kheda Pyarepur, Lucknow, Uttar Pradesh",
         "lenderName": [],
         "builderId": "69be9bdecf0d52217507ffed",
-        "pinCode": "226002"
+        "pinCode": "226008"
       },
       {
         "_id": "69c0fe1c09b2489bdd1966a6",
@@ -590,7 +591,7 @@
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:47:38.469Z",
-        "area": "Kanpur Road",
+        "area": "Mansarovar",
         "location": "Sector-O, Mansarovar Scheme, Kanpur Road Yojna, Kanpur Road, Lucknow",
         "builderId": "69be9bdecf0d52217507ffed",
         "lenderName": [],
@@ -872,7 +873,8 @@
         "area": "Mansarovar",
         "pinCode": "226012",
         "location": "Mansarovar, Lucknow",
-        "builderId": "69be9bdecf0d52217507ffed"
+        "builderId": "69be9bdecf0d52217507ffed",
+        "lenderName": []
       },
       {
         "_id": "69c0fe6209b2489bdd1968e9",
@@ -2511,7 +2513,7 @@
         "name": "RUDRA AWADH RESIDENCY",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:28.160Z",
@@ -2526,14 +2528,14 @@
         "name": "Rudra Banke Bihari Residency",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:28.305Z",
         "builderId": "69be9be3cf0d52217508002c",
         "lenderName": [],
-        "area": "Shivpur",
-        "pinCode": "221003"
+        "area": "Lalpur Pandeypur",
+        "pinCode": "221002"
       },
       {
         "_id": "69c0ff8809b2489bdd196c22",
@@ -2541,14 +2543,14 @@
         "name": "Rudra Buddha Enclave",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:28.436Z",
         "builderId": "69be9be3cf0d52217508002c",
         "lenderName": [],
-        "area": "Shivpur",
-        "pinCode": "221106"
+        "area": "Asapur",
+        "pinCode": "221107"
       },
       {
         "_id": "69c0ff8809b2489bdd196c23",
@@ -2556,14 +2558,14 @@
         "name": "RUDRA LAXMIKUNJ",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:28.566Z",
         "builderId": "69be9be3cf0d52217508002c",
         "lenderName": [],
-        "area": "Shivpur",
-        "pinCode": "221003"
+        "area": " Paharia",
+        "pinCode": "221007"
       },
       {
         "_id": "69c0ff8809b2489bdd196c25",
@@ -2577,8 +2579,8 @@
         "scrapedAt": "2026-03-23T08:53:28.809Z",
         "builderId": "69be9be3cf0d52217508002c",
         "lenderName": [],
-        "area": "Shivpur",
-        "pinCode": "221003"
+        "area": "Sarnath",
+        "pinCode": "221007"
       },
       {
         "_id": "69c0ff8909b2489bdd196c27",
@@ -2586,14 +2588,14 @@
         "name": "RUDRA SAUBHAGYAM PHASE-1",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:29.052Z",
         "builderId": "69be9be3cf0d52217508002c",
         "lenderName": [],
-        "area": "Airport/Sarnath belt",
-        "pinCode": "221007"
+        "area": "Dhanesari/Luchchepur",
+        "pinCode": "221105"
       }
     ]
   },
@@ -4362,10 +4364,10 @@
       {
         "_id": "69c0feda09b2489bdd196b28",
         "reraRegNo": "UPRERAPRJ427068",
-        "name": "shri krisna tower",
+        "name": "SHREE KRISHNA TOWERS",
         "district": "Mirzapur",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:50:34.201Z",
@@ -10660,8 +10662,8 @@
         "scrapedAt": "2026-03-23T08:53:26.494Z",
         "builderId": "69c0f02609b2489bdd19526d",
         "lenderName": [],
-        "area": "Bijnor Road",
-        "pinCode": "226008"
+        "area": "Harhua/Kaazi Sarai",
+        "pinCode": "221105"
       },
       {
         "_id": "69c0ff8909b2489bdd196c2a",
@@ -10669,14 +10671,14 @@
         "name": "SAI GAON",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:29.450Z",
         "builderId": "69c0f02609b2489bdd19526d",
         "lenderName": [],
-        "area": "Bijnor Road",
-        "pinCode": "226008"
+        "area": " Kazi Sarai",
+        "pinCode": "221105"
       },
       {
         "_id": "69c0ff8a09b2489bdd196c35",
@@ -10690,8 +10692,8 @@
         "scrapedAt": "2026-03-23T08:53:30.840Z",
         "builderId": "69c0f02609b2489bdd19526d",
         "lenderName": [],
-        "area": "Bijnor Road",
-        "pinCode": "226008"
+        "area": " Harhua",
+        "pinCode": "221105"
       },
       {
         "_id": "69c0ff8a09b2489bdd196c36",
@@ -12031,8 +12033,8 @@
         "scrapedAt": "2026-03-23T08:45:45.016Z",
         "builderId": "69c0f02d09b2489bdd19528a",
         "lenderName": [],
-        "area": "Shivpuri Rd",
-        "pinCode": "284003"
+        "area": "Sadar Bazar",
+        "pinCode": "284001"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965c8",
@@ -14166,7 +14168,7 @@
         "builderId": "69c0f03c09b2489bdd1952bc",
         "lenderName": [],
         "area": "Lohamandi",
-        "pinCode": "221010"
+        "pinCode": "221002"
       },
       {
         "_id": "69c0ff8a09b2489bdd196c30",
@@ -16618,7 +16620,7 @@
         "scrapedAt": "2026-03-23T08:53:22.106Z",
         "builderId": "69c0f04b09b2489bdd1952f1",
         "lenderName": [],
-        "area": "Babatpur",
+        "area": " Babatpur",
         "pinCode": "221006"
       }
     ]
@@ -19661,7 +19663,7 @@
         "builderId": "69c0f05d09b2489bdd195336",
         "lenderName": [],
         "area": "Lalpur",
-        "pinCode": "242001"
+        "pinCode": "242405"
       },
       {
         "_id": "69c0ff3009b2489bdd196bc1",
@@ -22622,7 +22624,7 @@
         "builderId": "69c0f06c09b2489bdd195376",
         "lenderName": [],
         "area": "Taramandal",
-        "pinCode": "273010"
+        "pinCode": "273017"
       },
       {
         "_id": "69c0fd5809b2489bdd196544",
@@ -22636,8 +22638,8 @@
         "scrapedAt": "2026-03-23T08:44:08.653Z",
         "builderId": "69c0f06c09b2489bdd195376",
         "lenderName": [],
-        "area": "Deoria Bypass Road",
-        "pinCode": "273010"
+        "area": "Taramandal",
+        "pinCode": "273001"
       },
       {
         "_id": "69c0fd5809b2489bdd196545",
@@ -25604,7 +25606,7 @@
         "builderId": "69c0f07c09b2489bdd1953b8",
         "lenderName": [],
         "area": "Meri",
-        "pinCode": "244128"
+        "pinCode": "284128"
       },
       {
         "_id": "69c0fdba09b2489bdd1965a4",
@@ -25619,7 +25621,7 @@
         "builderId": "69c0f07c09b2489bdd1953b8",
         "lenderName": [],
         "area": "Meri",
-        "pinCode": "244128"
+        "pinCode": "284128"
       }
     ]
   },
@@ -28944,8 +28946,8 @@
         "scrapedAt": "2026-03-23T08:53:27.910Z",
         "builderId": "69c0f09209b2489bdd195409",
         "lenderName": [],
-        "area": "Darehku",
-        "pinCode": "221108"
+        "area": "Gangapur Road, Rohnia",
+        "pinCode": " 221302"
       }
     ]
   },
@@ -31442,8 +31444,8 @@
         "scrapedAt": "2026-03-23T08:51:27.547Z",
         "builderId": "69c0f09e09b2489bdd19543a",
         "lenderName": [],
-        "area": "Bilaspur",
-        "pinCode": "244921"
+        "area": "Dashmesh Nagar",
+        "pinCode": "244923"
       }
     ]
   },
@@ -37987,7 +37989,7 @@
         "_id": "69c0fe0109b2489bdd196675",
         "reraRegNo": "UPRERAPRJ10794",
         "name": "P D CITY MALL",
-        "district": "Kushinagar",
+        "district": "Kushi Nagar",
         "projectType": "Commercial",
         "constructionStatus": "Ready to Move",
         "validUntil": null,
@@ -40982,7 +40984,7 @@
         "builderId": "69c0f0d809b2489bdd195516",
         "lenderName": [],
         "area": "Mastara",
-        "pinCode": "244128"
+        "pinCode": "284128"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965c7",
@@ -40997,7 +40999,7 @@
         "builderId": "69c0f0d809b2489bdd195516",
         "lenderName": [],
         "area": "Mastara",
-        "pinCode": "244128"
+        "pinCode": "284128"
       },
       {
         "_id": "69c0fdbf09b2489bdd1965ca",
@@ -41376,8 +41378,8 @@
         "scrapedAt": "2026-03-23T08:51:43.073Z",
         "builderId": "69c0f0db09b2489bdd195520",
         "lenderName": [],
-        "area": "Baghau",
-        "pinCode": "244412"
+        "area": " Baghau",
+        "pinCode": "244414"
       }
     ]
   },
@@ -97138,7 +97140,7 @@
         "scrapedAt": "2026-03-23T08:51:27.202Z",
         "builderId": "69c0f21e09b2489bdd1959cb",
         "lenderName": [],
-        "area": "Rampur City",
+        "area": "Ajaipur",
         "pinCode": "244901"
       }
     ]
