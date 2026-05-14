@@ -1413,7 +1413,7 @@
         "name": "BIBHAB GRANDE 2",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:04.767Z",
@@ -2418,11 +2418,14 @@
         "name": "Ram Raghu Ananda",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:32.984Z",
-        "builderId": "69be9be3cf0d522175080028"
+        "builderId": "69be9be3cf0d522175080028",
+        "lenderName": [],
+        "area": "Sikandra",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6509b2489bdd195d96",
@@ -2430,11 +2433,14 @@
         "name": "Ram Raghu Ananda Phase 2",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:33.338Z",
-        "builderId": "69be9be3cf0d522175080028"
+        "builderId": "69be9be3cf0d522175080028",
+        "lenderName": [],
+        "area": "Sikandra",
+        "pinCode": "282007"
       },
       {
         "_id": "69c0fa6509b2489bdd195d97",
@@ -2442,11 +2448,14 @@
         "name": "Ram Raghu Palazzo",
         "district": "Agra",
         "projectType": "Commercial",
-        "constructionStatus": null,
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:33.577Z",
-        "builderId": "69be9be3cf0d522175080028"
+        "builderId": "69be9be3cf0d522175080028",
+        "lenderName": [],
+        "area": "Sikandra",
+        "pinCode": "282007"
       }
     ]
   },
