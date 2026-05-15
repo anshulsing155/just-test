@@ -12995,7 +12995,7 @@
         "builderId": "69c0f03309b2489bdd1952a0",
         "lenderName": [],
         "area": "Naimisharanya",
-        "pinCode": "261402"
+        "pinCode": "261001"
       }
     ]
   },
@@ -18150,7 +18150,7 @@
         "builderId": "69c0f05409b2489bdd195312",
         "lenderName": [],
         "area": "Akbar Ganj",
-        "pinCode": "261131"
+        "pinCode": "261001"
       }
     ]
   },
@@ -31457,7 +31457,7 @@
         "builderId": "69c0f09e09b2489bdd19543a",
         "lenderName": [],
         "area": "Dashmesh Nagar",
-        "pinCode": "244923"
+        "pinCode": "244901"
       }
     ]
   },
@@ -34210,14 +34210,14 @@
         "name": "MAYUR VIHAR",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:26.804Z",
         "builderId": "69c0f0ae09b2489bdd195473",
         "lenderName": [],
-        "area": "Mayur Vihar",
-        "pinCode": "281001"
+        "area": "Deori",
+        "pinCode": "282001"
       },
       {
         "_id": "69c0fea709b2489bdd196a42",
@@ -37935,8 +37935,8 @@
         "scrapedAt": "2026-03-23T08:31:17.116Z",
         "builderId": "69c0f0c409b2489bdd1954ca",
         "lenderName": [],
-        "area": "Rohta",
-        "pinCode": "282009"
+        "area": "Shastripuram",
+        "pinCode": "282007"
       }
     ]
   },
@@ -53229,7 +53229,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224001"
+        "pinCode": "224123"
       },
       {
         "_id": "69c0fab209b2489bdd195dd5",
@@ -53244,7 +53244,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224001"
+        "pinCode": "224135"
       },
       {
         "_id": "69c0fab209b2489bdd195dd6",
@@ -53259,7 +53259,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224001"
+        "pinCode": "224123"
       },
       {
         "_id": "69c0fab209b2489bdd195dd7",
@@ -53274,7 +53274,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224001"
+        "pinCode": "224123"
       }
     ]
   },
@@ -65138,8 +65138,8 @@
         "scrapedAt": "2026-03-23T08:32:49.434Z",
         "builderId": "69c0f18309b2489bdd19578b",
         "lenderName": [],
-        "area": "Haripur Jalalabad",
-        "pinCode": "224001"
+        "area": "Haripur ",
+        "pinCode": "224123"
       }
     ]
   },
