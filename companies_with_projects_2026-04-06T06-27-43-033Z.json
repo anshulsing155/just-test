@@ -219,7 +219,8 @@
         "area": "Sector 2C",
         "pinCode": "201012",
         "location": "Plot No. 2, Sector 2C, Vasundhara, Ghaziabad, Uttar Pradesh - 201012",
-        "builderId": "69be9bdecf0d52217507ffe3"
+        "builderId": "69be9bdecf0d52217507ffe3",
+        "lenderName": []
       }
     ]
   },
@@ -256,7 +257,8 @@
         "area": "Gosainganj",
         "pinCode": "226501",
         "location": "Khasra No. 73-74, Halwasiya Shivlar Sambandh, Shivlar, New Jail Road, Lucknow, Uttar Pradesh, 226501",
-        "builderId": "69be9bdecf0d52217507ffe5"
+        "builderId": "69be9bdecf0d52217507ffe5",
+        "lenderName": []
       },
       {
         "_id": "69c0fe4909b2489bdd196817",
@@ -404,7 +406,8 @@
         "area": "Rashmi Khand",
         "pinCode": "226001",
         "location": "Rashmi Khand, Lucknow, Uttar Pradesh, 226001",
-        "builderId": "69be9bdecf0d52217507ffed"
+        "builderId": "69be9bdecf0d52217507ffed",
+        "lenderName": []
       },
       {
         "_id": "69c0fe1709b2489bdd196681",
@@ -1605,7 +1608,7 @@
         "builderId": "69be9be0cf0d52217507ffff",
         "lenderName": [],
         "area": "Gomti Nagar Extension",
-        "pinCode": "226010"
+        "pinCode": " 226002"
       },
       {
         "_id": "69c0fe5a09b2489bdd1968a0",
@@ -2841,8 +2844,8 @@
         "scrapedAt": "2026-03-23T08:48:03.476Z",
         "builderId": "69be9be4cf0d522175080034",
         "lenderName": [],
-        "area": "IIM Road",
-        "pinCode": "226013"
+        "area": "Mubarakpur ",
+        "pinCode": "226020"
       }
     ]
   },
@@ -14406,8 +14409,8 @@
         "scrapedAt": "2026-03-23T08:31:23.969Z",
         "builderId": "69c0f03d09b2489bdd1952bf",
         "lenderName": [],
-        "area": "Agra outskirts",
-        "pinCode": "282007"
+        "area": " Rahan Kalan",
+        "pinCode": "282002"
       },
       {
         "_id": "69c0fa5f09b2489bdd195d7b",
@@ -14430,13 +14433,13 @@
         "name": "Shashtripuram Tower",
         "district": "Agra",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:31:37.223Z",
         "builderId": "69c0f03d09b2489bdd1952bf",
         "lenderName": [],
-        "area": "Shastripuram",
+        "area": "Sikandra",
         "pinCode": "282007"
       },
       {
