@@ -741,7 +741,7 @@
         "location": "Devpur Para, Lucknow, Uttar Pradesh",
         "builderId": "69be9bdecf0d52217507ffed",
         "lenderName": [],
-        "pinCode": "226011"
+        "pinCode": "226017"
       },
       {
         "_id": "69c0fe5009b2489bdd196852",
@@ -756,7 +756,8 @@
         "area": "Mohanlalganj",
         "pinCode": "226301",
         "location": "Mohanlalganj, Lucknow, Raebareli Road, Lucknow",
-        "builderId": "69be9bdecf0d52217507ffed"
+        "builderId": "69be9bdecf0d52217507ffed",
+        "lenderName": []
       },
       {
         "_id": "69c0fe5309b2489bdd19686a",
@@ -1066,7 +1067,8 @@
         "area": "Sector H, LDA Colony",
         "location": "Sector H, LDA Colony, Kanpur Road Yojna, Bijnor Road, Lucknow",
         "pinCode": "226012",
-        "builderId": "69be9bdecf0d52217507ffed"
+        "builderId": "69be9bdecf0d52217507ffed",
+        "lenderName": []
       },
       {
         "_id": "69c0fe6609b2489bdd196909",
@@ -4385,7 +4387,7 @@
         "scrapedAt": "2026-03-23T08:50:34.201Z",
         "builderId": "69c0f00409b2489bdd1951f0",
         "lenderName": [],
-        "area": "Mirzapur City",
+        "area": " Kantit",
         "pinCode": "231001"
       },
       {
@@ -4400,7 +4402,7 @@
         "scrapedAt": "2026-03-23T08:50:34.314Z",
         "builderId": "69c0f00409b2489bdd1951f0",
         "lenderName": [],
-        "area": "Mirzapur City",
+        "area": " Baraundha ",
         "pinCode": "231001"
       }
     ]
@@ -5294,7 +5296,7 @@
         "builderId": "69c0f00809b2489bdd1951fe",
         "lenderName": [],
         "area": "Jamalpur",
-        "pinCode": "202001"
+        "pinCode": "202002"
       },
       {
         "_id": "69be9c2dcf0d5221750800ae",
@@ -11344,7 +11346,7 @@
         "builderId": "69c0f02909b2489bdd19527a",
         "lenderName": [],
         "area": "Jagrati Vihar",
-        "pinCode": "250002"
+        "pinCode": "250004"
       },
       {
         "_id": "69c0fec509b2489bdd196abd",
@@ -17846,14 +17848,14 @@
         "name": "ANAND GOOBA GARDEN T1",
         "district": "Kanpur Nagar",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:46:18.322Z",
         "builderId": "69c0f05209b2489bdd19530c",
         "lenderName": [],
-        "area": "Sitapur",
-        "pinCode": "261001"
+        "area": "Kalyanpur",
+        "pinCode": "208017"
       },
       {
         "_id": "69c0fdda09b2489bdd1965f8",
@@ -33993,7 +33995,7 @@
         "scrapedAt": "2026-03-23T08:53:09.809Z",
         "builderId": "69c0f0ad09b2489bdd19546f",
         "lenderName": [],
-        "area": "Unnao",
+        "area": "Unnao city",
         "pinCode": "209801"
       }
     ]
@@ -53259,7 +53261,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224123"
+        "pinCode": " 272129"
       },
       {
         "_id": "69c0fab209b2489bdd195dd7",
@@ -89373,7 +89375,7 @@
         "builderId": "69c0f1ef09b2489bdd19591e",
         "lenderName": [],
         "area": "Trans Ganga City",
-        "pinCode": "209801"
+        "pinCode": " 209861"
       }
     ]
   },
