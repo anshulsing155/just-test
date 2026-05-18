@@ -6584,7 +6584,7 @@
         "name": "TRIDEV KUNJ",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:34.947Z",
@@ -6599,7 +6599,7 @@
         "name": "TRIDEV RESIDENCY",
         "district": "Varanasi",
         "projectType": "Residential",
-        "constructionStatus": "Under Construction",
+        "constructionStatus": "Ready to Move",
         "validUntil": null,
         "certificateUrl": null,
         "scrapedAt": "2026-03-23T08:53:35.078Z",
@@ -15190,7 +15190,7 @@
         "builderId": "69c0f04209b2489bdd1952d0",
         "lenderName": [],
         "area": "Joya",
-        "pinCode": "244221"
+        "pinCode": "244222"
       }
     ]
   },
@@ -41393,7 +41393,7 @@
         "builderId": "69c0f0db09b2489bdd195520",
         "lenderName": [],
         "area": " Baghau",
-        "pinCode": "244414"
+        "pinCode": "244410"
       }
     ]
   },
@@ -53231,7 +53231,7 @@
         "builderId": "69c0f12909b2489bdd195642",
         "lenderName": [],
         "area": "Tihura Manjha",
-        "pinCode": "224123"
+        "pinCode": "224135"
       },
       {
         "_id": "69c0fab209b2489bdd195dd5",
@@ -69956,7 +69956,7 @@
         "_id": "69c0ff0709b2489bdd196b9b",
         "reraRegNo": "UPRERAPRJ16025",
         "name": "GREEN INDIA BIOTECH FORESTRY LIMITED",
-        "district": "Raebareli",
+        "district": "Rae Bareli",
         "projectType": "Residential",
         "constructionStatus": "Ready to Move",
         "validUntil": null,
@@ -70497,7 +70497,7 @@
         "scrapedAt": "2026-03-23T08:33:50.724Z",
         "builderId": "69c0f1a609b2489bdd195812",
         "lenderName": [],
-        "area": "Barabanki UPAVP Scheme",
+        "area": "Nawabganj",
         "pinCode": "225001"
       },
       {
@@ -70978,7 +70978,7 @@
         "builderId": "69c0f1a609b2489bdd195812",
         "lenderName": [],
         "area": "Sector 9, Siddharth Vihar",
-        "pinCode": "201010"
+        "pinCode": "201009"
       },
       {
         "_id": "69c0fcde09b2489bdd1963af",
